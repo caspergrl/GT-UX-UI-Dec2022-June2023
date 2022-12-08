@@ -296,7 +296,7 @@ UX is about examining and coordinating business needs, user needs, and resources
 
 - Emotional intelligence (aka emotional quotient, or EQ) is the ability to understand, use, and manage your own emotions in positive ways to relieve stress, communicate effectively, empathize with others, overcome challenges, and defuse conflict.
 
-**information_source: TAs please Slack out** [Why a UX Designer Needs High Emotional Intelligence](https://medium.com/@asukakondo/why-ux-designer-needs-high-emotional-intelligence-bdba0135a9f8).
+**:information_source: TAs please Slack out** [Why a UX Designer Needs High Emotional Intelligence](https://medium.com/@asukakondo/why-ux-designer-needs-high-emotional-intelligence-bdba0135a9f8).
 
 ## SLIDES 16-17
 Review
@@ -334,7 +334,7 @@ You will learn the necessary hard skills to be effective UX/UI designers. Howeve
 ## SLIDE 20
 - Optimism is the key. After 15 years of study, Harvard Business School discovered the key to success: optimism. The stress of career change plus work and family life can make us feel depressed, anxious, or even helpless. By adopting a positive mental attitude, we’ll see failures as mere steppingstones on the path to success. 
 
-**information_source: TAs please Slack out** a link to [HBR's On Mental Toughness.](https://www.amazon.com/Toughness-interview-Post-Traumatic-Building-Resilience/dp/1633694364)
+**:information_source: TAs please Slack out** a link to [HBR's On Mental Toughness.](https://www.amazon.com/Toughness-interview-Post-Traumatic-Building-Resilience/dp/1633694364)
 
 
 ## SLIDE 21
@@ -354,7 +354,7 @@ Questions??
 ## SLIDE 22
 ## 6. Student Do: Software Check Activity (5 min)
 
-**TAs,** send the following to students on Slack:
+**:information_source: TAs please Slack out**  send the following to students on Slack:
 
 - Software Check [01-Week/02-Activities/01.1/01.1-00-Software Check Google Doc](https://docs.google.com/document/d/1CrvAIK1M8gWb5epC15MvL0ChYrJ0QQgYnRXAQHbNBUA/edit?usp=sharing) to students on Slack.
 
@@ -536,7 +536,7 @@ The design thinking process yields great products. To illustrate, share the Pill
 
 - PillPack is an online pharmacy that began as a startup-in-residence at IDEO Cambridge. Working with designers and using a human-centered approach, PillPack refined its brand vision, strategy, and identity across channels. Encourage students to read the [case study](https://www.ideo.com/case-study/this-startup-revolutionized-an-industry-through-design) describing how PillPack did it. By all accounts, the initiative was successful. *Time magazine* named PillPack one of the best inventions of 2014, and Amazon bought PillPack for $1 billion in 2018.
 
-**information_source: TAs please Slack out** the links into the #resources channel for students to read at home:
+**:information_source: TAs please Slack out** the links into the #resources channel for students to read at home:
 
   - [https://www.ideo.com/case-study/this-startup-revolutionized-an-industry-through-design](https://www.ideo.com/case-study/this-startup-revolutionized-an-industry-through-design)
 
@@ -561,7 +561,7 @@ Review
     - He is a German industrial designer and retired academic who designed consumer products for Braun.
     - He is famous for inspiring Apple designer Jony Ive, who designed the iPod.
 
-**information_source: TAs please Slack out** Rams’s [10 Principles for Good Design](https://readymag.com/shuffle/dieter-rams/) for students to read later. 
+**:information_source: TAs please Slack out** Rams’s [10 Principles for Good Design](https://readymag.com/shuffle/dieter-rams/) for students to read later. 
 
 ## SLIDE 49
 Research is the first step in the UX design process. Without it, our work can only be based on our own experiences and assumptions, which are not objective.
@@ -793,7 +793,7 @@ Before we create a proto-persona, let's review a tool we'll use today: Miro, a f
 ## SLIDES 67-68
 ## 14. Instructor Do: Proto-Personas Group Activity (20 min)
 
-**information_source: TAs please Slack out** [01-Week/02-Activities/01.1/01.1-02-Proto Persona Google Doc](https://docs.google.com/document/d/17ScGY1qoGP4L5OTLjKlr_IZdVOCNdvg5wJbduod1KyY/edit?usp=sharing).
+**:information_source: TAs please Slack out** [01-Week/02-Activities/01.1/01.1-02-Proto Persona Google Doc](https://docs.google.com/document/d/17ScGY1qoGP4L5OTLjKlr_IZdVOCNdvg5wJbduod1KyY/edit?usp=sharing).
 
 **Summary**
 
@@ -922,19 +922,19 @@ Five interviews can identify 80% of themes within a data set.
 
 - NN/g suggests that five usability test subjects will yield 80% of the problems, and many have associated that testing with the Pareto Principle or the 80/20 rule.
 
-**information_source: TAs please Slack out**:
+**:information_source: TAs please Slack out**:
 
   - [Why You Only Need to Test With 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
   - [The Pareto Principle and How to Be More Effective](https://www.interaction-design.org/literature/article/the-pareto-principle-and-how-to-be-more-effective)
 
 - Authors Greg Guest, Arwen Bunce, and Laura Johnson conducted an ethnographic study that concluded it created 97% of its research codes within 12 interviews and 94% in the first six.
 
-**information_source: TAs please Slack out** 
+**:information_source: TAs please Slack out** 
   - [How Many Interviews Are Enough? An Experiment With Data Saturation and Variability](https://journals.sagepub.com/doi/abs/10.1177/1525822X05279903)
 
 - In a Voice of the Customer paper, lead author Stephen Gaskin recommended 10 to 30 interviews that produce 75 to 150 statements from customers.
 
-**information_source: TAs please Slack out** 
+**:information_source: TAs please Slack out** 
   - [Voice of the Customer](http://www.mit.edu/~hauser/Papers/Gaskin_Griffin_Hauser_et_al%20VOC%20Encyclopedia%202011.pdf)
 
 ## SLIDE 73
@@ -969,7 +969,7 @@ Five interviews can identify 80% of themes within a data set.
 
   - The Five Whys, invented by Taiichi Ohno and Sakichi Toyoda, was created for getting to the root cause of problems in Toyota’s factories.
 
-**information_source: TAs please Slack out** 
+**:information_source: TAs please Slack out** 
   - [Five Whys: The Ultimate Root Cause Analysis Tool](https://kanbanize.com/lean-management/improvement/5-whys-analysis-tool/)
 
 ## SLIDE 75
