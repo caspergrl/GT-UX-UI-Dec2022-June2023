@@ -241,7 +241,7 @@ UX professionals should consider the why, what, and how of using a product.
 
 - *What* is about the product's functionality. What can users do with the product?
 
-- *How* is about the design of functionality in an accessible and creative way.
+- *How* is about the design of functionality in an accessible and creative way that also meets the needs of the business.
 
 
 ## SLIDE 7
