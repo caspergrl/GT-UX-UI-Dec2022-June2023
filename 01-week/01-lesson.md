@@ -285,16 +285,15 @@ Today, being an designer means bringing the team together, checking all egos at 
 _Review quote from David Kim_
 
 ## SLIDE 14
-**There are many roles on UX teams.**
+Review
 
-The UX field is vast, and many specializations occur in the field. During this boot camp, students should try to identify their passions. Share your experience working with the different roles we encounter in the UX field.
 
 ## SLIDE 15
 **Emotional intelligence is a must-have skill for designers.**
 
-UX is about examining and coordinating business needs, user needs, and resources to get the best possible solution. To do well in UX, we need to empathize with everyone involved. A UX designer needs to be fluent in everything from business to technology to design, yet be an advocate for users.
+UX is about examining and coordinating business needs, user needs, and resources to get the best possible solution. To do well in UX, we need to empathize with everyone involved. **A UX designer needs to be fluent in everything from business to technology to design, yet be an advocate for users. Particularly true for Product Designers**
 
-- Emotional intelligence (aka emotional quotient, or EQ) is the ability to understand, use, and manage your own emotions in positive ways to relieve stress, communicate effectively, empathize with others, overcome challenges, and defuse conflict.
+- Emotional intelligence (aka emotional quotient, or EQ) is the ability to understand, use, and manage your own emotions in positive ways to relieve stress, communicate effectively, empathize with others, overcome challenges, and defuse conflict. There is a great deal of negotiation, politicking and people management.
 
 **:information_source: TAs please Slack out** [Why a UX Designer Needs High Emotional Intelligence](https://medium.com/@asukakondo/why-ux-designer-needs-high-emotional-intelligence-bdba0135a9f8).
 
@@ -302,17 +301,7 @@ UX is about examining and coordinating business needs, user needs, and resources
 Review
 
 ## SLIDE 18
-Throughout this boot camp, you will gain a number of skills, including:
-
-- Design thinking, UX, and human-centered design research methods
-- User research
-- Interaction design
-- Information architecture
-- UI design
-- Visual design
-- UI branding
-- Front-end web design
-- Responsive web design (RWD)
+Throughout this boot camp, you will gain a number of skills, including (_REVIEW SLIDE THEN_)...   
 
 You will learn the necessary hard skills to be effective UX/UI designers. However, your biggest challenge will be developing the critical soft skills of design, including but not limited to:
 
@@ -334,22 +323,14 @@ You will learn the necessary hard skills to be effective UX/UI designers. Howeve
 ## SLIDE 20
 - Optimism is the key. After 15 years of study, Harvard Business School discovered the key to success: optimism. The stress of career change plus work and family life can make us feel depressed, anxious, or even helpless. By adopting a positive mental attitude, we’ll see failures as mere steppingstones on the path to success. 
 
+- ALSO - ASK MYSELF AND YOUR TAS questions!! If you're uncertain about something - don't wait! Particularly when we go into breakout rooms. Ask!!
+
 **:information_source: TAs please Slack out** a link to [HBR's On Mental Toughness.](https://www.amazon.com/Toughness-interview-Post-Traumatic-Building-Resilience/dp/1633694364)
 
 
 ## SLIDE 21
 Questions??
 
-
-> **Say, “Raise your hand if you want a new job!**”
-
-- Let students know that before they can get a new job, *the UX/UI Boot Camp will be their new job.*
-
-- Students should expect a lot from themselves—this is called boot camp for a reason.
-
-- Remind them that you’ll be with them every step of the way and that they're not doing this alone.
-
-- Tell them that you were a beginner once, just like they are now. Tell them that deep learning takes time and dedication, but that they can do it. They were selected for this program because we know they have what it takes.
 
 ## SLIDE 22
 ## 6. Student Do: Software Check Activity (5 min)
@@ -393,8 +374,7 @@ At the end of this activity, all students will have installed the tools and ente
 >***Note:*** During this activity, share a copy of the [01.1-00-UX/UI-Bootcamp-Figma-Email-Sign-Up](https://docs.google.com/spreadsheets/d/1_1q5tdDgnszZ71dXONpOWFQ0hx9_XbSutCFFcxtuAmU/edit?usp=sharing) to gather students' account emails for Figma. You will use these emails to invite your students to your [Class' Figma Team](https://docs.google.com/document/d/11ZZWyG2joIb0FqjJWIXyf5kNDcg3P9Ol8BLLW9GWeSI/edit?usp=sharing).
 
 ## SLIDE 23
-## 7. Break (10 min)
-
+BREAK
 
 ## SLIDE 24
 Review
@@ -402,7 +382,7 @@ Review
 ## SLIDE 25
 Class sessions are structured on a workshop model approach to learning. Hands-on learning encourages us to take charge of our learning, become active and engaged in our work, and develop a deep understanding of design concepts.
 
-Students are expected to bring pens, pencils, paper, and sticky notes to every class.
+It's recommended that you bring are expected to bring pens, pencils, and paper to every class as we'll do some sketching.
 
 ## SLIDE 26
 **The 24-week UX/UI Boot Camp has three parts:**
@@ -415,7 +395,7 @@ Students are expected to bring pens, pencils, paper, and sticky notes to every c
 **You will build employer-competitive design portfolios that will help you jobs.** However - you won't always have time to really perfect these - many students go back at the end of class and polish later. Getting the core concepts down is more important. **Perfect is the enemy of good**
 
 ## SLIDES 28
-In-class activities, the six big projects, and the weekly Challenge assignments are all designed to help you build a UX/UI design portfolio. As a UX designer, your portfolio will be the most valuable asset you have in your job hunt. Companies today will not consider you without a professional portfolio.
+In-class activities, the six big projects, and the weekly Challenge assignments are all designed to help you build a UX/UI design portfolio, one of the most valuable assets you have in your job hunt. Companies today will not consider you without a professional portfolio.
 
 **Six Student Projects**
 - iOS Mobile App | Weeks 1–4
@@ -438,10 +418,10 @@ Review
 Review slide and then touch on Zoom etiquette - 
   **Best Practice 1. Always mute your mic.**
     - If you're not speaking, put yourself on mute.
-  **Best Practice 2: Use your first and last name for the screen username.**
+  **Best Practice 2: Use your first and last name for the screen username AS WELL AS PREFERRED PRONOUNS.**
     - Help everyone get to know you by including your name.
-  **Best Practice 3: Keep your video on.**
-    - Be present during the online class—this includes showing your face.
+  **Best Practice 3: Keep your video on and stay focused!**
+    - Be present during the online class—this includes showing your face. Many companies require this in remote positions and it's easier to avoid checking out.
   **Best Practice 4: Raise your hand in Zoom or use Slack.**
     - Don't interrupt a lecture; use the raise hands feature in Zoom or ask the question via Slack.
     - Remind students that you and the TA will circle back to answer questions.
@@ -465,7 +445,7 @@ Review
 
 1. What it is:
 
-    - Design thinking is a five-step problem-solving process. It is iterative, flexible, and focused on collaboration between designers and users.
+    - Design thinking is a five-step problem-solving process. It is iterative, flexible, and focused on collaboration between designers, stakeholders and users.
 
 2. When it is used:
 
@@ -476,6 +456,7 @@ Review
       - To create designs that are relevant to your users
       - To create designs that are easy and enjoyable to use
       - To understand the return on investment of your UX design
+      - That we're actually adding value!
 
 ## SLIDES 37-39
 **Design thinking has five steps.**
@@ -490,51 +471,36 @@ Review
 
 - **Test** your prototypes until a viable product or service is created.
 
+Notice the two diamond shapes here? Double diamond model is another common approach to solving design problems. Both it and design thinking accomplish the same results.
 
 ## SLIDE 40
-UX designers should always build products on the foundation of user research, following the stages of the design thinking process:
-
-1. Empathize:
-
-   - Designers learn about their users.
-   - The key is to feel what users feel—their pains and frustrations.
-   - Designers aren’t users—they have to get to know users objectively.
+Review
 
 ## SLIDE 41
-2. Define:
-
-   - Designers will often use a problem statement to frame a user’s problem and provide context.
-   - For example, a user needs a mobile app to order a cab and conduct a background check to vet the driver.
-   - Framing problems is essential so that we can create useful solutions and explore opportunities.
+Review
 
 ## SLIDE 42
-3. Ideate:
-
    - Think "ideas" when you think of the ideation stage.
-   - Designers use brainstorming to generate ideas and solutions.
+   - Designers use brainstorming or ideation to generate ideas and solutions.
    - The output of this phase are ideas that can be prototyped.
+   - Don't be afraid to sketch first - doesn't have to be perfect!
+   - Collaborate with others!
 
 ## SLIDE 43
-4. Prototype:
-
    - This stage brings possible solutions into sharper focus.
-   - Different methods are involved, such as sketching and prototyping.
-   - The main goal is to create rough drafts of solutions to determine if they will help solve the problem.
+   - Different methods are involved, such as creating user flows, sketching and prototyping.
+   - The main goal is to create rough drafts of solutions to determine if they will help solve the problem or to get feedback
+   - Build high fidelity prototypes only when testing UI such as color and imagery
+  
 
 ## SLIDE 44
-5. Test:
-
+   - MVP... MLP... MVC... companies refer to this in different ways but the goal is to test the smallest amount of value you can test first to move the work forward with some degree of confidence and to reduce risk
    - Testing is the final stage of designing a solution.
    - Testing is *iterative*, so it involves testing, adjusting, and testing again.
 
-> :briefcase: **Employer Competitive Note:** The design thinking process is absolutely necessary for every project professionals work on. The process sets clear expectations, puts clients at ease, and decreases the risk of failure. Add design thinking to your resume and LinkedIn skills profile.
 
 ## SLIDE 45
-**Case Study: Using Design Thinking to Disrupt Medicine**
-
-The design thinking process yields great products. To illustrate, share the PillPack case study:
-
-- PillPack is an online pharmacy that began as a startup-in-residence at IDEO Cambridge. Working with designers and using a human-centered approach, PillPack refined its brand vision, strategy, and identity across channels. Encourage students to read the [case study](https://www.ideo.com/case-study/this-startup-revolutionized-an-industry-through-design) describing how PillPack did it. By all accounts, the initiative was successful. *Time magazine* named PillPack one of the best inventions of 2014, and Amazon bought PillPack for $1 billion in 2018.
+Here's a case study of a startup that used design thinking to disrupt the med-tech industry. The TAs will share a link to the study if you'd like to review in your own time or you can find it in the presenters notes of the deck.
 
 **:information_source: TAs please Slack out** the links into the #resources channel for students to read at home:
 
@@ -557,58 +523,55 @@ Questions
 Review
 
 ## SLIDE 48
-**Review Dieter Rams’s quote**: *“You cannot understand good design if you do not understand people; design is made for people.”*
+**Review Dieter Rams’s quote FAST**: *“You cannot understand good design if you do not understand people; design is made for people.”*
     - He is a German industrial designer and retired academic who designed consumer products for Braun.
     - He is famous for inspiring Apple designer Jony Ive, who designed the iPod.
 
 **:information_source: TAs please Slack out** Rams’s [10 Principles for Good Design](https://readymag.com/shuffle/dieter-rams/) for students to read later. 
 
 ## SLIDE 49
-Research is the first step in the UX design process. Without it, our work can only be based on our own experiences and assumptions, which are not objective.
+Research is the first step in the UX design process. Without it, our work can only be based on our own experiences and assumptions (or those of our stakeholders), which are not objective.
 
-- Design research underpins and supports the entire design thinking process. Design research applies qualitative and quantitative metrics and takeaways to problem solving. It fully leverages the empathize phase and incorporates user feedback.
+Design research applies qualitative and quantitative metrics and takeaways to problem solving. It fully leverages the empathize phase and incorporates user feedback.
 
 **User Research Overview**
 
 1. What it is:
 
-    - All user research has in common is that it helps place people at the center of your design process and products.
+    - All user research is intended to place people at the center of your design process and products.
 
-    - User research is about understanding users, who will always provide insights.
+    - User research is about understanding users, their goals, needs, motivations, pains and challenges.
 
-    - User research uses qualitative and quantitative methods, including interviews, contextual inquiries, diary studies, personas, card sorting, and usability testing.
+    - User research can be conducted in many ways including:
+        - interviews, contextual inquiries, diary studies, personas, card sorting, and usability testing.
 
     - Designing for users means learning everything we can about them  and iteratively testing our work with them throughout the design process.
 
-2. When it is used:
+2. We use it when we need to
 
     - Test designs to validate an iteration
 
     - Build a new feature
 
-    - Understand who is the user
+    - Understand who is the user and/or their problem
 
     - Conduct user interviews
 
 3. Why it matters:
 
-    - To create designs that are truly relevant to your users
-
-    - To create designs that are easy and pleasurable to use
+    - To create products that are useful and usable to the user, as well as provide a return on investment for the business
 
     - To understand the ROI of your UX design
 
 ## SLIDE 50
-**User researchers own the empathize phase.**
+**User researchers (IDEALLY) own the empathize phase - NOT ALWAYS.**
 
-- UX researchers gather insights into users’ needs.
-
-- A dedicated researcher minimizes guesswork or groundless assumptions.
+- Many companies these days place this on the product manager plus a researcher. Sometimes design is included early and sometimes they're not - I encourage you all to strive to be involved as early as possible in these decisions in your UX roles.
 
 - You'll work with designers, product managers, developers, and engineers to create an experience that connects with their audience.
 
 ## SLIDE 51
-Erin Sanders at Frog Design created the research learning spiral. The first two steps entail forming questions and establishing a hypothesis. The last three steps entail gathering knowledge through selected UX research methods.
+Erin Sanders at Frog Design created this research learning spiral. The first two steps entail forming questions and establishing a hypothesis. The last three steps entail gathering knowledge through selected UX research methods.
 
 1. **Objectives:** Determine the knowledge gaps we need to fill.
 
@@ -636,7 +599,7 @@ Review
 
     - A persona (also user persona, customer persona, buyer persona, or proto-persona) in user-centered design is a fictional character created to represent a user type.
 
-    - Proto-personas are an ad hoc, non-research-backed articulation of a customer archetype. Proto-personas are used as a starting point. It is the role of the researchers to validate or invalidate the proto-persona.
+    - Proto-personas are an ad hoc, non-research-backed articulation of a customer archetype. Proto-personas are used as a starting point. It is the role of the researchers to validate or invalidate the proto-persona. UNLIKE user personas which are backed by DATA, proto personas are hypothetical.
 
 2. When it is used:
 
@@ -650,35 +613,8 @@ Review
 
     - Proto-personas provide small companies and startups a faster alternative to more traditional methods.
 
-## SLIDE 56
-**There are four steps for creating a proto-persona:**
-
-1. Humanize your user with a name, age, and stick-figure drawing.
-
-## SLIDE 57
-2. Define the demographics (e.g., family status, income, location, devices owned, personality traits, etc.).
-
-## SLIDE 58
-3. Add user needs and goals by answering:
-
-    - What is your user trying to accomplish?
-    - Why does your user need to do this?
-    - How important are these needs or goals?
-
-## SLIDE 59
-4. Define the pain points by answering:
-
-    - What is your user not able to accomplish?
-    - When does your user get frustrated?
-    - How is your user feeling?
-
-## SLIDE 60
-5. Review & Iterate your proto-persona
-
-    - Add a key (user needs, user goals, pain points, frustrations, solutions)
-    - How authentic is your user?
-    - Clean up/remove stereotypes
-    - Share with your team
+## SLIDES 56-60
+Review
 
 To summarize, user research is a designer's bridge to the user's needs and desires. Proto-personas bring users to life. Students will build countless proto-personas during their career, as well as in this boot camp. Next, the students will practice.
 
@@ -892,11 +828,9 @@ Review
 
 1. What it is:
 
-    - User interviews are a UX research method that provides insight into what users think about product or process. They help identify what users perceive as important on the site or what users think would make for an improved product.
+    - Qualitative research methods that provides insight into what users think about product or process. They help identify what users perceive as important on the site or what users think would make for an improved product.
 
-    - They are a quick and easy way to collect user data. They are often used in lean and agile environments.
-
-2. When it is used:
+2. When they are done:
 
     - At any point in the design process (to help inform user personas, journey maps, and ideas for site features or workflow).
 
@@ -907,10 +841,6 @@ Review
 3. Why it matters:
 
     - Interviews provide insight into what users think about a product or process. They can point out what on the site is significant, what users feel is important, and what ideas for improvement they may have.
-
-> :gem: **Designer Insight:** Share how user interviews play a role in your work.
->
-> - Alternatively, invite a TA to share.
 
 
 ## SLIDE 72
@@ -973,11 +903,7 @@ Five interviews can identify 80% of themes within a data set.
   - [Five Whys: The Ultimate Root Cause Analysis Tool](https://kanbanize.com/lean-management/improvement/5-whys-analysis-tool/)
 
 ## SLIDE 75
-- The Five Whys Method prompts you to ask “Why?” so a user can explain further.
-
-- Each “Why?” nudges the user to reevaluate a position and delve deeper into the reasoning.
-
-- At first, it might seem odd to keep asking “why,” but it yields great insights while searching for the root causes of behaviors.
+Review slide
 
 > :briefcase: **Employer Competitive Note:** The technique of asking questions and getting to the root of problems is a key skill in UX. Add the Five Whys Method to your resume and LinkedIn skills profile and practice over time.
 
@@ -985,28 +911,22 @@ Five interviews can identify 80% of themes within a data set.
 Review
 
 ## SLIDE 77
-**Case Study: Five Whys Example**
+Let's say you work for Amazon and a user tells you that they want to be able to create a wish list of items (already exists but let's say it didn't):
+- **why?** : "to save items I like"... but Favoriting is saving, so...  
+- **why this vs Favoriting?** : to group items together...   
+- **why group them?** : to categorize them for events like holidays and birthdays...  
+- **why does that matter?** : so I have a list to share with friends and family... 
+- **why does that matter?** : so we can collaborate on gifts with one another virtually because we all live in different places and want to be sure we buy the right things
 
-In this example, we can visualize how we might use the Five Whys Method to understand a real-world problem better.
+The root is that this group of friends and family do not live near one another and need a way to collaborate on gifts for various events. There are many ways this could potentially be solved - ONE possible way could be the wish list of items.
 
-Problem statement: You're on your way home from work, and your car stops in the middle of the road.
-
-1. Why did your car stop? Because it ran out of gas.
-
-2. Why did it run out of gas? Because I didn’t buy any gas on my way to work.
-
-3. Why didn’t you buy any gas this morning? Because I didn’t have any money.
-
-4. Why didn’t you have any money? Because I lost it all last night in a poker game.
-
-5. Why did you lose your money in last night’s poker game? Because I’m not very good at “bluffing” when I don’t have a good hand.
 
 
 ## SLIDE 78
 Questions??
 
 ## SLIDES 79-80
-## 17. Student Do: Five Whys Activity (15 min)
+## 17. Student Do: Five Whys Activity (10 min)
 **TAs please Slack out** the [01-Week/02-Activities/01.1/01.1-03-5 Why Method Google Doc](https://docs.google.com/document/d/1nBx0z8zNHRX6M17wmfyHPZo771ujC-Cs0sZdOw0ejhw/edit?usp=sharing) to students.
 
 **Summary**
