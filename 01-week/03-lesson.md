@@ -140,19 +140,29 @@ The tools students will learn today are ones they'll regularly use as designers�
 **Welcome to the Define Phase**
 The class learned to gather data and lead user interviews in the last class. Now it's time to focus on what to do with all of that user research and data.
 
+
+
+## SLIDES 1-4
+Review
+
+## SLIDE 5
 During the *define phase* of the design thinking process, designers develop valuable insights by analyzing all the data they collected during the *empathy/research phase*.
 
 - *In the define phase, you analyze pain points and define the user and their problem. Remember, design thinking is not a linear process but a series of cycles, and the process folds back on itself as needed.*
 
-- **1. Empathize phase**: In the empathize phase, students engage in user research by designing proto-personas and developing empathy for their users through qualitative and quantitative research data.
+- *Empathize*—through research
+- *Define*—synthesizing research data into a problem statement (< YOU ARE HERE)
+- *Ideate*—brainstorming potential solutions
+- *Prototype*—experimenting to make the ideas tangible
+- *Test*—testing and iteration
+
+- **1. Empathize phase**: In the empathize phase, designers engage in user research by designing proto-personas and developing empathy for their users through qualitative and quantitative research data.
 
   - *Empathy synthesis*: In empathy synthesis, you'll use affinity diagrams and empathy maps to analyze your user research data. Each design thinking phase cycle requires synthesizing results as deliverables.
 
 - **2. Define phase**: In the define phase, you create user personas from your synthesized data.
 
   - *Goal*: The goal of the define phase is to define the problem to begin the ideation phase.
-
-> :gem: **Designer Insight:** Share a professional anecdote about the importance of the define phase in your client work.
 
 As you move forward in the design thinking process, communicate how the process is additive. We'll use our empathy knowledge to help execute the define phase of the process through defining a problem.
 
@@ -164,60 +174,23 @@ As you move forward in the design thinking process, communicate how the process 
 - User personas are based on data, facts, and information gathered.
   - *User personas are created after user research.*
 
-***Review the design thinking process.***
-Ask students, *"Who can tell me what the five phases of the design thinking process are—or name a couple of phases?"*
+## SLIDE 6
+Review
 
-Review the five phases to refresh students and bring context to today's lesson. *Consider writing these on the whiteboard*:
-
-- *Empathize*—through research
-- *Define*—synthesizing research data into a problem statement (< YOU ARE HERE)
-- *Ideate*—brainstorming potential solutions
-- *Prototype*—experimenting to make the ideas tangible
-- *Test*—testing and iteration
-
-***Learning Objectives***
-
-Next, review today's learning objectives.
-
-Finally, invite questions about the design thinking process before moving on to your next lecture.
-
-Now that students are oriented and excited about today's topic, dive into your lecture on research and affinity diagrams.
-
-## 2. Instructor Do: User Research Synthesis and Affinity Diagrams (15 min)
-
-> :pushpin: **Important Point:** Your goal for this section is to convey the value of synthesizing user research and communicate how affinity diagrams add value to the user research process. This lecture supports today's first learning objective, which is for students to create affinity diagrams from user interview data.
-
-First, you'll introduce the idea of data and analysis, then explain how affinity diagrams work and are applied to user research.
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer your user research skills both in gathering and analysis will make you more competitive. Share your methods in your portfolio case studies, and add affinity diagramming to your resume and LinkedIn skills profile.
-
+## SLIDE 7
+Review _then_  
 **The define phase—where you want to "live" as long as possible.**
 
-You want to spend as much time, or "live," as long as possible, in the define phase.
-
-Why?
-
-- Ask students, *"Anyone want to guess why the define phase is the place to spend a lot of time?"*
-
-- Perhaps they didn't ask enough questions, apply techniques like the Five Whys, or ask open and probing questions.
-
-- It doesn't matter—the designer has to make sense of the data and extract meaningful information from it to arrive at an actionable user problem and defined problem statement.
+- The designer has to make sense of the data and extract meaningful information from it to arrive at an actionable user problem and defined problem statement.
 
 - Focusing on a specific user problem is why the define phase is incredibly important. You must analyze your user data to identify pain points using whatever data you have. Data about the company you're designing for is also important to gather and analyze. Defining the user problem—which is again the goal of the define phase—is looking for the overlap between the user needs and the business needs. This is essential for developing a great user experience and demonstrates your value to the design team.
 
-> :gem: **Designer Insight:** Share your experience with the define phase of the design process on a recent project or invite a TA to share their experience.
+** NOTE - this is another area where many companies will make product managers the "owners" of the problem and designers the "owners" of the solution. It's very important that this is a collaborative process though even if this is the case so design needs to know how to ask the right questions and tease out those root causes.
 
-**Define Phase vs. Crime Scene Evidence**
-Ask students, "Who can guess what the following have in common: the define phase and crime scene evidence?"
+## SLIDE 8
+Review
 
-Think of the define phase as similar to gathering evidence from a crime scene. Are you going to walk up to a crime scene and decide what occurred on the spot? No. You're going to carefully consider all of the evidence—fingerprints, bagged evidence, photographs, and witnesses' testimony.
-
-- You want to be sure that you have all the evidence—or data—that was gathered.
-- Only after you have gathered all of the evidence can you begin to analyze or synthesize the data.
-- Just like a criminal investigator, you'll spend a lot of time looking at the evidence from different angles to "see" what it's trying to tell you.
-
-So, if analyzing and synthesizing the research data is so important, how do you do it? Let's find out by looking at research synthesis.
-
+## SLIDE 9
 **Research Synthesis**
 
 After designers complete the user research step, their next job is to *synthesize* that research. Synthesis is the first action in moving into the define phase of the design thinking process.
@@ -229,21 +202,13 @@ After designers complete the user research step, their next job is to *synthesiz
 - ***Why?*** Research synthesis is a great process to address any product- or process-related design issue to study and identify the problem.
 
 **Triangulation**
-
-Ask the TA or students, "*Can someone share what you think triangulating data means?*"
-
 - When you "triangulate" data, you're using a variety of data to study one topic. Each piece of data that you include contributes something to the overall picture.
 
 - **Triangulation** is also known as "mixed-method research" because it mixes multiple market research methods to study one topic. The purpose of triangulation within market research is to increase the validity of a study. It involves combining both qualitative data (behavior) and quantitative data (facts) when studying an issue or phenomenon.
 
 - Multiple perspectives help solve problems more accurately and efficiently. Combining different research methods (i.e., triangulating) is one of the most effective ways to gather multiple perspectives.
 
-- **Why?** Designers must understand users if they have any hope of solving their problems. They need as many data points as possible to tell a compelling and specific story about a user's problem.
-
-- **When?** When the designer's priority is understanding the problem, it's time to triangulate on the data. This usually takes place as soon as the data is gathered for synthesis.
-
-> **Instructor Note:** Pause and make sure students are with you or have any questions.
-
+## SLIDE 10
 **Affinity Diagrams**
 
 1. **What it is:**
@@ -290,41 +255,47 @@ Imagine that your team just completed 20 user interviews. During the interviews,
 
 - Bring themes and patterns to the surface—help with identifying user themes, patterns, and insights that inform the design direction.
 
-**How to Make an Affinity Diagram**
+## SLIDE 11
+Review
 
-Tell students, *"In a moment, you'll create affinity diagrams, so let's cover the process first."*
+## SLIDE 12
+Review
 
+## SLIDE 13
 The process has five steps:
 
 1. **Prepare affinity sticky notes.**
    - Do this step after reviewing user interviews, observations, and other research. The first thing a designer does is gather all of their data together in one place, then write down all research facts/thoughts/ideas on the topic. (One idea per sticky note.)
 
+## SLIDE 14
 2. **Combine ideas and pull out categories.**
    - The fun part is writing key data points on sticky notes and sticking them to the wall. Designers put key data points onto a wall or whiteboard to create groupings of similar ideas.
 
+## SLIDE 15
 3. **Look for similarities and trends between categories.**
    - Adding labels to groups with similar ideas allows designers to begin drawing conclusions about the groups of data created. Designers look for similarities or overlapping ideas/research facts/thoughts among the sticky notes.
 
+## SLIDE 16
 4. **Label the categories.**
    - This is where designers group the ideas on sticky notes into categories. Designers group the sticky notes, then add labels to groups with similar ideas. From there, they begin to draw conclusions about the groups of data created.
 
+## SLIDE 17
 5. **(Bonus) Create a point of view statement for each group.**
    - *This puts the designer in the interviewee's shoes.*
     Designers summarize each category in one sentence, using the "I Like," "I Want," or "I Need" statements.
 
-> :gem: **Designer Insight:** Share an experience you had working with affinity diagrams at your work or with clients.
+## SLIDES 18-22
+Review examples
 
-Finally, walk students through the affinity diagram sample, pointing out the category labels and the statements combining the idea categories.
+## SLIDE 23
+Questions??
 
-> **Instructor Note:** Discuss how affinity diagrams are highly collaborative exercises and typically done with physical material (stick notes/whiteboards/conference rooms/etc.) We will be collaborating digitally but it is just as valuable.
-
-Now it's time for students to roll up their sleeves and create their first affinity diagrams.
-
+## SLIDES 24-25
 ## 3. Student Do: Affinity Diagram Activity (45 min)
 
 :watch: 45 minutes :busts_in_silhouette: Group work :pencil2: Miro
 
-**TAs,** slack out these activity instructions: [01-Week/02-Activities/01.3/01.3-01-Affinity Diagram Google Doc](https://docs.google.com/document/d/1Su1fgad_DYzf5UnkQsECwRi1jtMJFgpRj_K-OiJGqk8/edit?usp=sharing).
+**:information_source: TAs please Slack out** these activity instructions: [01-Week/02-Activities/01.3/01.3-01-Affinity Diagram Google Doc](https://docs.google.com/document/d/1Su1fgad_DYzf5UnkQsECwRi1jtMJFgpRj_K-OiJGqk8/edit?usp=sharing).
 
 **Summary**
 
@@ -374,6 +345,7 @@ If students' note groupings don't make sense, suggest ungrouping the sticky note
 
 Students should post their completed affinity diagram in Slack.
 
+## SLIDE 26
 ## 4. Instructor Do: Affinity Diagram Activity Review (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** Close the breakout rooms, bring all students back to the main Zoom room, and lead a review of the activity.
@@ -414,12 +386,11 @@ Finally, close with some FAQs and common misconceptions about affinity diagramin
 
 > **Instructor Note:** ***Be encouraging:*** Before moving on, remind students that they will get better and better at affinity diagramming with practice. This is their first try—so, great work! Take any questions before moving on.
 
-## 5. Instructor Do: Empathy Maps (15 min)
 
-> :pushpin: **Important Point:** The goal of empathy maps is to get students to practice their empathy phase skills and grasp how research is synthesized into a deliverable that is used by design teams and organizations. This lecture supports today's second learning objective, which is for students to build an empathy map using a proto-persona, user interviews, and affinity diagram data.
+## SLIDE 27
+Review
 
-Start by giving students a feel for what empathy means, move on to its value to designers and user research, and then tell them how to make an empathy map.
-
+## SLIDE 28
 - Ask, *"Have you ever seen someone with a **bad sunburn** and winced or shuddered in reaction to it?"*
 
 - That wincing reaction is empathy.
@@ -429,29 +400,26 @@ Start by giving students a feel for what empathy means, move on to its value to 
 **On empathy:**
 Would you believe that we are wired for empathy? Scientific studies have found that when we observe another person’s action, pain, or affect, it can trigger parts of the *same neural networks* in our brains. It's as if we're experiencing the other person's feelings firsthand.
 
-**TAs,** slack out this article for students to read after class: [https://www.psychologytoday.com/us/blog/the-empaths-survival-guide/201703/the-science-behind-empathy-and-empaths](https://www.psychologytoday.com/us/blog/the-empaths-survival-guide/201703/the-science-behind-empathy-and-empaths).
-
-Ask, "*Can anyone define empathy vs. sympathy?*"
-
-Pause here for responses.
-
-> :globe_with_meridians: **Online Recommendation:**  Have students raise their hands to the screen or use Zoom's raise-hand feature.
-
-Now, define it:
-
 - Empathy is feeling "with" someone; sympathy is feeling "for" someone.
 
 - Empathy fuels connection; sympathy drives disconnection.
 
 *The four qualities of empathy:*
-
 1. Gaining a perspective of others
 2. Refraining from judgment
 3. Recognizing emotions in others
 4. Communicating the emotion of others
 
-**TAs,** slack out this video on empathy by lecturer and author Brené Brown for students to read after class: [https://www.youtube.com/watch?v=1Evwgu369Jw](https://www.youtube.com/watch?v=1Evwgu369Jw).
 
+**:information_source: TAs please Slack out** this article for students to read after class: [https://www.psychologytoday.com/us/blog/the-empaths-survival-guide/201703/the-science-behind-empathy-and-empaths](https://www.psychologytoday.com/us/blog/the-empaths-survival-guide/201703/the-science-behind-empathy-and-empaths).
+
+**:information_source: TAs please Slack out** this video on empathy by lecturer and author Brené Brown for students to read after class: [https://www.youtube.com/watch?v=1Evwgu369Jw](https://www.youtube.com/watch?v=1Evwgu369Jw).
+
+
+## SLIDE 30
+Review
+
+## SLIDE 31
 **Empathy Maps**
 
 Empathy maps are a representation of multiple users, showing what their likes and dislikes are, and their pain points. Designers will present an empathy map to stakeholders to help them understand who is using their product.
@@ -465,6 +433,7 @@ Empathy maps are a representation of multiple users, showing what their likes an
 1. **When it is used:**
 
 - Empathy maps are most useful at the beginning of the design process.
+- After conducting interviews and user research to better understand user needs
 
 1. **Why it matters:**
 
@@ -480,12 +449,8 @@ Empathy maps are a representation of multiple users, showing what their likes an
 
 - It is a visualization tool design teams use to gain more profound insights into their users.
 
-> :gem: **Designer Insight:** Share about the role of empathy maps in your work with clients and design teams.
->
-> - Alternatively, invite a TA to share.
 
-> :briefcase: **Employer Competitive Note:** An empathy map is a tool design teams can use to gain deeper insights into users and to draw out unexpected insights. As a UX designer, you'll be expected to execute this skill in your job.
-
+## SLIDES 32-37 (REVIEW WITH DETAILS BELOW)
 A good empathy map provides a 360-degree view of empathy for the user, which communicates a user's different feelings and thinking states:
 
 **Says:** This is what the user would say in his or her own words.
@@ -498,8 +463,6 @@ A good empathy map provides a 360-degree view of empathy for the user, which com
 Ask, *"When do you think is the best time to create an empathy map?*
 
 - Empathy maps are most useful at the empathize phase of the design process. We try to build empathy maps after initial user research (like user interviews) before defining a problem or creating product requirements.
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer you will be expected to have samples of empathy maps in your portfolio as it is a highly recognizable UX deliverable. Add empathy mapping to your resume and LinkedIn skills profile.
 
 **How to Create an Empathy Map**
 
@@ -517,10 +480,6 @@ The "basic" empathy map has four main sections and two "sub" sections:
   - Pains
   - Gains
 
-**Empathy Map Templates**
-
-Let students know that most designers fill out their empathy maps in a particular order.
-
 **First, complete the four main sections:**
 
 By creating an empathy map, students/designers are methodically uncovering the user's needs. Encourage students to really do their best to step into the shoes of their user and try to imagine how their user feels based on the information gathered from their interviews.
@@ -535,23 +494,18 @@ Ask, *"What order should you go in when completing the empathy map?"*
 
 - Fill in the four main sections before filling in the two subsections.
 
-**Empathy Map Templates**
+## SLIDES 38-41
+Review
 
-Review the empathy map example on the slide with students.
+## SLIDE 42
+Questions
 
-Point out what you think works well. Choose one statement per category to share as an example with the class.
-
-> :gem: **Designer Insight:** Invite TAs to add their thoughts about what works well, too.
-
-Practice building an empathy map. Involve students by asking them to share their experiences with Amazon for each category on the empathy map.
-
-Tell students, *"You will now get to create your own empathy maps."*
-
+## SLIDE 43
 ## 6. Student Do: Empathy Map Activity (20 min)
 
 :watch: 20 minutes :busts_in_silhouette: Groups of 3-4 students :pencil2: Miro
 
-**TAs,** slack out the following activity instructions.
+**:information_source: TAs please Slack out** the following activity instructions.
 
 - [01-Week/02-Activities/01.3/01.3-02-Empathy Map Google Doc](https://docs.google.com/document/d/1yRw7MEoVAnqlVNj7zxXU3EgpR3lbPXNWVJ-BMN3kB8s/edit?usp=sharing)
 
@@ -596,6 +550,7 @@ Groups should have all the sections of the empathy map by the end of the activit
 
 Students should share their empathy map Miro Boards on Slack.
 
+## SLIDE 44
 ## 7. Instructor Do: Empathy Map Activity Review (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** Close the breakout rooms, bring everyone back to the main Zoom room, and lead a review of the activity.
@@ -640,22 +595,13 @@ Ask students, *"What did you think about empathy maps—anyone care to share?"*
 >
 > ***Tip:*** Use the "Ask and Wait" trick: Wait 30 seconds after you ask your question before moving on. Usually, a student will speak up!
 
+## SLIDE 45
 ## 8. Break (10 min on Weekdays)
 
-> **Instructor Note:** Brain breaks are key to learning, so give students some time for a break.
+## SLIDE 46
+Review
 
-Let students know that after the break they'll go deeper into user research.
-
-> :globe_with_meridians: **Online class:** Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
-## 9. Instructor Do: User Personas (15 min)
-
-> :pushpin: **Important Point:** Here your goal is to prepare students for developing empathy phase skills and grasping how research is synthesized into a useful deliverable for design teams. This lecture supports today's third learning objective, which is for students to execute a user persona and iterate based on the proto-persona, user interviews, empathy maps, and affinity diagram data.
-
-You'll start by defining what a user persona is, explain its usefulness to designers, clients, and design teams, then walk through the features of a user personal template.
-
-> **Say:** "Now that we have improved our user empathy, it's time to talk about user personas." Your empathy map will help you generate a more authentic user persona.
-
+## SLIDE 47
 **Define user persona:** A user persona is a fictional character that designers create to represent the user. Why use user personas? It helps to have a person in mind to solve a problem for.
 
 - User personas are a visual communication tool, too. They are formatted in one (or two) pages that can be quickly digested by the client and your design teammates.
@@ -663,52 +609,11 @@ You'll start by defining what a user persona is, explain its usefulness to desig
 - User personas contain information: their name, appearance, and location, but a brief description of their preferences and behaviors.
   - You can think of a user persona as a mini-biography or ID card for your user!
 
-> :briefcase: **Employer Competitive Note:** User personas are an essential UX deliverable that potential employers will look for in your online portfolios and during job interviews.
-
 Ask, **"Can anyone remind us of the difference between a proto-persona and a user persona??"** (***Hint!*** This was discussed at the beginning of class!)
 
-> :globe_with_meridians: **Online Recommendation:** Invite students to raise their hands to their screens, or use Zoom's raise-hand feature.
-
-Pause *briefly* to take student answers, then move on to the definition.
-
 Proto-personas vs. user personas:
-
 - Proto-personas are based on a hypothesis—your best guess. They are created *before* user research.
-
 - User personas are based on data, facts, and information gathered. They are done *after* user research.  
-
-> :gem: **Designer Insight:** Share how user personas have guided your design work.
->
-> - Invite TAs to reinforce the value of empathy maps further by sharing their own experience using empathy maps.
-
-**User Personas Context**
-
-Remind students that they are doing work related to the *define phase* of the design process.
-
-Students should think "synthesis" when they think about the define phase. For example:
-
-- All of your observations and user interviews created a lot of data (i.e., notes, quotes, etc.). It will get boiled down to one user persona.
-- In a real world, designers include affinity maps, empathy maps, and user personas as part of a user research report.
-
-**Define Phase:**
-
-- This is the phase when designers synthesize observations about their users from the first stage.
-  - The goal of this phase is to define a *problem statement*.
-  - A *problem statement* will kickstart the ideation process.
-
-A **problem statement** is a term used to describe a clear, concise description of the issue to be addressed, or a situation to be improved.
-
-
-> **Ask:** "What *word* should you think about when considering the definition phase of the design process?"
-
-> :globe_with_meridians: **Online Recommendation:**  Invite 1-2 students to answer this question by raising their hands to their screens or using the raise-hand feature in Zoom.
-
-*Answer: A creative brief or a problem statement are both parts of the define phase.*
-
-**User Personas**
-
-When you see a woman with a bike out on the trail by the ocean, a "type" of person comes to mind, right? That's the power of user personas.
-
 - Just like empathy maps, user personas allow you to get to know the user and *quickly* communicate who they are. As UX designers, we use multiple tools to visualize and share the importance of user-centered design. Empathy for your users is one of the primary skills you will bring to a company as a UX designer.
 
 What's the purpose of personas, you might wonder? It is to create realistic representations of your key user segments.
@@ -743,10 +648,10 @@ What's the purpose of personas, you might wonder? It is to create realistic repr
 
 > :briefcase: **Employer Competitive Note:**  As a UX/UI designer, you will work on or use different user personas. It is incumbent on you to have multiple high-quality user personas as part of your UX/UI portfolio. You will be expected to have these. Include this skill as part of your resume and LinkedIn skills profile.
 
+## SLIDE 48
 **How to Build a User Persona**
 
 A well-defined user persona contains three key pieces of information:
-
 - Header:
   - The header includes a fictional name, image, and quote that summarizes what matters most to the persona as it relates to your product.
 - Demographic profile:
@@ -755,6 +660,7 @@ A well-defined user persona contains three key pieces of information:
 - End goal:
   - This is the motivating factor that inspires action (e.g., wants to lose 15 pounds).
 
+## SLIDE 49
 **User Persona Template**
 
 As a whole, the user persona should talk through the six sections of the User Persona Template.
@@ -785,13 +691,8 @@ As a whole, the user persona should talk through the six sections of the User Pe
 
 > :gem: **Designer Insight:** Share why these six sections play an important role in your work with clients, and which ones are especially compelling.
 
-**User Persona Example**
-
-It's OK to vary your criteria, as long as the criteria you use tell a whole story about the user.
-
-- For example: User personas should try to be authentic and avoid stereotypes and shallow representations of their users. Don't give users nicknames (e.g., Eric "the edgecase" or "Karen"). By doing that, you are applying criteria you don't want.
-
-> **Instructor Note:** Review the whole example or point out which criteria differ from the template (*in **bold**, below*).
+## SLIDES 50-52
+Review
 
 1. **User name:** Use a photo of a REAL person. Also, include a slogan or quote that represents that person's personality in relation to the product.
 
@@ -822,29 +723,12 @@ It's OK to vary your criteria, as long as the criteria you use tell a whole stor
 
    - For example: *They play Mario Kart on the Xbox. Or like a glass of pinot with prime rib.*
 
-***User Persona Sample***
-
-Walk through the user persona sample. Points to emphasize:
-
-- The name, age, profession, and image all seem to match up or feel relevant.
-- The user persona is deep research and has unique details rather than generalizations.
-
-
-> **Instructor Note:** Take questions about user personas before moving on to the activity.
-
-> :globe_with_meridians: **Online Recommendation:** Take a moment to check in with the class and see how comfortable they feel about the content covered.
->
-> - Stop sharing your screen for a moment and switch to gallery view in Zoom to see your class on one screen.
-> - Ask the class to use the Zoom meeting reactions found in the Meeting Controls panel at the bottom of the Zoom window to use the thumbs up 👍 or clap 👏 emojis if they're feeling comfortable and confident with the material you've covered so far.
-
-
-It's now time to transition to the student activity.
-
+## SLIDE 53
 ## 10. Student Do: User Personas Activity (20 min)
 
 :watch: 20 minutes :busts_in_silhouette: Groups of 3-4 :pencil2: Miro
 
-**TAs,** slack out to students the following links:** 
+**:information_source: TAs please Slack out** to students the following links:** 
 
 - [01-Week/02-Activities/01.3/01.3-01-User Persona Google Doc](https://docs.google.com/document/d/1ZxWy9-VLvYP05ytq-MpxBRLnengpuFdfP6X2pAQnSuk/edit?usp=sharing).
 
@@ -883,6 +767,8 @@ Students are learning how to synthesize data and communicate about the user crea
 - Periodically capture screenshots to record the user persona process.
 - Give your students a two-minute warning before the activity is completed. Use the @channel in Slack.
 
+
+## SLIDE 54
 ## 11. Instructor Do: User Persona Activity Review (15 min)
 
 :globe_with_meridians: **Online Recommendation:**  Close breakout rooms and bring everyone back to the main Zoom room to discuss the activity.
@@ -923,6 +809,7 @@ Repeat the process as time permits.
 
 > Finally, take questions to be sure everyone is comfortable with the user persona concept.
 
+## SLIDE 56
 ## 12. Instructor Do: Recap and End Class (2 min)
 
 ***You did it!*** You have practiced creating UX deliverables that will help you get a job and are worthy of putting in your design portfolio.
