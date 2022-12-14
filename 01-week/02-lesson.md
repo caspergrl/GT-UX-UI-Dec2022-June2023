@@ -297,7 +297,7 @@ Five interviews can identify 80% of themes within a data set.
 
     - The Five Whys Method is a technique used to identify the root cause of a problem.
 
-    - The technique's primary goal is to determine the root cause of a defect or problem by repeating the question "Why?"
+    - The technique involves repeating the question "Why?" when being presented with a problem to understand the root cause.
 
 2. When it is used:
 
@@ -315,12 +315,9 @@ Five interviews can identify 80% of themes within a data set.
 
 - The Five Whys is a simple method for understanding your users and uncovering insights about their behaviors.
 
+
 ## SLIDE 11
-**About the Five Whys**
-
-- Using the Five Whys is as simple as it sounds—you ask “why” five times.
-
-  - The Five Whys, invented by Taiichi Ohno and Sakichi Toyoda, was created for getting to the root cause of problems in Toyota’s factories.
+  - invented by Taiichi Ohno and Sakichi Toyoda in the 1950s, for getting to the root cause of problems in Toyota’s factories and assembly lines.
 
 **:information_source: TAs please Slack out** 
   - [Five Whys: The Ultimate Root Cause Analysis Tool](https://kanbanize.com/lean-management/improvement/5-whys-analysis-tool/)
@@ -351,19 +348,6 @@ Review
 
 ## SLIDE 17
 > **Say:** How are you doing user experience if you are not talking to users? How do you design what they want if you don't know what they want?
-
-**Why does user research matter?**
-
-Empathizing with your users is at the core of design thinking. If you don't have an understanding or awareness of how people see, feel, experience, and interact with things, you'll find that your designs will fall short of their potential.
-
-This can result in creating designs that are not relevant to users, or designs that are not easy or pleasurable to use. User research places people at the center of the design process and products. It is used to inspire and inform your designs, to evaluate your solutions, and to measure the impact of your design.
-
-UX design is a human-first way of designing products, putting the user at the center, and creating products that provide meaningful and personally relevant experiences to users.
-
-This involves improving a product's usability, accessibility, and the pleasure people will get from using it.
-
-> :gem: **Designer Insight:** Share your own insight into why user research matters, based on your professional experiences. Alternatively, invite a TA to share.
->
 
 **Three Categories of User Research**
 
@@ -421,6 +405,7 @@ Review a few methods
 - Desirability studies
 - Eye-tracking testing
 
+
 ## SLIDE 21
 ### Data Analytics.
 
@@ -454,9 +439,14 @@ Review
 _Review then_ SORT of... market research, competitor analysis, following UX best practices are critical to UX too
 
 ## SLIDE 31
-__Review THEN...__    
-Successful products are created by designers who know their users. While design processes vary based on the project needs, a loose outline of fitting user research into the process might include preliminary user research, user persona creation, product definition, wireframing, mockups, prototype testing, and coding (see the Research in the Product Design Process slide).
+**When to interview?**
 
+- Before you have a design—in the early phase of developing a concept or product—to inform personas, journey maps, feature ideas, and workflows.
+
+- To enhance a field study by supplementing observation with descriptions of tools, processes, bottlenecks, and how users perceive them.
+
+- At the end of a usability test, to collect responses related to observed behaviors.
+  
 **User Interviews**
 
 User interviewing isn’t merely chatting with people. It’s not just asking them what they like and dislike. User interviewing is about trying to get to the core of what a user is trying to do and what their problems are. User interviewing needs to be approached with proper rigor and respect. A lot of people think a user interview is just an informal chat with a person to run an idea or prototype past them. This is false.
@@ -472,27 +462,13 @@ User interviewing isn’t merely chatting with people. It’s not just asking th
 
 The first part of the double diamond design framework is to figure out what the true problem is. Product managers and others will often give you symptoms, not the actual problem. User interviews can help make sure you are solving for the correct problem.
 
-**When to interview?**
-
-- Before you have a design—in the early phase of developing a concept or product—to inform personas, journey maps, feature ideas, and workflows.
-
-- To enhance a field study by supplementing observation with descriptions of tools, processes, bottlenecks, and how users perceive them.
-
-- At the end of a usability test, to collect responses related to observed behaviors.
-
-## SLIDE 33
-**How many interviews?**
-
-- There’s no single correct number. Start with five interviews and increase up to five more, depending on domain complexity.
-
-- The Nielsen Norman Group (NN/g) says that five usability test subjects will yield 80% of the problems.
 
 **:information_source: TAs please Slack out**  the following links for students to review after class:
   - [https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
   - [https://journals.sagepub.com/doi/abs/10.1177/1525822X05279903](https://journals.sagepub.com/doi/abs/10.1177/1525822X05279903)
   - [http://www.mit.edu/~hauser/Papers/Gaskin_Griffin_Hauser_et_al%20VOC%20Encyclopedia%202011.pdf](http://www.mit.edu/~hauser/Papers/Gaskin_Griffin_Hauser_et_al%20VOC%20Encyclopedia%202011.pdf)
 
-## SLIDE 34
+## SLIDE 33
 **User Interview Process**
 
 The interview process follows four steps:
@@ -505,11 +481,13 @@ The interview process follows four steps:
 Today, we'll focus on steps 1 through 3. The next class will cover Step 4.
 
 
-## SLIDE 35
-Review
+## SLIDE 34
+review
 
-## SLIDE 36
-__Quickly review slide then...__   
+## SLIDE 35
+It's critical to define an objective for research. You may find that it changes over time but you have to start somewhere and getting alignment within your team as well as ensuring you stay focused on the goal starts with objectives. These are your initial north star for the research - what are you trying to accomplish?
+_Review slide_
+
 **What is a research objective?**
 
 A ***research objective*** is a statement that communicates what your research hopes to achieve or the question you hope to answer.
@@ -523,7 +501,7 @@ When planning a research objective, you might:
 - Talk to your team to align with what they want to learn.
 
 
-## SLIDES 37-40
+## SLIDES 35-39
 **Review a research objective example.**
 
 Let's say that you want to understand how people make travel decisions to improve that decision-making process.
@@ -540,7 +518,7 @@ Knowing precisely what you're researching will help you refine your research obj
 - What do they expect from the research?
 
 
-## SLIDE 41
+## SLIDE 40
 **Bad vs. Good Research Objectives.**
 
 Review the examples on the Bad vs. Good Research Objectives slide.
@@ -551,7 +529,7 @@ Review the examples on the Bad vs. Good Research Objectives slide.
 2. Objective Example 2: Find out why people use Expedia to book travel.
     - Discussion: This could be helpful if Expedia is a tool your users frequently use instead of your platform. However, it's better to first ask, in general, what kind of other tools are used, so you're not hyper-focused on one tool and miss other opportunities to explore.
 
-## SLIDE 42
+## SLIDE 41
 **Objectives Frame Research Questions**
 Research objectives frame generative research questions. Your questions should be able to give you insights that answer your objectives. So when you ask a participant a question, it is ultimately answering one of the objectives. Turn each objective into three to five questions.
 
@@ -563,10 +541,13 @@ Research objectives frame generative research questions. Your questions should b
 
   - [https://www.ideo.com/case-study/a-new-way-to-vote-for-the-people-of-los-angeles](https://www.ideo.com/case-study/a-new-way-to-vote-for-the-people-of-los-angeles)
 
-## SLIDE 43
+## SLIDE 42
 Review
 
-## SLIDES 44-46
+## SLIDES 43-45
+
+SCENARIO: What might you want to understand as a user researcher about your users? How does that knowledge help you make better product decisions?
+
 ## 4. Student Do: User Interview - Part 1: Write a Research Objective (8 min)
 
 :watch: 8 min :busts_in_silhouette:Individual Work :pencil: User Research Plan Template
@@ -596,7 +577,7 @@ Support the students by looking alert and using Slack to direct message (DM) stu
 
 - A Google Doc with a Madlib research objective
 
-## SLIDE 47
+## SLIDE 46
 ## 5. Instructor Do: Research Objective Review (5 min)
 
 Bring attention back to your screen and lead a review that aims to give students an understanding of why their research objective is good or bad.
@@ -627,10 +608,10 @@ Finally, share a few common misconceptions or FAQs about formulating research ob
 > **Instructor Note:** Take any questions students have, then move on to your discussion of interview question types.
 
 
-## SLIDE 48
+## SLIDE 47
 Review
 
-## SLIDE 49
+## SLIDE 48
 **Types of User Interviews**
 
 There are three types of interviews a design team uses: structured, semi-structured, and unstructured. Today, we'll conduct a semi-structured interview. To write an interview plan, you'll need to understand question types.
@@ -646,7 +627,7 @@ There are three types of interviews a design team uses: structured, semi-structu
 
 
 
-## SLIDE 50
+## SLIDE 49
 **Two question categories: open or closed.**
 There are several types of questions, which can be divided into one of two categories: open or closed questions.
 
@@ -660,12 +641,12 @@ There are several types of questions, which can be divided into one of two categ
 
 - There are several types of open questions.
 
-## SLIDE 51
+## SLIDE 50
   - **Probing questions:** Asking a probing question will help you get to the bottom of things when you need more in-depth information. Example: "Where in Spain did you travel?"
 
   Open and probing questions are "good" question types. The next two are types you should try to avoid:
 
-## SLIDE 52
+## SLIDE 51
   - **Leading questions:** Suggests a particular answer to the interviewee. Example: "How much did you like amazon.com?"
 
   Ask class:
@@ -678,12 +659,12 @@ There are several types of questions, which can be divided into one of two categ
 
     - *Answer: Trial lawyers. Leading questions get struck from the court record.*
 
-## SLIDE 53
+## SLIDE 52
   - **Rhetorical questions:** Questions that are posed to make a point rather than be answered. Also, a question with an obvious answer. Example: "Is there anything more miserable than a long web form?"
 
 *There are several types of open questions. However, there is only one type of closed question, which is a question that can be answered yes/no.*
 
-## SLIDE 54
+## SLIDE 53
 **Closed questions:**
 
 - Invite a short, focused answer.
@@ -713,10 +694,10 @@ If you start with closed questions and end with open questions, you are getting 
 
 - "Did you try the lobster?"
 
-## SLIDE 55
+## SLIDE 54
 Questions??
 
-## SLIDES 56-58 - STAY IN MAIN ROOM
+## SLIDES 55-57 - STAY IN MAIN ROOM
 ## 7. Student Do: Question Types | Quiz (8 min)
 
 **QUIZ Answer key:**
@@ -734,10 +715,10 @@ Questions??
 - How do you know that a question is rhetorical?
 - What makes a closed question *leading?* (Emotion)
 
-## SLIDE 59
+## SLIDE 58
 Review
 
-## SLIDE 60
+## SLIDE 59
 - Designers spend a lot of time writing interview questions to conduct smooth interviews.
 - When preparing for a user interview, "measure twice, cut once" is an excellent rule of thumb.
 - Remind students: "Embrace the process; there's no rush."
@@ -767,7 +748,7 @@ How to conduct a user interview:
    - Greet them and thank them for taking the time to do this interview. Introduce yourself and provide some project background.
 
 
-## SLIDE 61
+## SLIDE 60
 **Discussion Guides**
 
 Discussion guides serve two important purposes:
@@ -776,7 +757,7 @@ Discussion guides serve two important purposes:
 
 2. They serve as a quick-reference tool for the moderator while conducting the research.
 
-## SLIDE 62
+## SLIDE 61
 **A Discussion Guide Contains Many Question Types**
 
 Asking the right questions during user research, interviews, and testing is an art form. A good discussion guide is arguably the most important part of your testing plan.
@@ -791,7 +772,7 @@ Interviewers do the hard pre-work of developing questions, remembering to ask Fi
 
 - Know your objective and write questions that will get you there.
 
-## SLIDE 63
+## SLIDE 62
 **How to Structure Interviews**
 
 An interview has three acts, like a play: the introduction and warm-up, the body of the interview, and the conclusion.
@@ -800,7 +781,7 @@ An interview has three acts, like a play: the introduction and warm-up, the body
 2. Middle: This is when we ask the main questions.
 3. End: This is when we wrap up the interview and ask any follow-up questions.
 
-## SLIDE 64
+## SLIDE 63
 **Create an Interview Team**
 
 It’s best to conduct an interview accompanied by a partner. The ideal user interview takes place with two UX researchers and one participant.
@@ -834,29 +815,29 @@ After interviews, designers take the time to analyze their findings and see how 
 **Sum it up.**
 Great user interviews stem from thoughtful questions that designers take time to develop and from keeping interviewees relaxed. Interviewing is a tough process, so let’s practice together before doing it on our own for the challange assignment.
 
-## SLIDE 65
+## SLIDE 64
 Questions??
 
-## SLIDE 66
+## SLIDE 65
 Review
 
-## SLIDE 67
+## SLIDE 66
 **This classroom is a safe space for feedback.**
 
 - The right facilitation process can foster an iterative feedback loop. Design is a team effort. To improve designs, we need feedback. Good designers need to learn to take feedback from their teammates, clients, and bosses to solve design problems.
 
-## SLIDE 68
+## SLIDE 67
 **Great designers justify every decision they make.**
 
 - Learning to think like a designer doesn’t happen overnight. In design, we don’t often have an easy answer to what is right or wrong. Designers strive to understand why another designer made a particular decision and then give feedback on what might improve the solution.
 
-## SLIDE 69
+## SLIDE 68
 Critiques are a part of the hiring process for designers... 
 - Remember, the critique is about the work - not the individual
 - the practice of giving and receiving it makes us stronger designers!
 - Be sure to ask follow up questions... ask "Why" a lot - or "can you say more about that?"
 
-## SLIDES 70-71
+## SLIDES 69-70
 ## 10. Student Do: Activity Part 2: Develop the User Interview Plan (20 min)
 
 :watch: 20 min :busts_in_silhouette: Groups of 3-4 :pencil: User Research Plan Template
@@ -897,7 +878,7 @@ Get into a group of three to four people where students will collaborate on maki
 - User Research Interview Plan
 - 15 to 20 open interview questions
 
-## SLIDE 72
+## SLIDE 71
 ## 11. Instructor Do: Interview Questions Review (10 min)
 
 First, bring attention back to your screen to lead a review of the activity.
@@ -939,7 +920,7 @@ Finally, share a few common misconceptions or FAQs about formulating interview q
 - [https://drive.google.com/open?id=1pxsWbtsYVOt6UYxV0o-IL7Er_laqbP3WB0sJAOy-I2k](https://drive.google.com/open?id=1pxsWbtsYVOt6UYxV0o-IL7Er_laqbP3WB0sJAOy-I2k)
 
 
-## SLIDE 73
+## SLIDE 72
 ## 12. Student Do: Activity Part 2 (Continued): Final Task: Iterate the User Interview Plan (5 min)
 
 :watch: 5 min :bust_in_silhouette: Work independently :pencil: User Research Plan Template
@@ -967,7 +948,7 @@ Here, students will take a few minutes to make changes based on the information 
 
 An individual interview plan with 10 good questions to ask.
 
-## SLIDE 74
+## SLIDE 73
 ## 13. Break (15 min)
 
 > **Instructor Note:** Brain breaks support learning, so encourage everyone to take time to drink water or stretch. You, too!
@@ -988,28 +969,28 @@ As you walk students through the following interview best practices, share your 
 
 *> **Say:*** "Take notes. Let me repeat that: Take. Notes." Why? Students will be using their interview material in the coming weeks for several activities.
 
+## SLIDE 74
+Review
+
 ## SLIDE 75
 Review
 
 ## SLIDE 76
-Review
-
-## SLIDE 77
 1. Be conversational:
 
    - Interviews should not feel like interrogations. Does anyone like being grilled? (Of course not!) Make it friendly.
 
-## SLIDE 78
+## SLIDE 77
 2. Rephrase questions:
 
    - First ask: *Tell me the last time you voted.* (No answer.) Then rephrase: *What would compel you to vote?*
 
-## SLIDE 79
+## SLIDE 78
 3. Ask open-ended and probing questions:
 
    - Interviews are about getting your interviewee to reveal something insightful. Once you get your interview subject to tell a story, they will share insights.
 
-## SLIDE 80
+## SLIDE 79
 4. Ask about their habits:
 
    - > **Ask:** "Why would asking users about habits be useful?"
@@ -1018,14 +999,14 @@ Review
 
    - Example: If a person leaves bad reviews on Yelp all the time, they are less likely to leave a good review.
 
-## SLIDE 81
+## SLIDE 80
 5. Let silence be awkward:
 
    - Be quiet for 10 seconds (see if anyone in class picks up on the awkwardness).
 
 > :globe_with_meridians: **Online Recommendation:** Practice being very silent and see your students reactions. Silence even online is not comfortable.
 
-## SLIDE 82
+## SLIDE 81
 6. Discuss real incidents:
 
    - Ask the class: *If you were an astronaut, would you go to Mars or the Moon?*
@@ -1034,7 +1015,7 @@ Review
 
    - Now ask the class: *"Tahiti is trending right now. As a student traveler, would you prefer to travel there, or some less talked about place?"*
 
-## SLIDE 83
+## SLIDE 82
 7. Be as flexible as needed:
 
    - Allow the interview to go where it needs to go in the time that it takes.
@@ -1042,7 +1023,7 @@ Review
    - For example, don't schedule interviews too tightly. Sometimes the longer, the better, as the juicy insights only get exposed over time. You will know when it's too short.
 
 
-## SLIDE 84
+## SLIDE 83
 _REVIEW SLIDE THEN_  
 ### Tips for being an interviewer:
 
@@ -1055,16 +1036,16 @@ _REVIEW SLIDE THEN_
     - Insert yourself only when necessary to redirect back on topic or get clarification. You will know when your interview is going particularly well because you won’t be able to get a word in, but you will be getting answers to all your questions.
 
 
-## SLIDE 85
+## SLIDE 84
 For documenting your interviews:  
 - Always record where possible
 - Takes notes as well including follow up questions (you may not have time to ask everything)
 - Use a combination of platforms when possible... we use Dovetail and share the videos with stakeholders, use the notes for summaries and the written form for when we may need to search for those topics in related reserach
 
-## SLIDE 86
+## SLIDE 85
 Questions??
 
-## SLIDES 87-88
+## SLIDES 86-87
 ## 15. Student Do: Activity Part 3: Conduct the User Interviews (35 min)
 
 :watch: 35 min :busts_in_silhouette: Pairs :pencil: Interview Questions
@@ -1098,7 +1079,7 @@ Working in pairs, your students will put their well-developed interview question
 
 - A user interview and recording
 
-## SLIDE 89
+## SLIDE 88
 ## 16. Instructor Do: User Interviews Review (5 min)
 
 Bring everyone's attention back to your screen for a review of the activity.
@@ -1133,26 +1114,26 @@ Finally, share a few common misconceptions or FAQs about user interviews. For ex
 
 > **Instructor Note:** Take questions, invite students to stay online for office hours, and then introduce the first challenge assignment.
 
-## SLIDE 90
+## SLIDE 89
 Review 
 
-## SLIDE 91
+## SLIDE 90
 - You will spend the next four weeks executing the design thinking process, uncovering pain points that people experience while making travel plans, and designing a mobile app solution to solve the problem.
 
 - All challenge assignments are structured as a design challenge. Once we go through the user-centered design process, we create case studies to communicate the process. These case studies are how companies evaluate UX design candidates during the hiring process.
 
-## SLIDE 92
+## SLIDE 91
 **Requirements and instructions:**
 
 - Most UX designers are managed by a product or design manager. Challenge documents are structured similarly to a requirements document you might receive on the job.
 
-## SLIDE 93
+## SLIDE 92
 **Challenges and organization:**
 
 - Organization is really important during the boot camp. You will be creating a lot of UX/UI deliverables, and staying organized is critical. We suggest using Google Drive, but make sure to take time setting up your folder structure.
 
 
-## SLIDE 94
+## SLIDE 93
 **Where to submit Challenges:**
 - Homework is submitted in Bootcamp Spot. Just submit a link to your work.
 
@@ -1160,10 +1141,10 @@ Review
 
 - Your challenge is due the following week on the third lecture day. For example, Challenge 1 is due on the class day of Lesson 2.3. Challenge 2 is due on the class day of Lesson 3.3. Once homework is submitted, YOU WILL ONLY HAVE 3 days to revise if you choose to. Late homework submissions end up hurting the whole class! This work doesn't need to be perfect - just focus on getting the core concepts down at these early phases. You will do this process again and again throughout class. Many students go back after and revise too.
 
-## SLIDE 95-99
+## SLIDE 94-98
 Review
 
-## SLIDE 100-104
+## SLIDE 99-103
 **This Week's Challenge**
 
 **:information_source: TAs please Slack out** the challenge instructions with students on Slack.
