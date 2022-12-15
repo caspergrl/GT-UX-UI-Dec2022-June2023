@@ -228,16 +228,6 @@ During the *define phase* of the design thinking process, designers develop valu
 - *Prototype*—experimenting to make the ideas tangible
 - *Test*—testing and iteration
 
-- **1. Empathize phase**: In the empathize phase, designers engage in user research by designing proto-personas and developing empathy for their users through qualitative and quantitative research data.
-
-  - *Empathy synthesis*: In empathy synthesis, you'll use affinity diagrams and empathy maps to analyze your user research data. Each design thinking phase cycle requires synthesizing results as deliverables.
-
-- **2. Define phase**: In the define phase, you create user personas from your synthesized data.
-
-  - *Goal*: The goal of the define phase is to define the problem to begin the ideation phase.
-
-As you move forward in the design thinking process, communicate how the process is additive. We'll use our empathy knowledge to help execute the define phase of the process through defining a problem.
-
 **Proto-personas and user personas are two different things.**
 
 - Proto-personas are based on a hypothesis—your best guess.
