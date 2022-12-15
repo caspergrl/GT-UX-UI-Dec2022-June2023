@@ -253,9 +253,11 @@ Review
 Review _then_  
 **The define phase—where you want to "live" as long as possible.**
 
-- The designer has to make sense of the data and extract meaningful information from it to arrive at an actionable user problem and defined problem statement.
+Defining the user problem you want to focus on is the goal of the Define phase. 
 
-- Focusing on a specific user problem is why the define phase is incredibly important. You must analyze your user data to identify pain points using whatever data you have. Data about the company you're designing for is also important to gather and analyze. Defining the user problem—which is again the goal of the define phase—is looking for the overlap between the user needs and the business needs. This is essential for developing a great user experience and demonstrates your value to the design team.
+- The designer or researcher has to make sense of the data and extract meaningful information from it to arrive at an actionable user problem and defined problem statement.
+
+- Data about the company you're designing for is also important to gather and analyze. We have to look for the overlap between the user needs and the business needs. This is essential for developing a great user experience and demonstrates your value to the design team.
 
 ** NOTE - this is another area where many companies will make product managers the "owners" of the problem and designers the "owners" of the solution. It's very important that this is a collaborative process though even if this is the case so design needs to know how to ask the right questions and tease out those root causes.
 
@@ -269,14 +271,12 @@ After designers complete the user research step, their next job is to *synthesiz
 
 **Research synthesis** means organizing, analyzing, and putting together data to form a fuller picture of the user.
 
-- ***When?*** Designers do research synthesis at the beginning of the define phase of the design process—not until the data is organized and analyzed can the designer see the problem they're trying to solve.
+- ***When?*** At the beginning of the define phase of the design process—not until the data is organized and analyzed can the designer see the problem they're trying to solve.
 
-- ***Why?*** Research synthesis is a great process to address any product- or process-related design issue to study and identify the problem.
+- ***Why?*** To make sense of the data and understand the opportunities for addressing user needs.
 
 **Triangulation**
-- When you "triangulate" data, you're using a variety of data to study one topic. Each piece of data that you include contributes something to the overall picture.
-
-- **Triangulation** is also known as "mixed-method research" because it mixes multiple market research methods to study one topic. The purpose of triangulation within market research is to increase the validity of a study. It involves combining both qualitative data (behavior) and quantitative data (facts) when studying an issue or phenomenon.
+- When you "triangulate" data, you're using a variety of data to study one topic. Each piece of data that you include contributes something to the overall picture. It involves combining both qualitative data (behavior) and quantitative data (facts) when studying an issue or phenomenon.
 
 - Multiple perspectives help solve problems more accurately and efficiently. Combining different research methods (i.e., triangulating) is one of the most effective ways to gather multiple perspectives.
 
@@ -284,8 +284,13 @@ After designers complete the user research step, their next job is to *synthesiz
 **Affinity Diagrams**
 
 1. **What it is:**
+Imagine that your team just completed 20 user interviews. During the interviews, you received a lot of feedback and user research data. The question now is, *How do you make sense of all that data?*
 
-- The affinity diagram organizes a large number of ideas into their natural relationships. It is the organized output from a brainstorming session.
+- The first step in making sense of the chaos of a ton of data is to organize it. That's where affinity diagrams come in.
+
+- An **affinity diagram** is a tool for gathering large amounts of data and organizing them into groupings based on their natural relationships.
+
+- The affinity diagram organizes a large number of ideas into their natural relationships. 
 - Design teams use affinity diagrams to process, sort, and identify insights in data.
 
 2. **When it is used:**
@@ -299,34 +304,6 @@ After designers complete the user research step, their next job is to *synthesiz
 
 - To generate, organize, and consolidate information related to a product, process, complex issue, or problem
 
-Imagine that your team just completed 20 user interviews. During the interviews, you received a lot of feedback and user research data. The question now is, *How do you make sense of all that data?*
-
-- The first step in making sense of the chaos of a ton of data is to organize it. That's where affinity diagrams come in.
-
-- An **affinity diagram** is a tool for gathering large amounts of data and organizing them into groupings based on their natural relationships.
-
-- To have affinity means "to like" or "to have a natural preference."
-
-- **Why?** Affinity diagrams enable us to analyze and make sense of user research.
-
-- **When** Affinity diagrams should be used during the define phase when you're ready to synthesize multiple types of data—such as user interviews.
-
-- To reinforce learning, ask, **"Can someone remind us what the define phase is?"**
-
-> :gem: **Designer Insight:** Share the define phase's dos and don'ts that you've learned while working in the design field.
-
-**Affinity diagrams' benefits:**
-
-- Create a process for analyzing research data.
-
-- Reduce group bias—combining observations can weed out biases.
-
-- Build consensus—combining ideas makes patterns visible and reveals how the group thinks.
-
-- Make the team democratic—give teammates an equal voice.
-
-- Bring themes and patterns to the surface—help with identifying user themes, patterns, and insights that inform the design direction.
-
 ## SLIDE 14
 Review
 
@@ -337,11 +314,18 @@ Review
 The process has five steps:
 
 1. **Prepare affinity sticky notes.**
-   - Do this step after reviewing user interviews, observations, and other research. The first thing a designer does is gather all of their data together in one place, then write down all research facts/thoughts/ideas on the topic. (One idea per sticky note.)
+   - Do this step after reviewing user interviews, observations, and other research. The first thing a designer does is gather all of their data together in one place, then write down all research facts/thoughts/ideas on the topic. (One idea per sticky note.) WHAT SORT OF DETAILS DO YOU CAPTURE?
+      - Interesting, relevant quotes from the user
+      - General observations related to the research goal
+      - References to tools, current processes
+      - Pain points
+      - Goals
+      - Motivations
+      - Anything else you think may be useful to the research
 
 ## SLIDE 17
 2. **Combine ideas and pull out categories.**
-   - The fun part is writing key data points on sticky notes and sticking them to the wall. Designers put key data points onto a wall or whiteboard to create groupings of similar ideas.
+   - Add all notes to a whiteboard or wall to better visualize and create groupings of similar ideas.
 
 ## SLIDE 18
 3. **Look for similarities and trends between categories.**
@@ -472,7 +456,7 @@ Review
 **On empathy:**
 We are wired for empathy. Scientific studies have found that when we observe another person’s action, pain, or affect, it can trigger parts of the *same neural networks* in our brains. It's as if we're experiencing the other person's feelings firsthand.
 
-- Empathy is feeling "with" someone; sympathy is feeling "for" someone.
+- Empathy is feeling "with" someone - putting yourself in their shoes; sympathy is feeling "for" someone - acknowledgement of their feelings or circumstances but a bit more removed.
 
 *The four qualities of empathy:*
 1. Gaining a perspective of others
@@ -489,24 +473,19 @@ We are wired for empathy. Scientific studies have found that when we observe ano
 ## SLIDE 32
 **Empathy Maps**
 
-Empathy maps are a representation of multiple users, showing what their likes and dislikes are, and their pain points. Designers will present an empathy map to stakeholders to help them understand who is using their product.
-
 1. **What it is:**
-
-- Empathy maps are how design teams gain a deeper insight into their customers.
-- They are a representation of multiple users, showing what their likes and dislikes are, as well as their pain points.
-- Designers show empathy maps to stakeholders so they can understand who is using their product.
+Empathy maps are a representation of multiple users, showing what their likes and dislikes are, and their pain points. Designers will present an empathy map to stakeholders to help them understand who is using their product.
 
 1. **When it is used:**
 
-- Empathy maps are most useful at the beginning of the design process.
+- at the beginning of the design process.
 - After conducting interviews and user research to better understand user needs
 
 1. **Why it matters:**
 
 - We use empathy maps to refine our understanding of our users from research and interviews and to share our empathy findings
 - To explore what the user is saying, thinking, feeling, and doing.
-- To understand the user’s pain points from a product or feature.
+- Build empathy within our teams and stakeholders for the user
 
 **What a good empathy map achieves**:
 
@@ -516,8 +495,11 @@ Empathy maps are a representation of multiple users, showing what their likes an
 
 - It is a visualization tool design teams use to gain more profound insights into their users.
 
+## SLIDE 33
+Review
 
-## SLIDES 33-40 (REVIEW WITH DETAILS BELOW)
+
+## SLIDES 34-39 (REVIEW WITH DETAILS BELOW)
 A good empathy map provides a 360-degree view of empathy for the user, which communicates a user's different feelings and thinking states:
 
 **Says:** This is what the user would say in his or her own words.
@@ -561,13 +543,13 @@ Ask, *"What order should you go in when completing the empathy map?"*
 
 - Fill in the four main sections before filling in the two subsections.
 
-## SLIDES 41-44
+## SLIDES 40-43
 Review
 
-## SLIDE 45
+## SLIDE 44
 Questions
 
-## SLIDE 46
+## SLIDE 45
 ## 6. Student Do: Empathy Map Activity (20 min)
 
 :watch: 20 minutes :busts_in_silhouette: Groups of 3-4 students :pencil2: Miro
@@ -617,7 +599,7 @@ Groups should have all the sections of the empathy map by the end of the activit
 
 Students should share their empathy map Miro Boards on Slack.
 
-## SLIDE 47
+## SLIDE 46
 ## 7. Instructor Do: Empathy Map Activity Review (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** Close the breakout rooms, bring everyone back to the main Zoom room, and lead a review of the activity.
@@ -662,41 +644,37 @@ Ask students, *"What did you think about empathy maps—anyone care to share?"*
 >
 > ***Tip:*** Use the "Ask and Wait" trick: Wait 30 seconds after you ask your question before moving on. Usually, a student will speak up!
 
-## SLIDE 48
+## SLIDE 47
 ## 8. Break (10 min on Weekdays)
 
-## SLIDE 49
+## SLIDE 48
 Review
 
-## SLIDE 50
+## SLIDE 49
 **Define user persona:** A user persona is a fictional character that designers create to represent the user. Why use user personas? It helps to have a person in mind to solve a problem for.
 
-- User personas are a visual communication tool, too. They are formatted in one (or two) pages that can be quickly digested by the client and your design teammates.
+- User personas are a visual communication tool, too. They are formatted in one (or two) pages that can be quickly digested by stakeholders, clients and teammates.
 
-- User personas contain information: their name, appearance, and location, but a brief description of their preferences and behaviors.
+- User personas contain: their name, photo, and location, but a brief description of their preferences and behaviors.
   - You can think of a user persona as a mini-biography or ID card for your user!
-
-Ask, **"Can anyone remind us of the difference between a proto-persona and a user persona??"** (***Hint!*** This was discussed at the beginning of class!)
 
 Proto-personas vs. user personas:
 - Proto-personas are based on a hypothesis—your best guess. They are created *before* user research.
 - User personas are based on data, facts, and information gathered. They are done *after* user research.  
-- Just like empathy maps, user personas allow you to get to know the user and *quickly* communicate who they are. As UX designers, we use multiple tools to visualize and share the importance of user-centered design. Empathy for your users is one of the primary skills you will bring to a company as a UX designer.
 
-What's the purpose of personas, you might wonder? It is to create realistic representations of your key user segments.
+
+The purpose of user personas is to create realistic representations of your key user segments.
 
 - They are based on mainly quantitative user research (facts and data) and some qualitative information (exploratory).
 - They are a quick and inexpensive way to test and prioritize features throughout the development process.
 
 **1. What User Personas Are:**
 
-- The purpose of user personas is to create realistic representations of your key user segments.
-- Based on qualitative and some quantitative user research and web analytics.
-- Quick and inexpensive way to test and prioritize features throughout the development process.
+- The purpose of user personas is to create realistic representations of your key user segments based on qualitative and quantitative research.
 
 **2. When User Personas Are Used:**
 
-- User personas are most useful at the beginning of the design process.
+- User personas are most useful at the beginning of the design process (or really anytime you need to revisit who your user is or build empathy for the user with stakeholders)
 
 **3. Why User Personas Matter:**
 
