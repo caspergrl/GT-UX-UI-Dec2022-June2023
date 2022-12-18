@@ -645,6 +645,19 @@ Next, choose 2-4 additional student problem statement from Slack, and repeat the
 
 Finally, be sure to emphasize the importance of a problem statement. For example, if possible, draw from your own experience and share an anecdote about the moment you realized how powerful and persuasive a problem statement was in your own professional work. 
 
+## SLIDES 48-57
+Review
+
+## SLIDE 58
+User story activity
+
+## SLIDE 59
+Review
+
+## SLIDE 60-63
+Review
+
+
 ## 17. Instructor Do: Recap + End Class (2 min)
 
 If you can't think of an example, here's a quote to share:
