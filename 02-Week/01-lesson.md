@@ -129,17 +129,20 @@ Emphasize what students are learning to do. By week's end, they will be able to 
 
 > :pushpin: Your goal for this section is to show students how User Insight Statements are written and why they are important. 
 
+## SLIDES 1-4
+Review
+
+## SLIDE 5
 **Definition Phase Recap**
 
-Remind students that the *Definition* phase is where designers synthesize observations about their users from the Empathy/Research stage. The goal of the *Definition* phase is to define a problem statement. 
+The *Definition* phase is where designers synthesize observations about their users from the Empathy/Research stage. The goal of the *Definition* phase is to define a problem statement. 
 
 Once designers have a well-developed problem statement, that will kickstart the ideation process, which is part of the *Ideation* phase. 
 
 *The Design Thinking Process is not linear*.
 
-Remind students that the design thinking process *isn't linear*, and that although you're moving linearly through the phases, design teams don't. They go back and forth between all phases, as needed.  
+The design thinking process *isn't linear*, and that although you're moving linearly through the phases, design teams don't. They go back and forth between all phases, as needed.  
 
-:gem: Design Anecdote: Share an experience from your own design work. You can illustrate how designers move back and forth through the phases of the design process, always iterating, as part of real-world design work. 
 
 *Aspects of the Empathy/Research and Definition Phases*:
 
@@ -151,6 +154,7 @@ Analysis is about breaking down complex concepts and problems into smaller, easi
   
   By contrast, synthesis involves creatively piecing the puzzle together to form whole ideas. This happens during the *Definition* stage when we organize, interpret, and make sense of the data we have gathered to create a problem statement.
 
+## SLIDE 6
 **Definition Phase and Problem Statement**
 
 Introduce the concept of a Problem Statement.
@@ -169,6 +173,12 @@ What do we need in order to create a problem statement?
 
 Students have already learned how to do the first of these—user persona and empathy map—which they learned last week. Now, you will expalin the final piece of the problem statement puzzle, which is how to develop user insights. 
 
+
+
+## SLIDE 7
+Review
+
+## SLIDE 8
 **User Insights**
 
 User insights are the end-goal of all user research done by design teams. When done well, they are meaningful to design teams, businesses, and help guide designers in finding solutions that are meaningful to users.
@@ -191,6 +201,8 @@ User insights are the end-goal of all user research done by design teams. When d
 
   - Unlock strategic innovations.
 
+
+## SLIDE 9
 *Great research insights have the following characteristics:*
 
   - Grounded in real data and research.
@@ -203,6 +215,7 @@ User insights are the end-goal of all user research done by design teams. When d
 
   - Inspire clear, direct action.
 
+## SLIDE 10
 **User Insights - Tips for building great user insights**
 
 *TIP #1:  Share Relevant Insight.*
@@ -234,6 +247,13 @@ User insights are the end-goal of all user research done by design teams. When d
 - Voila, we've invented Airbnb!
 
 
+## SLIDE 11
+Questions??
+
+## SLIDE 12
+Review
+
+## SLIDE 13
 **How To Write A User Insight**
 
 The goal of an insight statment is to identify the user and their need and to add an insightful idea as well.
@@ -250,6 +270,7 @@ For example:
 
 A **teenage boy** need more **nutritious food** because **vitamin are vital to good health.**
 
+## SLIDE 14
 **Step 2: Consider your user**
 
 For example: 
@@ -268,7 +289,8 @@ Three things to keep in mind for the iteration of the User Insight:
 - Expose more of their problem and need—expand on it.
 - Develop the insight more deeply, think: "What's at stake?"
 
-**Step 2: Challenge your first assumption**
+## SLIDE 15
+**Step 3: Challenge your first assumption**
 
 It's now time to iterate on our first assumption. Designers do this by thinking about the emotions that a user feels, as well as their needs. 
 
@@ -276,6 +298,7 @@ For example:
 
 A **teenage boy with a bleak outlook** needs to **feel more socially accepted when eating healthy food,** because **in his neighborhood a social risk is more dangerous than a health risk.**
 
+## SLIDE 16
 **Step 4: Evaluate your user insight versions**
 
 It's important to look back at previous iterations in order to fully appreciate what iteration brings to design. Students should appreciate how significantly their insight statements improved after just one iteration! 
@@ -288,10 +311,12 @@ After:
 
 A **teenage boy with a bleak outlook** needs to **feel more socially accepted when eating healthy food,** because **in his neighborhood a social risk is more dangerous than a health risk.**
 
->  Pause and ask for questions.  
 
- Now it's time for students to create their own Insight Statements, in the following activity.
+## SLIDE 17
+Questions??
 
+
+## SLIDE 18
 ## 3. Student Do: User Insight Activity (10 min)
 
 > Note: For additional guidance, please see the instructor-facing activity solution file here: [02-Week-05-Instructor Resources/Activities/02.1-01-POV-User-Insight-Statements_Instructor_Solution](https://drive.google.com/drive/u/0/folders/1IBiLiO958A-fXaUmrYi9Z4Lak6cWM3wk)
@@ -316,6 +341,7 @@ In this activity, students will create insight statements using the fill-in-the-
 
 **Connect this to real-life:** Be sure to tell students that real-world designers use insight statements regularly to deeply understand their user and to communicate who their user is to stakeholders in the business. For a designer, being able to communicate a user's issue concisely enables them to be compelling—and help stakeholders make informed decisions. 
 
+## SLIDE 19
 ## 4. Student Do: Peer Review (10 min)
 
 Call the class back to attention.
@@ -342,61 +368,12 @@ They are going to review one another's User Insights and discuss what they like 
 
 Remind students that the feedback they are giving and receiving here is very important; it will be the basis for iterating their user insight. 
 
-## 5. Student Do: User Insight Iteration (10 min)
+## SLIDE 20
+Review
 
-Call the class back to attention.
-
-Give students time to reflect on the feedback they received during the peer review, then iterate their user insight statements. 
-
-TAs—*set a timer for 10 minutes.*
-
-> Walk the room and address any quesitons that arise. Encourage students to consider the feedback they received, and continually ask, "What's at stake for my user?"
-
-Remind students to post their final User Insight Statement to Slack. 
-
-**Good Job!**
-Congratulate the students on writing—and *iterating*—their first User Insight Statements! This is one of many to come in their careers as designers.
-
-## 6. Instructor Do: Review (15 min)
-
-Call attention back to the front of the class.
-
-Use this time to facilitate a critique of the iterated User Insights. 
-
-*Follow the following steps for 2-4 students:* 
-
-1. Choose a file from Slack and open it.
-
-2. Have the student whose work it is share their thinking process with the class. 
-3. Ask the class:
-
-- *What is one thing you like about this insight?*
-
-- *What is one thing you would do differently?*
-
-4. Ask a TA:
-
-- *What is one thing you like about this insight?*
-
-- *What is one thing you would do differently?*
-
-Provide your feedback directly to the student—of their own work:
-
-- *What is one thing you like about this insight?*
-
-- *What is one thing you would do differently?*
-
-If you have time, choose a couple more files from slack and repeat the critique process.
-
-## 7. Instructor Do: "How Might We…?" Questions (10 min)
-
-> :pushpin: Your goal in this section is to define what a "How Might We…?" questions is, share examples of several HMW questions, and to prepare students to write their own HMW question *and* intelligently critique those of their classmates. 
-
-Start by defining How Might We questions.
+## SLIDE 21
 
 "How Might We…?" questions are short questions that launch brainstorms and spark ideation. They are short questions but *broad enough* for a wide range of solutions yet *narrow enough* that the team has boundaries for their ideas.
-
-Next, explain why How Might We questions are valuable. 
 
 "How Might We…?" questions are used to break up the user problem into smaller, actionable pieces. These pieces can be aspects of the larger problem or they can be challenges that are specific to a certain group of people that should be considered when creating a product or service for that group of people.
 
@@ -424,6 +401,10 @@ Finally, the very best way to understand "How Might We…?" questions is to see 
 
 - *How might we* make cat carriers alluring and safe-feeling to pets? 
 
+## SLIDE 23
+Review
+
+## SLIDE 24
 **How Might We questions - They have two parts**
 
 Designers create "How Might We…?" questions in two parts—one part problem and one part a statement of the resolution of the problem.
@@ -439,24 +420,10 @@ This impact statement describes the impact that the designers want the product t
 
 - *To increase the quality of life for a single day for a homeless person in Los Angeles.* 
 
-----
+## SLIDE 25
+Review
 
-**Optional: Additional Example**
-
-If you feel students would gain value from a second example, share the following: 
-
-***Part 01 Problem Identification:*** 
-
-- *Students find it difficult to avoid buying bottled water*
-- *Students wish it were easier to recycle plastic beverage bottles*
-- *Campuses have no water stations near the food courts.*
-
-***Part 02 Impact Statement***
-This impact statement describes the impact that the designers want the product to have—the end result, or the ultimate value of the app to the user.  For example: 
-
-- *To make it easy for students to fill their water bottles on campus.* 
-
-----
+## SLIDE 26
 
 To determine if a HMW question is good, designers use the following criteria to evaluate it:
 
@@ -464,12 +431,10 @@ To determine if a HMW question is good, designers use the following criteria to 
 2. **Does the question allow for a variety of solutions?** Yes, as there is no defined product, services or technologies to be used.
 3. **Does the question take into account context and constraints?** Yes, because it is clear that this is focused on homeless people in Los Angeles, a city where the design team is located. 
 
->  Take a moment to see if there are any questions in general about the material that's been covered.
->
-> *Use the "Ask and Wait" trick:*  wait 30 seconds after you ask your question before moving on. Usually a student will speak up!
+## SLIDE 27
+Questions??
 
-Now, it's time to invite students to write their own "How Might We…?" questions.
-
+## SLIDE 28
 ### 8. Student Do: "How Might We…?" Activity (10 min)
 
 > Note: For additional guidance, please see the instructor-facing activity solution file here:
@@ -511,18 +476,7 @@ This activity gives students further practice with looking at user problems (and
 
 **Support Students as They Learn**
 
-## 8. Student Do: How Might We Activity (10 min)
-
-TAs should circulate in the room as students work. You should, too. Be on the lookout for:
-
-- Students getting stuck creating a couple Problem Identification statements
-- Students struggling to write the concise Impact Statement
-- Student confusion around transforming the problem identification statements and impact statements into "How Might We…?" question(s).
-
-*Ask—Are there any questions about this activity?* 
-
-Get ready to call the class' attention back for a debrief and review. 
-
+## SLIDE 29
 ## 9. Instructor Do: "How Might We…?" Review (5 min)
 
 To reinforce your lesson on "How Might We…?" questions and to test for student competency, you can ask your students questions like these:
@@ -532,16 +486,24 @@ To reinforce your lesson on "How Might We…?" questions and to test for student
 
 Be sure to pause for any final, remaining questions about the "How Might We…?" concept.  
 
+
+## SLIDES 30-31
+Review
+
+## SLIDE 32
+Questions?
+
+## SLIDE 33
 ## 10. Break (15 min)
 
 Encourage students to get up from their desks. Everyone should get some fresh air, stretch, or have a few bites of food.   
 
 Have a nice break! 
 
-## 11. Instructor Do: How to Build A Problem Statement (15 min)
+## SLIDE 34
+Review
 
-> :pushpin: Your goal in this section is to help students understand what makes a good Problem Statement and prepare them to write their own.   
-
+## SLIDE 35
 The ability to write and present a solid problem statement is a skill of paramount importance to a designer. It's critical to the ability to clearly define problems as well as communicate opportunities to stakeholders in the business.
 
 Enviable skills are not easy to come by. Like all notable skills, they take practice to develop. Take the skill of negotiation, for example. It's a skill of paramount importance in professions like politics and law, and one that take a good deal of practice and a variety of techniques, too.
@@ -586,16 +548,26 @@ A Problem Statement *Should*...
 
 ----
 
+## SLIDE 36
+Review
+
+## SLIDE 37
+Review scenario
+
+## SLIDE 38
 How to Write a Problem Statement:
-
 1. Create an empathy map or user persona 
+
+## SLIDE 39
 2. Ask "How Might We…?" Questions
-3. Be sure to form a question that is actionable and addresses assumptions.
-4. Use a User painpoint to frame your statement.
 
-    - You articulate a Problem Statement by combining three elements – user, need, and insight.
+## SLIDE 40
+3. Build a point of view statement
 
-5. Choose a Single Problem on which to focus.
+## SLIDE 41
+4. Combine and complete the problem statement\- You articulate a Problem Statement by combining three elements – user, need, and insight.
+
+Choose a Single Problem on which to focus.
 
     - Many problems will be uncovered, some more interesting or critical than others.
 
@@ -603,100 +575,15 @@ How to Write a Problem Statement:
 
 **Example - Problem Statement**
 
-Let's say we have observed that Airbnb isn’t giving rental owners enough money. As a result, renters are using a different service.
+Let's say we have observed that Airbnb isn’t giving rental owners enough money. As a 
 
+## SLIDES 42-44
+Review
 
-*Our problem statement might look like this:*
+## SLIDE 45
+Questions??
 
-1. Use a user painpoint to frame your statement.
-
-**Airbnb was designed to achieve rental booking for individual homeowners. We have observed that Airbnb isn’t giving rental owners enough money and instant bookings, which is causing potential renters to use a different service. How might we improve Airbnb's booking process so that our customers are successful based on an increase in quarterly revenue, improved booking, and return visits to using the Airbnb app?**
-
-Help students appreciate the power of a problem statement, and point out that several tools helped them create it—the User Persona or Empathy Map, User Insight Statement, and the "How Might We…?" Question.
-
-### 12. Everyone Do: Adobe XD Demo (10 min)
-
-For this part, you're shifting gears to demoing software. Students may bristle a bit, or get anxious, so do your best to keep calm yourself. Why? Your calm nature will keep students calm.  
-
-Students must get familiar with Adobe XD. They also need practice writing problem statements. So, why not do both at once? 
-
-This is a "twofer" in the sense that students are gaining two skills at once:  
-
-1. Gaining a bit of practice with Adobe XD, which they'll need to be comfortable with for next week
-2. Gaining practice writing problem statements (and iterating them)
-
-Go ahead and give a demo of the main components of Adobe XD: 
-
-- The interface.
-
-- Menu bar.
-
-- Top horizontal panel.
-
-## 12. Everyone Do: Adobe XD Demo (10 min)
-
--Left toolbar
-
--Right-hand panel
-
-> As you walk through the demo, be sure to ask students if they have any questions about what they're seeing before moving on to the next section. 
-
-- **The interface:**
-
-  - When you launch Adobe XD, a “start window” will pop up.
-
-  - Here you can choose the size of your artboard.
-
-  - The artboard represents the screen of the app or the page of the website you are going to design.
-
-  - Once you choose an artboard to work with, you will see the main XD workspace.
-
-  ![Adobe XD](Images/Adobe-XD-01.jpg).
-
-- **The Menu Bar:**
-
-  - At the very top of the screen we have the classic Mac OS or Windows menu bar.
-
-  - You can explore and use all of these options from this menu.
-
-  ![Adobe XD](Images/Adobe-XD-02.png).
-
-- **The Top Horizontal Panel:**
-
-  - On the left, we have the “Design / Prototype” switch (1).
-
-  - When you are in Design mode you can make all those changes impacting the visual side of your project.
-
-  - On the right side, we can find the zoom dropdown menu (2), which I personally never use as we already have a zoom tool on the left side of the screen (which works great).
-
-  - The little phone icon next to it (3) allows you to preview your project on your mobile device by using the Adobe XD app, available for both iOS and Android.
-
-  - We have a little play icon (4) which allows you to preview your project directly on your computer.
-
-  - And finally, we have a share icon (5), allowing you to share your prototype with your clients, team members
-
-  ![Adobe XD](Images/Adobe-XD-03.png).
-
-- **The Left Toolbar:**
-
-  - Here we have all the main tools available in Adobe XD.
-
-  - Learn the shortcuts by heart as soon as possible. You will use most of these tools all the time, and the shortcuts will greatly speed up your workflow.  
-
-  - Review the shortcut image.
-
-  ![Adobe XD](Images/Adobe-XD-04.png).
-
-- **The Right-Hand Panel:**
-
-  - In this panel you can find several settings allowing you to view or change the properties of your objects:
-
-  - Review the image
-
-  ![Adobe XD](Images/Adobe-XD-05.png).
-
-It's incredibly important that students get comfortable using Adobe XD. In particular because next week students will be using it for prototyping.
-
+## SLIDE 46
 ## 13. Student Do: Problem Statement Activity (15 min)
 
 > Note: You can find instructor-facing guidance and insight for this activity here: (https://docs.google.com/document/d/19sIkbsYmSBnVa2psCElyNSV3OW-NRUqkup2p_SkQ8Is/edit#heading=h.wj8ojly88pl6)
@@ -731,45 +618,8 @@ Activity Instructions:
 
 Finally, have the students export their problem statements as .PNG file and share on Slack
 
-## 14. Student Do: Peer Review (10 min)
 
-Call the class back to attention. 
-
-Let students know that they will be sharing their problem statements with a partner, and critiquing them.  
-
-*Instructions:*
-
-1. First, students should pair up in groups of two and swap problem statements.
-
-2. Next, they should read and consider their partner's problem statement, asking themselves:
-
-   - *Does the statement define a clear problem and solution?*
-
-3. Finally, they should provide feedback using this format:
-
-   - "I think this is a compelling problem statement because…"
-     - Discuss 1-2 things that are positives
-   - "I think you could improve…" 
-     - Discuss 1-2 things that could be improved.
-
-## 15. Student Do: Problem Statement Iteration (10 min)
-
-Call the class back to attention.
-
-*TAs—Slack students the following link:* 
-
-https://drive.google.com/open?id=18QVjN3JcDO4RNG_p6bBbxbjzGk8644BHgXKA0_valPI
-
-Now it's time for students to iterate their problem statements.
-
-Let students know that they are going to review the feedback they received, and iterate their problem statements.  
-
-Suggest that students consider the following questions as they work:
-
-- What does this feedback tell me to try differently? 
-
-- How can I imporve my problem statement?  
-
+## SLIDE 47
 ## 16. Instructor Do: Review (15 min)
 
 First, call attention back to the front of the class. 
@@ -792,7 +642,6 @@ Then, lead the class in a peer critique.
 Try and give as much feedback on problem statement as possible.
 
 Next, choose 2-4 additional student problem statement from Slack, and repeat the critique process. 
-
 
 Finally, be sure to emphasize the importance of a problem statement. For example, if possible, draw from your own experience and share an anecdote about the moment you realized how powerful and persuasive a problem statement was in your own professional work. 
 
