@@ -80,12 +80,18 @@ We're going to talk about storytelling and focus on one of the three storytellin
 
 For context, storytelling and user scenarios both fall within the *Ideation* phase of the design thinking process. Developing stories about users helps designers form ideas and share those ideas (*idea*-tion) with their team and business stakeholders.  
 
+
+## SLIDES 1-4
+Review
+
+## SLIDE 5
 **Steve Job's Storytelling Quote**
 
 To begin, ask a TA or student to read the following Steve Jobs quote for the class—or divide it up between two students:
 
 *"The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come."* 
 
+## SLIDE 6
 **Storytelling and UX:**
 
 Humans have always told stories. UX desigers are no different.  
@@ -98,6 +104,8 @@ Humans have always told stories. UX desigers are no different.
 
 - The ability to tell a compelling story about your design that conveys its value is an important skill.
 
+
+## SLIDE 7
 **The Five Key Elements of Storytelling:**
 
 1. **Exposition:**  Main character (hero)
@@ -122,23 +130,24 @@ Humans have always told stories. UX desigers are no different.
 
 - Stories drive ROI because it helps designers communicate the story to the business and it helps the business understand how to sell the product.
 
+## SLIDE 8
+Review
+
+## SLIDE 9
+Review
+
+## SLIDE 10
+Questions??
+
+## SLIDE 11
+Review
+
+## SLIDE 12
 **User Scenarios**
 
 Now that we have a sense of how storytelling is a powerful tool in UX design, let's take a look at one of the three tools we'll be practicing today that will help us tell stories about our users: user scenarios.
 
 As a reminder, storytelling and the user scenarios that help us tell stories are both fall within the *Ideation* phase of the design thinking process. Developing stories about users helps designers form ideas and share those ideas (*idea*-tion) with their team and business stakeholders. 
-
-- **User scenarios** are short stories that clearly define how a user interacts with a product or service.
-
-  - They have three main components: persona, scenario, and goal(s).
-
-  - The _persona_ defines who the story is about.
-
-  - The _goal_ defines what the persona wants.
-
-  - The _scenario_ defines the when, where, and how.
-
-    ![Scenario Template](Images/03-UXStoryboarding_ScenarioBuilding.png)
 
 Why Do I Need User Scenarios?
 
@@ -152,8 +161,6 @@ When Do I Need User Scenarios?
 
   - So, pretty much always.
 
-Review the examples and point out that: *A good user scenario is short, relevant, and to the point.*
-
   - It answers the following questions:
 
     - Who is the user I’m designing for?
@@ -164,24 +171,29 @@ Review the examples and point out that: *A good user scenario is short, relevant
 
     - Why does this user come to my site and not anywhere else?
 
-How to Write a user scenario:
 
-- Walk through the steps for creating a user scenario.
 
-- We will be creating a scenario using the template in the upcoming activity.
+## SLIDE 13
+- **User scenarios** are short stories that clearly define how a user interacts with a product or service.
 
-Now students will get to practice writing their own user scenario. 
+  - They have three main components: persona, scenario, and goal(s).
 
-Remind them to keep it short and that their user scenario must cover the three key areas:
+  - The _persona_ defines who the story is about.
 
-Who.
+  - The _goal_ defines what the persona wants.
 
-Goals.
+  - The _scenario_ defines the when, where, and how.
 
-Action. 
+## SLIDE 14
+Review
 
-> Pause to see if there are any questions before summarizing the activity instructions for the class.
+## SLIDES 15-16
+Review
 
+## SLIDE 17
+Questions??
+
+## SLIDES 18-20
 ## 3. Student Do: User Scenario Activity (15 min)
 
 Slack students the following file:
@@ -201,42 +213,7 @@ They have the option to draw a user scenario grid by hand, or use either the Goo
 
 Students will generate a user scenario using Adobe XD.   
 
-## 4. Student Do: Peer Review (10 min)
-
-It's time for students to move on to Part Three in their activity. For this, they will be giving and receiving feedback with a partner.   
-
-**Instructions**
-
-First, students will share their user scenario with a classmate. Next, they will give one another feedback on their user scenarios. 
-
-They should follow the instructions in Part Three of their activity document. 
-
-*TAs—set a time for 10 minutes for students to iterate their user scenario.*
-
-**Outcome**
-
-Students will have taken notes on how their user scenario works well and how it can be improved. 
-
-With the feedback they have received on their user scenario, they will be preared to improve it with an iteration cycle—which is the next step. 
-
-## 5. Student Do: User Scenario Iteration (10 min)
-
-Now that they have input from the peer review, students will be eager to revise their user scenarios. They should spend no more than ten minutes doing so.   
-
-**Instructions**
-
-Working on their own again, students will iterate their user scenario based on the notes they took during their peer review session. 
-
-Be sure that students follow the instructions in parts Four and Five of their activity document. 
-
-*TAs—set a time for 10 minutes for students to iterate their user scenario.*
-
-**Outcome**
-
-Students will have created a revised version of their user scenario. 
-
-Next, you will lead the class in a review of their iterated user scenarios. 
-
+## SLIDE 21
 ## 6. Instructor Do: User Scenario Review (15 min)
 
 Call attention back to the front of the room.
@@ -263,14 +240,10 @@ Spend the remaining time of this review emphasizing the importance of user scena
 
 Now that you have introduced students to the simplest form of storytelling, a user scenario, it's time to move on to a more complex tool for visually expressing user scenarios—in the form of storyboards. Students can think of storyboards as a way of brining their user scenarios "to life."
 
-## 7. Instructor Do: Storyboards (10 min)
+## SLIDE 22
+Review
 
-> :pushpin: The goal of this section of the lesson is to show students what a storyboard does and prepare them to create their own. 
-
-Students' have put their user's needs into a specific, succinct format with their user scenario, and now it's time to bring that to life. They will bring it to life through creating a storyboard, which will visually convey how the scenario plays out. 
-
-Storyboards are part of the *Ideation* phase of the Design Thinking process. They are vehicles for generating ideas and telling richer stories about their users' problems and solutions to those problems. Storyboards also move designers closer to having the information they'll need to eventually develop a prototype of their design.
-
+## SLIDE 23
 **Storyboards**
 
 Storyboards help designers understand the flow of people's interaction with a product over time. Storyboards enables your team to iterate quickly.
@@ -299,6 +272,20 @@ Storyboards:
 
   - Empathic and engaging: As consumers, we empathize when we imagine ourselves in the shoes of a character.
 
+
+## SLIDES 24-28
+Review examples
+
+## SLIDE 29
+Questions??
+
+## SLIDE 30
+Review
+
+## SLIDES 31-32
+Review initial steps
+
+## SLIDE 33
 **How to Design a Storyboard**
 
   1. Choose a persona and scenario.
@@ -317,10 +304,13 @@ Storyboards:
 
   4. Distribute and iterate.
 
-Before students dive into getting practice with storyboards, put storyboards into context. Students should think of storyboards as a way to *expand on their user scenario* by adding visuals and a sequence of events to it.  
+## SLIDES 34-35
+Review
 
-Next, students will get practice sketching a storyboard for their user scenario. 
+## SLIDE 36
+Questions??
 
+## SLIDES 37-38
 ## 8. Student Do: Storyboard Activity (20 min)
 
 Slack students the following file and read through the instructions with them:
@@ -350,48 +340,8 @@ Feel free to review some [student examples](https://drive.google.com/drive/folde
 
 ![Rover Storyboard](Images/Storyboard_rover.jpg)
 
-## 9. Student Do: Peer Review (5 min)
 
-Call the class back to attention. 
-
-Students will now get some critical feedback from a classmate on their storyboards. They should spend no more than five minutes giving and receiving feedback with a partner.
-
-**Instructions**
-
-Each reviewer should provide feedback to their partner, and vice-versa, using the following format:
-
-- Note one or two things you like:
-  -  *I think this is a compelling story because…*
-- Note one or two things that could be improved: 
-  - *I think you could improve...**
-
-*TAs—set a time for 5 minutes for students to iterate their user scenario.*
-
-**Outcome**
-
-Students will have taken notes based on their partner's feedback. 
-
-> Any questions?
-> Students get an opportunity to iterate their storyboards—after the break.  
-
-## 10. Break (15 min)
-
-Encourage students to get up from their desks and get some fresh air, stretch, or take a few bites of food. Experiencing a brief change of scene will benefit students' learning. 
-
-Have a nice break!
-
-## 11. Student Do: Storyboard Iteration (10 min)
-
-Now that you and your students are refreshed, it's time to iterate on their storyboards with a fresh perspective. 
-
-For this iteration, they will incorporate the feedback they received from their partner. 
-
-> Emphasize the value of iteration.
->
-> UX scenarios and storyboards, and all other UX deliverables, are created in order to get feedback that helps them improve the story. Without iteration, designers execute poor designs that are riddled with assumptions.
-
-Note:  Students should refer to the instructions in Part Six of their Activity document. 
-
+## SLIDE 39
 ## 12. Instructor Do: Storyboard Review (10 min)
 
 Over the past 45 or so minutes, students have come to understand storyboards from several perspectives: they've *seen* an example of a storyboard, *heard* from you about the value of a storyboard, and have *created* and iterated a storyboard on their own. 
@@ -414,12 +364,13 @@ Call the class back to attention:
 
   - Ask your TAs if they have an experience to share about storyboards.
 
-## 13. Instructor Do: Customer Journey Map (10 min)
+## SLIDE 40
+BREAK
 
-> :pushpin: The goal of this section of the lesson is introducting journey mapping as a means to cataloging the path of a user and prepare students to create their own.
+## SLIDE 41
+Review
 
-We are now coming to the third and final of the three tools that students are learning today, journey mapping. To put journey mapping into context, explain that user journey maps continue the story that begain with the user scenarios that identified the issue of focus and was brought to life with the storyboards.  We'll now detail the story into steps in order to discover where gaps and issue exist. 
-
+## SLIDE 42
 **User Journey Maps**
 
 Journey Mapping:
@@ -446,50 +397,42 @@ Create a journey map **before** you start designing screens to ideate on differe
 
 A user journey is best used when you know there is a problem but you don’t know exactly where the problem is.
 
-**Journey Maps Tips:  Journey Maps Have 5 Key Parts**
+## SLIDES 43-45
+Review
 
-1. The User.
+## SLIDE 46
+Questions?
 
-   - Describes who the journey is about.
+## SLIDE 47
+Review
 
-2. The Scenario.
+## SLIDE 48
+  1. The User.  
+    - Describes who the journey is about.  
+  2. The Scenario.  
+    - Determines the specific experience to map.  
+    - Clarifies the user’s goal during this experience.
+  3. Phases, Actions, Mindsets  
+    - The heart of the map.thoughts  
+    - Describes what the user is doing, thinking during the journey.  
+    - Usually based on qualitative research.  
+    - Emotional journey
+  4. Touchpoints and Channels.  
+    - Aligns touchpoints and channels with user goals and actions  
+    - Touchpoints: Times when the user actually interacts with the product  
+    - Channels: Methods of communication or service delivery, such as the mobile app  
+  5. Insights and Ownership   
+    - The entire point of the journey-mapping process is to uncover gaps in the user experience. 
+    - Then we fill those gaps!  
+    - This is how we slowly turn someone into a long-term, loyal customer.
+ 
+## SLIDES 49-52
+Review
 
-   - Determines the specific experience to map.
+## SLIDE 53
+Questions??
 
-   - Clarifies the user’s goal during this experience.
-
-3. Actions, Mindsets, and Emotions.
-
-   - The heart of the map.thoughts
-
-   - Describes what the user is doing, thinking, and feeling during the journey.
-
-   - Usually based on qualitative research.
-
-4. Touchpoints and Channels.
-
-   - Aligns  touchpoints and channels with user goals and actions
-
-     - Touchpoints: Times when the user actually interacts with the product
-
-     - Channels: Methods of communication or service delivery, such as the mobile app
-
-5. Insights and Ownership
-
-   - The entire point of the journey-mapping process is to uncover gaps in the user experience.
-
-   - Then we fill those gaps!
-
-   - This is how we slowly turn someone into a long-term, loyal customer.
-
-NOTE:  Work through the Journey Map Examples on the slides.
-
-> Once you've completed the slides for the user journey section, pause for questions. 
->
-> See if the TAs have any thougths or observations to share about their experiences building user journey maps. 
-
-Students have now seen examples of user journey maps and heard what a journey map must accomplish as well as the key ideas a user journey map must convey. It's now time for students to get some hands-on practice creating their own user journey maps. 
-
+## SLIDE 54
 ## 14. Student Do: User Journey Map Activity (25 min)
 
 It's time for students to complete their final activity of the day: create a user journey map.
@@ -507,6 +450,7 @@ Remind students that they can check out examples in the Activity folder on the c
 
 Feel free to review some [student examples](https://drive.google.com/drive/folders/1D2J1ZwUxFYRE9-pbgj5ob8gaR9M7qvEX?usp=sharing]).
 
+## SLIDE 55
 ## 15. Instructor Do: User Journey Map Review (15 min)
 
 Call the class back to attention.
@@ -528,6 +472,9 @@ In this review, you will help students discuss and reflect on the value of journ
   - Ask your TAs if they have an experience to share about journey maps.
 
 Underscore for students that they have now three key tools to add to their toolkit 
+
+## SLIDES 56-57
+Review
 
 ### 16. Instructor Do: Recap and End Class (5 min)
 
