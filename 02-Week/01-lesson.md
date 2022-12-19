@@ -148,19 +148,13 @@ The design thinking process *isn't linear*, and that although you're moving line
 
 - *Analysis* 
 
-Analysis is about breaking down complex concepts and problems into smaller, easier-to-understand constituents. We do that, for instance, during the first stage of the Design Thinking process, the *Empathy/Research* stage, when we observe and document details that relate to our users. 
+Analysis is about breaking down complex concepts and problems into smaller, easier-to-understand constituents.
 
 - *Synthesis*
   
   By contrast, synthesis involves creatively piecing the puzzle together to form whole ideas. This happens during the *Definition* stage when we organize, interpret, and make sense of the data we have gathered to create a problem statement.
 
 ## SLIDE 6
-**Definition Phase and Problem Statement**
-
-Introduce the concept of a Problem Statement.
-
-*Remember how I said, "The goal of the Definition phase is to define a problem statement?" Anyone wonder how designers create problem statements?* 
-
 **Definition Phase and Problem Statement Components**
 
 Again, the goal of the *Definition* phase is to define a problem statement. 
@@ -211,14 +205,14 @@ User insights are the end-goal of all user research done by design teams. When d
 
   - Meaningful and memorable.
 
-  - Speak to your audience.
+  - Speak to your audience / be a summary of the target user group's needs
 
   - Inspire clear, direct action.
 
 ## SLIDE 10
 **User Insights - Tips for building great user insights**
 
-*TIP #1:  Share Relevant Insight.*
+*TIP #1:  Uncover what most of your users agree on.*
 
 - For example: Say 8 out of 10 people surveyed were unhappy with the restaurant options they found near their hotel.
 
@@ -264,29 +258,30 @@ The key to writing User Insights is to iterate them. So think of it as a two-ste
 
 Feel free to liken the following format to a MadLib game: 
 
-**[User / Persona]** needs to **[User / Persona Need]** because of **[surprising insight].**
+**[User / Persona]** needs to **[User / Persona Need]** because of **[surprising or valuable  insight - the "why"].**
 
 For example: 
 
-A **teenage boy** need more **nutritious food** because **vitamin are vital to good health.**
+A **new mother** needs more **nuritrious food,** because **vitamins are vital to good health for her and her baby**
+
+**Who** ... needs to **what**... because of **why**.
 
 ## SLIDE 14
 **Step 2: Consider your user**
 
 For example: 
 
-A **teenage boy with a bleak outlook** needs to **feel more socially accepted when eating healthy food,** because **in his neighborhood a social risk is more dangerous than a health risk.**
+A **new mother** needs more **nuritrious food,** because **vitamins are vital to good health for her and her baby**
 
-Remind students about the value of iteration, which is part and parcel to the design process. 
+Remember the value of iteration, which is part and parcel to the design process. 
 
 Writers say that “writing is editing”—because the stories they write come to life during the editing phase. It’s similar in the design field; in design, “design is iteration.”  
-
-*It's key that studnets get as much practice with iteration as possible, now and when they become paid UI designers*.   
+  
 
 Three things to keep in mind for the iteration of the User Insight:
 
-- Say *even more* about who the user is.
-- Expose more of their problem and need—expand on it.
+- Say *even more* about who the user is... don't just say "A user needs more..."
+- Expose more of their problem and need — expand on it.
 - Develop the insight more deeply, think: "What's at stake?"
 
 ## SLIDE 15
@@ -296,20 +291,20 @@ It's now time to iterate on our first assumption. Designers do this by thinking 
 
 For example: 
 
-A **teenage boy with a bleak outlook** needs to **feel more socially accepted when eating healthy food,** because **in his neighborhood a social risk is more dangerous than a health risk.**
+A new mother with limited sleep needs to feel more equipped to manage her nutrition, because stress and lack of healthy eating can lead to health risks for her and her baby.
 
 ## SLIDE 16
 **Step 4: Evaluate your user insight versions**
 
-It's important to look back at previous iterations in order to fully appreciate what iteration brings to design. Students should appreciate how significantly their insight statements improved after just one iteration! 
+It's important to look back at previous iterations in order to fully appreciate what iteration brings to design. Share in your homework and case study these iterations!
 
 Before:
 
-A **teenage boy** needs more **nutritious food** because **vitamin are vital to good health.**
+A **new mother** needs more **nuritrious food,** because **vitamins are vital to good health for her and her baby**
 
 After:
 
-A **teenage boy with a bleak outlook** needs to **feel more socially accepted when eating healthy food,** because **in his neighborhood a social risk is more dangerous than a health risk.**
+A new mother with limited sleep needs to feel more equipped to manage her nutrition, because stress and lack of healthy eating can lead to health risks for her and her baby.
 
 
 ## SLIDE 17
@@ -391,18 +386,26 @@ Some words that go well with How Might We questions include:
 
 - Create, develop, or modify
 
-Finally, the very best way to understand "How Might We…?" questions is to see examples of them. Here are a few sample HWM questions:  
-
-- *How might we* increase quality of life for a single day for homeless people in Los Angeles? 
-
+A few examples:
 - *How might we* make the airport experience more like a spa or playground for International travelers? 
 
 - *How might we* embrace and celebrate the dripping of an ice cream cone?
 
 - *How might we* make cat carriers alluring and safe-feeling to pets? 
 
+## SLIDE 22
+Review 
+
 ## SLIDE 23
-Review
+Let's say we've been given a challenge to solve something about new moms and nutirion/food habits. In this case, we haven't been given clarity as to what to solve but perhaps the organization has challenged us to find something to help increase sales to new moms of a particular health food.
+
+After conducting some user reserach, the team defined the insight:
+A new mother with limited sleep needs to feel more equipped to manage her nutrition, because stress and lack of healthy eating can lead to health risks for her and her baby.
+
+Some additional considerations we can explore in our solutions when ideating might be surrounding:
+1. What new mothers need to feel less stressed? Is there something we can provide?
+2. What healthy food habits are link with health risks - if any?
+3. In what way may sleep affect health and nutrition?
 
 ## SLIDE 24
 **How Might We questions - They have two parts**
@@ -412,24 +415,28 @@ Designers create "How Might We…?" questions in two parts—one part problem an
 ***Part 01 Problem Identification***
 This is a statement, or two or more, about the problems that exist for the user. It's a plain statement, written like fact. 
 
-1. People have blockers regarding donating to the homeless.
-2. Homeless people have blockers that prevent them from improving their quality of life for today.
+1. New mothers have blockers with being too tired to eat healthy.
+2. New mothers have societal and cultural pressures that impact behaavior.
 
 ***Part 02 Impact Statement***
 This impact statement describes the impact that the designers want the product to have—the end result, or the ultimate value of the app (or website) to the user.  For example: 
 
-- *To increase the quality of life for a single day for a homeless person in Los Angeles.* 
+- *To increase the quality of life of a new mother through increasing their healthy food habits.* 
 
 ## SLIDE 25
-Review
+HMW questions help us to reframe the problem.
+
+User insight: A new mother with limited time needs to feel nourished when eating healthy food, because of the demands that working and parenting create. 
+
+HMW: How might we help a new mother with limited time and at risk of poor health habits improve their quality of life through healthy eating?
 
 ## SLIDE 26
-
+Best practices for HMW  
 To determine if a HMW question is good, designers use the following criteria to evaluate it:
 
 1. **Is the question focused on ultimate impact?** Yes, because it has an outcome that may be measurable.
 2. **Does the question allow for a variety of solutions?** Yes, as there is no defined product, services or technologies to be used.
-3. **Does the question take into account context and constraints?** Yes, because it is clear that this is focused on homeless people in Los Angeles, a city where the design team is located. 
+3. **Does the question take into account context and constraints?** Yes, because it is clear that this is focused on new mothers' nutrition, which is being challenged by less time to prepare healthy food after the baby arrives. 
 
 ## SLIDE 27
 Questions??
@@ -504,13 +511,11 @@ Have a nice break!
 Review
 
 ## SLIDE 35
-The ability to write and present a solid problem statement is a skill of paramount importance to a designer. It's critical to the ability to clearly define problems as well as communicate opportunities to stakeholders in the business.
+The ability to write and present a solid problem statement is a skill of paramount importance to a designer. It's critical to have the ability to clearly define problems as well as communicate opportunities to stakeholders in the business. This takes time and practice.
 
-Enviable skills are not easy to come by. Like all notable skills, they take practice to develop. Take the skill of negotiation, for example. It's a skill of paramount importance in professions like politics and law, and one that take a good deal of practice and a variety of techniques, too.
+It takes applying tools and techniques to arrive at a good problem statement. A good problem statement isn't created by chance. And a great problem statement, like a great negotiation, reduces confusion and is extremely persuasive.
 
-Problem statements are similar, in that it takes applying tools and techniques to arrive at a good problem statement. A good problem statement isn't created by chance. And a great problem statement, like a great negotiation, reduces confusion and is extremely persuasive.
-
-Say — *Remember the three tools that you need in order to create a problem statement?* 
+The three tools that you need in order to create a problem statement?* 
 
 They are:  User Persona (or Empathy Map), User Insight Statement, and the "How Might We…?" Question. 
 
@@ -518,24 +523,16 @@ They are:  User Persona (or Empathy Map), User Insight Statement, and the "How M
 
 *A problem statement identifies the gap between the current state and the desired state of a process or product.* 
 
-Within the design context, you can think of the user problem as an unmet need. By designing a solution that meets this need, you can satisfy the user and ensure a pleasant user experience.
+Within the design context, you can think of the user problem as an unmet need. By designing a solution that meets this need, you can satisfy the user and ensure a pleasant user experience as well as ideally address needs of the business.
 
 Problem Statements are created at the very beginning of a project, in the *Definition* phase.
 
-  - Problem Statements are...
-      - Clearly describe a problem that needs to be addressed.
-      - State a vision and methods that will help solve the problem.
-      - Are meant to be shared, so they should be concise.
 
 A Problem Statement *Should*...
 
 - Describe a very specific problem in 1-2 sentences
 - Provide context for the problem  
-- Pizza vs. Pizza dropped on the street 
-- Define a clear outcome or solution: 
-- What business performance metric, or emotion, are you hoping this problem statement improves?
-- Be aware of business constraints: 
-- The real world dictates businesses need to make money. How much runway a team has to work on a problem is part of the business constraints.
+
 - A Problem Statement *Should Not*...
 
   - Provide a solution.
@@ -546,7 +543,6 @@ A Problem Statement *Should*...
 
   - Address multiple problems.
 
-----
 
 ## SLIDE 36
 Review
@@ -562,7 +558,7 @@ How to Write a Problem Statement:
 2. Ask "How Might We…?" Questions
 
 ## SLIDE 40
-3. Build a point of view statement
+3. Build a point of view statement... this combines the product (or service), the user, the need and the insight.
 
 ## SLIDE 41
 4. Combine and complete the problem statement\- You articulate a Problem Statement by combining three elements – user, need, and insight.
@@ -573,17 +569,12 @@ Choose a Single Problem on which to focus.
 
     - Ask yourself Five Why's to get to the real root of the problem.
 
-**Example - Problem Statement**
-
-Let's say we have observed that Airbnb isn’t giving rental owners enough money. As a 
+_Review problem statement_
 
 ## SLIDES 42-44
 Review
 
 ## SLIDE 45
-Questions??
-
-## SLIDE 46
 ## 13. Student Do: Problem Statement Activity (15 min)
 
 > Note: You can find instructor-facing guidance and insight for this activity here: (https://docs.google.com/document/d/19sIkbsYmSBnVa2psCElyNSV3OW-NRUqkup2p_SkQ8Is/edit#heading=h.wj8ojly88pl6)
@@ -619,7 +610,7 @@ Activity Instructions:
 Finally, have the students export their problem statements as .PNG file and share on Slack
 
 
-## SLIDE 47
+## SLIDE 46
 ## 16. Instructor Do: Review (15 min)
 
 First, call attention back to the front of the class. 
@@ -645,7 +636,7 @@ Next, choose 2-4 additional student problem statement from Slack, and repeat the
 
 Finally, be sure to emphasize the importance of a problem statement. For example, if possible, draw from your own experience and share an anecdote about the moment you realized how powerful and persuasive a problem statement was in your own professional work. 
 
-## SLIDES 48-57
+## SLIDES 45-56
 Review
 
 ## SLIDE 58
