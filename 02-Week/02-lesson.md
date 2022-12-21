@@ -66,8 +66,7 @@ Review
 
 ## SLIDE 5
 **Ideation & Brainstorming**
-
-You have truly entered the *Ideation* phase of the design process. This is the third "step" in the design cycle. 
+We finished our problem statements so we will now enter the *Ideation* phase of the design process. This is the third "step" in the design cycle. 
 
 The hallmark of the *Ideation* phase is brainstorming—i.e., structured mental free-thinking and creativity. A designer's goal is to spark ideas — in the form of questions and solutions — through creative and curiousity-driven activities.
 
@@ -90,25 +89,6 @@ To avoid confusion, keep in mind that while the terms ideation and brainstorming
 _Review methods_
 
 ## SLIDE 8
-Review
-
-## SLIDE 9
--
-- _I Like_ statements convey positive feedback about current processes, services or products
-  - Example: I like that Airbnb shows me reviews based off of communication
-
-- _I Wish_ statements convey desirable or even frustrated feedback.
-  - Example: I wish that Airbnb could show you a virtual tour.
-
-- _What If_ statements talk about distant future possibilities.  
-  - Example: What if Airbnb had a chat client so I could easily talk to hosts?
-
-- Feedback is best given with "I" statements. This method creates positive communication because it reframes statements from something negative to something positive.
-  - Example: “I sometimes feel you don’t listen to me” instead of “You don’t listen to a word I say.”
-  - Also, saying "I wish" is more positive than saying "I don't like."
-
-
-## SLIDE 10
 **IDEO 7 Rules of Brainstorming**:
 
 So how do we brainstorm? Well, IDEO - a famous design company - pioneered some basic rules.
@@ -128,8 +108,27 @@ So how do we brainstorm? Well, IDEO - a famous design company - pioneered some b
 7. Go for quantity! 
    - Good ideas to have lots and lots of ideas to choose from.
 
-## SLIDE 11
+## SLIDE 9
 Review
+
+## SLIDE 10
+Review
+
+## SLIDE 11
+- Brainstorming tool that looks at ideas in terms of the present, near future and distant future. The "i" here refers to your user although it could also be your stakeholder.
+
+- _I Like_ statements convey positive feedback about current processes, services or products
+  - Example: I like that Airbnb shows me reviews based off of communication
+
+- _I Wish_ statements convey desirable or even frustrated feedback.
+  - Example: I wish that Airbnb could show you a virtual tour.
+
+- _What If_ statements talk about distant future possibilities.  
+  - Example: What if Airbnb had a chat client so I could easily talk to hosts?
+
+- Feedback is best given with "I" statements. This method creates positive communication because it reframes statements from something negative to something positive.
+  - Example: “I sometimes feel you don’t listen to me” instead of “You don’t listen to a word I say.”
+  - Also, saying "I wish" is more positive than saying "I don't like."
 
 
 ## SLIDES 12-15
@@ -169,15 +168,19 @@ Review
 Review
 
 ## SLIDE 22
-WHAT  
-- Identifies most important problems to solve first
+**Feature Prioritization**
+
+**WHAT**  
+- Identifying the most important problems to solve first
 - Helps in achieving consensus
 - Helps in satisfying the needs of both the business and the user
 
-WHEN  
+**WHEN**  
 - When trying to determine what should be built and when based on value and feasibility
+- Adjusting a product roadmap
+- Braiinstorming ideas for new features or analyzing user research
 
-WHY  
+**WHY**  
 - Address user and business needs
 - Helps teams manage debt and bugs with current products
 
@@ -306,6 +309,9 @@ Review
 
 ## SLIDES 50-52
 _Read below then review slides_
+
+NOTE WHAT WE HAVEN'T DONE YET TONIGHT - created visuals of designs. It's important to spend some time in the user and problem needs before getting into layouts
+
 **Why Value Propositions?**
 
 A value proposition is a one-sentence description of what benefits a product or service provides, for whom, and how. They are reasons a user chooses one product over another. 
