@@ -69,7 +69,7 @@ Review
 
 You have truly entered the *Ideation* phase of the design process. This is the third "step" in the design cycle. 
 
-The hallmark of the *Ideation* phase is brainstorming—i.e., structured mental free-thinking and creativity. A designer's goal is to spark ideas — in the form of questions and solutions — through creative and curious activities.
+The hallmark of the *Ideation* phase is brainstorming—i.e., structured mental free-thinking and creativity. A designer's goal is to spark ideas — in the form of questions and solutions — through creative and curiousity-driven activities.
 
 
 ## SLIDE 6
@@ -85,19 +85,24 @@ To avoid confusion, keep in mind that while the terms ideation and brainstorming
 
 *Brainstorming:* a method for generating a high volume of fresh ideas—i.e., using tools like games, pens and paper, and short bursts of time in order to think outside the box.
 
+- We use brainstorming anytime we need to generate ideas. This could be for solutions to design problems, process problems or even people problems.
+
+_Review methods_
 
 ## SLIDE 8
 Review
 
 ## SLIDE 9
-- This is a simple and extremely useful method to structure feedback.
-- This format can be used by teams of two or as many as 100 people.
-- _I Like_ statements convey positive feedback.
+-
+- _I Like_ statements convey positive feedback about current processes, services or products
   - Example: I like that Airbnb shows me reviews based off of communication
-- _I Wish_ statements convey negative feedback.
+
+- _I Wish_ statements convey desirable or even frustrated feedback.
   - Example: I wish that Airbnb could show you a virtual tour.
-- _What If_ statements talk about the distant future.
+
+- _What If_ statements talk about distant future possibilities.  
   - Example: What if Airbnb had a chat client so I could easily talk to hosts?
+
 - Feedback is best given with "I" statements. This method creates positive communication because it reframes statements from something negative to something positive.
   - Example: “I sometimes feel you don’t listen to me” instead of “You don’t listen to a word I say.”
   - Also, saying "I wish" is more positive than saying "I don't like."
@@ -182,7 +187,7 @@ Review
 ## SLIDE 24
 **Feature Prioritization** - The Feature Prioritization Matrix
 
-Feature prioritization is how designers decide what features or experiences stay and what gets cut or postponed. It's the process of deciding what should be built when, based on what will bring most value to the user and what is feasible. 
+Feature prioritization is how teams decide what features or experiences stay and what gets cut or postponed. It's the process of deciding what should be built when, based on what will bring most value to the user and what is feasible. 
 
 Almost always, the priority is based on what will bring the most value to the user, as well as what is financially feasible. Features are expensive (hence tech salaries).
 
@@ -223,18 +228,6 @@ Scope Creep:
 
 - **Scope creep** is what happens when you ignore feature prioritization and product market fit.
 - This is the death of projects.
-
-**How to Prioritize Features**
-
-- Create a 2-by-2 matrix with Priorities and Impact as your x and y axes.
-
-- Write your favorite 8-10 ideas on sticky notes.
-
-- Arrange sticky notes by priority and impact, factoring in your user persona.
-
-> Pause long enough for a few questions to arise. 
->
-
 
 ## SLIDE 29
 Review MoSCoW
@@ -296,22 +289,22 @@ BREAK
 ## SLIDE 34
 Review
 
-## SLIDES 35-46
-Reviwe
-
-## SLIDE 47
-Questions??
-
-## SLIDE 48
-Value Proposition Canvas and Statement
-
-## SLIDE 49
-Value Prop Review
-
-## SLIDE 50
+## SLIDES 35-45
 Review
 
-## SLIDES 51-54
+## SLIDE 46
+Questions??
+
+## SLIDE 47
+Value Proposition Canvas and Statement Activity
+
+## SLIDE 48
+Value Prop Canvas Activity Review
+
+## SLIDE 49
+Review
+
+## SLIDES 50-52
 _Read below then review slides_
 **Why Value Propositions?**
 
@@ -347,6 +340,9 @@ A few examples of Value Propositions:
 
 
 Guess what? That's it! 
+
+## SLIDE 53
+Questions?
 
 ### 15. Instructor Do: Recap and End Class (1 min)
 
