@@ -94,15 +94,25 @@ To begin, ask a TA or student to read the following Steve Jobs quote for the cla
 ## SLIDE 6
 **Storytelling and UX:**
 
-Humans have always told stories. UX desigers are no different.  
+**WHAT**  
+Storytelling in UX helps to build empathy for the user through putting the audience in their shoes. As designers, we need to be able to capture the interest and attention of our stakeholders through sharing insights in a memorable way. This is important to help build support for design within the organization and empathy for the user.
 
-- As we try to design new experiences, there is a lot we can learn from storytelling.
+We use a mix of metaphors, memories, narration and analogies to help our audience think and engage with our designs in a human-centered way.
 
-- In user experience design, we invent things people have never experienced before.
+**WHEN & WHY**  
+- To make user information more digestable to stakeholders
+- To simplify complex ideas or actions
+- When giving presentations on our work or users
+- When communicating to our users about how to interact with our brands or product
 
-- People share experiences through stories.
+**METHODS**
+- Personas
+- User scenarios
+- Research
+- Point of View statements
+- Storyboards & story maps
+- Customer & user journeys
 
-- The ability to tell a compelling story about your design that conveys its value is an important skill.
 
 
 ## SLIDE 7
@@ -110,8 +120,8 @@ Humans have always told stories. UX desigers are no different.
 
 1. **Exposition:**  Main character (hero)
    - Remember that your user is the hero.
-
    - Your product (or service/brand) is not the hero.
+
 2. **Rising Action**: Introduces the conflict
   - Explains *why* the conflict is important and *how* it affects the characters.
 
@@ -126,12 +136,11 @@ Humans have always told stories. UX desigers are no different.
 5. **Resolution:**  Goal Achievement
    1. The story ends and it should be satisfying to most readers.
 
-*Stories are Good Business:* 
-
 - Stories drive ROI because it helps designers communicate the story to the business and it helps the business understand how to sell the product.
 
+
 ## SLIDE 8
-Review
+According to psychologists Melanie Green and Tim Brock, the more immersed a reader is in a story, the more the story changes them.
 
 ## SLIDE 9
 Review
@@ -176,7 +185,7 @@ When Do I Need User Scenarios?
 ## SLIDE 13
 - **User scenarios** are short stories that clearly define how a user interacts with a product or service.
 
-  - They have three main components: persona, scenario, and goal(s).
+  - They have three main components: **persona, scenario, and goal(s)*.
 
   - The _persona_ defines who the story is about.
 
@@ -184,16 +193,17 @@ When Do I Need User Scenarios?
 
   - The _scenario_ defines the when, where, and how.
 
+
 ## SLIDE 14
 Review
 
-## SLIDES 15-16
+## SLIDE 15
 Review
 
-## SLIDE 17
+## SLIDE 16
 Questions??
 
-## SLIDES 18-20
+## SLIDES 17-19
 ## 3. Student Do: User Scenario Activity (15 min)
 
 Slack students the following file:
@@ -213,7 +223,7 @@ They have the option to draw a user scenario grid by hand, or use either the Goo
 
 Students will generate a user scenario using Adobe XD.   
 
-## SLIDE 21
+## SLIDE 20
 ## 6. Instructor Do: User Scenario Review (15 min)
 
 Call attention back to the front of the room.
@@ -240,10 +250,10 @@ Spend the remaining time of this review emphasizing the importance of user scena
 
 Now that you have introduced students to the simplest form of storytelling, a user scenario, it's time to move on to a more complex tool for visually expressing user scenarios—in the form of storyboards. Students can think of storyboards as a way of brining their user scenarios "to life."
 
-## SLIDE 22
+## SLIDE 21
 Review
 
-## SLIDE 23
+## SLIDE 22
 **Storyboards**
 
 Storyboards help designers understand the flow of people's interaction with a product over time. Storyboards enables your team to iterate quickly.
@@ -273,16 +283,16 @@ Storyboards:
   - Empathic and engaging: As consumers, we empathize when we imagine ourselves in the shoes of a character.
 
 
-## SLIDES 24-28
+## SLIDES 23-27
 Review examples
 
-## SLIDE 29
+## SLIDE 28
 Questions??
 
-## SLIDE 30
+## SLIDE 29
 Review
 
-## SLIDES 31-32
+## SLIDES 30-32
 Review initial steps
 
 ## SLIDE 33
@@ -304,13 +314,13 @@ Review initial steps
 
   4. Distribute and iterate.
 
-## SLIDES 34-35
+## SLIDE 34
 Review
 
-## SLIDE 36
+## SLIDE 35
 Questions??
 
-## SLIDES 37-38
+## SLIDES 36-37
 ## 8. Student Do: Storyboard Activity (20 min)
 
 Slack students the following file and read through the instructions with them:
@@ -341,7 +351,7 @@ Feel free to review some [student examples](https://drive.google.com/drive/folde
 ![Rover Storyboard](Images/Storyboard_rover.jpg)
 
 
-## SLIDE 39
+## SLIDE 38
 ## 12. Instructor Do: Storyboard Review (10 min)
 
 Over the past 45 or so minutes, students have come to understand storyboards from several perspectives: they've *seen* an example of a storyboard, *heard* from you about the value of a storyboard, and have *created* and iterated a storyboard on their own. 
@@ -364,13 +374,13 @@ Call the class back to attention:
 
   - Ask your TAs if they have an experience to share about storyboards.
 
-## SLIDE 40
+## SLIDE 39
 BREAK
 
-## SLIDE 41
+## SLIDE 40
 Review
 
-## SLIDE 42
+## SLIDE 41
 **User Journey Maps**
 
 Journey Mapping:
@@ -397,16 +407,16 @@ Create a journey map **before** you start designing screens to ideate on differe
 
 A user journey is best used when you know there is a problem but you don’t know exactly where the problem is.
 
-## SLIDES 43-45
+## SLIDES 42-44
 Review
 
-## SLIDE 46
+## SLIDE 45
 Questions?
 
-## SLIDE 47
+## SLIDE 46
 Review
 
-## SLIDE 48
+## SLIDE 47
   1. The User.  
     - Describes who the journey is about.  
   2. The Scenario.  
@@ -426,13 +436,13 @@ Review
     - Then we fill those gaps!  
     - This is how we slowly turn someone into a long-term, loyal customer.
  
-## SLIDES 49-52
+## SLIDES 48-51
 Review
 
-## SLIDE 53
+## SLIDE 52
 Questions??
 
-## SLIDE 54
+## SLIDE 53
 ## 14. Student Do: User Journey Map Activity (25 min)
 
 It's time for students to complete their final activity of the day: create a user journey map.
@@ -450,7 +460,7 @@ Remind students that they can check out examples in the Activity folder on the c
 
 Feel free to review some [student examples](https://drive.google.com/drive/folders/1D2J1ZwUxFYRE9-pbgj5ob8gaR9M7qvEX?usp=sharing]).
 
-## SLIDE 55
+## SLIDE 54
 ## 15. Instructor Do: User Journey Map Review (15 min)
 
 Call the class back to attention.
@@ -473,7 +483,7 @@ In this review, you will help students discuss and reflect on the value of journ
 
 Underscore for students that they have now three key tools to add to their toolkit 
 
-## SLIDES 56-57
+## SLIDES 55-56
 Review
 
 ### 16. Instructor Do: Recap and End Class (5 min)
