@@ -141,19 +141,16 @@ Creating user flows and wireframes are key skills for UX/UI designers, which the
 
 Start by defining usability and providing examples. Then move on to define and give examples of heuristics. Finally, walk through the 10 usability heuristics. 
 
-### Review the Quote by Steve Krug
+
+## SLIDES 1-4
+Review
+
+## SLIDE 5
+- As designers, our goal is to build products that are easy to use. Share UX author Steve Krug's quote: "Usability really just means making sure that something works well: that a person of average ability and experience can use the thing—whether it’s a website, a toaster, or a revolving door—for its intended purpose without getting hopelessly frustrated."
 
 Steve Krug is a UX designer and is best known for his book *Don't Make Me Think* about human-computer interaction and web usability.
 
-> **Ask:** "How many students have read his book Don't Make Me Think?"
-
-- Recommend reading it and having in your UX library. 
-
-### Usability
-
-Today we'll create wireframes, make prototypes, and conduct usability testing.
-
-- As designers, our goal is to build products that are easy to use. Share UX author Steve Krug's quote: "Usability really just means making sure that something works well: that a person of average ability and experience can use the thing—whether it’s a website, a toaster, or a revolving door—for its intended purpose without getting hopelessly frustrated."
+## SLIDE 6
 
 "Usability" refers to how easy it is to use a product, or not, and what makes it so. 
 
@@ -165,36 +162,23 @@ Today we'll create wireframes, make prototypes, and conduct usability testing.
 - **Errors** measure how many errors users make, how severe these errors are, and how easily they can recover from the errors?
 - **Satisfaction** assesses how pleasant it is to use the design.
 
-Start with usability heuristics—universally applied design practices—to give students a foundation for the concepts they'll learn today and in later lectures.
 
-### What Is a Heuristic?
+## SLIDE 7
+Review
 
-A *heuristic* is a broad rule of thumb that most designs follow.  
-
-- The benefit of heuristic principles is the ease with which designers can identify usability issues in their prototypes.  
-
-> :globe_with_meridians: **Online Recommendations:** Ask students to raise their hands to their screens or post comments in Slack. ***Ask students to respond:*** "Does anyone already know what heuristics are?"
-
-> :gem: **Designer Insight:** Share briefly about the role heuristics play in your own work, or played in the early days of your design work. 
-
-**TAs,** slack out the link to designer Jakob Nielsen's *Prioritizing Web Usability* for students to read after class: [https://www.amazon.com/Prioritizing-Web-Usability-Jakob-Nielsen/dp/0321350316](https://www.amazon.com/Prioritizing-Web-Usability-Jakob-Nielsen/dp/0321350316)
-
-> :briefcase: **Employer Competitive Note:** Real-world designers use usability heuristics when conducting UX/UI design audits, when considering UI design patterns for wireframes, and when creating interactions for prototypes. These skills should be added to your resume and LinkedIn skills profile during office hours or at home. 
-
-### Usability Heuristics
-
+## SLIDE 8
 - Help us identify problem areas and potential opportunities for improvement.
 
 - Let us know: How do we stack up? How do we fare among competitors?
 
 - Are like a diagnostic tool on your UX tool belt.
 
-> **Instructor Note:** Take questions before walking through the 10 common usability heuristics. Make sure these new concepts are resonating with students. 
->
-> :gem: **Designer Insight:** If there are no questions, invite a TA to speak to how heuristics play a role in their design projects. 
+**TAs,** slack out the link to designer Jakob Nielsen's *Prioritizing Web Usability* for students to read after class: [https://www.amazon.com/Prioritizing-Web-Usability-Jakob-Nielsen/dp/0321350316](https://www.amazon.com/Prioritizing-Web-Usability-Jakob-Nielsen/dp/0321350316)
 
-Jakob Nielsen of the Nielson Norman Group (NN/g) created 10 general principles for usability heuristics (with examples on the slides).
+## SLIDE 9
+Review fast
 
+## SLIDE 10
 ### The 10 Common Usability Heuristics
 
 Usability heuristics from Jakob Nielsen:
@@ -203,42 +187,45 @@ Usability heuristics from Jakob Nielsen:
   - Here, we see users informed of status with a progress bar.
   - Here, we see users informed of status with the color red emphasizing departure time.
 
+
+## SLIDE 11
 **2. Match between the system and the real world:** Here, we see a digital credit card form match up with a physical credit card interface.
 
+
+## SLIDE 12
 **3. User control and freedom:** Here, we see how you can undo an email sent to the trash in Gmail.
 
+
+## SLIDE 13
 **4. Consistency and standards:** Here, we see two buttons that do the same thing but have different colors. We want to avoid this.
 
+
+## SLIDE 14
 **5. Error prevention:** Here, we see a password strength meter, which is common when you create a new account, especially a new password.
 
+
+## SLIDE 15
 **6. Recognition rather than recall:** Here, we see how Bing lets you browse your search history to revisit recent searches you might have forgotten.
 
+## SLIDE 16
 **7. Flexibility and efficiency of use:** Here, we see Microsoft Outlook hide the Advanced Settings so the majority of users can focus on signing up.
 
+## SLIDE 17
 **8. Aesthetic and minimalist design:** Here, we see how Google has stripped away all unnecessary elements to perform a search. There is only a textbox.
 
+## SLIDE 18
 **9. Help users recognize, diagnose, and fix errors:** Here, we see a sign-up form with a helpful error message.
 
+## SLIDE 19
 **10. Help and documentation:** Here, we see available documentation, which is particularly useful for complex, technical products.
 
   - **TAs,** Slack out for students to read at home: [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
-> **Instructor Note:** Pause for final questions and check in with your students. Let them know they will not be an expert in usability heuristics right out of the gate but will grow their skill over time. 
 
-> :globe_with_meridians: **Online Recommendation:** Ask students to raise their hands and offer two to three examples of a heuristic principle.
+## SLIDE 20
+Review
 
-You have defined *usability heuristics* and provided a list of 10 principles for evaluating designs. Now, reinforce students' knowledge with an interactive group quiz.
-
-## 3. Student Do: Usability Heuristics Quiz Activity (10 min)
-
-> :pushpin: **Important Point:** Your goal is to interactively engage students in a quiz about heuristics in order to help them grasp the concept.
-
-> :globe_with_meridians: **Online Recommendation:** ***Make this quiz as engaging and interactive as possible*** by first "testing" that students' hands work. Ask everyone to mimic your actions as you hold up one finger, then two fingers, etc. to their Zoom camera. TAs, do a quick count and share the class sentiment. 
-
-Now that students know how to answer the quiz questions, go ahead and walk through the quiz slides. 
-
-> :globe_with_meridians: **Online Recommendation:** Share your screen for both the quiz and for walking through the quiz answers.
-
+## SLIDES 21-30
 - **Google Drive**: Shows the status of document upload.
   - *Answer: Visibility of system status.*
 - **Facebook**: This principle can be best illustrated by the Facebook app, as it checks on me if I tapped “Cancel” by mistake.
@@ -250,20 +237,13 @@ Now that students know how to answer the quiz questions, go ahead and walk throu
 - **Apple**: Apple's minimalist website provides only the necessary information on features while hiding additional information.
   - *Answer: Aesthetic and minimalist design.*
 
-> **Instructor Note:** Pause to take questions before moving on to competitor analysis.
+## SLIDE 31
+Questions?
 
-- Provide context: Let students know that they'll apply everything they just learned about usability and the 10 Usability Heuristics to their testing work—which is up next. Usability is a USP (unique selling proposition) for software and can give your software a competitive advantage over other software solutions. 
+## SLIDE 32
+Review
 
-## 4. Instructor Do: Competitor Analysis (10 min)
-
-> :pushpin: **Important Point:** Your goal is threefold: explain how product features drive the business side of UX, how heuristics can help us evaluate competitors' products, and how to perform an analysis of available competitive products. This lecture reinforces today's second learning objective, which is for students to conduct a competitor analysis for their onboarding user flow.
-
-First, you'll define competitor analysis and why it's useful to designers. Then you'll discuss how UX/UI designers use this type of analysis to make better products for users.
-
-Start off with an anecdote about competitor analysis: 
-
-> :gem: **Designer Insight:** Share briefly about how competitive analysis has impacted product iteration in your work. 
-
+## SLIDE 33
 ### How Do Designers Learn About and Evaluate Products?
 
 Every designer works for a company that wants to make money and stay in business. In the United States, we have a free market with open competition. Businesses seek a competitive advantage to outperform competitors.
@@ -275,7 +255,7 @@ For anyone starting to design a new product, it is critical to make sure it has 
 
 Competitor analysis is the research and identification of competitors and their strengths and weaknesses relative to those of your own product or service. Most designers use a spreadsheet of some kind to organize their data about competitors, which they then analyze in order to draw insights from the information.
 
-> :briefcase: **Employer Competitive Note:** Real-world designers continuously evaluate what the competition is doing. If they don't know what features a competitive product has, they could release something that already exists. But if they know what competitors are doing, they can make a unique product. Competitive analysis should be present in your portfolios and as skill on your resume and LinkedIn skills profile. 
+Real-world designers continuously evaluate what the competition is doing. If they don't know what features a competitive product has, they could release something that already exists. But if they know what competitors are doing, they can make a unique product. Competitive analysis should be present in your portfolios and as skill on your resume and LinkedIn skills profile. 
 
 ### Why and When to Perform Competitor Analysis
 
@@ -299,6 +279,7 @@ Competitor analysis is the research and identification of competitors and their 
 
 - Working on competitor analysis early ensures that the problems designers define and the solutions they ideate and prototype are not already on the market. If competitors have addressed the problem, have they done it effectively, or is there an opportunity to do it better?
 
+## SLIDE 34
 ### Two Main Types of Competition
 
 Most products have three to five key competitors. It's important to analyze what competitors are doing well and what they are not doing well. Analyzing competition increases your chances of developing a unique and competitive product.  
@@ -307,12 +288,25 @@ Most products have three to five key competitors. It's important to analyze what
 
 - *Indirect competition:* Conflict between vendors whose products or services are not the same, but that could satisfy the same consumer need. For example, consider Uber versus driving one's own car and who makes that car (car manufacturers).
 
+## SLIDE 35
+Review
+
+## SLIDE 36
 ### Two Popular Methods for Competitor Analysis
 
 1. *Feature inventory:* Feature inventory tracks a list of features available across all of your competitors as a way to compare features, to identify gaps in the competition or yourself, and to help prioritize features.
 
+## SLIDE 37
+Review
+
+## SLIDE 38
 2. *SWOT analysis:* SWOT analysis is a strategic planning technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats related to competitors’ products and services.
 
+
+## SLIDE 39
+Review
+
+## SLIDE 40
 ### How to Perform a Competitor Analysis
 
 Imagine we work on a UX team that is designing a car insurance quote app. In our design thinking process, we have just narrowed down and prioritized our ideas and features. It's the perfect time to evaluate the competition.
@@ -320,17 +314,18 @@ Imagine we work on a UX team that is designing a car insurance quote app. In our
 - First, identify competitors.
   - Identify both *direct* and *indirect* competitors.
 
+
+## SLIDE 41
 - Second, take screenshots as we analyze competing products.
   - Evaluate and annotate things they do well and poorly using the plus/delta model or the feature inventory method.
 
+## SLIDE 42
 - Finally, we turn our notes into a detailed deliverable (i.e., a competitive grid).
 
-> **Instructor Note:** Take questions about the concept of competitor analysis before moving onto the activity. 
 
 - **TAs,** share this article for students to read after class: [https://www.wsj.com/articles/youre-not-just-binge-watching-netflix-youre-having-an-experience-11582297230](https://www.wsj.com/articles/youre-not-just-binge-watching-netflix-youre-having-an-experience-11582297230).
 
-In the following activity, students will apply this knowledge by creating their own competitor analysis. Students will draw from their knowledge about user onboarding, which we discussed last class. The activity gives them a chance to think about the business side of UX design.
-
+## SLIDE 43
 ## 5. Student Do: Competitor Analysis Activity (25 min)
 
 **TAs,** Slack out the activity files to students:
@@ -371,6 +366,7 @@ To do this, students will search for competitors of NSURE online. They will iden
 
 Students will post a link to their competitor analysis grid that shows their analysis of four of NSURE's competitors in Slack. 
 
+## SLIDE 44
 ## 6. Instructor Do: Competitor Analysis Activity Review (15 min)
 
 Close the breakout rooms and attract everyone's attention back to your screen. 
@@ -412,14 +408,11 @@ Finally, wrap up by sharing some common FAQs or misconceptions about competitor 
 
 > **Instructor Note:** Take any final questions and then move on to your lecture about iteration.
 
-## 7. Instructor Do: Iterations in the Design Process (2 min)
 
-> :pushpin: **Important Point:** Communicate to students the value of iteration in the design process. Students are about to dive back into their user flow diagrams they started in the last class.
+## SLIDE 45
+Review
 
-Here you'll define iteration and emphasize its importance in the real world of UX/UI and discuss the process and importance of validating assumptions.
-
-### Iteration:
-
+## SLIDE 46
 Iteration among designers and stakeholders is the main tool we have to improve a solution. 
 
 - "Iteration" is the revision process, often on an ongoing basis, informed by feedback from users, a design team, testing, and stakeholders. 
@@ -428,24 +421,15 @@ Iteration among designers and stakeholders is the main tool we have to improve a
 
 - The importance of seeing the design process from this approach addresses the need to improve our capabilities to explore, validate, and improve our solutions effectively. Imagine a design solution as a car passing through an assembly line in a factory, and every iteration is like an assembly station where we shape the solution a bit more every time until the final product has fewer possibilities to fail when it’s confronted with the user’s context.
 
-> :gem: **Designer Insight:** Invite a TA to speak to the power of iteration in their work with clients or recount consequences that came with failing to iterate if they've had that experience. 
->
-> - Feel free to briefly share your own professional anecdote as well.
-
 ### Validating Assumptions
 
 This is the phase where solutions are reviewed to validate our assumptions. It's not just about asking for feedback. The real goal should be to confront the possible solutions resulting from the previous phase, with simulated realities. If the previous phase was about making questions, this is the phase where these questions find answers in the form of inputs.
-
-> :gem: **Designer Insight:** Share a professional insight about validating assumptions. Consider what it takes for a designer to strengthen this skill in themselves and share your thoughts. 
 
 We'll return to the concept of validating assumptions later in the boot camp when we dive into user testing. For today, let's train our focus on user flows, wireframes, and prototypes. 
 
 For now, here's what you should know about validating assumptions: do not assume that because you are a UX/UI designer you know better. Yes, we care a lot about solving and improving a user's experience. However, our users will be the judge, jury, and sometimes executioner. **Remember: YOU ARE NOT THE USER!**
 
-> **Instructor Note:** Before moving on to the activity, see if students have questions about the concepts of iteration or validating assumptions.
-
-Next, move on to the continuation of the user flow onboarding activity from last class. 
-
+## SLIDE 47
 ## 8. Student Do: User Flow Onboarding Activity, Continued From Last Class (10 min)
 
 > :pushpin: **Important Point:** In the last class (Lesson 3.1), students started designing a user flow for a fictional mobile app startup called NSURE. Today, students will wrap up the activity. 
@@ -472,6 +456,7 @@ Students will continue working on their user flows from the previous class for t
 **Finally, have students submit their deliverable:**
 Students should generate a task flow as well as a user flow in Figma. Have them share their deliverables on Slack. 
 
+## SLIDE 48
 ## 9. Instructor Do: User Flow Onboarding Activity Review (15 min)
 
 Call everyone's attention back to a review. 
@@ -511,6 +496,7 @@ Students should now understand how user flow differs from the task flow. User fl
 
 > **Instructor Note:** Pause to see if there are any questions from the class. If there's time, ask TAs to share some final thoughts on the review or user flow in general. User flows are hard, so if students are struggling, encourage them to come to office hours or request a creative coaching session through their SSM.
 
+## SLIDE 49
 ## 10. Break (10 min)
 
 Brain breaks are critical to learning, so encourage students to get up from their laptops at home.
@@ -520,27 +506,13 @@ Everyone should get some fresh air, stretch, or have some food.
 
 Let students know that you'll be discussing wireframes after the break. 
 
-## 11. Instructor Do: Wireframes (10 min)
+## SLIDE 50
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to introduce students to wireframes. We will dive deeper into wireframing and prototyping in the next class. This lecture supports the fourth, and final, of today's learning objectives, which is to sketch paper wireframes for a mobile app.
-
-You'll start by engaging the class in defining wireframes and their usefulness to UX/UI designers. You'll walk through examples of their use and end by providing some wireframing tips.
-
-***Start by engaging the class.***
-
-> **Ask:** "Does anyone know what a wireframe is, or want to guess?"
-
-> :globe_with_meridians: **Online Recommendation:** Students can raise their hands to respond as well as post comments in Slack.
-
+## SLIDE 51
 ### Wireframes Overview
 
 Wireframes are a visual way for designers to translate user flows into a very basic design of an app or site experience. Designers start the wireframing process with sketching on paper and then iterate from there into a digital wireframe.
-
-> :gem: **Designer Insight:** Help students grasp the wireframe concept and its usefulness by sharing how they play a role in your work. 
-
-Remind students that last class they learned about user flows and point out that wireframes are based on the information that comes from the task flow analysis and user flow process. It is the next logical step in the design thinking process.
-
-> **Instructor Note:** Put this learning into context: Wireframing sits within the ideation and prototyping stages of the design thinking process.
 
 ### How Wireframes Communicate
 
@@ -554,54 +526,58 @@ Wireframes are a way for designers to communicate to developers how they intend 
 
 > :briefcase: **Employer Competitive Note:** Designers who communicate visually with ease are an asset to design teams. Real-world designers use wireframes to visually communicate product features to stakeholders. Why? Wireframes focus attention on the usability factor. Plus, a wireframe is easy to revise or iterate. 
 
-> **Instructor Note:** Pause here and take questions. You want to be sure that all students are actually grasping the wireframe concept. 
->
-
-> :globe_with_meridians: **Online Recommendation:** Invite students to use Slack for questions as you lecture or raise their hands to their screens.
-
-- TAs can monitor Slack for questions.
-
+## SLIDE 52
 ### Wireframes Are Like an Architect's Blueprint
 
 A very common analogy is to compare wireframes to blueprints. We have a blueprint of a house that describes how the house should be laid out on the left. On the right, we have a wireframe for a website that shows how the designer wants the website to be laid out.
 
 - Wireframes exist so that you can focus on the structure of the design. Similarly, blueprints don't specify implementation details, such as the counter material or the color of the walls.
 
-### Wireframes Focus on Usability
+## SLIDE 53
+### Wireframes Focus on Usability and Structure
 
 A common misconception is that you need to have a lot of aesthetic details in a wireframe, but one key part about them is that they emphasize usability. 
 This means you won't really see things like color-specific fonts or any of the bells and whistles that you think are really important.
 
 - Wireframes can get bad rap for being simplistic. "Oh, you UX designers just draw boxes and call it a day?!" However, your low-fidelity executions should have high levels of quality, including annotations, context, and clear system rules included to make a wireframe a useful UX/UI deliverable. 
 
+## SLIDE 54
 ### Wireframes Are Made After Sketching, and Wireframes Are Needed Before Creating Mockups
 
 Wireframes focus on usability because they're created before mockups in the design process. After they're created and approved, the designers will go back and fill them in to create more mature mockup designs or more specific design sketches of what the application should look like.
 
+## SLIDE 55
 ### Wireframes Are Reviewed by the Team
 
 Once wireframes are created, there are discussions between the designers and the team to make sure that the wireframes address the business needs and that the proposals are feasible. From there, the designers will create more formal mockups to pass off to the developers to build.
 
-> :gem: **Designer Insight:** Share a time you reviewed wireframes with a team you worked on.
+## SLIDE 56
+Review
 
+## SLIDE 57
 ### Developers Use Wireframes
 
 Developers can use the wireframes to break the design down into pieces and translate those pieces into a development plan for their sprint.
 
-> :gem: **Designer Insight:** Share an example of a time you handed off wireframes to a development team.
 
 Wireframes can be broken down into basic building blocks and pieces. These are how developers will build each element on the page. As we get deeper into the course, we will talk about design systems and creating design components that make work easier for the developers who build our designs. It is very common and expected when creating wireframes to add annotations that explain the elements' functionality on the page.
 
+## SLIDE 58
 ### The Wireframe Process Is Different for Every Organization
 
 Every organization will have a different wireframe process based on resources and time constraints. Some organizations might skip sketching and go straight into wireframes. Some organizations might go straight into creating mockups—don't do that! Overall, this is the process that every organization would ideally follow for creating mockups. They would create user flows, sketches, basic wireframes, and mockups. From there, an interaction designer would build a prototype.
 
+## SLIDE 59
 ### Why Do We Need Wireframes?
 
 - Wireframes connect the site’s information architecture to its visual design by showing paths between pages.
 - They determine intended functionality in the interface.
 - They help developers understand what to build.
 
+## SLIDE 60
+Review
+
+## SLIDE 61
 ### Wireframe Tips
 
 **Tip 1: Before sketching a wireframe, make a list.**
@@ -610,6 +586,7 @@ Every organization will have a different wireframe process based on resources an
 
   - There are millions of possibilities of how to sketch a wireframe, but if you start by defining the elements, you can then determine how those elements can be visualized in a wireframe.
 
+## SLIDE 62
 **Tip 2: Use a grid.**
 - Use a grid to help establish logic and structure. 
 
@@ -619,6 +596,7 @@ Every organization will have a different wireframe process based on resources an
 
   - There are others as well. Share if you have them.
 
+## SLIDE 63
 **Tip 3: Use drawing tools.**
 
 - Not all of us are skilled at drawing. Some of us have shaky hands, are not that practiced, or don’t feel confident sketching complicated shapes. 
@@ -627,28 +605,27 @@ That is why there are drawing tools to speed things up!
 - French curves
 - UI sketching templates
 
+## SLIDE 64
 **Tip 4: Sketch one-to-one.**
 
 Trace your phone if you must but drawing wireframes at the actual physical size will help when designing UIs that are sized correctly.
 
 - Remember, the physical size and the pixel size are not the same, especially with retina screen and high-resolution monitors. 
 
+## SLIDES 65-66
 **Tip 5: Take advantage of UI controls.**
 
 Learning UI controls and UI design patterns are essential to speeding up your wireframing process.
 
 - UI controls are the building blocks of any software interface. Using them intelligently can make wireframes feel familiar and learnable. Becoming familiar with them as a UI designer is essential for a good UX.
 
-### Wireframe Goals
+## SLIDE 67
+Review
 
-Wireframes should address clarity, focus, and microcopy.
+## SLIDE 68
+Questions?
 
-> **Instructor Note:** Feel free to share any of your own wireframing work or sketches from previous projects. Take any final questions, then move on to the activity.
-
-Doing it themselves is how the learning takes hold. In the following activity, students get to test out wireframing themselves.
-
-> **Instructor Note:** If you are comfortable demoing sketching, do a quick wireframe drawing at your desk. You can point your camera at your piece of paper to show you sketch a wireframe to build confidence in your students before turning them loose.
-
+## SLIDE 69
 ## 12. Student Do: Paper Wireframe Activity Parts 1-2 (35 min)
 
 **TAs,** slack out the activity files to students:
@@ -686,6 +663,7 @@ This activity builds on the user flow activities. Students will sketch wireframe
 
 Students will sketch wireframes based on the provided requirements document and share their work in Slack.
 
+## SLIDE 70
 ## 13. Student Do: Paper Wireframe Activity Part 3 - Peer Review (10 min)
 
 > :globe_with_meridians: **Online Recommendation** Have students remain in their groups of two in breakout rooms for this peer review.
