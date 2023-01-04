@@ -253,6 +253,8 @@ Let's analyze this sign up flow...
 
 This is *not* the user flow deliverable, this is just us reviewing the tasks initially associated with this app's sign up flow.
 
+_GO TO UNCOMMONGOODS SITE AND WALKTHROUGH IF THERE IS TIME_
+
 ## SLIDE 11
 Questions?
 
