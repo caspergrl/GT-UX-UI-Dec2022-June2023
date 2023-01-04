@@ -225,17 +225,7 @@ As we discussed, user flows communicate a user's intended flow through various p
 
 
 ## SLIDE 9
-### What Is User Flow Analysis?
-
-User flow analysis is a step-by-step analysis of how users travel through part of an app or website while performing a specific task through observation.
-
-> :briefcase: **Employer Competitive Note:** Real-world designers perform a user flow analysis when conducting user research or during the discovery phase of onboarding a new product. This helps expose friction in the user journey and allows the designers to empathize with the product's users.
-
-### Why Perform a User Flow Analysis?
-
-The goal of a user flow analysis is to identify potential problems and hypothesize what could solve the problem. For example, how do you add a product to a cart or how do you check out?
-
-A user flow analysis helps designers study the sequences of steps in an app or site. User flow design is never left to chance: designers reworking task flows repeatedly iterate in response to the issues that they observed during testing and analysis.
+_REVIEW SLIDE THEN_  
 
 ### User Flow Analysis Is a Useful Tool
 
