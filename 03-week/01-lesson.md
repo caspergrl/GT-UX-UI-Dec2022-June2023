@@ -192,22 +192,19 @@ Review
 ## SLIDE 7
 ### What Is a User Flow?
 
-A user flow diagram shows how users travel through an application while performing a specific task.
+A user flow diagram shows how users travel through an application or process while performing a specific task.
 
 Examples of a user flow:
 
-- The steps a user takes to sign up for an email list.
+- The steps a user takes to sign up for an online newsletter.
+  - Tasks might include going to homepage > locating the newsletter signup form > entering their email > clicking Sign Up > confirming email sign up.
 
 - The flow of tasks from selecting a product to purchasing it (checkout).
-
-- The tasks involved in a user selecting their preferences for an app (personalization).
+  - _Ask class what some of the steps may be_
 
 ## SLIDE 8
 ### What Is a User Flow?
-
-A user flow is the path a user follows through your website interface to complete a task. This path could be making a restaurant reservation, purchasing clothing, or subscribing to a meal kit service.
-
-> **Instructor Note:** *A user flow is a series of steps a user takes to achieve a meaningful goal.* —UX Collective
+A user flow is the path a user follows through a process or application to complete a task. 
 
 ### When Do Designers Make User Flow?
 
@@ -215,10 +212,8 @@ A user flow is the path a user follows through your website interface to complet
 
 The best time to create a user flow is between the ideate and prototype phases of the design thinking process. That means *before* you build products. This will ensure that you have a solid foundation to build on, and you don't design yourself into a corner (e.g., missing buttons or impossible-to-navigate menus).
 
-> :gem: **Designer Insight:** Take a moment to share your own experiences with user flows or invite a TA to share. This will help students connect what they’re learning about user flows to real-world design practices.
-
 *When should we create user flows?*
-
+- Before building a new product or feature
 - After we have created storyboards and a customer /or/ user journey map.
 - Before we create wireframes and prototypes.
 
@@ -227,9 +222,6 @@ The best time to create a user flow is between the ideate and prototype phases o
 ### Why Do Designers Create User Flows?
 
 As we discussed, user flows communicate a user's intended flow through various pages and actions in an app or website. And we design user flows in order to improve the user’s experience. So understanding user flows and how users interact with them is what allows you to improve the UX.
-
-- All user interfaces (UIs) are a series of tasks users are accomplishing. If we care about our users, we should care about the user flow they're experiencing in our interface solutions.
-
 
 
 ## SLIDE 9
@@ -242,8 +234,6 @@ User flow analysis is a step-by-step analysis of how users travel through part o
 ### Why Perform a User Flow Analysis?
 
 The goal of a user flow analysis is to identify potential problems and hypothesize what could solve the problem. For example, how do you add a product to a cart or how do you check out?
-
-> **Instructor Note:** Sometime called task analysis students may come across this and ask the difference. A user flow might include multiple tasks which is why we not calling it task flow analysis.
 
 A user flow analysis helps designers study the sequences of steps in an app or site. User flow design is never left to chance: designers reworking task flows repeatedly iterate in response to the issues that they observed during testing and analysis.
 
@@ -259,7 +249,9 @@ A user flow analysis helps designers study the sequences of steps in an app or s
 
 
 ## SLIDE 10
-Review flow
+Let's analyze this sign up flow...
+
+This is *not* the user flow deliverable, this is just us reviewing the tasks initially associated with this app's sign up flow.
 
 ## SLIDE 11
 Questions?
@@ -359,7 +351,11 @@ Now that students have a general understanding of a user flow analysis, they can
 Review
 
 ## SLIDE 15
-Review Facebook walkthrough
+1. Select Status
+2. Update Status view displays
+3. Write Status details
+4. Apply Status details (same screen)
+5. View status in news feed
 
 ## SLIDE 16
 ### Benefits of User Flows
@@ -402,9 +398,7 @@ User flows can have a combination of three key elements:
 - What are the user’s hesitations or barriers to accomplishing the task?
 
 ## SLIDE 17
-### User Flow vs. Task Flow
-User flows focus on a specific user (i.e., a target audience group or a persona). Task flows concentrate on single tasks and are simpler and targeted: showing the specific steps for a single screen, not the whole picture from entry to exit.
-
+Review
 
 ## SLIDE 18
 Questions??
@@ -423,7 +417,9 @@ What is the user flow for this scenario?
 ## SLIDE 22
 ### User Flow Design Process
 
-There are four parts to designing effective user flows:
+4 Steps When Iterating Low-High Fidelity Flows:
+
+- This flow is showing two sets of iteration... the structure of the flow and the fidelity. The structure of the flow is the more common iteration with flows. High Fidelity tends to be used more in prototypes than in user flows.
 
 - You would begin your work by defining a user goal or story.
 
@@ -431,7 +427,7 @@ There are four parts to designing effective user flows:
 
 - Then create wireframes and build a wireflow.
 
-- Once the prototype is complete, we would mockup the final user flow.
+- Expand the flow to include details such as if/then scenarios and decisions. 
 
 ## SLIDE 23
 **Step 1. Define the User Goal** - "As a shopper, I want to cash out my earnings instantly, right after my work shift."
@@ -496,13 +492,13 @@ The components of a user flowchart include:
 
 Use the components to visualize a simple user flow for taking notes in class.
 
-## SLIDES 33-34
-Review Decision Loops & Inputs
+## SLIDES 33-35
+_Review Decision Loops & Inputs_ Decision loops are "if this, then that"... 
 
-## SLIDE 35
+## SLIDE 36
 Review
 
-## SLIDES 36-41
+## SLIDES 37-42
 ### User Flow Diagrams Example: Checkout Flow
 
 Walk through the user flow example for a checkout flow. As you do, emphasize the key points highlighted on the slides:
@@ -521,13 +517,13 @@ Walk through the user flow example for a checkout flow. As you do, emphasize the
 
 
 
-## SLIDE 42
+## SLIDE 43
 Questions??
 
-## SLIDE 43
+## SLIDE 44
 Review
 
-## SLIDES 44-46
+## SLIDES 45-48
 ### User Flow Diagram: Twitter
 
 Here, we see the ability to create a new tweet. Let's look under the hood.
@@ -545,10 +541,7 @@ Here, we see the ability to create a new tweet. Let's look under the hood.
 - Define the steps the user will take in between.
 
 
-## SLIDE 47
-Review
-
-## SLIDE 48
+## SLIDE 49
 ### User Flow Diagram: Three Tips
 
 Designers may appear to just sit at their screens moving things around, but if you look closely, you'll see them applying three steps to their user flow process: think deeply, note interactions, and diagram left to right.
@@ -562,10 +555,10 @@ Add notes to your connectors explaining the interactions taking place between sc
 3. Diagram like you read, left to right and top to bottom.
 In the west, we read left to right, so work to make your user flow consumable in that format.
 
-## SLIDE 49
+## SLIDE 50
 Questions??
 
-## SLIDE 50
+## SLIDE 51
 ## 6. Student Do: Sandwich User Flowchart Activity (35 min)
 
 **TAs,** share the activity file with students via Slack: [03-Week/02-Activities/03.1-02-PBJ-Flow-Chart Google Doc](https://docs.google.com/document/d/1s-u85lWKDHZ-xhJCizQjsFnFcOiHBTck35ZDxnZpEoM/edit?usp=sharing).
@@ -610,7 +603,7 @@ If students are:
 
 Students will generate a flowchart (using the flowchart symbols) that explains how to make a simple PB&J or bagel sandwich.
 
-## SLIDE 51
+## SLIDE 52
 ## 7. Instructor Do: Sandwich User Flowchart Activity Review (20 min)
 
 Close out the Zoom breakout rooms and draw everyone's attention back to your screen.
@@ -659,16 +652,14 @@ Ask students to take photos of their flowcharts and share them in Slack.
 Next, after the break, students are going to take things one step further and map out the onboarding flow for an app. This will give them another opportunity to use flowchart diagram symbols, but with a higher level of complexity.
 
 
-## SLIDE 52
+## SLIDE 53
 ## 8. Break (15 min)
 
 
-## SLIDE 53
+## SLIDE 54
 Review
 
-## SLIDE 54
-- First, provide context by
-
+## SLIDE 55
 > **Say:** "Now that you have a working sense of user flow, let's focus on a specific area of user flow—onboarding."
 
 > **Ask:** "Who can guess what user onboarding is and give me an example?"
@@ -691,7 +682,6 @@ The first experience with a product is decisive for long-term retention because:
 - This is your first impression. This is what all your users will experience first. This is what they’ll tell their peers.
 - From the moment a user starts with a product, you need to convey a number of things immediately: Where is the user? What can the user do within the app? Where can the user go within the app?
 
-
 **User onboarding is the most important part of the customer journey.**
 
 **TAs,** Slack out the link: [Onboarding](https://www.androidauthority.com/77-percent-users-dont-use-an-app-after-three-days-678107/).
@@ -701,7 +691,7 @@ The first experience with a product is decisive for long-term retention because:
   - Have TAs Slack out: [Why User Onboarding Matters](https://www.appcues.com/blog/why-user-onboarding-is-the-most-important-part-of-the-customer-journey-by-2-6x).
 
 
-## SLIDE 56
+## SLIDE 57
 ### What Is User Onboarding?
 
 - Deals with the first-time UX.
@@ -718,13 +708,13 @@ Why: To retain users and reduce the overall amount of churn.
 
 > :briefcase: **Employer Competitive Note:** Real-world designers think critically about user onboarding and first-time user experiences to drive business success. For example, designers will test the current product and analyze both quantitative and qualitative data to ideate on potential improvements. They will build prototypes and do A/B testing to assess what elements perform best and conduct competitive analysis to assess similar competitor's products.
 
-## SLIDE 57
-Review
-
 ## SLIDE 58
 Review
 
 ## SLIDE 59
+Review
+
+## SLIDE 60
 
 ### The Seven User Onboarding Tips
 
@@ -734,41 +724,41 @@ Review
 
 - "Here's what our product can do" and "here's what you can do with our product" sound similar but are completely different approaches!
 
-## SLIDE 60
+## SLIDE 61
 **Tip 2**: Highlight core features.
 
 - You don’t need to throw in the kitchen sink when onboarding—just define a few of the most important features.
 
-## SLIDE 61
+## SLIDE 62
 **Tip 3**: Ask only for what is needed.
 
 - Studies show that 60% of users say they have chosen not to install an app after discovering how much personal information the app asked for.
 
   - **TAs,** Slack out the link: [Why people don't install apps](https://thehill.com/policy/technology/259655-quarter-of-all-android-apps-ask-for-gps-data).
 
-## SLIDE 62
+## SLIDE 63
 **Tip 4**: Make it snappy.
 
 - Avoid text-heavy explanations.
 - Opt instead for app screenshots and illustrations to get your point across.
 
-## SLIDE 63
+## SLIDE 64
 **Tip 5**: End with a call to action (CTA).
 
 - Don’t forget to include a call-to-action at the end of your onboarding experience so that users have a direct next step to take.
 
-## SLIDE 64
+## SLIDE 65
 **Tip 6**: Use coaching screens.
 
 - Coach screens convey value and features to users.
 - Typically, coaching screens show up for first-time users and can be accessed or turned off in the preferences.
 
-## SLIDE 65
+## SLIDE 66
 **Tip 7**: Create interactive tutorials.
 
 - Interactive onboarding follows the “show rather than tell” method of app onboarding.
 
-## SLIDE 66
+## SLIDE 67
 ### The Design Mindset for User Onboarding
 
 From the moment a user starts with a product, you need to convey a number of things to them immediately:
@@ -779,23 +769,23 @@ From the moment a user starts with a product, you need to convey a number of thi
 
 - Where can I go? Once you have conveyed their current location and some of the things the user is able to do, you must make it apparent to them where they can go next.
 
-## SLIDE 67
+## SLIDE 68
 Questions??
 
-## SLIDE 68
+## SLIDE 69
 Review
 
-## SLIDE 69
+## SLIDE 70
 ### Registration Best Practices and Tips
 
 The login/sign-up step is a big hurdle the user has to cross to enjoy the services you're offering. A bad login/sign-up journey leads to large drop-offs and poor experience. Some of the best examples of this process come from world-class software products like Google search or Amazon.
 
-## SLIDE 70
+## SLIDE 71
 - **Tip 1**: Use social logins to make the sign-up easy.
 
   - When possible, always give users the option to sign onto your app through existing social media accounts like Facebook, Twitter, or Google.
 
-## SLIDE 71
+## SLIDE 72
 - **Tip 2**: Follow Instagram's example.
 
   - Instagram does sign-up really well:
@@ -813,13 +803,13 @@ The login/sign-up step is a big hurdle the user has to cross to enjoy the servic
     - Avoid two input fields side-by-side. Users should seamlessly read and enter info from top to bottom, not left to right to top to bottom. Remember: The simpler the flow, the faster it feels.
 
 
-## SLIDE 72
+## SLIDE 73
 - **Tip 3**: Group similar fields together.
 
 - Every required field should be clearly marked. It doesn’t really help to use * to indicate a required field. A better choice is marking fields (optional).
 
 
-## SLIDE 73
+## SLIDE 74
 - **Tip 4**: Errors should:
 
 1. Be detected and revealed to the user as they leave that field, not after the submit button is clicked. This stems from an eye-tracking usability test completed by the Baymard Institute, which concluded that “to perfect the user’s recovery experience, live inline validation must be used.”
@@ -836,13 +826,13 @@ Reddit does a good job of this. Users don’t want a lengthy input session only 
 - [https://cxl.com/blog/form-design-best-practices/](https://cxl.com/blog/form-design-best-practices/)
 
 
-## SLIDE 74
+## SLIDE 75
 Review resources
 
-## SLIDE 75
+## SLIDE 76
 Questions??
 
-## SLIDE 76
+## SLIDE 77
 ## 10. Student Do: Task and User Flows for Onboarding Activity (40 min)
 
 **TAs,** Slack out the activity file to students: [03-Week/02-Activities/03.1-03-User-Flow Google Doc](https://docs.google.com/document/d/11C0xjAOzYR3anU1huss19RQ7Zw9GYZVsiEwfkg7xyb4/edit?usp=sharing).
@@ -894,10 +884,10 @@ Students should generate a task flow as well as a user flow.
 > **Instructor Note:** Take questions. Reassure students that there is time planned to reflect on this activity in the next class.The review of this activity will happen next class (Lesson 3.2). Take questions. Reassure students that there is time planned to reflect on this activity in the next class.
 
 
-## SLIDE 77
+## SLIDE 78
 Review
 
-## SLIDES 78-79
+## SLIDES 79-80
 Review homework 3
 
 
