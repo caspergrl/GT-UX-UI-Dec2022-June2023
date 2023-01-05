@@ -153,15 +153,14 @@ Steve Krug is a UX designer and is best known for his book *Don't Make Me Think*
 ## SLIDE 6
 
 "Usability" refers to how easy it is to use a product, or not, and what makes it so. 
-
-- Usability assesses how easy UIs are to use. Usability also refers to methods for improving ease of use during the design process. Overall, five quality components define usability:
+Overall, five quality components define usability:
 
 - **Learnability** asks how easy it is for users to accomplish basic tasks the first time they encounter the design.
 - **Efficiency** asks once users have learned the design, how quickly can they perform tasks?
 - **Memorability** asks when users return to the design after an interval, how easily can they re-establish proficiency?
 - **Errors** measure how many errors users make, how severe these errors are, and how easily they can recover from the errors?
 - **Satisfaction** assesses how pleasant it is to use the design.
-
+- **Bonus - Discoverability** - considers how easy or hard it is to discover features within a product
 
 ## SLIDE 7
 Review
@@ -296,11 +295,13 @@ Review
 
 1. *Feature inventory:* Feature inventory tracks a list of features available across all of your competitors as a way to compare features, to identify gaps in the competition or yourself, and to help prioritize features.
 
+If you worked for Waze, or Apple in the Apple Maps team, you'd likely be spending a lot of time logged into Google Maps and seeing how they've structured their product and features.
+
 ## SLIDE 37
 Review
 
 ## SLIDE 38
-2. *SWOT analysis:* SWOT analysis is a strategic planning technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats related to competitors’ products and services.
+2. *SWOT analysis:* SWOT analysis is a strategic planning technique used to help teams identify strengths, weaknesses, opportunities, and threats related to competitors’ products and services.
 
 
 ## SLIDE 39
