@@ -108,50 +108,11 @@ Encourage students to come early and use the time provided to ask questions.
 
 **Walk through today's learning objectives.**
 
-Introduce the concept of low-fidelity prototypes.
 
-- There are two types of low-fidelity prototypes: *paper prototypes* and *clickable wireframes*.
+## SLIDES 1-5
+Review
 
-- A *paper prototype* is a model of a solution using cheap materials (paper). Paper prototypes are rapid executions of an idea or UI solution executed in the fastest, cheapest method available.
-
-- A *clickable wireframe* is an iteration of a paper prototype that builds a UI with limited iterations using a prototyping software (InVision, Figma, Adobe XD, etc.). All have tools for adding clickable "hotspots" that allow a user to click through a UX. 
-
-- These two types of low-fidelity prototypes enable designers to gather valuable user input on their designs without building an entire app. They are helpful to designers in three ways: 
-   1. They show key elements and functionality of an app, rather than the app coded in its entirety. 
-
-   2. They show particular aspects of UI elements (buttons, navigation, UI features, etc.) and enable designers to get feedback and iterate on UI features without having to build out every single screen or design every UI element. 
-
-   3. They are useful for testing concepts and creating multiple solutions, as they should be faster to produce.
-
-> :gem: **Designer Insight:** Share how you've used paper prototypes and clickable wireframes in your projects. 
-
-**Compare low-fidelity prototypes to high-fidelity prototypes.**
-
-- By comparison, high-fidelity (hi-fi) prototypes are very close to the final design itself. A high-fidelity prototype is nearly finished and includes:
-   - All the app's screens, interfaces, graphics, and often coding. 
-- High-fidelity prototypes are part of the prototyping life cycle and all designers use them, but they aren't our focus today.
-
-> :globe_with_meridians: **Online Recommendation:** Invite engagement by having students raise their hands and respond or use Slack to answer the following question: 
-
-> **Ask:** "Does anyone remember the two types of low-fidelity prototypes?"
-
-
-- *Answer*: Paper prototypes and clickable wireframes.
-
-> **Instructor Note:** Take questions before moving on. 
-
-**TAs,** slack out the following Adobe blog post about the differences between low-fidelity and high-fidelity prototypes for students to review after class:
-[https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/](https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/).
-
-## 2. Instructor Do: Prototyping and Testing 101 (10 min)
-
-> :pushpin: **Important Point:** This section aims to educate students about the importance of prototyping and testing in design. This lecture supports today's first learning objective, which is for students to build a clickable prototype using InVision. 
-
-First, you'll define prototyping and explain its usefulness. Then you'll introduce testing and its role in the design process.
-
-- You'll follow this lecture with a demo of prototyping with InVision, then invite students to build their own prototypes.
-
-> :globe_with_meridians: **Online Recommendation:** Inspire students to engage and respond to the following question over Zoom or Slack: ***"What is your best guess at a definition of prototyping?"***
+## SLIDE 6
 
 ### Prototyping 101
 
@@ -171,8 +132,6 @@ The following two cases require a prototype:
 
 2. Determine if people are able to use a product. Prototyping is essential for finding and resolving usability issues before launch. Testing reveals areas that need improvement. That’s why so many product teams create prototypes, have users test them, and iterate the design until it’s good enough.
 
-> :globe_with_meridians: **Online Recommendation:** Challenge students to respond to the following question over Zoom or Slack: ***"What might be some advantages for prototyping a design?"***
-
 Advantages of prototyping:
 
 - To save money, designers create simple versions of their products.
@@ -183,7 +142,8 @@ Advantages of prototyping:
 
 - They can be used as the foundation of product development.
 
-> :gem: **Designer Insight:** Have a TA briefly share an experience of building or testing a prototype at work.
+
+## SLIDE 7
 
 ### Prototypes Have Various Levels of Fidelity
 
@@ -191,21 +151,40 @@ Prototypes don’t necessarily look like final products—they can have differen
 
 - Product teams choose a prototype’s fidelity based on the goals of prototyping, completeness of design, and available resources.
 
-> :globe_with_meridians: **Online Recommendation:** Ask students to respond to the following question over Zoom or Slack: ***"Who remembers the definitions of low-fidelity prototypes vs. high-fidelity?"***
-
 - *Low fidelity(lo-fi)*: Low fidelity means the prototypes are quite basic and don't offer too much in terms of visual design or how a user can interact with them. They're used mostly to check and test functionality rather than the visual appearance of the product. Low-fidelity prototypes can be paper prototypes or clickable wireframes.
 
 - *High fidelity (hi-fi):* High fidelity means the prototypes are more detailed, focusing more on the interactions and look and feel of the product and giving users and testers a more involved experience. This might involve multiple features so you feel as if you're using an app. 
 
   - Teams usually create high-fidelity prototypes when they have a solid understanding of what they're going to build and need to either test it with real users or secure final design approval from stakeholders. High-fidelity prototypes can be created using a digital tool or using code.
 
+- Today we're going to focus on two types of low-fidelity prototypes: *paper prototypes* and *clickable wireframes*.
+
+- A *paper prototype* is a model of a solution using cheap materials (paper). Paper prototypes are rapid executions of an idea or UI solution executed in the fastest, cheapest method available.
+
+- A *clickable wireframe* is an iteration of a paper prototype that builds a UI with limited iterations using a prototyping software (InVision, Figma, Adobe XD, etc.). All have tools for adding clickable "hotspots" that allow a user to click through a UX. 
+
+- These two types of low-fidelity prototypes enable designers to gather valuable user input on their designs without building an entire app. They are helpful to designers in three ways: 
+   1. They show key elements and functionality of an app, rather than the app coded in its entirety. 
+
+   2. They show particular aspects of UI elements (buttons, navigation, UI features, etc.) and enable designers to get feedback and iterate on UI features without having to build out every single screen or design every UI element. 
+
+   3. They are useful for testing concepts and creating multiple solutions, as they should be faster to produce.
+
+
+- By comparison, high-fidelity (hi-fi) prototypes are very close to the final design itself. A high-fidelity prototype is nearly finished and includes:
+   - All the app's screens, interfaces, graphics, and often coding. 
+- High-fidelity prototypes are part of the prototyping life cycle and all designers use them, but they aren't our focus today.
+
+**TAs,** slack out the following Adobe blog post about the differences between low-fidelity and high-fidelity prototypes for students to review after class:
+[https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/](https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/).
+
+
+## SLIDE 8
 ### What Do Interaction Designers Do?
 
 There might be a UX researcher, an information architect, an interaction designer, and a visual designer in a large design team. But for smaller companies and teams, most of the UX design jobs might be performed by one to two people, who might be called interaction designers.
 
 If you really like designing and design strategy, you'll want to pursue the interaction designer path.
-
-> :gem: **Designer Insight:** If a TA has experience with interaction design, invite them to share a work anecdote.
 
 Most interaction designers focus on the following:
 
@@ -213,12 +192,16 @@ Most interaction designers focus on the following:
 
 - Prototyping: Sometimes, interaction designers might create interactive prototypes and/or high-fidelity prototypes that look exactly like the actual app or website.
 
-> :gem: **Designer Insight:** Add your own story about yours or a colleague's work as an interaction designer, if time allows.
+## SLIDE 9
+Review
 
-### Testing 101
+## SLIDE 10
+Review
 
+## SLIDE 11
 - Review the quote by Steve Krug, information architect and author of *Don’t Make Me Think*.
 
+## SLIDE 12
 ### Usability Testing
 
 We create prototypes so we can test them! Usability testing refers to evaluating a product or service by testing it with representative users.
@@ -229,15 +212,6 @@ We create prototypes so we can test them! Usability testing refers to evaluating
 
 > :briefcase: **Employer Competitive Note:** Real-world designers conduct usability tests to learn about their product. What do they learn? A lot: whether the product meets the user’s expectations, allows designers to see how successful users are with their tasks, and to catch flaws in the product. 
 
-> :gem: **Designer Insight:** Share how you've used usability testing to understand how well it met a user's expectations. 
-
-**Your Goal: Get the Participants to Think Aloud**
-Tell your students that today they'll build and test a clickable prototype. The testing will be very informal. Students will share their prototypes with a partner who will click through and verbalize their experience. Therefore, it is important to encourage your participants to verbalize their experience.
-
-> **Say:** "We'll do a deep dive on usability testing next week. For today it will be more ad hoc."
-
-> **Instructor Note:** Pause for questions.
-
 - **TAs,** share these links for students to explore after class:
   - [https://www.interaction-design.org/literature/article/rapid-prototyping-faking-it-until-you-make-it-in-a-ux-driven-world](https://www.interaction-design.org/literature/article/rapid-prototyping-faking-it-until-you-make-it-in-a-ux-driven-world)
   - [https://thenextweb.com/contributors/2017/09/15/13-ways-create-prototype-limited-budget/](https://thenextweb.com/contributors/2017/09/15/13-ways-create-prototype-limited-budget/)
@@ -245,6 +219,7 @@ Tell your students that today they'll build and test a clickable prototype. The 
 
 Now it's time to demo how to create a clickable prototype in InVision. 
 
+## SLIDE 13
 ## 3. Instructor Do: Demo - InVision Prototype (10 min)
 
 > :pushpin: **Important Point:** Your goal is to generate excitement about how to build a clickable prototype in InVision. 
@@ -313,6 +288,11 @@ Once you have completed your demo, let students know how excited you are that th
 
 Reassure them that they're ready to start building clickable prototypes—that's next!
 
+
+## SLIDE 14
+Questions??
+
+## SLIDE 15
 ## 4. Student Do: Paper Prototype and Testing Activity (40 min)
 
 **TAs,** slack out the link to the paper prototype and test activity: [03-Week/02-Activities/03.3-01-Clickable-Paper-Prototype-and-Testing Google Doc](https://docs.google.com/document/d/15v6vqOX6u1YG3jYzxud60v6Wzis2TjEf8Cq-cA8ch6U/edit#)  
@@ -352,6 +332,7 @@ cdbb380a-1e0a-444a-a994-7e33893c5b22.JPG... etc.) InVision will use the image ti
 
 Students will post to Slack: a prototype with clickable elements created with InVision.
 
+## SLIDE 16
 ## 5. Instructor Do: Paper Prototype and Testing Activity Review (10 min)
 
 > :globe_with_meridians: **Online Recommendation:** Close the breakout rooms and bring attention back to your screen in the main Zoom room. TAs should assist students who are struggling to wrap up.
@@ -376,6 +357,7 @@ Students will post to Slack: a prototype with clickable elements created with In
 
 Next, it's time for a break. After break, you'll be discussing UI design patterns.  
 
+## SLIDE 17
 ## 6. Break (10 min)
 
 Brain breaks are an important component of learning. Encourage all students to step away from their laptops: get some fresh air, stretch, or have some food.
@@ -384,12 +366,11 @@ Brain breaks are an important component of learning. Encourage all students to s
 
 Let students know that after the break you'll be discussing UI design patterns, which help designers solve problems and create stronger wireframes. 
 
-## 7. Instructor Do: UI Design Patterns (8 min)
 
-> :pushpin: **Important Point:** The goal of this section is to define and show examples of UI design patterns. Sharing these models will train students to identify these patterns on webpages. This lecture supports today's second learning objective, which is for students to identify user interface (UI) design patterns on the web.
+## SLIDE 18
+Review
 
-Today you'll return to wireframes and talk about the UI design patterns used by real-world designers. This knowledge will help students create stronger wireframes aligned with standard industry practices.
-
+## SLIDE 19
 ### What Is a UI Design pattern?
 
 A UI design pattern is a reusable solution that designers employ to solve problems. All designers use UI patterns and they're considered a best practice. Why? Because using established solutions saves time while also solving common design problems.
@@ -400,8 +381,8 @@ Using UI patterns means that, as designers, we don't have to reinvent the wheel.
 
 - They have evolved to cover many aspects of design. Let’s take a look at some of those patterns.
 
-> :gem: **Designer Insight:** Share an example of a UI design pattern and how you apply them in your work. 
 
+## SLIDE 20
 ### The UI Design Pattern Formula
 
 UI design patterns can’t be plugged directly into an interface. Designers tailor patterns to fit a particular scenario or feature requirement.
@@ -412,17 +393,13 @@ Design patterns that emerge answer the following questions:
 3. What is the solution?
 4. Where and how has the pattern been implemented before?
 
+## SLIDE 21
 ### Types of UI Patterns
-
-1. Input patterns:
-
    - Users learn patterns by being exposed to them repeatedly.
-
-   - Think about the ubiquitous search bar or even the dreaded hamburger menu.
-
+   - Search bars, hamburger menus
    - We know what they do and don’t have to give it a second thought. It’s intuitive and frictionless.
 
-2. Navigation patterns:
+1. Navigation patterns:
 
    - No matter which phase you are in, patterns speed up the design process. That can mean fewer headaches when it’s crunch time.
 
@@ -432,10 +409,12 @@ Design patterns that emerge answer the following questions:
 
    - Infinite scroll is a handy UI pattern when there is a lot of content to present, as in social media sites or search results.
 
-3. Information patterns:
+## SLIDE 22
+2. Information patterns:
 
    - Information patterns exist to organize content.
 
+## SLIDE 23
 ### What Makes a Good UI?
 
 A good UI has:
@@ -444,14 +423,13 @@ A good UI has:
 
 - Information clearly organized for importance and understandability
 
-**Review the example of good UI.**
-
 - The core principles of UI design are clarity, flexibility, familiarity, efficiency, and consistency.
 
 - Of these, clarity is the No. 1 objective.
 
 - Clarity in UI design empowers users to have positive interactions and easily find the information they're seeking.
 
+## SLIDE 24
 ### UI Pattern Analysis
 
 Let's analyze a wireframe together to identify some UI patterns.
@@ -468,8 +446,8 @@ On this wireframe, we can see a few basic patterns:
 
 - **Structure containers and content chunking**: Wireframes establish underlying structure and content hierarchy.
 
-Show the slide with YouTube's homepage. 
 
+## SLIDES 25-26
 Ask, "**What design patterns do you notice on YouTube**?"
 
 Review the UI pattern analysis for YouTube.
@@ -478,6 +456,10 @@ Review the UI pattern analysis for YouTube.
 
 Now that students have learned about UI design patterns and viewed common examples, it's time for them to practice identifying UI design patterns.
 
+## SLIDE 27
+Questions?
+
+## SLIDE 28
 ## 8. Student Do: UI Design Patterns Activity (12 min)
 
 **TAs,** slack out the link to the UI design patterns activity: 
@@ -516,6 +498,7 @@ In this activity, students will practice identifying UI design patterns on a web
 
 Students will create an annotated webpage posted to a Figma artboard and share it on Slack.
 
+## SLIDE 29
 ## 9. Instructor Do: UI Design Patterns Activity Review (8 min)
 
 > :globe_with_meridians: **Online Recommendation:** Close the breakout rooms and bring attention back to your screen in the main Zoom room.  
@@ -542,16 +525,8 @@ Students will create an annotated webpage posted to a Figma artboard and share i
 
 Next up, you will walk through the best practices designers follow for wireframes.  
 
-## 10. Instructor Do: Wireframes Best Practices (8 min)
 
-> :pushpin: **Important Point:** This section aims to walk students through wireframing best practices, which will prepare students for creating digital wireframes in Figma. This lecture supports today's third, and final, learning objective, which is for students to create digital wireframes using Figma. 
-
-Now that students know how UI design patterns help designers add efficiency to their wireframes, it's time for them to see how wireframing best practices make a designer's life easier in the real world. 
-
-These best practices will help students take a smarter approach to their own wireframing.
-
-> :briefcase: **Employer Competitive Note:** The ability of professional designers to create digital wireframes using Figma in their work with clients enables them to effectively test their designs and iterate, improving the probability of creating successful products.
-
+## SLIDE 30
 ### Wireframe Quiz
 
 > :globe_with_meridians: **Online Recommendation:** Inspire students to engage and respond to the following 3 questions over Zoom or Slack:   
@@ -561,25 +536,13 @@ These best practices will help students take a smarter approach to their own wir
 3. *Wireframes should always use color and images.* 
    1. ***Answer:*** The answer is "false" or thumbs-down.
 
-**Review the wireframe dos and don'ts.**
+## SLIDE 31
+Review
 
-### Review Wireframe Don'ts.
+## SLIDES 32-39
+Review
 
-1. Include various end visuals such as pictures, actual colors, and fonts.
-2. Include Lorem Ipsum filler copy (use real text in the wireframe).
-3. Represent the final design. 
-4. Spend too much time drawing.
-
-#### Generate additional "Don't" with the Class: 
-
-1. Do not use color.
-   - Color is powerful; it can be distracting.
-   - If you must use color, use it sparingly and consistently.
-   - Choose a color not in the client's palette to ensure your discussion remains focused on the experience you are creating and not the visual design.
-   - Share an experience about distracting clients with color if you have one.
-2. Do not add 'fancy' graphics or images.
-   - Instead, try using simple rectangles and squares as placeholders with an “x” through the middle of the box to show where the image will be placed.
-
+## SLIDE 40
 ### Review Wireframe Dos.
 
 Review the example of a good wireframe: A good wireframe is well labeled and easy to understand.
@@ -590,41 +553,17 @@ Review the example of a good wireframe: A good wireframe is well labeled and eas
 4. Low-medium fidelity.
 5. Limited interactivity.
 
-#### Generate additional "Don't" with the Class: 
+## SLIDES 41-42
+Review
 
-1. Do use actual content.
-   - If you don’t have content, write it. Writing is a design skill; it will only help you understand the client and story better.
-2. Do communicate functionalities and interactions statically.
-
-   - Wireframing and prototyping are amazing tools, but they serve very different purposes.
-   - Prototyping is more time-intensive than wireframing. Key functionalities or interactions can be easily communicated statically.
-   - Ask the client what they need.
-   - If user testing is an important part of the project, prototyping might get you far.
-   - The key is to know when you’ve crossed over to prototyping and be deliberate about it.
-3. Do set clear expectations.
-
-   - Talk with the client about how you're using wireframing as a tool.
-   - If a client’s expectations are not met, it doesn’t matter how brilliant your work is—they will not hear you.
-   - The best way to proactively avoid failed expectations is to communicate them clearly, early, and often.
-   - Share an experience about sharing wireframes with coworkers or a client.
-4. Do practice non-attachment.
-
-   - Don’t get too attached to your wireframes. They’re not glamorous portfolio pieces.
-   - With rapid ideation, we must be willing to entertain change and pivot often.
-5. Do keep it simple.
-
-   - When we have lots of new ideas, it’s easy to try and make them all work together or confuse elements of one idea with another.
-6. Do give each idea its own wireframe.
-
-> **Instructor Note:** Take any remaining questions students may have about digital wireframes.
+## SLIDE 43
+Questions??
 
 
-## 11. Instructor Do: Content Strategy and UX Writing (8 min)
+## SLIDE 44
+Review
 
-> :pushpin: **Important Point:** Your goal is to define UX writing and its usefulness to design teams. 
-
-Now that students understand best practices for wireframes, it's time for them to learn how to think about the content on a page.
-
+## SLIDE 45
 ### What Is UX Writing?
 
 UX writing is part of content strategy. The UX writer is responsible for all the text the user encounters when navigating around a product. If you enjoy writing, you might want to explore this career path. In this course, you'll act as your own UX writer.
@@ -635,16 +574,26 @@ UX writing is part of content strategy. The UX writer is responsible for all the
 
 > :briefcase: **Employer Competitive Note:** Real-world UX writers are responsible for all the text the user encounters when navigating around a product. This career path is ideal for designers who have a passion for writing. 
 
+## SLIDE 46
+UX writers are responsible for all of the text the user encounters when navigating around a product.
+
 ### Who Hires UX Writers?
 
 - San Francisco companies lead the trend: Dropbox, Facebook, Airbnb, Pinterest, Google, and Spotify have UX writing, content strategy, or content design teams.
 
+
+## SLIDE 47
 ### Content Strategy
 
 Content strategy has been around for a long time. Large corporations such as Disney, Wells Fargo, and Mayo Clinic have had functional content strategy teams for years. So why do we care about it in UX? The answer is simple: it's nearly impossible to design a great UX for bad content. If you're passionate about creating a better UX, you'll also care about delivering useful, usable, engaging content.
 
 - ***Review the Content Strategy Helps UX Strategy Slide.***
 
+
+## SLIDE 48
+Review
+
+## SLIDE 49
 ### How Is UX Writing Different From Other Writing?
 
 - UX writing is a specialized form of writing because of its context (software) and the environment in which it’s produced (technology companies).
@@ -677,10 +626,12 @@ Content strategy has been around for a long time. Large corporations such as Dis
 
   - This approach is a lot more transactional.
 
-> **Instructor Note:** Check for questions about the Lyft vs. UberPool examples. 
 
-- ***Share the Mailchimp example, "Mailchimp Set the Bar for UX Writing."***
 
+## SLIDE 50
+Review Mailchimp example
+
+## SLIDE 51
 ### UX Writing Best Practices
 
 - **Put users first**: focus on the user.
@@ -692,6 +643,7 @@ Content strategy has been around for a long time. Large corporations such as Dis
 
 - **Make your writing useful**: direct the user to the next action.
 
+## SLIDE 52
 ### UX Writing Example
 
 > :globe_with_meridians: **Online Recommendation:** Invite students to write down their own versions of the original copy, below.  Students can share their writing on Slack. 
@@ -708,92 +660,32 @@ Content strategy has been around for a long time. Large corporations such as Dis
    - When we integrate the tone, we can see how a little graphic is used to visualize that.
     -  *Everything you need to speed through checkout.*
 
-> **Instructor Note:** Check in with students: are there any questions about UX writing so far? 
-
-Help students grasp how writing for UX and prototyping fit together to communicate with users, their teams, and stakeholders about their designs. Designers are not only communicating the organization of their design when they create a prototype but also expressing excitement as well.
-
-> :gem: **Designer Insight:** Drive this point home with a brief anecdote about how you've collaborated with UX writers. 
-
-### Walk Through Turning a User Flow Into Wireframes
-
-***Slides note: The goal of these slides to help the student visualize how to turn a user flow into wireframes. We'll imagine we're creating an app for booking a local tour guide.***
-
-- First, we take our user flow.
-
-- Start with a splash screen:
-
-  - The splash screen is an introduction page.
-
-  - It typically has a logo and a call to action.
-
-- Sign-up screen:
-
-  - Starts the onboarding process for first-time users.
-
-  - Wireframes focus on the hierarchy of information.
-
-
-- Login screens (for return users) have a few essential elements:
-
-  - Email
-
-  - Password
-
-  - Button
-
-- Login screen keyboard:
-
-  - We have to think through each step in the interaction.
-
-  - When you fill out a form, the keyboard pops up.
-
-  - We may even want to add social login to make it easier to use.
-
-- Home screen:
-
-  - We're in!
-
-  - However, first, we have to ask users for permission to access the phone GPS.
-
-  - Remember: You cannot access someone's data without permission.
-
-  - The next step is to show the map.
-
-  - Maybe we add a loading icon because our tech is buggy or slow.
-
-  - Then we see dots on the map with text labels.
-
-  - If we click on a label, we see a detailed modal page.
-
-  - There is probably more.
-
-- Filter screen:
-
-  - Let's create a way to filter guides by location, price, and availability.
-
-> **Instructor Note:** Take questions. 
-
-> **Say:** "Notice that these wireframes are *low fidelity*, and that is okay for now. At this stage, they are used to visualize how content will be organized and how a user might interact with them."
-
-**Remember:** Wireframes sketched on paper are referred to as "paper prototypes."
 
 **TAs,** slack out a link to [Nicely Said: Writing for the Web With Style and Purpose](https://www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20) to read after class.
 
-Now that students have a list of sound, real-world best practices to guide them, they should be eager to jump into creating wireframes. Soon! First, prepare students by spending 10 minutes demonstrating wireframing in Figma.
 
-## 12. Instructor Do: Demo - Figma Wireframes (10 min)
+## SLIDE 53
+Questions??
 
-> :pushpin: **Important Point:** The goal for this section is to walk students through a wireframing demo in Figma, which directly supports learning objective No. 2, create digital wireframes in Figma. Building on what students have just learned about UI design patterns and wireframing best practices, this demo is your final step in preparing students for the wireframing activity that follows.
+## SLIDE 54
+Review
 
-:timer_clock: Set a 10-minute timer. If you do not complete the entire demo, it is OK!
+## SLIDE 55-70
+Review turning flows into wireframes.
 
-#### After Your Demo:
+## SLIDE 71
+Questions??
 
-> :globe_with_meridians: **Online Recommendation:**: Take a moment to check in with the class and see how comfortable they feel about the material covered.
+## SLIDE 72
+Review quote
 
-- Stop sharing your screen for a moment and switch to gallery view in Zoom to see your class on one screen.
-- Ask the class to use the Zoom meeting reactions found in the Meeting Controls panel at the bottom of the Zoom window to use the thumbs up 👍 or clap 👏 emojis if they're feeling comfortable and confident with the material you've covered so far.
+## SLIDE 73
+Review
 
+## SLIDE 74
+Review
+
+## SLIDE 75
 #### Start Your Demo.
 
 In this demo, we will turn a sketched paper wireframe into a digital wireframe using Figma.
@@ -943,6 +835,7 @@ Once you've spent no more than 10 minutes demonstrating Figma wireframing, intro
 
 In the following activity, students will dive into wireframing in Adobe XD. At last!
 
+## SLIDE 76
 ## 13. Student Do: Digital Wireframes Activity (30 min)
 
 **TAs,** slack out the following file to students: [03-Week/02-Activities/03.3-03-Wireframes Google Doc](https://docs.google.com/document/d/1ZqQZ1rwtXrLEYc7hPHFaMaTCF96gCaXz8mzTAM0b_4I/edit?usp=sharing).  
@@ -985,6 +878,8 @@ Move from screen to screen as student work, making sure they keep moving through
 
 Students will create digital wireframes in Figma and share it via Slack.
 
+
+## SLIDE 77
 ## 14. Instructor Do: Digital Wireframes Activity Review (10 min)
 
 Again, not all students will finish their clickable prototype during the time allotted for the activity. Students should either continue to work on it during your office hours or continue at home because ***they'll need a clickable prototype for the next class's activities***.
@@ -1017,6 +912,7 @@ First, scroll through Slack and select a wireframe to discuss.
 
 Next, wrap up class, then open office hours.
 
+## SLIDE 78
 ## 15. Instructor Do: Recap and End Class (2 min)
 
 **Lead a review of today's concepts.**
