@@ -133,29 +133,32 @@ Today's slides: [04-Week/01-Slides/04.1-Guerrilla User Testing Slides](https://d
 
 - Finally, review today's learning objectives.
 
-### Review Design Thinking: Testing Phase
 
+
+## SLIDES 1-5
+Review
+
+## SLIDE 6
+Review Steve Krug quote
+
+## SLIDE 7
+Review
+
+## SLIDE 8
 The testing phase is where designers get the opportunity to learn more about the user and get chances to refine their prototype—and even their problem statement.
 
-- **User testing** is the process of crafting a plan and observing potential users try out a version or prototype of your product. Testing includes recording and then analyzing the results.
+- **Usability testing** is the process of crafting a plan and observing potential users try out a version or prototype of your product. Testing includes recording and then analyzing the results.
 
 - While conducting tests, designers pay close attention to their prototype, the context, and the scenario in which they're testing. Additionally, designers observe how the user interacts with the prototype and collect feedback. By paying close attention, they can see where there are gaps and issues with their design.
 
-> :gem: **Designer Insight:** Collecting, sorting, and understanding data gathered during user research and usability testing is becoming an increasingly common task among UX practitioners—in fact, it’s becoming a critical UX skill.
+Collecting, sorting, and understanding data gathered during user research and usability testing is becoming an increasingly common task among UX practitioners—in fact, it’s becoming a critical UX skill.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, knowing how to craft a guerrilla user testing plan is a key skill that is valuable to design teams. Here's why: 
+As a UX/UI designer, knowing how to craft a guerrilla user testing plan is a key skill that is valuable to design teams. Here's why: 
 1. User testing is essential to validating if your solutions work with your users. 
 2. Demonstrating you are willing and able to get feedback on your ideas is valuable. 
 3. UX/UI hiring managers want to see that you are thorough with your design process, which must include user testing. 
 
-Now, get ready to dive into introducing guerrilla testing in detail. 
-
-## 2. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Process (20 min)
-
-> :pushpin: **Important Point:** The goal of this section is to define guerrilla user testing and discuss what's in a plan. This will prepare students for creating their own guerrilla user testing plan, which addresses today's first learning objective. 
-
-Here you'll bring the testing phase to life for students. Explain the role of testing in designing successful products. Be sure to share a couple of quick personal anecdotes. 
-
+## SLIDE 9
 ### What Is Guerrilla User Testing?
 
 Guerrilla user testing means gathering user feedback by taking a design or prototype into the public and asking people for their thoughts.
@@ -169,10 +172,7 @@ This type of testing has the following characteristics:
 - The output is typically qualitative rather than quantitative. Testing helps to quickly validate whether specific functionality works the way it is supposed to.
 - Due to its simplicity, new ideas can be tested quickly and at a low cost.
 
-> **Instructor Note:** Check in with students to see if they have any questions so far about the "why" of guerrilla testing. 
-
-:globe_with_meridians: **Online Recommendation:** Address any questions that were posted to Slack. 
-
+## SLIDE 10
 ### The Process of Guerilla User Testing
 
 Each testing session can follow these steps:
@@ -180,11 +180,15 @@ Each testing session can follow these steps:
 1. Conduct short session lengths.
 2. Have few participants.
    - Find out some demographic data about the person such as age, occupation, etc.
+
+## SLIDE 11
 3. Observe user interactions. 
    - Conduct the moderated testing session. Begin with your first scenario or task you want the tester to try.
 4. Ask about their experience.
-5. Thank your participants. 
-6. Reward them for participation. Pay for their coffee and give them a gift card.
+
+## SLIDE 12
+6. Thank your participants. 
+7. Reward them for participation. Pay for their coffee and give them a gift card.
 
 Always plan research or testing sessions:
 
@@ -208,6 +212,8 @@ Guerrilla user testing is useful because:
 - Guerrilla research doesn’t require specific research skills. Anyone on the product team can conduct guerrilla user testing.
 - Guerrilla research can be used to demonstrate the value of user testing/research for stakeholders, especially for those who struggle to acknowledge the importance of usability testing.
 
+
+## SLIDE 13
 ### Guerrilla User Testing Deliverables
 
 - Deliverables are typically qualitative rather than quantitative, so the results are often more anecdotal than heavily metrics-based.
@@ -217,6 +223,7 @@ Guerrilla user testing is useful because:
 - Summary reports
 - Testing presentations
 
+## SLIDE 14
 ### Where to Conduct a Guerrilla User Test
 
 - Testing frequently throughout a product’s life cycle, as it’s low cost and easy to set up.
@@ -229,8 +236,13 @@ Guerrilla user testing is useful because:
 2. Internet connectivity
 3. Sound
 
-> **Instructor Note:** Pause for questions. 
+## SLIDE 15
+Questions??
 
+## SLIDE 16
+Review
+
+## SLIDE 17
 ### Online Remote Moderated User Tests
 
 Remote moderated user tests means gathering user feedback by taking a design or prototype to users through the internet: connecting with real users via the internet to gather data on prototypes. 
@@ -242,6 +254,9 @@ This type of testing has the following characteristics:
 - The output can be qualitative and quantitative. Testing helps to quickly validate whether specific functionality works the way it is supposed to.
 - Due to its simplicity, new ideas can be tested quickly and at a low cost.
 
+_Review slide_
+
+## SLIDE 18
 ### Why Online Remote Moderated User Tests
 
 The world is a busy and sometimes unpredictable place. So design teams need to adapt to new tools for gathering and continuing to test with our users, even if they are not face-to-face.
@@ -258,12 +273,14 @@ The world is a busy and sometimes unpredictable place. So design teams need to a
   - [https://www.usertesting.com/](https://www.usertesting.com/)
   - [https://www.userzoom.com/](https://www.userzoom.com/)
 
-> **Instructor Note:** Pause for questions. 
 
-### Airbnb Case Study
+## SLIDE 19
+Questions??
 
-Let's review the guerrilla user testing case study on Airbnb to get an idea of how this process works.
+## SLIDE 20
+Review
 
+## SLIDE 21
 ### Guerrilla User Testing Process
 
 The testing process consists of a few basic steps:
@@ -275,32 +292,39 @@ The testing process consists of a few basic steps:
 5. Test prototypes and gather user feedback.
 6. Review findings and suggest improvements.
 
+## SLIDE 22
 **1. Set objective:** For our objective, we want to identify pain points in Airbnb’s current rental booking process.
 
   - Working professionals ages 24–35 years old who frequently travel for fun and/or for business.
 
+## SLIDE 23
 **2. Define a target user:** Target users will be working professionals ages 24–35 years old who travel frequently for fun and/or business.
 
   - Your target user should align with your user personas.
 
+## SLIDE 24
 **3. Define questions you want answered (aka research objectives):** These are the main questions we want to be answered:
   - Can users easily search and book a place to stay?
   - Can users identify and use the wish list feature to save rentals for future viewing?
 
+## SLIDE 25
 **4. Tasks and scenarios:** We want to ask users to perform the following tasks after given pre-defined scenarios:
   - Search for a rental for a specific date range.
   - Save one rental to their wish list.
   - Select another rental and go through the process of booking it.
   - Example scenario: “Imagine you’re looking for a rental in San Francisco, California, from Jan 17 to 18 of this year. Go ahead and find a place to stay.”
 
+
+## SLIDE 26
 **5. Test prototype and gather user feedback:** User feedback comes in many shapes and forms: written notes, video, audio transcripts, etc.
 
 > **Say:**  "We'll finish the Airbnb Case Study during the next portion of the lecture."
 
-> **Instructor Note:** Take questions about the Airbnb case study or about guerrilla testing in general. 
 
-Now that students have seen what a guerrilla user testing plan looks like, it's time to create their own. The following activity gives students practice creating their testing plan.
+## SLIDE 27
+Questions??
 
+## SLIDE 28
 ## 3. Student Do: Guerrilla User Testing/Remote Moderated User Testing Plan Activity (20 min)
 
 **TAs,** Slack out the following links:
@@ -341,6 +365,7 @@ Students will complete parts 1 and 2 of the activity.
 
 Students will produce a user testing plan to execute guerrilla user testing and share via Slack.
 
+## SLIDE 29
 ## 4. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Plan Activity Review (10 min)
 
 :globe_with_meridians: **Online Recommendation:** Ask TAs to work with students who are struggling to wrap up the activity by supporting them in a breakout room or via Slack.
@@ -371,7 +396,7 @@ Remind students to share their guerrilla user testing plans in Slack.
 
 **Connect what students just learned to their weekly challenges:** The testing plans that students just developed will help them complete Part 1 of their challenge assignment—to write a guerrilla usability test that they can conduct.
 
-
+## SLIDE 30
 ## 5. Student Do: Guerrilla User Testing/Remote Moderated User Testing Plan Iteration Activity (10 min)
 
 **Summary**
@@ -407,20 +432,11 @@ Students will iterate their user testing plan to execute guerrilla user testing 
 
 Once students have iterated and completed their plans, your next step is to teach them how guerrilla user testing works. That's next. 
 
-## 6. Instructor Do: Guerrilla User Testing Tips (5 min)
+## SLIDE 31
+Review
 
-> :pushpin: **Important Point:** Your goal is to get students ready to conduct their own guerrilla user tests. This supports today's second learning objective, which is for students to conduct their own guerrilla user tests. 
-
-Here you will walk through a few tips on how to get the most out of guerrilla user testing. Start by connecting what students are learning to the real world of design careers. 
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, knowing how to conduct guerrilla user testing is a valuable skill for product development. We want to solve users' problems, and testing is a great way to validate that a solution is working. Bringing user testing skills to a team or organization helps reduce the risk a business carries in producing digital software. 
-
-> **Say:** "The following tips will help you succeed in the user testing activity that follows."
-
+## SLIDE 32
 ### Six Guerrilla User Testing Tips
-
-:globe_with_meridians: **Online Recommendation:** Have one student read the first tip aloud, then pick the next student to read. This keeps everyone engaged and reinforces concepts. 
-
 1. Incentivize your testers (give/buy them something).
 
    - Be prepared. 
@@ -453,6 +469,7 @@ Here you will walk through a few tips on how to get the most out of guerrilla us
    - Be mindful of how much time you spend with each test subject and always remind them that they can leave at any point during the test.
    - The last thing you want is a grumpy user skewing your feedback.
 
+## SLIDE 33
 ### Guidelines for Conducting User Tests
 
 - User testing is not easy, and you need to be patient with your participants.
@@ -463,18 +480,18 @@ Here you will walk through a few tips on how to get the most out of guerrilla us
 4. Participants should indicate when a task is complete.
 5. Remind them to think aloud. 
 
+## SLIDE 34
 ### Get the Participants to Think Aloud
 
 - It is hard to know what a user is thinking. One way to try and reveal their thought process is to model behavior and give permission to think out loud.
 
 - Assure them you are testing the product, not their performance.
 
-> :gem: **Designer Insight:** Pick two to three of the tips above and share a related anecdote to emphasize how relevant the tips are to real-world design work. 
 
-> **Instructor Note:** Before jumping into the next activity, take any questions from your students.
+## SLIDE 35
+Questions??
 
-Now that students have their plan, iterated it, and learned six important testing tips, it's time for them to conduct user tests. At last!
-
+## SLIDE 36
 ## 7. Student Do: Guerrilla User Testing/Remote Moderated User Testing Activity (45 min)
 
 **TAs,** Slack out the instructions link for the activity: [04-Week/02-Activities/04.1/04.1-02-Guerrilla-User-Testing](https://docs.google.com/document/d/12ZugcgWwaJq-WlvcczKZl8YnsiFv19LlbL58wKF8d9k/edit?usp=sharing).
@@ -509,16 +526,11 @@ Students will have recorded videos of test subjects and taken notes during user 
 
 ---
 
+## SLIDE 37
 ## 8. Break (15 min)
 
-:apple: Brain breaks support learning, so take time to drink water or stretch. 
 
-Let students know that when they return from the break, they'll be reviewing the user testing activity. 
-
-:globe_with_meridians: **Online Recommendations:** Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
----
-
+## SLIDE 38
 ## 9. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Activity Review (10 min)
 
 Bring the class's attention back to your screen to lead a review discussion. 
@@ -549,14 +561,10 @@ Facilitate a discussion around the issues designers can run into while conductin
 
 **Help students connect what they just learned to their challenge:** The user testing that students practiced will help with completing Part 5 of their challenge assignment to conduct a guerrilla user test.
 
-## 10. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Analysis (10 min)
+## SLIDE 39
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to complete the Airbnb Case Study by discussing how to synthesize user testing data. This will prepare students for analyzing their own guerrilla user testing results, which is also today's third learning objective.
-
-Now that students have completed their testing, they have a lot of notes and feedback. It's time for them to learn how research data is synthesized. You'll use the Airbnb case study as your example. Be sure to add your own professional anecdotes, too. 
-
-> **Say:** "Lots of data is great to have, what does it mean if you don't know how to analyze it?"
-
+## SLIDE 40
 ### Guerrilla User Testing Process
 
 - Effective UX/UI designers have the skill to get the most out of their testing data. 
@@ -567,28 +575,33 @@ Now that students have completed their testing, they have a lot of notes and fee
 
 **Airbnb Case Study:** Let's go back to our Airbnb Case Study. The last step in the guerrilla user testing process is analysis. We can break down the analysis into a few key steps.
 
+## SLIDE 41
 ### Review Findings and Suggested Improvements
 
 For example, we might plot our research data and group user feedback into an affinity diagram. 
 
    - Some data is sorted by the level of frequency of certain types of comments. 
 
+## SLIDE 42
 **Prioritize feedback:** After making an affinity diagram, prioritize the issues based on how important you expect them to be to users. 
 
    - Sometimes we prioritize based on how important the issues are to users and Airbnb's bottom line.
 
+## SLIDE 43
 ### Example 1: Write up suggested improvements.
 
 - **Write up your findings and add suggested improvements:** There is confusion around the search button. People rarely realize that there is a filter option.
 
 - Recommendation: Iterate the search bar and replace it with a different icon. Iterate the filter button to include a search option. Change the color of the filter button so that it has higher visibility.
 
+## SLIDE 44
 ### Example 2: Add suggested improvements.
 
 Users found the reviews confusing (who reviewed what experience and what is the rating?).
 
 - Recommendation: Iterate the reviews page to show individual ratings.
 
+## SLIDE 45
 ### Example 3: Add suggested recommendations.
 
 Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon.
@@ -597,12 +610,14 @@ Here, we see a different card UI for house listings; however, there is an incons
 
 > **Instructor Note:** Check in with students — "Are there any questions about what we just covered?"
 
+## SLIDE 46
 ### Example 4: Implement recommendations.
 
 Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon and share icon.
 
 - Recommendation: Including labels with both features, reducing the number of clicks to save a location.
 
+## SLIDE 47
 ### Example 5: Building consistency across your UI system.
 
 As designers, it's essential to understand how to present your research to teammates, stakeholders, executives, and clients.
@@ -611,12 +626,11 @@ As designers, it's essential to understand how to present your research to teamm
 
 - Knowing your users' needs means you can design a product with value.
 
-> **Instructor Note:** Take questions about this last section. 
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, knowing how to analyze and document the results from guerrilla user testing is expected and a highly valued skill on design teams. Here's why: Your ability to validate your solutions and tell the story of how your design process is human-centered, from end to end, will make you more employable. 
+## SLIDE 48
+Questions??
 
-Now that students understand how designers analyze their tests and document the results, it's time for them to see what it's like to apply analysis to the data they collected from their user tests. That's the focus of the next activity.
-
+## SLIDE 49
 ## 11. Student Do: Guerrilla User Testing/Remote Moderated User Testing Analysis Activity (20 min)
 
 **TAs,** Slack out the instructions link to the activity: [04-Week/02-Activities/04.1/04.1-03-Guerrilla-Testing-Analysis](https://drive.google.com/open?id=10EOQmB-FAN1oteEfNOn6DJD6xDuknzNtNqtOQGBxAHw).
@@ -654,6 +668,7 @@ If students struggle to come up with ideas to write down on their sticky notes, 
 
 Students will produce an affinity diagram, prioritization matrix, and written findings based on their guerrilla user test data in this activity. They will share their work in Slack.
 
+## SLIDE 50
 ## 12. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Analysis Activity Review (10 min)
 
 :globe_with_meridians: **Online Recommendation:** Bring everyone's attention back to your screen in order to lead a review of the activity. 
@@ -693,6 +708,7 @@ Students will produce an affinity diagram, prioritization matrix, and written fi
 
 And, now, it's time to introduce this week's challenge! Then you can wrap up today's class.
 
+## SLIDES 51-54
 ## 13. Instructor Do: Introduce Challenge (5 min) 
 
 **TAs,** Slack out Unit 4 Challenge Instructions: [https://docs.google.com/document/https://docs.google.com/document/d/1xECd3ucvXpkUEjJOat4YvWKeu2eatU9OGMvS0pY3c08/edit?usp=sharing
