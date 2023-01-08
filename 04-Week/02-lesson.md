@@ -183,60 +183,60 @@ In the last class, students practiced user testing (guerrilla/remote moderated) 
 > **Instructor Note:** Encourage students to use their challenge prototypes to maximize the class time towards this weeks challenge.
 
 
-Start by introducing design guidelines for Apple.
+## SLIDES 1-5
+Review
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, reading and understanding design guidelines are relevant to the industry because you will be expected to be an expert in these best practices. You will often be asked to work on software products that use guidelines. 
-
-### Design Guidelines
-
+## SLIDE 6
 - **Design guidelines** are sets of recommendations for good practices in design.
 
 - Design guidelines provide designers and developers with clear instructions on how to adopt specific usability principles.
 
-- Design guidelines let designers create an experience that is *intuitive, learnable, efficient, and consistent.*
+- Design guidelines let designers create an experience that is 
+    - intuitive
+    - learnable
+    - efficient
+    - consistent
 
+## SLIDE 7
 ### iOS and Android Design Guidelines
 
 In the mobile phone operating system (OS) marketplace, Android has a 75% market share while iOS has 24%. Naturally, Android's and iOS's design guidelines dominate mobile apps. We're learning about both guidelines today.
 
 - **TAs,** slack out: [iOS-Market-Share](https://gs.statcounter.com/os-market-share/mobile/worldwide) for students to review after class. 
 
-- Design guidelines have informed all of the products we use: Android phones, iPhones, Windows, etc. 
+## SLIDE 8
+Review
 
+## SLIDE 9
 ### iOS HIG
 
 iOS HIG is a design language developed by Apple to provide continuity across its web and mobile products.
 
 - **TAs,** slack out: [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
 
-### Review the Essential iOS Design Patterns
-
-> **Instructor Note:** Open the HIG website and flip between the slides and documentation website as needed. These guidelines are always being updated with each OS release.
-
+## SLIDE 10
 - **iOS components**
 
     - Views, controls, and bars allow app developers to build iOS interfaces quickly. 
 
     - If you work at Apple as a UX designer, you might be able to impact these UI elements. If not, just implement them faithfully. Nothing makes a young designer look more "green" than ignoring iOS standards. 
 
+## SLIDE 11
 - **Navigation bars** contain the controls for navigating through an app’s screens or views. They'll always appear at the top of the screen, immediately below the status bar.
 
+## SLIDE 12
 - **Search bars** can be displayed alone, in a navigation bar, or a content view.
 
+## SLIDE 13
 - **Tab bars** are used to allow the user to navigate through the separate views of an application quickly. They always appear at the bottom edge of the screen.
 
+## SLIDE 14
 - **Table views** are used to display small to large amounts of list-style information.
 
-Students should now have a sense of the role and importance of design guidelines. 
+## SLIDE 15
+Review
 
-> **Instructor Note:** Take questions about design guidelines before reading through them. 
-
-Next, students will read through the HIG guidelines, which will prepare them to iterate their wireframes to design solutions that look and feel like iOS.
-
-- Building on prior design principles, explain Apple's approach to design for iOS devices. The overarching idea: *iOS design principles promote inclusivity and accessibility*. For example: Apple designs its products for the broadest population possible. 
-
-### iOS Design Principles
-
+## SLIDE 16
 The goal in designing scalable products is to consider all your users. Usability and accessibility play huge roles in making scalable design.
 
 - **Vision and contrast:** Vision impairments include blindness, color blindness, all forms of vision loss, and challenges and situations that make seeing the screen uncomfortable or difficult.
@@ -247,16 +247,26 @@ The goal in designing scalable products is to consider all your users. Usability
 **TAs,** slack out the following for students to review at home: 
    - [https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/)
 
+
+## SLIDE 17
+Questions??
+
+## SLIDE 18
+Review
+
+## SLIDE 19
 **Loading:**
 
 - Make it clear when loading is occurring.
 - **Ask,** "What might your user think if you do not make it clear that loading is occurring?"
 
+## SLIDE 20
 **Modality:**
 
 - Use modality to create focus.
 - Prevent people from doing other things until they complete a task or dismiss a message or view.
 
+## SLIDE 21
 **Ask for permission:**
 
 - People expect to have control over their private data. In iOS, users must grant permission for an app to access personal information, including photos and contact information.
@@ -264,14 +274,18 @@ The goal in designing scalable products is to consider all your users. Usability
 
   - For example, multiple international and domestic laws require that these permissions be requested (such as the EU's Data Protection Directive and ePrivacy Directive and California's COPPA) and that Apple requires them if you want the app to be available in the Apple App Store.
 
+## SLIDE 22
 **Settings:**
 
 - Settings are a necessary part of the UX.
 - Thoughtfully prioritize configuration options within your app.
 - Expose infrequently changed configuration options in the settings.
 
-> **Instructor Note:** Check to see if students have questions about the guidelines.
 
+## SLIDE 23
+Review
+
+## SLIDE 24
 **iOS HIG - Eight Best Practices**
 
 Let's talk about the best practices for applying the iOS guidelines to our designs.
@@ -282,15 +296,18 @@ Let's talk about the best practices for applying the iOS guidelines to our desig
 
    - Make your type legible and give your type a clear hierarchy.
 
+## SLIDE 25
 2. **Make text readable.**
 
    - Use at least 11 point size, so it's legible at a regular viewing distance.
    - We'll cover more in the UI units.
 
+## SLIDE 26
 3. **Use appropriate font sizes.**
 
    - Type is for reading, so make sure it is legible.
 
+## SLIDE 27
 4. **Use large titles.**
 
    - Bold fonts are everywhere in iOS 13.
@@ -298,31 +315,36 @@ Let's talk about the best practices for applying the iOS guidelines to our desig
    - Since screens are about twice as tall as they were with previous iPhones, it only makes sense to have large titles. Another reason for large fonts is accessibility.
    - With millions of people of all ages using their phones daily, making the content as clear and readable as possible is essential.
 
+## SLIDE 28
 5. **Focus on alignment.**
 
    - Grids are essential in maintaining consistent alignment.
 
+## SLIDE 29
 6. **Organization matters.**
 
    - Content should be ordered and clear.
 
+## SLIDE 30
 7. **Consider tap targets.**
 
    - Make a point of 44x44 pixels.
 
+## SLIDE 31
 8. **Use a prominent color for touchable areas.**
 
    - The user should clearly understand what they can interact with.
 
-> **Instructor Note:** Ask if students have questions about the eight best practices. 
+## SLIDE 32
+Questions??
 
-> :gem: **Designer Insight:** Choose two to three best practices and briefly share an anecdote about how you've used them in your work for clients. 
+## SLIDE 33
+Review
 
+## SLIDE 34
 **Designing for iPhone X:** The iPhone X requires some special attention.
 
 - When designing apps for the iPhone X, you have to be aware of the safe zone and layout margins. The safe zone ensures your app UI doesn’t get clipped by the device’s sensors or corners.
-
-> **Instructor Note:** Take any final questions before moving on to your demo of iOS in Figma or Adobe XD. 
 
 **TAs,** slack out the following for students to review at home: 
 
@@ -338,6 +360,7 @@ Let's talk about the best practices for applying the iOS guidelines to our desig
 
 Building on these iOS design guidelines, you'll demo Apple's resources for iOS designers.
 
+## SLIDES 35-36
 ## 3. Instructor Do: Demo - iOS in Figma or Adobe XD (10 min)
 
 > :pushpin: **Important Point:** Your goal for this section is to give a demo using iOS resources to help students feel comfortable using the tools themselves.
@@ -416,6 +439,10 @@ Part 2: Wireframe a Login Screen
 
 Students should be very eager at this point to practice wireframing, the next activity. Turn them loose.
 
+## SLIDE 37
+Questions??
+
+## SLIDE 38
 ## 4. Student Do: iOS Wireframes Activity (25 min)
 
 **TAs,** slack out the instructions and the iOS Design Guidelines Cheat Sheet: 
@@ -455,6 +482,7 @@ Students will practice taking a digital wireframe and transforming it into an iO
 
 Students will create two to three iOS wireframes in Figma or Adobe XD and post their work to Slack.
 
+## SLIDE 39
 ## 5. Instructor Do: iOS Wireframes Activity Review (10 min)
 
 Call the class back to attention and lead a review of the activity. 
@@ -492,6 +520,14 @@ Finally, with the challenge in mind, share a couple of actionable, tactical tips
 
 **Help students connect the learning to the challenge:** The wireframes students worked on will prepare them for executing Part 5 of their challenge assignment—creating iOS wireframes.
 
+
+## SLIDE 40
+Review
+
+## SLIDE 41
+Review
+
+## SLIDE 42
 ## 6. Instructor Do: Material Design Guidelines (15 min)
 
 > :pushpin: **Important Point:** This section aims to familiarize students with the two main concepts in Material Design: (1) the use of shadow to indicate elements and the state, and (2) the use of Material UI components. This lecture also addresses today's first learning objective, knowing which design guidelines to apply.
@@ -522,13 +558,11 @@ Material Design provides a uniformity of experience that Google products have be
 
 - Material Design don'ts: [https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329)
 
-### Material Design Principles
+## SLIDE 43
+Review
 
-> :globe_with_meridians: **Online Recommendation:** TAs can monitor Slack for questions as you lecture.
-
+## SLIDE 44
 Three main principles construct Material Design: 
-
-> :gem: **Designer Insight:** As you share these three principles, choose one for the basis of a professional anecdote to connect this to the real world for students. 
 
 1. Material is the metaphor. The development of the material was inspired by the study of tactile elements we use every day, such as paper and ink. It makes the object light, and the surface and movements are better when interacting with each other.
 
@@ -536,8 +570,8 @@ Three main principles construct Material Design:
 
 3. Motion provides meaning. This is one of the most noted things. In material, you should have meaningful and appropriate motion, subtle and clear feedback, as well as efficient and coherent transition.
 
-> **Instructor Note:** Check with students for any questions regarding what you've covered so far about Material Design. 
 
+## SLIDE 45
 ### Material Design Principles Are Rooted in Reality
 
 Material Design is inspired by the physical world and its textures, including how they reflect light and cast shadows. Material surfaces reimagine the mediums of paper and ink as digital objects.
@@ -546,6 +580,7 @@ Material Design is inspired by the physical world and its textures, including ho
 
 - The material environment is a three-dimensional space, which means all objects have x, y, and z dimensions.
 
+## SLIDE 46
 ### Elevation and Shadow Concept
 
 In Material Design, we're trying to mimic the concept of picking up a piece of paper, which would generate a shadow on a table's surface, for instance.  The elevation is the relative distance between two surfaces along the z-axis.
@@ -556,8 +591,11 @@ All Material Design surfaces and components have elevation values. Surfaces at d
 
 - Allow surfaces to move in front of and behind other surfaces, such as content scrolling behind app bars.
 - Reflect spatial relationships, such as how a floating action button’s shadow indicates it is separate from a card collection.
-- Read more about elevation here: [https://material.io/design/environment/elevation.html](https://material.io/design/environment/elevation.html).
 
+
+- **TAs please Slack out** Read more about elevation here: [https://material.io/design/environment/elevation.html](https://material.io/design/environment/elevation.html).
+
+## SLIDE 47
 **Shadow**
 
 Material surfaces cast shadows when they obstruct light sources. The consistent use of shadow depicts the elevation. Shadows express the degree of height between surfaces and should be used consistently across a product.
@@ -566,31 +604,17 @@ Material surfaces cast shadows when they obstruct light sources. The consistent 
 
 - Read more about light and shadow here: [https://material.io/design/environment/light-shadows.html#light](https://material.io/design/environment/light-shadows.html#light).
 
-### Material Design Uses Shadows to Highlight Page Components
+## SLIDE 48
+Review
 
-Shadow size reflects elevation. Surfaces at higher elevations have larger shadows, while those at lower elevations have smaller shadows.
-
-![Shadow Example](Images/shadow-ex.png)
-
-For example, here, we can see shadow used to convey the location of the navigation bar (1), search bar (2), and card (3).
-
-When the user interacts with the card content because it is scrollable, it will scroll under the search bar (4), but because there is a shadow, we can see the depth perception created.
-
-### Material Design Uses Shadows to Indicate Movement
-
+## SLIDE 49
 Material Design has three-dimensional qualities reflected in its use of surfaces, depth, and shadows. For example, shadows provide useful cues about an object’s direction of movement and whether the distance between surfaces increases or decreases.
 
-> **Instructor Note:** At this point, check again for student questions about this material. 
-
-> :globe_with_meridians: **Online Recommendation:** Check Slack and field any questions students have posted there.
-
-### Review the Dos and Don'ts Examples
-
 Example 1:
-
-- DO: Use consistent shadow to help the user understand that the object is changing shape as opposed to changing elevation.
 - DON'T: Without a shadow to indicate elevation, it’s unclear whether this square is increasing in size or increasing its elevation.
+- DO: Use consistent shadow to help the user understand that the object is changing shape as opposed to changing elevation.
 
+## SLIDE 50
 Example 2:
 
 - DO: Use shadows to make differences in surface elevation perceptible. The smaller, sharper shadow of the app bar (1) indicates it is at a lower elevation than the menu (2).
@@ -600,20 +624,19 @@ Example 3:
 
 - DO: Use a translucent background to indicate surface overlap, but not the degree of elevation.
 - DON'T: The lack of shadows or scrimmed background makes it difficult to distinguish the background's dialog box.
-
-> :gem: **Designer Insight:** Invite a TA to share a quick anecdote to support one to two of these dos or don'ts.
->
-> - Alternatively, feel free to share a brief anecdote of your own.
-
 ![Shadow button](Images/shadow-btn.png)
 
+
+## SLIDE 51
 For example, we can notice how shadows are used to convey the state of a button:
 
 - Normal has a small shadow to indicate that it is a button.
 - Pressed has a larger shadow to indicate that something has changed.
 
+## SLIDE 52
 We see this same type of relationship with cards.
 
+## SLIDE 53
 ### Material Design Surface Positioning and Movement
 
 Surfaces, aka UI components, can remain fixed on the x- and y-axes or can be moveable in any direction. Review the examples:
@@ -622,24 +645,24 @@ A. The top app bar (1) remains in a fixed position while the card collection scr
 B. Surfaces can move independently of each other.
 C. Surfaces (1) can move in any direction, although movement can be confined to a single axis at a time.
 
+## SLIDE 54
 ### Material Design Navigation Patterns
 
 Like iOS, Material Design has many UI patterns. Like iOS, material has a bottom button tab. They also encourage the use of tabs for top navigation as well.
 
+## SLIDE 55
 **Reverse Navigation**
 
 Reverse navigation refers to backward movement between screens. It can move users chronologically through their recent screen history, or upward through an app’s hierarchy. Unlike iOS, Android uses a back button on the bottom bar.
 
+## SLIDE 56
 - Like iOS, upward navigation-when navigation icons are at the top of the screen-are possible as well.
 
-> :gem: **Designer Insight:** Share a couple of brief observations of your own regarding noticeable differences between designing to Android vs. Apple guidelines. *Not which one's "better," but how they're distinct.* 
 
-> **Say:** "You'll get the hang of this, don't worry!" Everything you've just covered will take time to become familiar with as students move into working hands-on with the Material Design guidelines and design patterns. 
+## SLIDE 57
+Questions??
 
-> **Instructor Note:** Take questions! You've covered a lot of material, so remind students not to be shy about asking questions. 
-
-Now it's time to demo what you've only put words to—give students a glimpse inside Material Design in Figma or Adobe XD! 
-
+## SLIDE 58
 ## 7. Instructor Do: Demo - Material Design in Figma or Adobe XD (10 min)
 
 > :pushpin: **Important Point:** Your goal for this section is to demo using Material Design resources so that students feel confident in the activity that follows.
@@ -696,6 +719,7 @@ Again, don't worry about "finishing" the demo.
 
 Students should be very eager at this point to get hands-on and jump into wireframing. That's next! 
 
+## SLIDE 59
 ## 8. Student Do: Android Wireframes Activity (25 min)
 
 **TAs,** slack out the instructions and the Material Design Guidelines:
@@ -736,6 +760,7 @@ Students will practice taking a digital wireframe and transforming it into an An
 
 Students will create three to five Android wireframes in Figma or Adobe XD and share them via Slack.
 
+## SLIDE 60
 ## 9. Instructor Do: Android Wireframes Activity Review (10 min)
 
 Call the class back to attention and lead a review of the activity. 
@@ -776,6 +801,7 @@ Finally, with challenge in mind, share a couple of actionable, tactical tips tha
 
 Now, it's time for a break.
 
+## SLIDE 61
 ## 10. Break (15 min)
 
 :bulb: Brain breaks support learning, so take time to relax, drink water, or stretch. 
@@ -786,6 +812,7 @@ Let students know that after the break, they will be spending the rest of the cl
 
 Enjoy your break. 
 
+## SLIDE 62
 ## 11. Student Do: Mid-Fidelity Mobile Prototype Activity (40 min)
 
 > :pushpin: **Important Point:** Your goal is to support students as they create iOS or Android wireframes. They'll also start building their clickable prototypes in InVision, too. 
@@ -821,7 +848,6 @@ The hope is that students can practice testing their challenge in class and outs
 ### Instructor and TAs
 
 > :globe_with_meridians: **Online Recommendation:** Monitor students as they work and offer support where needed.:
-
 
 - *Students might struggle with consistency.* Help them to use the same type sizes.
 
