@@ -135,16 +135,380 @@ Today's slides: [04-Week/01-Slides/04.1-Guerrilla User Testing Slides](https://d
 
 
 
-## SLIDES 1-5
+
+
+## SLIDES 1-4
 Review
+
+## SLIDE 5
+### What Is UX Writing?
+
+UX writing is part of content strategy. The UX writer is responsible for all the text the user encounters when navigating around a product. If you enjoy writing, you might want to explore this career path. In this course, you'll act as your own UX writer.
+
+- It is the practice of designing the words people see when they interact with software UIs.
+- It’s about designing the conversation between a product and its user.
+- UX writing is a growing field.
+
+> :briefcase: **Employer Competitive Note:** Real-world UX writers are responsible for all the text the user encounters when navigating around a product. This career path is ideal for designers who have a passion for writing. 
 
 ## SLIDE 6
-Review Steve Krug quote
+UX writers are responsible for all of the text the user encounters when navigating around a product.
+
+### Who Hires UX Writers?
+
+- San Francisco companies lead the trend: Dropbox, Facebook, Airbnb, Pinterest, Google, and Spotify have UX writing, content strategy, or content design teams.
+
 
 ## SLIDE 7
-Review
+### Content Strategy
+
+Content strategy has been around for a long time. Large corporations such as Disney, Wells Fargo, and Mayo Clinic have had functional content strategy teams for years. So why do we care about it in UX? The answer is simple: it's nearly impossible to design a great UX for bad content. If you're passionate about creating a better UX, you'll also care about delivering useful, usable, engaging content.
+
+- ***Review the Content Strategy Helps UX Strategy Slide.***
+
 
 ## SLIDE 8
+Review
+
+## SLIDE 9
+### How Is UX Writing Different From Other Writing?
+
+- UX writing is a specialized form of writing because of its context (software) and the environment in which it’s produced (technology companies).
+
+### Lyft vs. UberPool UX Writing Example
+
+- The two screens (see slide) show the same interaction from Lyft Line and UberPOOL.
+
+  - In both, you’ve chosen a shared ride, and the service needs to know how many spots you need.
+
+  - Lyft begins with an imperative statement, telling you what you need to do (“Confirm number of passengers”) and explains why there’s a limit.
+
+  - Uber begins with the question: “How many seats do you need?”
+
+- Both services give you two options to reply to.
+
+  - Lyft lets you choose “Just Me” or “Me + 1 friend,” and shows the cost difference right there.
+
+  - Uber gives you numbers to reply with: 1 or 2.
+
+- This is a pretty simple interaction, and both approaches are quite clear.
+
+- But each service sets a very different tone here.
+
+- Lyft guides you, informs you, then offers you two very casual, friendly replies.
+
+  - By using “Just me” and “Me + 1 friend,” they’ve planted two hints with you: (1) Lyft is for riding with friends, and (2) you can engage with the Lyft service in a casual, friendly way.
+
+- Uber, in contrast, is extremely minimal.
+
+  - This approach is a lot more transactional.
+
+
+
+## SLIDE 10
+Review Mailchimp example
+
+## SLIDE 11
+### UX Writing Best Practices
+
+- **Put users first**: focus on the user.
+
+- **Be clear**: jargon-free, use context.
+  - For example, the pen tool vs. the Bezier manipulation tool.
+
+- **Be concise**: economical word choice.
+
+- **Make your writing useful**: direct the user to the next action.
+
+## SLIDE 12
+### UX Writing Example
+
+> :globe_with_meridians: **Online Recommendation:** Invite students to write down their own versions of the original copy, below.  Students can share their writing on Slack. 
+
+- **Version 1 (Original)**:
+  - At first, we start with a generic mobile screen.
+  - *Pay with your phone in stores and enjoy quick checkout in apps.*
+
+- **Version 2:**
+  - As we add a brand's voice, we see a personality emerge.
+  - *A faster way to pay.*
+
+- **Version 3:**
+   - When we integrate the tone, we can see how a little graphic is used to visualize that.
+    -  *Everything you need to speed through checkout.*
+
+
+**TAs,** slack out a link to [Nicely Said: Writing for the Web With Style and Purpose](https://www.amazon.com/gp/product/0321988191?ie=UTF8&camp=1789&creativeASIN=0321988191&linkCode=xm2&tag=nicelysaid-20) to read after class.
+
+
+## SLIDE 13
+Questions??
+
+## SLIDE 14
+Review
+
+## SLIDE 15-30
+Review turning flows into wireframes.
+
+## SLIDE 31
+Questions??
+
+## SLIDE 32
+Review quote
+
+## SLIDE 33
+Review
+
+## SLIDE 34
+Review
+
+## SLIDE 35
+#### Start Your Demo.
+
+In this demo, we will turn a sketched paper wireframe into a digital wireframe using Figma.
+
+**Tip:** Review the solution file if you need to: [04-Week/05-Instructor Resources / Figma Demo Solution](https://www.figma.com/file/wuDtGCw6t9vBkoUrzuHKen/03.3-01-Figma-Wireframe-Demo?node-id=5%3A201).
+
+**Instructions**
+
+1. Make a copy of the Figma Demo Template: [03.3-03-Figma-Wireframe-Demo](https://www.figma.com/file/wuDtGCw6t9vBkoUrzuHKen/03.3-01-Figma-Wireframe-Demo?node-id=5%3A201)
+
+   - On the file title, click the carrot and select duplicate from the drop-down menu.
+
+   - ![Figma](Images/duplicate.png)
+
+2. Using the DEMO FILE page, review the sketched wireframes with students:
+
+   - These sketches are for an imaginary grocery list app. 
+   
+      - Screen 1: This app lets you add items and check items off your list. 
+      
+      - Screens 2 and 3: The user can edit their list and delete items they don't want.
+
+      - Screens 4 and 5: The user is shown a modal screen overlay when adding a new item.
+
+   - ![Figma](Images/demo-file.png)
+
+3. You will now use Figma to begin building some basic wireframes:
+
+> :pushpin: **Important Point:**  When preparing for class, review the solution file found in the top left corner of the screen.
+
+   ![Figma](Images/solution-file.png)
+
+   Walk students through the interface:
+
+   ![Figma](Images/figma-shortcuts.png)
+
+   From the top left:
+
+   - Menu [ cmd + / ]
+
+   - Move [ v ]
+
+   - Select Frame [ F ]
+
+   - Select Shape
+
+   - Pen tool [ P ]
+
+   - Text tool [ T ]
+
+4. On the first screen:
+
+   - Add a text label: GROCERIES.
+
+   - Add a rectangle with a text label: EDIT.
+
+   - Group the layers and rename them HEADER.
+
+   - Add a rectangle with a text label and a circle: APPLES.
+
+   ![Figma](Images/05-demo.png)
+
+   - Select the rectangle, text label (apples), and the circle.
+
+   - Click (CMD + G) to group the layers.
+
+   - Copy the rectangle five times using Copy and Paste or the repeat grid tool (Adobe XD only).
+
+   ![Figma](Images/repeat-grid.png)
+
+   - Update the copy to the same copy from the sketch's images.
+
+   ![Figma](Images/07-demo.png)
+
+   - Add a rectangle with a text label: ADD ITEM.
+
+   - Add a color to indicate this button is the primary action.
+
+   ![Figma](Images/08-demo.png)
+
+5. On the second screen:
+
+   - Copy and paste the layers from the first screen.
+
+   ![Figma](Images/09-demo.png)
+
+   - Ungroup the layers.
+
+   ![Figma](Images/10-demo.png)
+
+   - Delete the ADD ITEM button.
+
+   - Delete the circles in the rectangles.
+
+   - Change the copy of the EDIT button to SAVE.
+
+   - Add Xs to each box.
+
+   - Change the color of the Xs to red.
+
+   ![Figma](Images/3-wires.png)
+
+6. On the third screen:
+
+   - Copy and paste the layers from the first screen.
+
+   - Select all the layers. Right-click and select LOCK.
+
+   ![Figma](Images/13-demo.png)
+
+   - Add a rectangle to the screen.
+
+   - Make it BLACK. Give it an opacity of 50%.
+
+   ![Figma](Images/add-overlay.png)
+
+   - Add a white rectangle to the top.
+
+   - Add a text label: ADD ITEM.
+
+   - Add a rectangle with a text label: BREAD.
+
+   - Add a white rectangle to the bottom.
+
+   - Add two lines to indicate a block of content.
+
+   - Add a rectangle with a text label: DONE.
+
+   - Change the rectangle to a background color BLUE.
+
+   - Change the text to the color WHITE.
+
+   - Explain that this is a modal. In user interfaces, modals are used to block the main content of a screen to get users to focus on a specific task. Here the task is entering a new list item.
+
+   ![Figma](Images/wire-3-and4.png)
+
+7. On the fourth screen:
+
+   - Copy and paste the layers from the first screen.
+   - Copy another rectangle, move it to the top of the list, and change the text label to read: BREAD.
+
+8. Click FILE > EXPORT (all artboards...) the screens to .PNG files.
+
+   ![Figma](Images/18-demo.png)
+
+Once you've spent no more than 10 minutes demonstrating Figma wireframing, introduce the activity. 
+
+In the following activity, students will dive into wireframing in Adobe XD. At last!
+
+## SLIDE 36
+## 13. Student Do: Digital Wireframes Activity (30 min)
+
+**TAs,** slack out the following file to students: [03-Week/02-Activities/03.3-03-Wireframes Google Doc](https://docs.google.com/document/d/1ZqQZ1rwtXrLEYc7hPHFaMaTCF96gCaXz8mzTAM0b_4I/edit?usp=sharing).  
+
+> **Instructor Note:** Practicing with prototyping is foundational. Make sure students are getting their prototypes to a place where they can be tested.
+
+**Summary**
+
+Students will create wireframes for the imaginary NSURE app based on their user flow and sketched wireframes from the previous class. This will help them connect the value of last week's lesson on user flow to today's prototyping lesson.
+
+Students are steadily moving toward bringing their apps to life!
+
+**Instructions**
+
+> :globe_with_meridians: **Online Recommendation:** If you’ve made one of the TAs a co-host of the webinar, they should create breakout rooms of student pairs as you describe the following activity. Follow these instructions to pre-assign breakout rooms for this and future activities.
+
+- Broadcast a two-minute warning to breakout rooms to help them wrap up this activity.
+
+> :globe_with_meridians: **Online Recommendation:** Students will work independently in the main Zoom room during the activity. Open 1 breakout room for students to jump in and troubleshoot.
+
+
+- First, students will import their sketched wireframes into Figma. 
+   - Make sure students share their file with the instructor via Slack.
+- Next, they'll use the starter kit tool in Figma to transform their paper wireframes into digital ones.
+- Finally, they'll finesse the flow of their wireframes until they're complete.
+
+**Instructors and TAs** 
+
+> :globe_with_meridians: **Online Recommendation:** Request that students share their screens when you are helping them or discussing their work.
+
+Move from screen to screen as student work, making sure they keep moving through the activity. 
+
+- *Watch for:* students who take a perfectionistic approach to sketching and help them keep moving. We want students to have enough time to sketch their wireframes.
+
+- *Watch for:* students who struggle with iterating and want to start from scratch. Remind them about the duration of the activity. They can tweak their designs as needed.
+
+> **Instructor Note:** Not all students will finish their clickable prototype during the time allotted for the activity. Students should either continue to work on it during your office hours or continue at home because ***they'll need a clickable prototype for the next class's activities***.
+
+**Deliverable**
+
+Students will create digital wireframes in Figma and share it via Slack.
+
+
+## SLIDE 37
+## 14. Instructor Do: Digital Wireframes Activity Review (10 min)
+
+Again, not all students will finish their clickable prototype during the time allotted for the activity. Students should either continue to work on it during your office hours or continue at home because ***they'll need a clickable prototype for the next class's activities***.
+
+
+> :globe_with_meridians: **Online Recommendation:** Call the class back to attention.
+
+> **Say:** "Not every designer is a visual designer, but being able to communicate flows visually is very important."
+
+> :gem: **Designer Insight:** Feel free to briefly add to this idea by sharing insights about visual communication as an asset for designers.
+
+**Hold critique.**
+
+First, scroll through Slack and select a wireframe to discuss. 
+
+> :globe_with_meridians: **Online Recommendation:** Ask students to engage in the critique, responding to students' work over Zoom or Slack.
+
+- Aim to review about one-third of the class's wireframes, if time allows. 
+  - Invite students to stay online for office hours for more feedback on their wireframes.
+
+- Invite TAs to offer their perspectives—whether on wireframing in general or students' wireframes in particular.
+
+***Questions to engage the class:***
+
+- *Is there a clear direction of where the user should navigate? Is there an effective call to action?*
+
+- *Does it establish a visual hierarchy?*
+
+> **Instructor Note:** Pause for questions, whether on wireframes or any other concept from today's lesson.
+
+Next, wrap up class, then open office hours.
+
+
+
+
+
+
+
+
+
+
+
+## SLIDES 38-49
+Review
+
+## SLIDE 40
+Review Steve Krug quote
+
+## SLIDE 41
+Review
+
+## SLIDE 42
 The testing phase is where designers get the opportunity to learn more about the user and get chances to refine their prototype—and even their problem statement.
 
 - **Usability testing** is the process of crafting a plan and observing potential users try out a version or prototype of your product. Testing includes recording and then analyzing the results.
@@ -158,7 +522,7 @@ As a UX/UI designer, knowing how to craft a guerrilla user testing plan is a key
 2. Demonstrating you are willing and able to get feedback on your ideas is valuable. 
 3. UX/UI hiring managers want to see that you are thorough with your design process, which must include user testing. 
 
-## SLIDE 9
+## SLIDE 43
 ### What Is Guerrilla User Testing?
 
 Guerrilla user testing means gathering user feedback by taking a design or prototype into the public and asking people for their thoughts.
@@ -172,7 +536,7 @@ This type of testing has the following characteristics:
 - The output is typically qualitative rather than quantitative. Testing helps to quickly validate whether specific functionality works the way it is supposed to.
 - Due to its simplicity, new ideas can be tested quickly and at a low cost.
 
-## SLIDE 10
+## SLIDE 44
 ### The Process of Guerilla User Testing
 
 Each testing session can follow these steps:
@@ -181,12 +545,12 @@ Each testing session can follow these steps:
 2. Have few participants.
    - Find out some demographic data about the person such as age, occupation, etc.
 
-## SLIDE 11
+## SLIDE 45
 3. Observe user interactions. 
    - Conduct the moderated testing session. Begin with your first scenario or task you want the tester to try.
 4. Ask about their experience.
 
-## SLIDE 12
+## SLIDE 46
 6. Thank your participants. 
 7. Reward them for participation. Pay for their coffee and give them a gift card.
 
@@ -213,7 +577,7 @@ Guerrilla user testing is useful because:
 - Guerrilla research can be used to demonstrate the value of user testing/research for stakeholders, especially for those who struggle to acknowledge the importance of usability testing.
 
 
-## SLIDE 13
+## SLIDE 47
 ### Guerrilla User Testing Deliverables
 
 - Deliverables are typically qualitative rather than quantitative, so the results are often more anecdotal than heavily metrics-based.
@@ -223,7 +587,7 @@ Guerrilla user testing is useful because:
 - Summary reports
 - Testing presentations
 
-## SLIDE 14
+## SLIDE 48
 ### Where to Conduct a Guerrilla User Test
 
 - Testing frequently throughout a product’s life cycle, as it’s low cost and easy to set up.
@@ -236,13 +600,13 @@ Guerrilla user testing is useful because:
 2. Internet connectivity
 3. Sound
 
-## SLIDE 15
+## SLIDE 49
 Questions??
 
-## SLIDE 16
+## SLIDE 50
 Review
 
-## SLIDE 17
+## SLIDE 51
 ### Online Remote Moderated User Tests
 
 Remote moderated user tests means gathering user feedback by taking a design or prototype to users through the internet: connecting with real users via the internet to gather data on prototypes. 
@@ -256,7 +620,7 @@ This type of testing has the following characteristics:
 
 _Review slide_
 
-## SLIDE 18
+## SLIDE 52
 ### Why Online Remote Moderated User Tests
 
 The world is a busy and sometimes unpredictable place. So design teams need to adapt to new tools for gathering and continuing to test with our users, even if they are not face-to-face.
@@ -274,13 +638,13 @@ The world is a busy and sometimes unpredictable place. So design teams need to a
   - [https://www.userzoom.com/](https://www.userzoom.com/)
 
 
-## SLIDE 19
+## SLIDE 53
 Questions??
 
-## SLIDE 20
+## SLIDE 54
 Review
 
-## SLIDE 21
+## SLIDE 55
 ### Guerrilla User Testing Process
 
 The testing process consists of a few basic steps:
@@ -292,22 +656,22 @@ The testing process consists of a few basic steps:
 5. Test prototypes and gather user feedback.
 6. Review findings and suggest improvements.
 
-## SLIDE 22
+## SLIDE 56
 **1. Set objective:** For our objective, we want to identify pain points in Airbnb’s current rental booking process.
 
   - Working professionals ages 24–35 years old who frequently travel for fun and/or for business.
 
-## SLIDE 23
+## SLIDE 57
 **2. Define a target user:** Target users will be working professionals ages 24–35 years old who travel frequently for fun and/or business.
 
   - Your target user should align with your user personas.
 
-## SLIDE 24
+## SLIDE 58
 **3. Define questions you want answered (aka research objectives):** These are the main questions we want to be answered:
   - Can users easily search and book a place to stay?
   - Can users identify and use the wish list feature to save rentals for future viewing?
 
-## SLIDE 25
+## SLIDE 59
 **4. Tasks and scenarios:** We want to ask users to perform the following tasks after given pre-defined scenarios:
   - Search for a rental for a specific date range.
   - Save one rental to their wish list.
@@ -315,16 +679,16 @@ The testing process consists of a few basic steps:
   - Example scenario: “Imagine you’re looking for a rental in San Francisco, California, from Jan 17 to 18 of this year. Go ahead and find a place to stay.”
 
 
-## SLIDE 26
+## SLIDE 60
 **5. Test prototype and gather user feedback:** User feedback comes in many shapes and forms: written notes, video, audio transcripts, etc.
 
 > **Say:**  "We'll finish the Airbnb Case Study during the next portion of the lecture."
 
 
-## SLIDE 27
+## SLIDE 61
 Questions??
 
-## SLIDE 28
+## SLIDE 62
 ## 3. Student Do: Guerrilla User Testing/Remote Moderated User Testing Plan Activity (20 min)
 
 **TAs,** Slack out the following links:
@@ -365,7 +729,7 @@ Students will complete parts 1 and 2 of the activity.
 
 Students will produce a user testing plan to execute guerrilla user testing and share via Slack.
 
-## SLIDE 29
+## SLIDE 63
 ## 4. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Plan Activity Review (10 min)
 
 :globe_with_meridians: **Online Recommendation:** Ask TAs to work with students who are struggling to wrap up the activity by supporting them in a breakout room or via Slack.
@@ -396,7 +760,7 @@ Remind students to share their guerrilla user testing plans in Slack.
 
 **Connect what students just learned to their weekly challenges:** The testing plans that students just developed will help them complete Part 1 of their challenge assignment—to write a guerrilla usability test that they can conduct.
 
-## SLIDE 30
+## SLIDE 64
 ## 5. Student Do: Guerrilla User Testing/Remote Moderated User Testing Plan Iteration Activity (10 min)
 
 **Summary**
@@ -432,10 +796,10 @@ Students will iterate their user testing plan to execute guerrilla user testing 
 
 Once students have iterated and completed their plans, your next step is to teach them how guerrilla user testing works. That's next. 
 
-## SLIDE 31
+## SLIDE 65
 Review
 
-## SLIDE 32
+## SLIDE 66
 ### Six Guerrilla User Testing Tips
 1. Incentivize your testers (give/buy them something).
 
@@ -469,7 +833,7 @@ Review
    - Be mindful of how much time you spend with each test subject and always remind them that they can leave at any point during the test.
    - The last thing you want is a grumpy user skewing your feedback.
 
-## SLIDE 33
+## SLIDE 67
 ### Guidelines for Conducting User Tests
 
 - User testing is not easy, and you need to be patient with your participants.
@@ -480,7 +844,7 @@ Review
 4. Participants should indicate when a task is complete.
 5. Remind them to think aloud. 
 
-## SLIDE 34
+## SLIDE 68
 ### Get the Participants to Think Aloud
 
 - It is hard to know what a user is thinking. One way to try and reveal their thought process is to model behavior and give permission to think out loud.
@@ -488,10 +852,10 @@ Review
 - Assure them you are testing the product, not their performance.
 
 
-## SLIDE 35
+## SLIDE 69
 Questions??
 
-## SLIDE 36
+## SLIDE 70
 ## 7. Student Do: Guerrilla User Testing/Remote Moderated User Testing Activity (45 min)
 
 **TAs,** Slack out the instructions link for the activity: [04-Week/02-Activities/04.1/04.1-02-Guerrilla-User-Testing](https://docs.google.com/document/d/12ZugcgWwaJq-WlvcczKZl8YnsiFv19LlbL58wKF8d9k/edit?usp=sharing).
@@ -526,11 +890,11 @@ Students will have recorded videos of test subjects and taken notes during user 
 
 ---
 
-## SLIDE 37
+## SLIDE 71
 ## 8. Break (15 min)
 
 
-## SLIDE 38
+## SLIDE 72
 ## 9. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Activity Review (10 min)
 
 Bring the class's attention back to your screen to lead a review discussion. 
@@ -561,10 +925,10 @@ Facilitate a discussion around the issues designers can run into while conductin
 
 **Help students connect what they just learned to their challenge:** The user testing that students practiced will help with completing Part 5 of their challenge assignment to conduct a guerrilla user test.
 
-## SLIDE 39
+## SLIDE 73
 Review
 
-## SLIDE 40
+## SLIDE 74
 ### Guerrilla User Testing Process
 
 - Effective UX/UI designers have the skill to get the most out of their testing data. 
@@ -575,33 +939,33 @@ Review
 
 **Airbnb Case Study:** Let's go back to our Airbnb Case Study. The last step in the guerrilla user testing process is analysis. We can break down the analysis into a few key steps.
 
-## SLIDE 41
+## SLIDE 75
 ### Review Findings and Suggested Improvements
 
 For example, we might plot our research data and group user feedback into an affinity diagram. 
 
    - Some data is sorted by the level of frequency of certain types of comments. 
 
-## SLIDE 42
+## SLIDE 76
 **Prioritize feedback:** After making an affinity diagram, prioritize the issues based on how important you expect them to be to users. 
 
    - Sometimes we prioritize based on how important the issues are to users and Airbnb's bottom line.
 
-## SLIDE 43
+## SLIDE 77
 ### Example 1: Write up suggested improvements.
 
 - **Write up your findings and add suggested improvements:** There is confusion around the search button. People rarely realize that there is a filter option.
 
 - Recommendation: Iterate the search bar and replace it with a different icon. Iterate the filter button to include a search option. Change the color of the filter button so that it has higher visibility.
 
-## SLIDE 44
+## SLIDE 78
 ### Example 2: Add suggested improvements.
 
 Users found the reviews confusing (who reviewed what experience and what is the rating?).
 
 - Recommendation: Iterate the reviews page to show individual ratings.
 
-## SLIDE 45
+## SLIDE 79
 ### Example 3: Add suggested recommendations.
 
 Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon.
@@ -610,14 +974,14 @@ Here, we see a different card UI for house listings; however, there is an incons
 
 > **Instructor Note:** Check in with students — "Are there any questions about what we just covered?"
 
-## SLIDE 46
+## SLIDE 80
 ### Example 4: Implement recommendations.
 
 Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon and share icon.
 
 - Recommendation: Including labels with both features, reducing the number of clicks to save a location.
 
-## SLIDE 47
+## SLIDE 81
 ### Example 5: Building consistency across your UI system.
 
 As designers, it's essential to understand how to present your research to teammates, stakeholders, executives, and clients.
@@ -627,10 +991,10 @@ As designers, it's essential to understand how to present your research to teamm
 - Knowing your users' needs means you can design a product with value.
 
 
-## SLIDE 48
+## SLIDE 82
 Questions??
 
-## SLIDE 49
+## SLIDE 83
 ## 11. Student Do: Guerrilla User Testing/Remote Moderated User Testing Analysis Activity (20 min)
 
 **TAs,** Slack out the instructions link to the activity: [04-Week/02-Activities/04.1/04.1-03-Guerrilla-Testing-Analysis](https://drive.google.com/open?id=10EOQmB-FAN1oteEfNOn6DJD6xDuknzNtNqtOQGBxAHw).
@@ -668,7 +1032,7 @@ If students struggle to come up with ideas to write down on their sticky notes, 
 
 Students will produce an affinity diagram, prioritization matrix, and written findings based on their guerrilla user test data in this activity. They will share their work in Slack.
 
-## SLIDE 50
+## SLIDE 84
 ## 12. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Analysis Activity Review (10 min)
 
 :globe_with_meridians: **Online Recommendation:** Bring everyone's attention back to your screen in order to lead a review of the activity. 
@@ -708,7 +1072,7 @@ Students will produce an affinity diagram, prioritization matrix, and written fi
 
 And, now, it's time to introduce this week's challenge! Then you can wrap up today's class.
 
-## SLIDES 51-54
+## SLIDES 85-88
 ## 13. Instructor Do: Introduce Challenge (5 min) 
 
 **TAs,** Slack out Unit 4 Challenge Instructions: [https://docs.google.com/document/https://docs.google.com/document/d/1xECd3ucvXpkUEjJOat4YvWKeu2eatU9OGMvS0pY3c08/edit?usp=sharing
