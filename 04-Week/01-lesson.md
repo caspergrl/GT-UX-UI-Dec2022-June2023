@@ -485,21 +485,9 @@ First, scroll through Slack and select a wireframe to discuss.
 
 - *Does it establish a visual hierarchy?*
 
-> **Instructor Note:** Pause for questions, whether on wireframes or any other concept from today's lesson.
-
-Next, wrap up class, then open office hours.
 
 
-
-
-
-
-
-
-
-
-
-## SLIDES 38-49
+## SLIDES 38-39
 Review
 
 ## SLIDE 40
@@ -761,45 +749,9 @@ Remind students to share their guerrilla user testing plans in Slack.
 **Connect what students just learned to their weekly challenges:** The testing plans that students just developed will help them complete Part 1 of their challenge assignment—to write a guerrilla usability test that they can conduct.
 
 ## SLIDE 64
-## 5. Student Do: Guerrilla User Testing/Remote Moderated User Testing Plan Iteration Activity (10 min)
-
-**Summary**
-
-In this activity, students will iterate their plan for guerrilla testing using the provided template. 
-
-This gives students familiarity with how to prepare for taking a prototype out into the world and testing it in the form of rapid, low-cost guerrilla user testing.
-
-### Instructions
-
-- Working independently, students will iterate their guerrilla user testing plan.
-- This activity has four parts. Students will now complete parts 3 and 4: 
-  - Part 3: Students iterate their guerrilla testing plan.
-  - Part 4: Wrap up and share their testing plan on Slack.
-
-### Instructor and TAs
-
-:globe_with_meridians: **Online Recommendation:** Monitor the students' work by navigating from screen to screen. Be available for questions students ask aloud or via Slack.
-
-Students will be completing parts 3 and 4 of the activity.
-
-Students might struggle with refining user testing objectives or specifics on their user tasks. Help them by talking through what they hope to learn from testing their solution with users. 
-
-> **Say** "Let's take 10 minutes to make iterations of our Guerrilla User Testing Plan version 2."
-
-- Students should consider feedback received from their peers as well as the class review discussion in general as they iterate their plans.
-
-- Encourage students to be thorough and *finish their testing plans*.
-
-### Deliverable
-
-Students will iterate their user testing plan to execute guerrilla user testing and share via Slack.
-
-Once students have iterated and completed their plans, your next step is to teach them how guerrilla user testing works. That's next. 
-
-## SLIDE 65
 Review
 
-## SLIDE 66
+## SLIDE 65
 ### Six Guerrilla User Testing Tips
 1. Incentivize your testers (give/buy them something).
 
@@ -833,7 +785,7 @@ Review
    - Be mindful of how much time you spend with each test subject and always remind them that they can leave at any point during the test.
    - The last thing you want is a grumpy user skewing your feedback.
 
-## SLIDE 67
+## SLIDE 66
 ### Guidelines for Conducting User Tests
 
 - User testing is not easy, and you need to be patient with your participants.
@@ -844,7 +796,7 @@ Review
 4. Participants should indicate when a task is complete.
 5. Remind them to think aloud. 
 
-## SLIDE 68
+## SLIDE 67
 ### Get the Participants to Think Aloud
 
 - It is hard to know what a user is thinking. One way to try and reveal their thought process is to model behavior and give permission to think out loud.
@@ -852,10 +804,10 @@ Review
 - Assure them you are testing the product, not their performance.
 
 
-## SLIDE 69
+## SLIDE 68
 Questions??
 
-## SLIDE 70
+## SLIDE 69
 ## 7. Student Do: Guerrilla User Testing/Remote Moderated User Testing Activity (45 min)
 
 **TAs,** Slack out the instructions link for the activity: [04-Week/02-Activities/04.1/04.1-02-Guerrilla-User-Testing](https://docs.google.com/document/d/12ZugcgWwaJq-WlvcczKZl8YnsiFv19LlbL58wKF8d9k/edit?usp=sharing).
@@ -890,11 +842,11 @@ Students will have recorded videos of test subjects and taken notes during user 
 
 ---
 
-## SLIDE 71
+## SLIDE 70
 ## 8. Break (15 min)
 
 
-## SLIDE 72
+## SLIDE 71
 ## 9. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Activity Review (10 min)
 
 Bring the class's attention back to your screen to lead a review discussion. 
@@ -925,10 +877,10 @@ Facilitate a discussion around the issues designers can run into while conductin
 
 **Help students connect what they just learned to their challenge:** The user testing that students practiced will help with completing Part 5 of their challenge assignment to conduct a guerrilla user test.
 
-## SLIDE 73
+## SLIDE 72
 Review
 
-## SLIDE 74
+## SLIDE 73
 ### Guerrilla User Testing Process
 
 - Effective UX/UI designers have the skill to get the most out of their testing data. 
@@ -939,33 +891,33 @@ Review
 
 **Airbnb Case Study:** Let's go back to our Airbnb Case Study. The last step in the guerrilla user testing process is analysis. We can break down the analysis into a few key steps.
 
-## SLIDE 75
+## SLIDE 74
 ### Review Findings and Suggested Improvements
 
 For example, we might plot our research data and group user feedback into an affinity diagram. 
 
    - Some data is sorted by the level of frequency of certain types of comments. 
 
-## SLIDE 76
+## SLIDE 75
 **Prioritize feedback:** After making an affinity diagram, prioritize the issues based on how important you expect them to be to users. 
 
    - Sometimes we prioritize based on how important the issues are to users and Airbnb's bottom line.
 
-## SLIDE 77
+## SLIDE 76
 ### Example 1: Write up suggested improvements.
 
 - **Write up your findings and add suggested improvements:** There is confusion around the search button. People rarely realize that there is a filter option.
 
 - Recommendation: Iterate the search bar and replace it with a different icon. Iterate the filter button to include a search option. Change the color of the filter button so that it has higher visibility.
 
-## SLIDE 78
+## SLIDE 77
 ### Example 2: Add suggested improvements.
 
 Users found the reviews confusing (who reviewed what experience and what is the rating?).
 
 - Recommendation: Iterate the reviews page to show individual ratings.
 
-## SLIDE 79
+## SLIDE 78
 ### Example 3: Add suggested recommendations.
 
 Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon.
@@ -974,14 +926,14 @@ Here, we see a different card UI for house listings; however, there is an incons
 
 > **Instructor Note:** Check in with students — "Are there any questions about what we just covered?"
 
-## SLIDE 80
+## SLIDE 79
 ### Example 4: Implement recommendations.
 
 Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon and share icon.
 
 - Recommendation: Including labels with both features, reducing the number of clicks to save a location.
 
-## SLIDE 81
+## SLIDE 80
 ### Example 5: Building consistency across your UI system.
 
 As designers, it's essential to understand how to present your research to teammates, stakeholders, executives, and clients.
