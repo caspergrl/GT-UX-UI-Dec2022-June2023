@@ -143,37 +143,36 @@ Review
 ## SLIDE 5
 ### What Is UX Writing?
 
-UX writing is part of content strategy. The UX writer is responsible for all the text the user encounters when navigating around a product. If you enjoy writing, you might want to explore this career path. In this course, you'll act as your own UX writer.
+UX writing is part of content strategy. Content strategy focuses on the planning, creation, delivery, and governance of content.  Content not only includes the words on the page but also the images and multimedia that are used. Ensuring that you have useful and usable content, that is well structured, and easily found is vital to improving the user experience of a product. 
+
+ The UX writer is responsible for all the text the user encounters when navigating around a product. If you enjoy writing, you might want to explore this career path. In this course, you'll act as your own UX writer.
 
 - It is the practice of designing the words people see when they interact with software UIs.
 - It’s about designing the conversation between a product and its user.
 - UX writing is a growing field.
 
-> :briefcase: **Employer Competitive Note:** Real-world UX writers are responsible for all the text the user encounters when navigating around a product. This career path is ideal for designers who have a passion for writing. 
-
 ## SLIDE 6
-UX writers are responsible for all of the text the user encounters when navigating around a product.
-
-### Who Hires UX Writers?
-
-- San Francisco companies lead the trend: Dropbox, Facebook, Airbnb, Pinterest, Google, and Spotify have UX writing, content strategy, or content design teams.
-
+UX writers are responsible for all of the text the user encounters when navigating around a product. HOWEVER, UX Designers do some degree of UX writing, often in the form of microcopy - the tiny pieces of copy found on websites, applications, and products. These short sentences tell a user what to do, address user concerns, provide context to a situation, and help tell the greater story about your brand, product, and the way you do business.
 
 ## SLIDE 7
 ### Content Strategy
 
-Content strategy has been around for a long time. Large corporations such as Disney, Wells Fargo, and Mayo Clinic have had functional content strategy teams for years. So why do we care about it in UX? The answer is simple: it's nearly impossible to design a great UX for bad content. If you're passionate about creating a better UX, you'll also care about delivering useful, usable, engaging content.
+Content strategy has been around for a long time. Large corporations such as Disney, Wells Fargo, and Mayo Clinic have had functional content strategy teams for years. So why do we care about it in UX? The answer is simple: it's nearly impossible to design a great UX for bad content - the content is a part of the user experience. If you're passionate about creating a better UX, you'll also need to care about delivering useful, usable, engaging content.
 
-- ***Review the Content Strategy Helps UX Strategy Slide.***
+Content Lifecycle:
+- Conduct an audit
+- Build a strategy
+- Plan how to implement processes surrounding content production and maintenance
+- Create the copy and a compliance/governance model
+- Maintain over time
 
 
 ## SLIDE 8
 Review
 
 ## SLIDE 9
-### How Is UX Writing Different From Other Writing?
-
-- UX writing is a specialized form of writing because of its context (software) and the environment in which it’s produced (technology companies).
+### UX Writing Is Human-Centered Problem Solving
+Takes into account the users' context, mental model, behavior and way of thinking.
 
 ### Lyft vs. UberPool UX Writing Example
 
