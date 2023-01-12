@@ -324,13 +324,14 @@ Review
 
 **Airbnb Case Study:** Let's go back to our Airbnb Case Study. The last step in the guerrilla user testing process is analysis. We can break down the analysis into a few key steps.
 
-## SLIDE 15
+
 ### Review Findings and Suggested Improvements
 
 For example, we might plot our research data and group user feedback into an affinity diagram. 
 
    - Some data is sorted by the level of frequency of certain types of comments. 
 
+## SLIDE 15
 **Prioritize feedback:** After making an affinity diagram, prioritize the issues based on how important you expect them to be to users. 
 
    - Sometimes we prioritize based on how important the issues are to users and Airbnb's bottom line.
@@ -367,6 +368,8 @@ Here, we see a different card UI for house listings; however, there is an incons
 
 ## SLIDE 20
 ### Example 5: Building consistency across your UI system.
+
+Remember, you are building a system!
 
 As designers, it's essential to understand how to present your research to teammates, stakeholders, executives, and clients.
 
@@ -457,9 +460,6 @@ Students will produce an affinity diagram, prioritization matrix, and written fi
 And, now, it's time to introduce this week's challenge! Then you can wrap up today's class.
 
 
-
-
-
 ## SLIDES 24
 Review
 
@@ -480,7 +480,7 @@ Review
 ## SLIDE 27
 ### iOS and Android Design Guidelines
 
-In the mobile phone operating system (OS) marketplace, Android has a 75% market share while iOS has 24%. Naturally, Android's and iOS's design guidelines dominate mobile apps. We're learning about both guidelines today.
+In the mobile phone operating system (OS) marketplace, Android has a 75% market share while iOS has 24%. Naturally, Android's/Google's (Material Design) and iOS's/Apple's (HIG) design guidelines dominate mobile apps. We're learning about both guidelines today.
 
 - **TAs,** slack out: [iOS-Market-Share](https://gs.statcounter.com/os-market-share/mobile/worldwide) for students to review after class. 
 
@@ -496,10 +496,7 @@ iOS HIG is a design language developed by Apple to provide continuity across its
 
 ## SLIDE 30
 - **iOS components**
-
-    - Views, controls, and bars allow app developers to build iOS interfaces quickly. 
-
-    - If you work at Apple as a UX designer, you might be able to impact these UI elements. If not, just implement them faithfully. Nothing makes a young designer look more "green" than ignoring iOS standards. 
+    - Views, controls, and bars allow app developers to build iOS interfaces quickly. These components make up the building blocks of their UI.
 
 ## SLIDE 31
 - **Navigation bars** contain the controls for navigating through an app’s screens or views. They'll always appear at the top of the screen, immediately below the status bar.
