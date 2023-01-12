@@ -183,10 +183,290 @@ In the last class, students practiced user testing (guerrilla/remote moderated) 
 > **Instructor Note:** Encourage students to use their challenge prototypes to maximize the class time towards this weeks challenge.
 
 
-## SLIDES 1-5
+
+
+## SLIDES 1-6
 Review
 
-## SLIDE 6
+## SLIDE 7
+### Six Guerrilla User Testing Tips
+1. Incentivize your testers (give/buy them something).
+
+   - Be prepared. 
+   - For example: Offer a cup of coffee. In the digital world that might look like a Starbucks gift card or a small Venmo payment. 
+
+2. Don’t rely on the Internet.
+
+   - Don't have blind faith that the internet will be working.
+   - Have your prototype ready to go, internet-free. For example, have your solution in an analog form, printed out or as a .pdf you can click through.
+
+3. Be prepared.
+
+   - Make sure you have your questions ready to go!
+   - Be prepared by printing out your testing plan and questions.
+   - Designers should be honest about who they are, why they’re testing, and what sort of feedback they’re looking to receive. For example, "Our team is looking to validate if you find our solution valuable." Or, "We want to see if you can use our new feature." 
+
+4. Present your design clearly.
+
+   - Read each task aloud to your user testers.
+   - Wait until the user tester has completed each task before you move onto the next step.
+   - Ask your user testers to think out loud during the test.
+
+5. Avoid crowds.
+
+   - Super busy locations might make it hard to communicate.
+   - Crowded spaces also make it harder to recruit user testers.
+
+6. Watch the clock!
+
+   - Be mindful of how much time you spend with each test subject and always remind them that they can leave at any point during the test.
+   - The last thing you want is a grumpy user skewing your feedback.
+
+## SLIDE 8
+### Guidelines for Conducting User Tests
+
+- User testing is not easy, and you need to be patient with your participants.
+
+1. Give test subjects one task at a time. 
+2. Let participants set the pace.
+3. Let participants struggle.
+4. Participants should indicate when a task is complete.
+5. Remind them to think aloud. 
+
+## SLIDE 9
+### Get the Participants to Think Aloud
+
+- It is hard to know what a user is thinking. One way to try and reveal their thought process is to model behavior and give permission to think out loud.
+
+- Assure them you are testing the product, not their performance.
+
+
+## SLIDE 10
+Questions??
+
+## SLIDE 11
+## 7. Student Do: Guerrilla User Testing/Remote Moderated User Testing Activity (45 min)
+
+**TAs,** Slack out the instructions link for the activity: [04-Week/02-Activities/04.1/04.1-02-Guerrilla-User-Testing](https://docs.google.com/document/d/12ZugcgWwaJq-WlvcczKZl8YnsiFv19LlbL58wKF8d9k/edit?usp=sharing).
+
+### Summary
+
+In this activity, students are going to execute their guerrilla user testing plan by conducting user tests on classmates.
+
+### Instructions
+
+:globe_with_meridians: **Online Recommendation:** Create breakout rooms for students to work in pairs. Create more breakout rooms than pairs. As students complete their user tests, you or the TAs can reassign them to another testing breakout room. Keep a pair in the main room to preserve the class recording. 
+
+> **Instructor Note:** Participate as a user tester with your TAs. Stay in the main room to redirect students into other user tests. 
+
+- Part 1: Student pairs will load their InVision or Figma prototype onto their mobile phones. 
+
+- Part 2: Student pairs will begin executing their testing plans. The goal is to get students to run tests on two to three test subjects.
+
+> **Instructor Note:** Remind students to use screen recording to capture their user tests.
+
+### Instructor and TAs
+
+Monitor the students as they work by visiting breakout rooms or using Slack to check in on pairs' progress.
+
+:globe_with_meridians: **Online Recommendation:** Students will conduct remotely moderated user tests, so they may require more help and adjustments to get used to the online format. We suggest assigning roles with each pair. Assign who goes first. 
+
+### Deliverable
+
+Students will have recorded videos of test subjects and taken notes during user testing, which they'll share via Slack.
+
+> **Instructor Note:** A break follows this activity. The activity review will occur after the break. If students need more time or want to conduct more user tests, allow them to work during the break.
+
+---
+
+## SLIDE 12
+## 9. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Activity Review (10 min)
+
+Bring the class's attention back to your screen to lead a review discussion. 
+
+Facilitate a discussion around the issues designers can run into while conducting guerrilla user testing. Sometimes it's hard to know if you conducted a guerrilla test correctly until you've synthesized the data! 
+
+### Hold a critique
+
+- Remind students to share their guerrilla user testing plans in Slack.
+- Prompt student input:
+  - *What does a good user test look like?*
+  - *How do we know we're doing a user test correctly?*
+  - *What are some risks to guerrilla user testing?*
+
+> **Instructor Note:** Invite TAs to offer their perspectives. 
+
+> :gem: **Designer Insight:** Briefly share your experience with synthesizing user testing data. 
+
+- Now, share a few common misconceptions or FAQs about guerrilla user tests:
+
+  - Guerrilla user tests are only for amateurs or teams with no money. False; user testing should be part of your process and, as a student, you will have to use your grit versus money. Always advocate for a user testing budget in your future roles.
+  - Guerrilla user tests are not respected in the industry. False; the gumption to test your ideas with users is essential to solving human-centered problems effectively. 
+
+- Finally, share a couple of actionable, tactical tips that students can directly apply to their testing plans:
+
+  - Practicing with your user testing plan will improve the testing results. Don't assume your plan is perfect. After each user test execution, tweak your process.
+  - Look for user testing patterns. If all your users struggled in the same place, you probably have a problem. 
+
+**Help students connect what they just learned to their challenge:** The user testing that students practiced will help with completing Part 5 of their challenge assignment to conduct a guerrilla user test.
+
+## SLIDE 13
+Review
+
+## SLIDE 14
+### Guerrilla User Testing Process
+
+- Effective UX/UI designers have the skill to get the most out of their testing data. 
+
+- First, ***define user test data analysis:*** To analyze data, designers apply frameworks to testing data that help them identify meaningful patterns in the data they've gathered. Not all of the data is helpful. Designers analyze data to get at the meaningful information.
+
+- Let's discuss the final **Step 6: Review findings and suggest improvements**.
+
+**Airbnb Case Study:** Let's go back to our Airbnb Case Study. The last step in the guerrilla user testing process is analysis. We can break down the analysis into a few key steps.
+
+## SLIDE 15
+### Review Findings and Suggested Improvements
+
+For example, we might plot our research data and group user feedback into an affinity diagram. 
+
+   - Some data is sorted by the level of frequency of certain types of comments. 
+
+**Prioritize feedback:** After making an affinity diagram, prioritize the issues based on how important you expect them to be to users. 
+
+   - Sometimes we prioritize based on how important the issues are to users and Airbnb's bottom line.
+
+## SLIDE 16
+### Example 1: Write up suggested improvements.
+
+- **Write up your findings and add suggested improvements:** There is confusion around the search button. People rarely realize that there is a filter option.
+
+- Recommendation: Iterate the search bar and replace it with a different icon. Iterate the filter button to include a search option. Change the color of the filter button so that it has higher visibility.
+
+## SLIDE 17
+### Example 2: Add suggested improvements.
+
+Users found the reviews confusing (who reviewed what experience and what is the rating?).
+
+- Recommendation: Iterate the reviews page to show individual ratings.
+
+## SLIDE 18
+### Example 3: Add suggested recommendations.
+
+Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon.
+
+- Recommendation: When the user hovers over the heart icon, a label should indicate its function, reducing the number of clicks to save a rental to a wish list.
+
+> **Instructor Note:** Check in with students — "Are there any questions about what we just covered?"
+
+## SLIDE 19
+### Example 4: Implement recommendations.
+
+Here, we see a different card UI for house listings; however, there is an inconsistency on the site with the use of Airbnb's wish list icon and share icon.
+
+- Recommendation: Including labels with both features, reducing the number of clicks to save a location.
+
+## SLIDE 20
+### Example 5: Building consistency across your UI system.
+
+As designers, it's essential to understand how to present your research to teammates, stakeholders, executives, and clients.
+
+- Research is used to make informed business decisions.
+
+- Knowing your users' needs means you can design a product with value.
+
+
+## SLIDE 21
+Questions??
+
+## SLIDE 22
+## 11. Student Do: Guerrilla User Testing/Remote Moderated User Testing Analysis Activity (20 min)
+
+**TAs,** Slack out the instructions link to the activity: [04-Week/02-Activities/04.1/04.1-03-Guerrilla-Testing-Analysis](https://drive.google.com/open?id=10EOQmB-FAN1oteEfNOn6DJD6xDuknzNtNqtOQGBxAHw).
+
+For students who want to take things further, share the design brief template so that they can practice sharing their research process: [04-Week/02-Activities/04.1-03-UX-Design-Brief-Template](https://docs.google.com/document/d/1NYa7AhUiN-Y9aFFi0HnpKjNyqzGxTznF0_GPsZ2bZDg/edit).
+
+**Summary**
+
+Students will analyze their guerrilla user testing results by using sticky notes to extract ideas and then organize them—the methodology used by designers in the real world.
+
+**Instructions**
+
+:globe_with_meridians: **Online Recommendation:** Keep everyone in the main Zoom room. 
+
+- Students will work independently in Miro.
+- First, students will study the videos they took of their user tests as well as the notes they took. 
+- Then, they'll write that feedback down on sticky notes. 
+- Next, they'll organize those notes into an affinity diagram and then into a prioritization matrix. 
+- Finally, they'll write down their findings.
+
+**Instructor and TAs** 
+
+:globe_with_meridians: **Online Recommendation:** Monitor students as they work and offer support to students who seem to get stuck. Encourage students to use Slack for questions or raise their hands for support. 
+
+If students get stuck on the activity task of pulling out user testing issues, help them by showing them how to refer back to their guerrilla user tests. 
+
+  - Ask some questions: 
+     - Did your plan work out? 
+     - What didn't work with your user tests?
+     - What did you see, and what did you hear?
+
+If students struggle to come up with ideas to write down on their sticky notes, suggest that they refer back to their prototypes or videos of their user tests. 
+
+**Deliverable**
+
+Students will produce an affinity diagram, prioritization matrix, and written findings based on their guerrilla user test data in this activity. They will share their work in Slack.
+
+## SLIDE 23
+## 12. Instructor Do: Guerrilla User Testing/Remote Moderated User Testing Analysis Activity Review (10 min)
+
+:globe_with_meridians: **Online Recommendation:** Bring everyone's attention back to your screen in order to lead a review of the activity. 
+
+**Hold a critique.**
+
+- Remind students to post their feedback diagrams and/or priority matrices into Slack. 
+- Scroll through Slack and choose work to critique.
+- Aim to critique two to three students' testing analyses.
+  - ***Prompt student input:***
+    - *What do you like about this analysis?*
+    - *What did you learn?*
+    - *What would you do differently?*
+  - ***Ask TAs to share insights:***
+    - Share what you liked and what you would do differently.
+
+>  :gem: **Designer Insight:** Students would love to hear about your first guerrilla tests. Instructor and TAs, share a brief story about analyzing the results and lessons learned. 
+>
+> - If you're short on time, entice students to stay online for office hours to hear your testing stories from the real world of design. 
+
+- Now, share a few common misconceptions or FAQs about how to analyze guerrilla user tests:
+
+  - User tests should reveal all of your issues. False; user testing is a continuous process. Don't just test once and call it done. Test every iteration. 
+  - User testing analysis is very time consuming. False but true; the design process is the long game but continually doing user testing can shorten the analysis time. 
+
+- Finally, share a couple of actionable, tactical tips that students can directly apply to their future analyses:
+
+  - Document both things that went well and things that went poorly. Use different color sticky notes for each. 
+  - Use technology to capture and share your user testing analysis.
+
+> **Instructor Note:** Take any student questions that remain. 
+>
+> - Students can stay online for office hours to ask questions about the lesson or this week's challenge.
+
+
+**Help students connect what they just learned to their challenge:** The testing analyses students just completed will prepare them for Part 3 of their challenge assignment—spending one to two hours analyzing and prioritizing the results of their guerrilla user testing.
+
+And, now, it's time to introduce this week's challenge! Then you can wrap up today's class.
+
+
+
+
+
+## SLIDES 24
+Review
+
+## SLIDE 25
+Review
+
+## SLIDE 26
 - **Design guidelines** are sets of recommendations for good practices in design.
 
 - Design guidelines provide designers and developers with clear instructions on how to adopt specific usability principles.
@@ -197,46 +477,46 @@ Review
     - efficient
     - consistent
 
-## SLIDE 7
+## SLIDE 27
 ### iOS and Android Design Guidelines
 
 In the mobile phone operating system (OS) marketplace, Android has a 75% market share while iOS has 24%. Naturally, Android's and iOS's design guidelines dominate mobile apps. We're learning about both guidelines today.
 
 - **TAs,** slack out: [iOS-Market-Share](https://gs.statcounter.com/os-market-share/mobile/worldwide) for students to review after class. 
 
-## SLIDE 8
+## SLIDE 28
 Review
 
-## SLIDE 9
+## SLIDE 29
 ### iOS HIG
 
 iOS HIG is a design language developed by Apple to provide continuity across its web and mobile products.
 
 - **TAs,** slack out: [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
 
-## SLIDE 10
+## SLIDE 30
 - **iOS components**
 
     - Views, controls, and bars allow app developers to build iOS interfaces quickly. 
 
     - If you work at Apple as a UX designer, you might be able to impact these UI elements. If not, just implement them faithfully. Nothing makes a young designer look more "green" than ignoring iOS standards. 
 
-## SLIDE 11
+## SLIDE 31
 - **Navigation bars** contain the controls for navigating through an app’s screens or views. They'll always appear at the top of the screen, immediately below the status bar.
 
-## SLIDE 12
+## SLIDE 32
 - **Search bars** can be displayed alone, in a navigation bar, or a content view.
 
-## SLIDE 13
+## SLIDE 33
 - **Tab bars** are used to allow the user to navigate through the separate views of an application quickly. They always appear at the bottom edge of the screen.
 
-## SLIDE 14
+## SLIDE 34
 - **Table views** are used to display small to large amounts of list-style information.
 
-## SLIDE 15
+## SLIDE 35
 Review
 
-## SLIDE 16
+## SLIDE 36
 The goal in designing scalable products is to consider all your users. Usability and accessibility play huge roles in making scalable design.
 
 - **Vision and contrast:** Vision impairments include blindness, color blindness, all forms of vision loss, and challenges and situations that make seeing the screen uncomfortable or difficult.
@@ -248,25 +528,25 @@ The goal in designing scalable products is to consider all your users. Usability
    - [https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/)
 
 
-## SLIDE 17
+## SLIDE 37
 Questions??
 
-## SLIDE 18
+## SLIDE 38
 Review
 
-## SLIDE 19
+## SLIDE 39
 **Loading:**
 
 - Make it clear when loading is occurring.
 - **Ask,** "What might your user think if you do not make it clear that loading is occurring?"
 
-## SLIDE 20
+## SLIDE 40
 **Modality:**
 
 - Use modality to create focus.
 - Prevent people from doing other things until they complete a task or dismiss a message or view.
 
-## SLIDE 21
+## SLIDE 41
 **Ask for permission:**
 
 - People expect to have control over their private data. In iOS, users must grant permission for an app to access personal information, including photos and contact information.
@@ -274,7 +554,7 @@ Review
 
   - For example, multiple international and domestic laws require that these permissions be requested (such as the EU's Data Protection Directive and ePrivacy Directive and California's COPPA) and that Apple requires them if you want the app to be available in the Apple App Store.
 
-## SLIDE 22
+## SLIDE 42
 **Settings:**
 
 - Settings are a necessary part of the UX.
@@ -282,10 +562,10 @@ Review
 - Expose infrequently changed configuration options in the settings.
 
 
-## SLIDE 23
+## SLIDE 43
 Review
 
-## SLIDE 24
+## SLIDE 44
 **iOS HIG - Eight Best Practices**
 
 Let's talk about the best practices for applying the iOS guidelines to our designs.
@@ -296,18 +576,18 @@ Let's talk about the best practices for applying the iOS guidelines to our desig
 
    - Make your type legible and give your type a clear hierarchy.
 
-## SLIDE 25
+## SLIDE 45
 2. **Make text readable.**
 
    - Use at least 11 point size, so it's legible at a regular viewing distance.
    - We'll cover more in the UI units.
 
-## SLIDE 26
+## SLIDE 46
 3. **Use appropriate font sizes.**
 
    - Type is for reading, so make sure it is legible.
 
-## SLIDE 27
+## SLIDE 47
 4. **Use large titles.**
 
    - Bold fonts are everywhere in iOS 13.
@@ -315,33 +595,33 @@ Let's talk about the best practices for applying the iOS guidelines to our desig
    - Since screens are about twice as tall as they were with previous iPhones, it only makes sense to have large titles. Another reason for large fonts is accessibility.
    - With millions of people of all ages using their phones daily, making the content as clear and readable as possible is essential.
 
-## SLIDE 28
+## SLIDE 48
 5. **Focus on alignment.**
 
    - Grids are essential in maintaining consistent alignment.
 
-## SLIDE 29
+## SLIDE 49
 6. **Organization matters.**
 
    - Content should be ordered and clear.
 
-## SLIDE 30
+## SLIDE 50
 7. **Consider tap targets.**
 
    - Make a point of 44x44 pixels.
 
-## SLIDE 31
+## SLIDE 51
 8. **Use a prominent color for touchable areas.**
 
    - The user should clearly understand what they can interact with.
 
-## SLIDE 32
+## SLIDE 52
 Questions??
 
-## SLIDE 33
+## SLIDE 53
 Review
 
-## SLIDE 34
+## SLIDE 54
 **Designing for iPhone X:** The iPhone X requires some special attention.
 
 - When designing apps for the iPhone X, you have to be aware of the safe zone and layout margins. The safe zone ensures your app UI doesn’t get clipped by the device’s sensors or corners.
@@ -360,7 +640,7 @@ Review
 
 Building on these iOS design guidelines, you'll demo Apple's resources for iOS designers.
 
-## SLIDES 35-36
+## SLIDES 55-56
 ## 3. Instructor Do: Demo - iOS in Figma or Adobe XD (10 min)
 
 > :pushpin: **Important Point:** Your goal for this section is to give a demo using iOS resources to help students feel comfortable using the tools themselves.
@@ -439,10 +719,10 @@ Part 2: Wireframe a Login Screen
 
 Students should be very eager at this point to practice wireframing, the next activity. Turn them loose.
 
-## SLIDE 37
+## SLIDE 57
 Questions??
 
-## SLIDE 38
+## SLIDE 58
 ## 4. Student Do: iOS Wireframes Activity (25 min)
 
 **TAs,** slack out the instructions and the iOS Design Guidelines Cheat Sheet: 
@@ -482,7 +762,7 @@ Students will practice taking a digital wireframe and transforming it into an iO
 
 Students will create two to three iOS wireframes in Figma or Adobe XD and post their work to Slack.
 
-## SLIDE 39
+## SLIDE 59
 ## 5. Instructor Do: iOS Wireframes Activity Review (10 min)
 
 Call the class back to attention and lead a review of the activity. 
@@ -521,25 +801,13 @@ Finally, with the challenge in mind, share a couple of actionable, tactical tips
 **Help students connect the learning to the challenge:** The wireframes students worked on will prepare them for executing Part 5 of their challenge assignment—creating iOS wireframes.
 
 
-## SLIDE 40
+## SLIDE 60
 Review
 
-## SLIDE 41
+## SLIDE 61
 Review
 
-## SLIDE 42
-## 6. Instructor Do: Material Design Guidelines (15 min)
-
-> :pushpin: **Important Point:** This section aims to familiarize students with the two main concepts in Material Design: (1) the use of shadow to indicate elements and the state, and (2) the use of Material UI components. This lecture also addresses today's first learning objective, knowing which design guidelines to apply.
-
-Now that you have reviewed the iOS HIG, it's time to discuss Material Design.
-
-Here you will cover the high points of Google's Android design guidelines, much as you did for iOS.
-
-**Ask**, "Who knows what Material Design is used for?"
-
-> :globe_with_meridians: **Online Recommendation:** Have students engage by raising their hands to speak or addressing the question via Slack.
-
+## SLIDE 62
 ### What Is Material Design?
 
 Material Design is a design language developed by Google to provide continuity across its web and mobile products. Just like its name, it was inspired by real materials and combined them into one design system to create a sleek, intuitive, beautiful, and interactive UX.
@@ -558,10 +826,10 @@ Material Design provides a uniformity of experience that Google products have be
 
 - Material Design don'ts: [https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329)
 
-## SLIDE 43
+## SLIDE 63
 Review
 
-## SLIDE 44
+## SLIDE 64
 Three main principles construct Material Design: 
 
 1. Material is the metaphor. The development of the material was inspired by the study of tactile elements we use every day, such as paper and ink. It makes the object light, and the surface and movements are better when interacting with each other.
@@ -571,7 +839,7 @@ Three main principles construct Material Design:
 3. Motion provides meaning. This is one of the most noted things. In material, you should have meaningful and appropriate motion, subtle and clear feedback, as well as efficient and coherent transition.
 
 
-## SLIDE 45
+## SLIDE 65
 ### Material Design Principles Are Rooted in Reality
 
 Material Design is inspired by the physical world and its textures, including how they reflect light and cast shadows. Material surfaces reimagine the mediums of paper and ink as digital objects.
@@ -580,7 +848,7 @@ Material Design is inspired by the physical world and its textures, including ho
 
 - The material environment is a three-dimensional space, which means all objects have x, y, and z dimensions.
 
-## SLIDE 46
+## SLIDE 66
 ### Elevation and Shadow Concept
 
 In Material Design, we're trying to mimic the concept of picking up a piece of paper, which would generate a shadow on a table's surface, for instance.  The elevation is the relative distance between two surfaces along the z-axis.
@@ -595,7 +863,7 @@ All Material Design surfaces and components have elevation values. Surfaces at d
 
 - **TAs please Slack out** Read more about elevation here: [https://material.io/design/environment/elevation.html](https://material.io/design/environment/elevation.html).
 
-## SLIDE 47
+## SLIDE 67
 **Shadow**
 
 Material surfaces cast shadows when they obstruct light sources. The consistent use of shadow depicts the elevation. Shadows express the degree of height between surfaces and should be used consistently across a product.
@@ -604,17 +872,17 @@ Material surfaces cast shadows when they obstruct light sources. The consistent 
 
 - Read more about light and shadow here: [https://material.io/design/environment/light-shadows.html#light](https://material.io/design/environment/light-shadows.html#light).
 
-## SLIDE 48
+## SLIDE 68
 Review
 
-## SLIDE 49
+## SLIDE 69
 Material Design has three-dimensional qualities reflected in its use of surfaces, depth, and shadows. For example, shadows provide useful cues about an object’s direction of movement and whether the distance between surfaces increases or decreases.
 
 Example 1:
 - DON'T: Without a shadow to indicate elevation, it’s unclear whether this square is increasing in size or increasing its elevation.
 - DO: Use consistent shadow to help the user understand that the object is changing shape as opposed to changing elevation.
 
-## SLIDE 50
+## SLIDE 70
 Example 2:
 
 - DO: Use shadows to make differences in surface elevation perceptible. The smaller, sharper shadow of the app bar (1) indicates it is at a lower elevation than the menu (2).
@@ -627,16 +895,16 @@ Example 3:
 ![Shadow button](Images/shadow-btn.png)
 
 
-## SLIDE 51
+## SLIDE 71
 For example, we can notice how shadows are used to convey the state of a button:
 
 - Normal has a small shadow to indicate that it is a button.
 - Pressed has a larger shadow to indicate that something has changed.
 
-## SLIDE 52
+## SLIDE 72
 We see this same type of relationship with cards.
 
-## SLIDE 53
+## SLIDE 73
 ### Material Design Surface Positioning and Movement
 
 Surfaces, aka UI components, can remain fixed on the x- and y-axes or can be moveable in any direction. Review the examples:
@@ -645,24 +913,24 @@ A. The top app bar (1) remains in a fixed position while the card collection scr
 B. Surfaces can move independently of each other.
 C. Surfaces (1) can move in any direction, although movement can be confined to a single axis at a time.
 
-## SLIDE 54
+## SLIDE 74
 ### Material Design Navigation Patterns
 
 Like iOS, Material Design has many UI patterns. Like iOS, material has a bottom button tab. They also encourage the use of tabs for top navigation as well.
 
-## SLIDE 55
+## SLIDE 75
 **Reverse Navigation**
 
 Reverse navigation refers to backward movement between screens. It can move users chronologically through their recent screen history, or upward through an app’s hierarchy. Unlike iOS, Android uses a back button on the bottom bar.
 
-## SLIDE 56
+## SLIDE 76
 - Like iOS, upward navigation-when navigation icons are at the top of the screen-are possible as well.
 
 
-## SLIDE 57
+## SLIDE 77
 Questions??
 
-## SLIDE 58
+## SLIDE 78
 ## 7. Instructor Do: Demo - Material Design in Figma or Adobe XD (10 min)
 
 > :pushpin: **Important Point:** Your goal for this section is to demo using Material Design resources so that students feel confident in the activity that follows.
@@ -719,7 +987,7 @@ Again, don't worry about "finishing" the demo.
 
 Students should be very eager at this point to get hands-on and jump into wireframing. That's next! 
 
-## SLIDE 59
+## SLIDE 79
 ## 8. Student Do: Android Wireframes Activity (25 min)
 
 **TAs,** slack out the instructions and the Material Design Guidelines:
@@ -760,7 +1028,7 @@ Students will practice taking a digital wireframe and transforming it into an An
 
 Students will create three to five Android wireframes in Figma or Adobe XD and share them via Slack.
 
-## SLIDE 60
+## SLIDE 80
 ## 9. Instructor Do: Android Wireframes Activity Review (10 min)
 
 Call the class back to attention and lead a review of the activity. 
@@ -801,7 +1069,7 @@ Finally, with challenge in mind, share a couple of actionable, tactical tips tha
 
 Now, it's time for a break.
 
-## SLIDE 61
+## SLIDE 81
 ## 10. Break (15 min)
 
 :bulb: Brain breaks support learning, so take time to relax, drink water, or stretch. 
@@ -812,7 +1080,7 @@ Let students know that after the break, they will be spending the rest of the cl
 
 Enjoy your break. 
 
-## SLIDE 62
+## SLIDE 82
 ## 11. Student Do: Mid-Fidelity Mobile Prototype Activity (40 min)
 
 > :pushpin: **Important Point:** Your goal is to support students as they create iOS or Android wireframes. They'll also start building their clickable prototypes in InVision, too. 
