@@ -160,10 +160,57 @@ What makes guerrilla user testing unique is that participants are not recruited 
 
 **Why:** The goal is to identify any usability problems, collect qualitative and quantitative data, and determine the participant’s satisfaction with the product.
 
+
+
+## SLIDES 1-3
+Review
+
+## SLIDE 4
+## 11. Student Do: Mid-Fidelity Mobile Prototype Activity (40 min)
+
+> :pushpin: **Important Point:** Your goal is to support students as they create iOS or Android wireframes. They'll also start building their clickable prototypes in InVision, too. 
+>
+> - This activity prepares students to achieve today's fourth and final learning objective: to build a clickable wireframe prototype with Adobe XD and InVision. Recommend students user their challenge prototype to maximize classtime towards their assignment.
+
+> :briefcase: **Employer Competitive Note:** For a UX/UI designer, building wireframes is a fundamental skill set. Building wireframes is relevant to the industry because it will be a significant piece of your job as a UX designer. Designers become good and fast at making wireframes. 
+
+**TAs,** slack out the following instructions and keep them open during the activity: [04-Week/02-Activities/04.2/04.2-03-Mid-Fidelity-Mobile-Prototype](https://docs.google.com/document/d/1QpdmdaUeTjLYzQ70LS_yi9f6prrbAOzGQ7W7Nfwi38g/edit?usp=sharing).
+
+### Summary
+
+Students will work to create wireframes using either iOS or Android design guidelines. They'll export their wireframes from Figma or Adobe XD and import them into InVision. From there, they'll build a clickable prototype in InVision based on the imported wireframes. 
+
+> **Instructor Note:** Adobe XD and Figma have clickable prototyping functionality. We are practicing using InVision because their challenge requires executing a clickable prototype with that tool. Later in the UI units, we will us Figma and Adobe XD prototyping.
+
+**Important! Students will need to bring their finished prototype to the next class for usability testing practice.** 
+
+### Instructions
+
+> :globe_with_meridians: **Online Recommendation:** Keep students in the main Zoom room for this activity. 
+
+- Students will work independently. 
+
+- Part 1: Students will choose their operating system type then digitize their wireframes.
+- Part 2: Students will build prototypes from their wireframes in InVision.
+- Part 3: Wrap up and share work in Slack.
+
+The hope is that students can practice testing their challenge in class and outside the classroom this week. 
+
+> **Instructor Note:** If students complete the activity early, encourage them to stay online and move on to the prototype section of their challenge. 
+
+
+## SLIDE 5
+Review
+
+## SLIDE 6
+Review
+
+## SLIDE 7
 ### What Is Usability Testing?
 
 Usability testing evaluates a product by testing it on users. This is a way to see how easy something is to use by seeing how real users interact with it. The goal of usability testing is to satisfy users and identify any usability problems.
 
+## SLIDE 8
 ### Why Do We Do Usability Testing? 
 
 Usability testing lets the design and development teams identify problems before they are coded or released to users. The earlier in the process issues are identified and fixed, the less costly the fixes will be in dollars and staff time. Fixing issues early will help your team stay on schedule and improve your users' experience. During a usability test, you will:
@@ -186,10 +233,21 @@ Usability testing lets the design and development teams identify problems before
 
     - Learn where assumptions were wrong: we're making a hypothesis about our user. We're not going to be right 100% of the time. We want to know where we're wrong. 
 
+## SLIDE 9
+Review
+
+## SLIDE 10
+Testing Labs are not required to conduct an effective usability test. Any of these settings will work:
+- Fixed laboratory having two or three connected rooms outfitted with audiovisual equipment  
+- Room with portable recording equipment  
+- Room with no recording equipment, as long as someone is observing the user and taking notes  
+- Remotely, with the user in a different location
+
 > **Instructor Note:** Check to see what students have learned so far about planning usability tests. 
 
 > :globe_with_meridians: **Online Recommendation:** Address any questions that were posted to Slack.
 
+## SLIDE 11
 ### Four Usability Testing Techniques
 
 1. Moderated in-person testing:
@@ -224,6 +282,7 @@ Usability testing lets the design and development teams identify problems before
 
 > :gem: **Designer Insight:** choose one of the above techniques and share your experience using it.
 
+## SLIDE 12
 ### The Usability Testing Process
 
 There are five main steps in the usability testing process:
@@ -233,13 +292,23 @@ There are five main steps in the usability testing process:
 4. Analyzing the usability test
 5. Reporting the usability test results
 
-### Usability Testing: Planning User Testing (Step 1)
+
+## SLIDE 13
+Questions??
+
+## SLIDE 14
+Review
+
+## SLIDE 15
+**Planning User Testing**
 
 - ***Craft a plan and write a moderator guide.***
 
    - Think about the tasks users carry out on your website that you would like to test. 
 
    - You may or may not execute the user tests, so consider how to communicate with other user testing teammates.
+
+## SLIDE 16
 - ***Define user goals.***
 
    - Think about the activities users carry out on your website that you would like to test. Put each one in words in a way that is specific and measurable.
@@ -247,18 +316,29 @@ There are five main steps in the usability testing process:
    - A user goal is a final state for which the user strives. To get to the target, the user should perform some tasks (user tasks).
 
    - Describe the entire activity, telling users what you want to be done but not how to do it.
+
+## SLIDE 17
 - ***Create a scenario to test.***
 - Scenarios describe the stories and context behind why a specific user or user group comes to your site.
   
 - Scenarios describe what users want to do, not how they should do it.
   
 - Scenarios note the goals and questions to be achieved and sometimes define the possibilities of how the user(s) can reach them on the site.
+
+
+## SLIDE 18
 - ***Define the tasks and steps for a scenario.***
 - Define the tasks and steps.
   
    - Write down the steps you want the user to go through to complete a task.
+
+
+## SLIDE 19
 - ***Select a user testing method.***
    - Will it be a moderated remote, moderated in-person, or a mix of in-person and unmoderated studies?
+
+
+## SLIDE 20
 - ***Make sure the scenarios are specific and measurable.***
 - A scenario should be created so that it’s easily understood, and we can tell when it’s completed.
   
@@ -267,10 +347,19 @@ There are five main steps in the usability testing process:
  - Pre-test questions are an opportunity to ask questions before users know what the study is about.
    
 - Post-test questions: In the end, we want to ask a few open-ended questions about what the users would improve, what comments they want to add, and what issues they had.
-- ***Plan to report the usability testing results.***
 
-> **Instructor Note:** Take questions before moving on to the case study.  
 
+## SLIDE 21
+Review slide
+
+
+## SLIDE 22
+Questions??
+
+## SLIDE 23
+Review
+
+## SLIDES 25
 ### Disneyparks.com Case Study
 
 > :globe_with_meridians: **Online Recommendation:** Share your screen if you'd like, and open the Disneyparks link. Alternatively, students can open the link on their screens.
@@ -281,8 +370,7 @@ Review the [Disneyparks.com](https://disneyparks.disney.go.com/) example of a us
 
 > **Say:** Let’s brainstorm together. What goals or objectives might we have for a usability test of this website? Who are the target users?
 
-### Review the Disneyparks.com Case Study
-
+## SLIDE 26
 **A. Usability test plan goals and objectives.** 
 
 Let's imagine Disney's objective is to: 
@@ -295,6 +383,8 @@ Let's imagine Disney's objective is to:
 
 2. Understand whether users can successfully locate information for planning their vacations. 
 
+
+## SLIDE 27
 **B. Usability test plan, Users.** 
 
 Next, Disney would identify the target user:
@@ -303,22 +393,23 @@ Next, Disney would identify the target user:
 
 2. Secondary users: Vacation attendees—people interested in learning about things they might do on vacation being planned for them. 
 
+## SLIDE 28
 **Disneyparks.com scenario:** Then, we would create a scenario:
 
 **[https://disneyparks.disney.go.com/](https://disneyparks.disney.go.com/) scenario:** You and your spouse have three young kids between the ages of 7 and 12. You are taking them to Disney World for summer vacation. You're planning to go in June. You have a budget of $6,500 for lodging, meals, and park tickets. You'll use the Disney Parks website to book your trip.
 
+## SLIDE 29
 **Disneyparks.com tasks:** We would use the scenario to write specific tasks:
 
 1. Show me how you would start planning your trip using Disney's website.
 
 2. Your kids are young and they want to stay near the Magic Kingdom. Tell me which hotels are close to the Magic Kingdom.
 
-> **Instructor Note:** Pause for questions.
->
-> Invite your TAs to comment on any final dos or don'ts for creating an effective usability testing plan.
 
-Now that students understand what a usability testing plan looks like and how to set the goal, it's time for them to practice planning their own usability tests.
+## SLIDE 30
+Questions??
 
+## SLIDE 31
 ## 3. Student Do: Usability Testing Plan Activity (15 min)
 
 **TAs,** slack out the following links: 
@@ -354,6 +445,8 @@ They'll use their testing plans in the next activity.
 
 Students will write two tasks for participants to follow during usability testing and share their templates in Slack. 
 
+
+## SLIDE 32
 ## 4. Instructor Do: Usability Testing Plan Activity Review (10 min)
 
 > :globe_with_meridians: **Online Recommendation:** Bring everyone's attention back to your screen and lead a review of the first part of the testing plan activity.  
@@ -392,6 +485,7 @@ Finally, provide students with a few pieces of **actionable feedback** that they
 
 Wrap up the critique and let students know that you'll give them five minutes to iterate their testing plans. 
 
+## SLIDE 33
 ## 5. Student Do: Iterate Your Usability Testing Plan Activity (5 min) 
 
 > **Instructor Note:** This is Part 3 of the activity that students started in Section 3.
@@ -408,18 +502,16 @@ Wrap up the critique and let students know that you'll give them five minutes to
 
 An iterated testing plan, which doesn't need to be shared. 
 
-## 6. Instructor Do: Usability Testing: Recruiting Participants and Conducting a Usability Test (8 min)
+## SLIDE 34
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to explain how to recruit participants and conduct a usability test. This lecture will help prepare students to achieve today's second learning objective, which is to run a usability test. 
-
-Here, you'll walk through the steps involved in how designers recruit participants for their user test. Be sure to share your own anecdotes about what's worked for you and invite TAs to share as well. 
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, conducting a usability test is relevant to the industry because you will be required to do this on the job. Being able to validate your solutions is essential not only for your portfolio case studies but also as you bring the value of UX into your jobs and organizations.  
-
+## SLIDE 35
 ### Recruiting Participants (Step 2)
 
 One of the most important aspects of any user research study is recruiting great participants. Research is an investment; if all goes well, you’ll get out more than you put in. But like all investments, great results are not guaranteed. To get the most bang for your buck—and to avoid wasting time and resources—a well-defined target audience is a must.
 
+
+## SLIDE 36
 The process of recruiting people for research studies can be broken down into four areas:
 
 1. Targeting by building a quality participant profile.
@@ -432,19 +524,12 @@ The process of recruiting people for research studies can be broken down into fo
     - It’s difficult to find eligible participants who meet the criteria for niche studies.
    - It’s a lengthy and complex process, but some projects don’t have the luxury of time.
 
-> :gem: **Designer Insight:** Share what has worked well for you when recruiting testers. 
->
-> - Invite a TA to quickly share as well. 
 
+## SLIDE 37
 ### Recruiting Research Tools
 
 - Social media
 - Craigslist 
-
-> **Instructor Note:** Take questions on recruiting testers. 
-
-> :globe_with_meridians: **Online Recommendation:** Address any questions that were posted to Slack.
-
 
 **TAs,** slack out these links for students to read after class: 
 
@@ -453,6 +538,11 @@ The process of recruiting people for research studies can be broken down into fo
 
 > **Instructor Note:** Pause for any questions and remind students that they will need to get creative with recruiting users but they have an advantage in being a student. There are many in the UX community very willing to help but you have to put it out in public.
 
+
+## SLIDE 38
+Review
+
+## SLIDE 39
 ### Usability Test: Conducting a Usability Test (Step 3)
 
 Here you'll explain types of usability testing techniques, best practices for conducting usability tests, and how to categorize usability test results. This will prepare students to conduct their own usability tests.
@@ -461,6 +551,7 @@ Here you'll explain types of usability testing techniques, best practices for co
 
 A usability test involves preparation and analysis and is regarded as one of the most valuable of all UX research techniques. Usability tests can provide both *quantitative* and *qualitative* data to guide designers and product teams toward better solutions.
 
+## SLIDE 40
 ### Moderator Preparation Responsibilities
 
 1. Set up the environment.
@@ -468,6 +559,7 @@ A usability test involves preparation and analysis and is regarded as one of the
 3. Care for and brief the participants.
 4. Conduct the test.
 
+## SLIDE 41
 ### Choose a Moderating Technique
 
 - It’s your job as a moderator—the person leading usability sessions—to make sure the sessions go well. You need to provide the team with the information they need to improve their designs.
@@ -484,14 +576,16 @@ A usability test involves preparation and analysis and is regarded as one of the
 
   - **Retrospective Probing (RP):** The moderator asks participants questions about their thoughts and feelings after they use a product or prototype.
 
+## SLIDE 42
 ### Conducting the Usability Test
 
 When conducting the test, the test plan is your guide. 
 
 ***Tip:*** Conducting a pilot study—or test run—the day before the actual sessions start helps your performance as a moderator because you get to practice working through all the aspects of the test.
 
-Five guidelines for conducting the test:
 
+## SLIDE 43
+Five guidelines for conducting the test:
 1. Give test subjects one task at a time.
 
    - It’s your job to be quiet and listen; let the participants do the talking. That’s how you and your team will learn.
@@ -509,30 +603,26 @@ Five guidelines for conducting the test:
 
 This is the time to conclude the interview with final thoughts and questions.
 
-> **Instructor Note:** Pause for questions. Students will be moving on to their own tests soon, so be sure they have a good grasp of the idea of testing.
-
-> :gem: **Designer Insight:** Share an experience in which you observed a usability test and were surprised by what was revealed. Perhaps you had an assumption you felt strongly about and had to let it go (similar to the designer portrayed in the earlier "Silicon Valley" video clip).
->
-> - If there's time, invite a TA to quickly share, too. 
-
+## SLIDE 44
 ### Disneyparks.com Example
 
 - Review the Disneyparks.com example of a usability testing script.
 
-> **Instructor Note:** Any final questions?
+## SLIDE 45
+Questions??
 
-Now, move on to discussing how designers analyze and report user research.
+## SLIDE 46
+Review
 
-## 7. Instructor Do: Analyzing and Reporting User Research (10 min)
-
-> :pushpin: **Important Point:** The goal of this section is to discuss the importance of quantifying the impact of research through metrics and KPIs. This lecture supports today's third, and final, learning objective, which is to analyze usability testing data. 
-
+## SLIDE 47
 ### Usability Test: Analyzing the Usability Test (Step 4)
 
 Here, you're giving students a sense of what happens after testing. First, you'll introduce metrics and their usefulness. Then you'll walk through some common metrics. Finally, you'll walk through the Disneyparks case study. 
 
 > :briefcase: **Employer Competitive Note:** As a UX/UI designer, analyzing usability tests and generating scores based on metrics is relevant to the industry because these artifacts will most likely be the proof of your user testing process. A usability test results in feedback from users and designers and hiring managers want to see how you use and generate this level of analysis.  
 
+
+## SLIDE 48
 ### Quantifying User Research Is Part of the Job
 
 As designers, we need to connect UX metrics to organizational or business goals or KPIs, such as increasing revenue or decreasing cost. 
@@ -541,7 +631,7 @@ Using numbers to quantify the impact of design helps us communicate with our tea
 
 - For example: As part of the portfolio review during the hiring process, a candidate might be asked to talk about how he or she measured the success of designs or prototypes.
 
-- Review the quote:
+## SLIDE 49
 "Measurement is the first step that leads to control and eventually to improvement. If you can’t measure something, you can’t understand it. If you can’t understand it, you can’t control it. If you can’t control it, you can’t improve it."
 — Dr. H. James Harrington
 
@@ -549,17 +639,13 @@ Using numbers to quantify the impact of design helps us communicate with our tea
   
    - **TAs,** slack out a link to the book *Business Process Improvement*: [https://www.amazon.com/Business-Process-Improvement-Breakthrough-Competitiveness/dp/0070267685/ref=sr_1_2?dchild=1&keywords=business+process+improvement+james+harrington&qid=1586464864&sr=8-2](https://www.amazon.com/Business-Process-Improvement-Breakthrough-Competitiveness/dp/0070267685/ref=sr_1_2?dchild=1&keywords=business+process+improvement+james+harrington&qid=1586464864&sr=8-2)
 
-> :gem: **Designer Insight:** Please share some of your work experience measuring quantitative and qualitative outcomes.
 
+## SLIDE 50
 ### Common UX Metrics and Organizational KPIs
-
-> **Instructor Note:** Please share some of your work experience with UX metrics and organizational KPIs.
 
 *Benchmarking the User Experience*, by Jeff Sauro cites two categories of metrics: 
    - Study-level metrics 
    - Task-level metrics 
-
-> **Instructor Note:** We'll focus on three of the most common metrics. Two are study-level, and one is task-level.
 
 Study-level metrics measure the overall experience:
 
@@ -573,8 +659,8 @@ Task-level metrics measure a specific task if the study has tasks:
 
 **TAs**, slack out for students to read at home: [https://www.amazon.com/Benchmarking-User-Experience-Jeff-Sauro/dp/0692149090](https://www.amazon.com/Benchmarking-User-Experience-Jeff-Sauro/dp/0692149090)
 
-### What Is the Success Rate?
 
+## SLIDE 51
 > **Say,** "How do you know your prototype works?"
 
 As a UX designer, you can only find that out by user testing. But testing alone is not enough—we need to quantify the results to validate our designs. Success rate is about validating your ideas. 
@@ -583,13 +669,11 @@ As a UX designer, you can only find that out by user testing. But testing alone 
 
 - Success rates are great metrics because they are easy to collect and a very telling statistic. After all, if users can't accomplish their target task, all else is irrelevant. User success is the bottom line of usability. Simplified success rates are best used to provide a general picture of how your site supports users and how much improvement is needed to make the site really work.
 
+## SLIDE 52
 Some examples of tasks we might test could be:
 - Search results success
 - Time to upload a photo
 - Number of users successfully creating a profile for a new account
-
-> **Instructor Note:** In today's activity, we'll focus on the success rate. Students will also focus on the success rate for challenge.
-
 
 ### Three KPIs to Measure Success Rate
 
@@ -599,14 +683,16 @@ Some examples of tasks we might test could be:
 
    - It seems straightforward, yet time measurements are complicated. Be sure you're aware and mitigating common traps such as users trying too hard, measuring time when users fail to complete tasks, normalizing time data, etc. 
 
-- **TAs,** slack out: [https://measuringu.com/tag/task-time/](https://measuringu.com/tag/task-time/).
-
 3. Lostness: The lostness metric is a measure of efficiency using a digital product. It tells you how lost people are when they use the product. 
 
    - Lostness scores range from 0 to 1. A high score (closer to 1) means that people are very lost and having trouble finding what they need. A low score (closer to 0) means that people find what they want relatively easily. Lostness is calculated using the optimal and actual number of steps it takes a user to complete a task.
 
+- **TAs,** slack out: [https://measuringu.com/tag/task-time/](https://measuringu.com/tag/task-time/).
+
 - **TAs,** slack out: [https://artplusmarketing.com/the-complete-guide-to-measuring-lostness-c890cc71fe05](https://artplusmarketing.com/the-complete-guide-to-measuring-lostness-c890cc71fe05).
 
+
+## SLIDE 53
 ### Disneyparks.com Case Study: How to Measure Success Rate
 
 Today, we'll focus on learning how to measure task success, so let's look at an example of how to measure task success.
@@ -623,18 +709,28 @@ Today, we'll focus on learning how to measure task success, so let's look at an 
 
 - There were 20 tasks total, so we divide 8/20 and get a success rate of 40%.
 
+## SLIDE 54
 ### Even Google Does It
 
 Google designed the HEART framework to help its UX designers focus on only a handful of key UX measurements. According to five user-centric categories, Google's HEART framework evaluates a product or feature idea: happiness, engagement, adoption, retention, and task success.
 
-> **Instructor Note:** Every company has a framework. Remind students to do their research during their job hunt process. If you are interviewing with Google, knowledge of the HEART framework will go a long way.
 
+## SLIDE 55
 ### Usability Testing Analysis
 
 Conducting usability tests is only half the journey to an ideal UX solution. We want to quantify our tests to share that data and use it to iterate upon our product effectively.
 
 - Designers collect a lot of feedback when they are conducting usability tests. The challenge of collecting so much feedback is how to organize it in a way that allows a team to prioritize their next steps.
 
+_REVIEW SLIDE_
+
+## SLIDE 56
+Review
+
+## SLIDE 57
+Review
+
+## SLIDE 58
 ### Usability Test: Reporting the Usability Test Results (Step 5)
 
 The last step of the testing process is to share your research with the design team. As designers, it's essential to understand how to present your research to teammates, stakeholders, executives, and clients.
@@ -643,7 +739,6 @@ The last step of the testing process is to share your research with the design t
 
 - Knowing your users' needs means you can design a product with value.
 
-> :pushpin: **Important Point:** The goal of these slides is to discuss how UX professionals communicate their research and the deliverables associated with that research in the workplace. Now is a great time to share any personal experiences with the class.
 
 ### Write a UX Brief to Share Research
 
@@ -663,7 +758,10 @@ It helps the entire project or product team to align on the deliverable(s) and a
 
 To create a great UX, design and research need to happen in tandem.
 
-### Disneyparks.com Case Study: Visualize the Success Rate
+## SLIDES 59-61
+Review
+
+## SLIDES 62-63
 Let's look at a visualization of user tests conducted by Disneyparks.com. We can use simple iconography to visualize the task success rate.
 
 ### DisneyParks.com Before and After 
@@ -677,7 +775,6 @@ Say, "It's time to practice doing some usability testing on your own."
 
 *Connect the earlier lesson to this one:* Designers are looking to see that their prototype embodies heuristic principles. As they run usability tests, heuristics are part of their evaluation criteria, in addition to all the insights they gain while observing their test users.
 
-> **Instructor Note:** Take any final questions.
 
 **TAs,** Slack out these links for students to review after class and keep as testing planning resources:
 
@@ -689,6 +786,11 @@ Say, "It's time to practice doing some usability testing on your own."
 
 Now it's time for students to get hands-on practice with these ideas and do their own usability testing with the following activity.
 
+
+## SLIDE 64
+Questions??
+
+## SLIDE 65
 ## 8. Student Do: Usability Testing Activity (55 min)
 
 **TAs,** slack out the link to the Usability Testing Plan Activity:
@@ -719,14 +821,10 @@ Watch out for students who are not sharing their prototypes and not using their 
 
 Students will have conducted three to five usability tests and filled out the results tab on their Usability Testing Template. 
 
+## SLIDE 66
 ## 9. Break (15 min)
 
-Acknowledge that students just wrapped up a 55-minute activity and that now is a good time for a break.
-
-Encourage students to get away from their laptops to get some air, stretch their bodies, or have some food.
-
-Once the break is over, you'll move on to analyzing your usability tests.
-
+## SLIDE 67
 ## 10. Instructor Do: Usability Testing Activity Review (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** Bring everyone's attention back to your screen to lead a review of the usability testing activity. 
