@@ -92,23 +92,26 @@ Review the value in practice and presenting your work.
 
 > :pushpin: **Important Point:** The goal of this section is to help students understand the importance of communicating their work in a professional environment. Presentation is an essential skill in being a great user experience (UX)/user interface (UI) designer. This lecture prepares students for today's first learning objective, presenting information to an audience through a prototype.
 
-### Presenting design work:
+
+## SLIDES 1-4
+Review
+
+## SLIDE 5
 
 Ask, **"Did you know 70% of employed Americans say that presentation skills are critical for career success?"**
 
 - **TAs**, Slack out the related Forbes article:
 [https://www.forbes.com/sites/carminegallo/2014/09/25/new-survey-70-percent-say-presentation-skills-critical-for-career-success/#4af2bbef8890](https://www.forbes.com/sites/carminegallo/2014/09/25/new-survey-70-percent-say-presentation-skills-critical-for-career-success/#4af2bbef8890)
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, presenting your work is relevant to the industry because presentation skills are highly sought after for working with clients, stakeholders, and teams. 
 
-> :gem: **Designer Insight:** Share how your presentation skills have been central to your work in design. 
-
+## SLIDE 6
 ### Why UX designers need to learn how to share their work:
 
-As designers, we’re extremely creative and passionate people who pour our hearts and souls into design solutions. But we often lose this passion when we present our concepts to clients. Submitting design work incorrectly can create a vacuum for clients to provide misdirected or overly prescriptive feedback, which leads to subpar final work. Proper presenting skills help clients see our point of view and ultimately allow us to put designs out into the world that we’re proud to put our names on. Here are some thoughts for students' next presentation.
+As designers, we’re extremely creative and passionate people who pour our hearts and souls into design solutions. But we often lose this passion when we present our concepts to clients. Submitting design work incorrectly can create a vacuum for clients or stakeholders to provide misdirected or overly prescriptive feedback, which leads to subpar final work. Proper presenting skills help clients see our point of view and ultimately allow us to put designs out into the world that we’re proud to put our names on. Here are some thoughts for students' next presentation.
 
-- Today we'll work on improving these presentation stories.
+_review slide_
 
+## SLIDE 7
 ### The benefits of presentation skills:
 
 - Increases self-confidence
@@ -123,28 +126,17 @@ Author of Articulating Design Decisions.
 
 - TAs, Slack out book recommendation: [https://www.amazon.com/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1491921560](https://www.amazon.com/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1491921560)
 
-> globe_with_meridians: **Online Recommendation:**: Open the Amazon link and show students how to add this book to their wishlist.
-
+## SLIDE 8
 ### Tell us your story.
 
 When students present, they tell the story about how their design came to be. Students should work through each section of the design and explain their rationale. Talk about the design, its benefits, and how it solves the project goals (but avoid explaining what they can obviously see right in front of them).
-
-> :gem: **Designer Insight:** Share how you use story when presenting design work or prototypes to clients.
 
 -  When a design team just walks a client through a series of wireframe screens in a deck alone, it can be extremely boring. Why? Because the clients are just watching rather than being engaged. This is where making clickable prototypes can change this dynamic. Putting an idea in clients' hands and letting them click around the solution builds trust and makes meetings productive. 
 
   - Your clients are not UX/UI designers, but they are looking to you to help them evaluate and articulate a better solution. Use your presentation skills and prototypes to allow your clients to participate in a meeting where decisions are made.
 
-> :gem: **Designer Insight:**  Share a quick anecdote about presenting wireframe prototypes to clients. If you feel comfortable sharing the work with your students, take a poll of how many students want to see it and share it during office hours.
-
-### Review the presentation tips.
-
-Presenting is essential to a designer's career. Excellent presenters are not born. They become great by honing their skills and taking opportunities to practice presenting.
-
-### Be confident.
-
-Many students are not used to how designers work. They're uncomfortable with sharing work that feels incomplete and they often find the critique itself distressing. Help students build the inner confidence that they'll need to succeed.
-
+## SLIDE 9
+Remember these tips:
 - Use eye contact strategically.
 - Speak to the back of the class.
 - Use wireframes to focus on functionality, not aesthetics.
@@ -153,10 +145,10 @@ Many students are not used to how designers work. They're uncomfortable with sha
 - Hold a Q&A post-presentation.
 - Over-deliver!
 
-> :gem: **Designer Insight:** Invite a TA to share their input on confidence when presenting.
+## SLIDE 10
+Review
 
-Let's discuss where presentations can go wrong.
-
+## SLIDE 11
 ### Why UX design presentations go wrong:
 
 - You are not respecting your audience.
@@ -169,8 +161,6 @@ Let's discuss where presentations can go wrong.
   - Practice makes perfect and every experience makes us grow. 
   - Practice can prevent you from fumbling with the presentation materials. If your prototype is preloaded or, even better, embedded into your presentation, it can limit jumping around different technology.
 
-> globe_with_meridians: **Online Recommendation:**: Model or sample these issues with your slide presentation if you feel comfortable showing students how these issues are problematic.
-
 ### Common issues include:
 
 - Talking UX jargon to laypersons.
@@ -179,33 +169,25 @@ Let's discuss where presentations can go wrong.
 - Making presentations too short or too long.
 - Experiencing performance anxiety.
 
-> :gem: **Designer Insight:** Invite a TA to share their input on common issues or what can go wrong.
+## SLIDE 12
+Review
 
-### Practice, practice, practice.
+## SLIDE 13
+Review
 
-- If students want a presentation to be great, they must test it through practice.
-
-> **Instructor Note:** Take questions before moving on.
-
-Next, explain how presentation critique fits into the picture. 
-
-## 3. Instructor Do: Presentation Critique (5 min)
-
-> :pushpin: **Important Point:** The goal is for students to grasp the importance of feedback in the design process. This lecture prepares students for today's second learning objective, providing constructive feedback to their peers.
-
-Start by inviting students to think about times in their lives when feedback they were given on their work made them better at it, even if that feedback was hard to take.
-
-### How Do Designs Get Better?
+## SLIDE 14
+### How Do Presentations Get Better?
 
 - Critique and iteration:
 
   - "Looks great" will not help the user.
   - Starting today, we’re going to give **tough, thoughtful, and detailed feedback for every critique.**
 
-Remind students to apply critiquing methods with work colleagues and peers alike. Designers should become comfortable with critique.
+Apply critiquing methods with work colleagues and peers alike. Designers should become comfortable with critique.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, providing critique and constructive feedback to design team members is relevant because how fundamental it is to the iteration process. Your ability to give actionable feedback can make you a valuable team member.  
+As a UX/UI designer, providing critique and constructive feedback to design team members is relevant because how fundamental it is to the iteration process. Your ability to give actionable feedback can make you a valuable team member.  
 
+## SLIDE 15
 ### Why Is Critique Important?
 
 - As designers, we don’t design in a vacuum.
@@ -217,33 +199,30 @@ Remind students to apply critiquing methods with work colleagues and peers alike
 
 > :gem: **Designer Insight:** Share a way in which critique has improved your work or made a project better.
 
+## SLIDE 16
 ### Review the "I Like, I Wish" Critique Method
+**NOT TO BE CONFUSED WITH I LIKE, I WISH, WHAT IF**
 
-> globe_with_meridians: **Online Recommendation:**: Demo the I Like, I wish method with a TA to model the behavior.
-
-- Students are probably familiar with the general idea of the "I Like, I Wish" method.
 - It's like a "Yes/No Sandwich," when one says yes about one thing, but no about another. "Yes, I'd love to come to your party; no, I can't bring snacks."
 
 Example: "I Like, I Wish"—designer versus reviewer:
 
 - First, we get context about the problem the designer is trying to solve. Next, the reviewer provides "I Like, I Wish" feedback.
 
-> :gem: **Designer Insight:** Invite a TA to share their experience with the "Like/Wish" critique method.
+## SLIDE 17
+### Bad vs Good Critique
+Review slide
 
-### When a Designer Is Critiqued.
+## SLIDES 18-19
+Review
 
-- Remind students:
-  - The critique isn’t about *them*.
-  - The critique is about the *design*.
-  - Focus on understanding the feedback.
-  - Ask questions of the person critiquing ("why?").
-  - Make sure you understand how to improve your design.
-  - Remember, it's all about the end user.
+## SLIDE 20
+Questions??
 
-> **Instructor Note:** Take questions before moving on.
+## SLIDE 21
+Review
 
-Next, students are going to road-test what they just learned by presenting and critiquing their prototypes. 
-
+## SLIDE 22
 ## 4. Student Do: UX Prototype Presentations Activity (65 min)
 
 > :pushpin: **Important Point:** The goal of this section is for students to present their UX prototypes and provide a critique.
@@ -293,41 +272,26 @@ If the class is responsive and wishes to continue presentations, you may elect t
 
 Next, give everyone a break. After the break, you'll talk about what goes into creating case studies. 
 
+## SLIDE 23
 ## 5. Break (15 min)
 
-Brain breaks are an important part of the learning process, so take a break! Get up from your screen and relax, have a bite to eat, and drink some water.
 
-> globe_with_meridians: **Online Recommendation:**: Don't stop sharing your screen! Put up a Google or YouTube timer video. A visual time will help get students back into the main Zoom room on time.
+## SLIDE 24
+Review
 
-## 6. Instructor Do: Iterating Case Studies for Engagement (10 min)
-
-> :pushpin: **Important Point:** This section aims to help students understand the importance of communicating their work as a case study. This lecture prepares students for today's third, and last, learning objective: writing a case study outline for their challenge.
-
+## SLIDE 25
 Design portfolios are an essential part of the hiring process in the design world. No matter where a designer's portfolio is hosted or how it was created, the portfolio helps to communicate how a designer approaches solving design problems. 
 
 The people viewing a designer's portfolio want to know more about the projects, how that designer will fit in, and the process they followed to reach the final result. We communicate this information through case studies.
 
-> :briefcase: **Employer Competitive Note:** Case studies have become the accepted "test" by which hiring managers choose which candidates to talk to. As a UX/UI designer, writing case studies is the best way to communicate your knowledge of the design process. 
-
-**Engage students by asking:** "When have you presented examples of your work in the past, whether as part of a job interview or to share your work with peers?"    
-
-> globe_with_meridians: **Online Recommendation:**: Have students engage by raising their hands to speak or by addressing the question via Slack! *Tip:* Students more readily grasp a new concept when they can relate to it through something familiar to them.
-
-### Case studies are all about showcasing one's design process.
+Case studies have become the accepted "test" by which hiring managers choose which candidates to talk to. As a UX/UI designer, writing case studies is the best way to communicate your knowledge of the design process. 
 
 The design thinking process should be evident in the case study. It should include each phase to reinforce the designer's thinking.
 
-Reiterate the design thinking steps: empathy, define, ideate, prototype, and test.
-
-- Students should be starting to memorize these steps. Periodically quiz them.
-
+## SLIDE 26
 ### Case studies are about communication.
-
-Share the quote from Danielle Reid, Head of Design at Toptal.com. 
-
 “This communication ability is important for displaying the ability to work in teams, as well as communicate to clients. Designers need to express their ideas to a team, and make the design scalable so that junior or senior designers can pick up the work and move forward with it.”
 
-> :gem: **Designer Insight:** Share a personal story about the importance of communication in your professional experience.
 
 **TAs,** Slack out:
 
@@ -335,15 +299,12 @@ Share the quote from Danielle Reid, Head of Design at Toptal.com.
 
 > **Instructor Note:** Pause to see if students have any questions. 
 
-### Review how case studies are an industry expectation.
 
+## SLIDE 27
 Hiring managers want to understand how designers solve problems:
 Share the user research, research reports, sketches, wireframes, user flows, wireframes, user stories, user journey maps, prototypes, user testing, and the final prototype in a presentation product.
 
-> :gem: **Designer Insight:** Share how your own portfolio and case studies have boosted your career.
->
-> - Invite a TA to share as well. 
-
+## SLIDE 28
 ### Seven steps to laying out a case study in a UX design portfolio.
 
 Walk through the seven steps that a designer would take to lay out a case study in a UX design portfolio.
@@ -384,30 +345,20 @@ Walk through the seven steps that a designer would take to lay out a case study 
    - When the designer finishes creating a case study for the portfolio, they should seek feedback from those who view it, whether they're colleagues or interviewers.
    - Another set of eyes on the designer's portfolio will help catch spelling and grammar errors, confusion about content, and the overall usability of the format that they chose. The designer's portfolio will always be a work in progress.
 
-> **Instructor Note:** Take questions. 
+## SLIDE 29
+Questions??
 
-Now, go deeper into case studies by sharing a few tips for great case studies. 
+## SLIDE 30
+Review
 
-## 7. Instructor Do: UX Case Study Tips (5 min)
-
-> **Instructor Note:** If you have personal case studies you want to share, use them as samples. If not, share some case study samples.
-
-> :pushpin: **Important Point:** The goal of this section is to share key tips with students so they can improve their case studies.
-
-Here, you will walk through various tips for creating effective case studies.
-
-> :gem: **Designer Insight:** As you walk through the following tips, pick one that you can share an anecdote about, sharing how applying the tip has improved your case studies. 
->
-> - Invite a TA to share as well. 
-
-### Review Case Study Tips.
-
+## SLIDE 31
 **Tip 1: Eliminate photos of sticky notes that can't be read.**
 
 Nothing says a designer doesn't care about the audience more than just a bunch of sticky notes with no context. Use photos of the process meaningfully.
 
 - Show context and relevant details in a case study.
 
+## SLIDE 32
 **Tip 2: Show images of the process.**
 
 Sketches matter; don't just show the final product.
@@ -416,32 +367,36 @@ Sketches matter; don't just show the final product.
 
 - Narrate while sharing sketches to show the process.
 
+## SLIDE 33
 **Tip 3: Help the viewer better understand what to focus on.**
 
 Direct the viewer's attention by highlighting important areas of interest.
 
+## SLIDE 34
 **Tip 4: Title/label all sketches, wireframes, and mockups.**
 
 Intentionally label the images for context. Do not assume the viewers know what they're looking at. Titles/labels help viewers follow the actions and intentions behind a user’s journey.
 
 - Consider that audience members are not familiar with the designer's work or process. Don't assume they know what they're looking at.
 
+## SLIDE 35
 **Tip 5: Export mockups at 2X resolution!**
 
 - Do not share resources that are low resolution.
-
-- [https://medium.com/thinking-design/protip-exporting-assets-in-adobe-xd-c586996de703](https://medium.com/thinking-design/protip-exporting-assets-in-adobe-xd-c586996de703)
-
 > **Instructor Note:** Pause and check in with your students. Take any questions.
 
 - **TAs,** Share case study example resources in Slack for students to review at home. 
+  - [https://medium.com/thinking-design/protip-exporting-assets-in-adobe-xd-c586996de703](https://medium.com/thinking-design/protip-exporting-assets-in-adobe-xd-c586996de703)
   - [https://uxdesign.cc/ux-case-studies/home](https://uxdesign.cc/ux-case-studies/home)
   - [https://www.bestfolios.com/home](https://www.bestfolios.com/home)
   - [https://www.casestudy.club/case-studies](https://www.casestudy.club/case-studies)
   - [https://blog.prototypr.io/5-of-my-favorite-ux-case-studies-36f4cb66686c](https://blog.prototypr.io/5-of-my-favorite-ux-case-studies-36f4cb66686c)
 
-Next, students will jump into an activity that will give them practice creating their own case studies.
 
+## SLIDE 36
+Questions??
+
+## SLIDE 37
 ## 8. Student Do: Case Study Outline Activity (20 min)
 
 **TAs,** Slack out the two files:
@@ -464,6 +419,7 @@ First, students will complete a case study outline. Next, they will start workin
 
 In this activity, students will produce a UX case study outline that will help pull together assets and complete their challenge for this week.
 
+## SLIDE 38
 ## 9. Instructor Do: Case Study Outline Activity  Review (10 min)
 
 Time is up. Call the class back to attention. Ask students to share their outlines in Slack.
@@ -485,6 +441,10 @@ Ask the TAs to offer critique and provide your own feedback. Feedback prompts:
 - What works well?
 - What could be improved?
 
+## SLIDE 39
+Review Group Project 1
+
+## SLIDE 40
 ## 10. Student Do: Case Study Working Session (40 min)
 
 > :pushpin: **Important Point:** The goal of this section is to give students time to work on their case study challenge.
