@@ -140,110 +140,76 @@ Prepare to engage with your students' progress. Be sure to:
 
 During Week 8, we analyzed a website through the lens of usability. In Week 9, we'll learn how to analyze websites through the lens of IA to improve usability.
 
-### Introduce IA
+## SLIDES 1-4
+Review
 
+## SLIDE 5
 IA is the science of organizing and structuring the content of websites, web and mobile applications, and social media software.
 
-> ***IA helps people find the content they’re looking for without too much effort***.
+## SLIDE 6
+Review
 
-> **Say:** "IA was UX before UX was a thing."
+## SLIDE 7
+Our goal with IA is to help people find what they're looking for without too much effort. In these examples:  
+- organizing products to help users get to what they're most interested in buying, faster
+- organizing content and media to help visitors find what they may want to see or connected with related content
 
-- UX has been a recognized profession since 2005. In contrast, the information architect occupation emerged in the 1990s, after the birth of the modern internet.
+## SLIDE 8
+Review
 
->  **Instructor Note:** IA encompasses all the techniques designers use to understand the underlying structure of sites and apps. The output is a blueprint, or diagram, of the structure of a site or app. Once a designer can see that structure, they can create wireframes and sitemaps.
-
-Think of an IA blueprint as a car diagram, showing the complex structure of the systems and their interworking components.
-
-:gem: **Designer Insight:** Ask two or three students to suggest other types of diagrams that organize things and make them easy to navigate—this should help them grasp the concept.
-
-- The art and science of IA began in the 1970s, long before the rise of the web, mobile apps, or popular UX design. Its roots are found in numerous fields that UX practitioners draw on, including library science, cognitive psychology, and architecture.
-
-Review **IA**: IA is the art and science of organizing and labeling information for websites, intranets (confined networks), online communities, and software to support usability and learning. It brings principles of design and architecture to the digital landscape.
-
-### Why Does IA Matter?
-
-A well-thought-out IA is critical to good user experiences.
-
-- For example, if we compare a retail website to a blog, we’ll see two different structures to accomplish their respective objectives. IA has become a fundamental study in many spheres, including design and software development.
-
-- IA makes it easier for people who create and maintain content to do their jobs. IA links content so that it is easy to find and useful. Content includes text, images, videos, documents, forum discussions, and contact information.
-
-### The Information Architect
-
+## SLIDE 9
 IA preceded the UX designer.
-
-- Consider the responsibilities listed in information architect job postings.
 
 - An information architect generally performs various activities as part of a UX project team. Everyday tasks include research, navigation creation, wireframing, labeling, and data modeling. IA tasks follow a process to create logic and structure. Deliverables include visualizations, such as sitemaps for hierarchy or tag clouds for text data.
 
-### Review the Context for Using IA
+- UX has been a recognized profession since 2005. In contrast, the information architect occupation emerged in the 1990s, after the birth of the modern internet.
+
+- The art and science of IA began in the 1970s, long before the rise of the web, mobile apps, or popular UX design. Its roots are found in numerous fields that UX practitioners draw on, including library science, cognitive psychology, and architecture.
+
+IA is the art and science of organizing and labeling information for websites, intranets (confined networks), online communities, and software to support usability and learning. It brings principles of design and architecture to the digital landscape.
 
 - When do we use IA? IA is foundational to building UI, websites, and software. Users consume and interact with content (information).
 
 - Why do we use IA? IA is essential in considering a user's needs. As the volume of information grows, UX/UI designers must apply logic and structure to manage that data.
 
-### Review the Spotify Case Study
-
+## SLIDE 10
 If you want clean, focused design, you have to start with clean, focused IA. It forces us to think, so our users don’t have to.
 
 - When we use IA principles to evaluate the structure of an app, the process forces us to view the app objectively. Not as a collection of related pages and images but as abstract constructs (e.g., nouns and verbs, rather than full sentences). We quickly see that the app is just information. The way we piece that information together determines how well a user can navigate and consume it.
 
 - Take Spotify, for example. We can deconstruct the UI to reveal the underlying IA. Using an iOS device to view the screen, we first notice the tab bar, a core component of iOS that is essential to the page's IA. The tab bar includes four primary tabs: Home, Browse, Radio, and Your Library. From each page, we can break down all of the separate pages for a rough output of the IA.
 
->:gem: **Designer Insight:** Share a personal experience using IA in your daily practice.
+## SLIDE 11
+Review IA goals
 
-- Review some high-level goals for IA.
+## SLIDE 12
+Review
 
-> **Instructor Note:** Don't worry about moving fast. Remind students to continue to dive deeper at home if they don't know some of these principles.
-
-### IA Goals
-
-- Findable
-- Accessible
-- Clear
-- Controllable
-- Communicative
-- Usable
-- Credible
-- Learnable
-
-### LATCH Organizing Scheme Principles
-
-When you're tasked with organizing information, the options might seem endless. After all, there are infinite possibilities for designing anything. However, when it comes to organizing information, there are only five ways to do it.
-
-### Read Richard Saul Wurman's Quote
-
+## SLIDE 13
+_read quote_
 Richard Saul Wurman is an American architect, graphic designer, and a founder of the IA field.
 
-### Walk Through Each Letter of LATCH
-
+## SLIDE 14
 - **Location:**
   - Creating a map is a common way to organize by location (e.g., shopping mall directories or college campus maps).
 
+## SLIDE 15
 - **Alphabet:**
   - Websites often run long menus in alphabetical order, which can prove problematic. If the user doesn't understand the website's terms, alphabetizing content won't help the situation. There are times, however, when ordering alphabetically suits the user's needs. For example, a user can navigate a list of novels when sorted by the author's last name. It's not as useful for a list of reference books, which would be better organized by the Dewey Decimal or Library of Congress classification systems.
 
+## SLIDE 16
 - **Time:**
   - Organizing by time linearly shows activities over some time. Consider a flow chart that describes a process (e.g., making chicken nuggets) from beginning to end. Organizing by time tells a very different story about information, such as revealing a chronological pattern. For example, the calendar view in Slide 18 maps the number of times the Wayback Machine crawled ESPN's content between December 11, 1997, and May 10, 2019.
 
+## SLIDE 17
 - **Category:**
   - The foods listed in Slide 19 are organized by category, a useful method for sorting nearly anything (e.g., color, shape, gender, model, price, etc.).
 
+## SLIDE 18
 - **Hierarchy:**
   - Hierarchies are used in organizational charts to show who reports to whom. Hierarchy is also used to show scale (e.g., biggest to smallest or heaviest to lightest).
 
-- Remind students to memorize the LATCH acronym, as all information is organized by one of these methods.
-
-> **Instructor Note:** Take questions on IA or LATCH.
-
-- Finally, engage the class in a quick game of active recall: Ask students to name the method represented by each letter of LATCH (e.g., "Who can tell me what the 'L' in LATCH stands for?”).
-
-:globe_with_meridians: **Online Recommendation: **Have students share their answers in the Zoom chat or Slack.
-
-> :briefcase: **Employer Competitive Note:** Your ability to describe why UI decisions are made is what an employer is looking for. Describing IA logic using LATCH will shine through in your UI decision making.
-
-### Review the Organization Schemes Tool Snapshot
-
+## SLIDE 19
 **What are organization schemes?**
 
 An organization scheme defines the shared characteristics of content and influences the logical grouping of those items. An organization structure defines the types of relationships between content items and groups.
@@ -264,8 +230,10 @@ An organization scheme defines the shared characteristics of content and influen
 
 · To meet your users’ needs of logical and clear structure.
 
-Now that students grasp the concept of IA and the principles of LATCH, it's time for them to put that knowledge into practice. In the following activity, students will get a feel for how designers work with LATCH principles.
+## SLIDE 20
+Questions??
 
+## SLIDES 21-24
 ## 3. Student Do: LATCH Analysis Activity (15 min)
 
 **TAs,** slack out to students the following Google Doc activity:
@@ -297,6 +265,7 @@ For each part, they’ll use Figma to annotate and present their findings.
 
 Students will submit two screenshots showing annotated webpages for both Craigslist.org and their government agency website.
 
+## SLIDE 25
 ## 4. Instructor Do: LATCH Analysis Activity Review (10 min)
 
 Call attention back and make sure everyone has placed their Craigslist content into Slack.
@@ -327,19 +296,13 @@ We have wrapped up the first part of today's lesson, introducing IA and applying
 
 The next stop on today's tour includes IA components and principles.
 
-## 5. Instructor Do: IA Components and Principles (15 min)
+## SLIDE 26
+Review
 
-> :pushpin: **Important Point:** Your goal is to define IA components and principles and get students thinking about information systems for their UI. This supports today's second learning objective, the ability to analyze and identify the IA components and principles of a website.
-
-Now that students have a sense of IA as it relates to the LATCH principles, let's jump into the four essential components of IA and the three principles of IA. You'll guide students through a brief lecture on taxonomy and follow with an activity.
-
-Help students grasp the value of the components and principles you're about to cover. Relate it to learning about the Gestalt laws: understanding IA components and principles gives us a new way of seeing how users see.
-
+## SLIDE 27
 ### IA Components
 
 An information architect is an expert in information (content), when that content is used (context), and how that content provides value to a user (usability/accessibility). These IA components determine the relationships among content, context, and users.
-
-Review IA's four essential components:
 
 1. **Organization systems/schemes and structures** refer to how users categorize information.
 2. **Labeling systems** pertain to how users represent information.
@@ -351,10 +314,8 @@ Review IA's four essential components:
 - [https://www.amazon.com/Information-Architecture-World-Wide-Web-ebook/](https://www.amazon.com/Information-Architecture-World-Wide-Web-ebook/dp/B0043D2E68)
 - [https://www.amazon.com/How-Make-Sense-Any-Mess/](https://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994/ref=sr_1_1?ie=UTF8&qid=1415130655&sr=8-1&keywords=how%20to%20make%20sense%20of%20any%20mess)
 
-> :gem: **Designer Insight:** Ask a TA to share how they think about these four components.
->
-> - The idea is to help students connect theory and practice—they **will** need this knowledge on the job.
 
+## SLIDE 28
 #### Organization Systems
 
  There are three main organizational structures—hierarchical, sequential, and matrix.
@@ -368,34 +329,42 @@ Review IA's four essential components:
 - **Matrix:**
   - This type is a bit more complicated for users, since they choose the path of navigation on their own. In a typical design organized by a matrix, users interact with an interface that has multiple options of equal weight. Users are given choices of content organization.
 
+## SLIDE 29
 #### Labeling Systems
 
 Labeling systems are how designers represent information. Product design requires simplicity; too much information can confuse users because it forces them to consume content that might not be relevant to their task. This is commonly referred to as the signal/noise problem. Simplicity creates the clearest signal of an interface possible. That’s why designers create labels that represent loads of data in a few words.
 
 - For example, when designers give the contact information of the company on the website, it usually includes the phone number, email, and social media contacts. However, designers can’t present all of this information on the landing page. The “Contact Us” triggers the realization of a labeling system for that information.
 
+## SLIDE 30
 #### Navigation Systems
 
 Navigation is the set of actions and techniques guiding users through the app or website, enabling them to fulfill their goals and successfully interact with the product. The navigation system involves the ways users move through the content.
 
 - For example, there are multiple ways to navigate the content on *The Washington Post* website.
 
+## SLIDE 31
 #### Searching Systems
 
 This system is used in IA to help users find data within a digital product like a website or an app. Searching systems, including search bars, filters, tagging, and views, are useful for products with a lot of information that a user could get lost in.
 
 - For example, there are multiple ways to search or filter content on *The Washington Post* website.
 
-### IA Principles
+## SLIDE 32
+Questions??
 
-Walk through the three IA principles, known as "the gears of IA":
+## SLIDE 33
+Review
+
+## SLIDE 34
+### IA Principles
+"the gears of IA":
 
 1. **Ontology:** the particular meaning of information.
 2. **Taxonomy:** the arrangement of information.
 3. **Choreography:** the movement and interaction of parts of information.
 
-> :gem: **Designer Insight:** Share how these IA principles show up in your own work to help students connect what they're learning to the real world. Alternatively, invite a TA to share.
-
+## SLIDE 35
 #### Ontology
 
 Ontology is the establishment of particular meanings. We often forget to take a step back and ask how our use of language implies a specific meaning to us but could be confusing to others. Richard Saul Wurman says that it can be useful for designers to “understand what it’s like to not understand.” Even simple words and concepts, like “orange,” can have unhelpfully subjective meanings.
@@ -422,37 +391,20 @@ Choreography is the set of rules for interaction among the parts. This part of I
 
 - These issues are at the core of choreography, which is essential to successful user experiences. When multiple devices and applications are involved, not to mention a large number of underlying systems that provide the content, the choreography is critical.
 
-> :briefcase: **Employer Competitive Note:** Your ability to effectively discuss how your UI solutions apply ontology, taxonomy, and choreography will help you appear more professional during job interviews. You'll have an advantage if you can speak with authority about your solutions during job interviews.
-
-> **Instructor Note:** Pause for questions.
-
+## SLIDE 36
 **Read Donna Spencer's quote:** Donna Spencer is an information architect and the UX author of *A Practical Guide to Information Architecture*.
 
 - **TAs,** slack out the following:
   - [uxpodcast.com](http://www.uxpodcast.com)
   - [https://www.youtube.com/watch?v=sw2nQLVGBGE](https://www.youtube.com/watch?v=sw2nQLVGBGE)
 
-Now that students know the IA components and principles, delve deeper into taxonomy to prepare for an activity.
+## SLIDE 37
+Review
 
-## 6. Instructor Do: Taxonomy (5 min)
+## SLIDE 38
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to define taxonomy and to have students consider logic when applying language to a UI.
-
-We'll dig deeper into taxonomy, the second IA principle. Taxonomy is not straightforward, so we'll give it extra attention. Start by reviewing what students remember from a few moments ago (recall reinforces learning).
-
-### Taxonomy
-
-- Who can define taxonomy? (Answer: Taxonomy is a hierarchical structure for the classification or organization of data.)
-
-:globe_with_meridians: **Online Recommendation:** Have students share their answers in the Zoom chat or Slack.
-
-- Ask, "Has anyone heard of the mnemonic device 'Dear King Philip Came Over For Good Soup'"?
-  - The first letter of each word reminds us of the order of taxa in biology: **D**omain, **K**ingdom, **P**hylum, **C**lass, **O**rder, **F**amily, **G**enus, and **S**pecies.
-
-> :gem: **Student Insight:** Ask two students for a mnemonic device they know. (Sharing one that you know may help them remember.)
-
-### Review the Information Categorization Tool Snapshot
-
+## SLIDE 39
 **What is information categorization?**  
 
 Information categorization is an activity that consists of putting things (objects, ideas, people) into relationships. The task of supervised classification involves extracting information from the labeled examples that allows accurate prediction of class labels of future.
@@ -475,30 +427,20 @@ Information categorization is an activity that consists of putting things (objec
 
 > **Instructor Note:** Pause and ask if students have any questions. Wait 30 seconds for questions to arise.
 
-We've covered IA components and principles and expanded on taxonomy. Students have achieved the second learning objective, which is analyzing and identifying IA components and principles on a website.
+## SLIDE 40
+Questions??
 
-After a break, students will learn content chunking—what it is, how to see it, and how to apply it to a design.
 
+## SLIDE 41
 ## 7. Break (10 min)
 
-It's time to take a break.  
+## SLIDE 42
+Review
 
+## SLIDE 43
+Review
 
-After the break, students will learn about content inventory and content chunking. You'll also demo how to mark up and annotate a UI and how to use freehand in preparation for redesigning a site.
-
-
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
-## 8. Instructor Do: Content Inventory and Content Chunking (20 min)
-
-> :pushpin: **Important Point:** Your goal is to have students analyze a UI and consider the parts and how they're organized, which addresses the third and fourth learning objectives. The third objective is to design site content in Adobe XD based on an IA analysis and to apply content chunking. The fourth objective is to practice wireframing with content chunking in Adobe XD.
-
-Now go even deeper into IA, specifically on content inventory and chunking so students can start applying their new skills as information architects. Your lecture will prepare them for redesigning a site and chunking content.
-
-After this, you'll give two demos, followed by a student activity and review.
-
-### Content Inventory
-
+## SLIDE 44
 The primary purpose of a content audit is to produce a spreadsheet listing the site’s content. Before pulling inventory, it’s important to note your goals and scope.
 
 - **Goals:** Understanding why you’re doing the audit and what you intend to do with the results can help focus this activity and make it less overwhelming.
@@ -512,6 +454,7 @@ Once goals and scope are understood, you can choose which audit makes sense for 
 - Which content needs to be written due to gaps
 - Where content should be mapped to if being moved or if it requires redirects
 
+## SLIDE 45
 ### Three Types of Content Inventory
 
 1. Full content inventory: A complete listing of every content item on the site. This may include all pages as well as all assets (such as downloadable files and videos).
@@ -522,34 +465,27 @@ Once goals and scope are understood, you can choose which audit makes sense for 
 
 3. Content sample: A less detailed collection of example content from the site.
 
-Review the importance of content in the UX.
 
-- Say: ***"It doesn't matter how good the content is—if the interface is awful, users won't stick around."***
+## SLIDE 46
+Review
 
-> :gem: **Designer Insight:** Share how you approach content inventory in your client work.
->
-> - Alternatively, ask a TA to share.
-
-### Review Markup Review
-
-- As UI designers, we spend much time explaining how UX works.
-
-- Likely, this will be one of your first tasks as a UX/UI designer, so pay attention to the details and show that you know what you're talking about.
-
+## SLIDE 47
 ### Video: Designer Reverse Engineering an IA
 
 - Share the following video: [https://www.youtube.com/watch?v=L9JPY2hpyfA](https://www.youtube.com/watch?v=L9JPY2hpyfA)
 
-### Content Chunking
+## SLIDE 48
+Review
 
+## SLIDE 49
 Whether you have a website, presentation, mobile app, web application, or another UI, the principle of chunking information is relevant.
 
 - UX definition: In the field of UX design, chunking usually refers to breaking up content into small, distinct units of information (or chunks), as opposed to presenting an undifferentiated mess of information.
 
   - **TAs,** slack out: [https://www.nngroup.com/articles/chunking/](https://www.nngroup.com/articles/chunking/)
 
-### Review the Content Chunking Tool Snapshot
 
+## SLIDE 50
 **What is content chunking?**
 
 - Content chunking refers to the strategy of breaking down information into bite-sized pieces so your user can consume, memorize, or create focus. 
@@ -559,8 +495,6 @@ Whether you have a website, presentation, mobile app, web application, or anothe
 
 - Content chunking is essential to UI in websites or software. Using design principles and elements of design will help inform the user.
 - It works by presenting a large amount of content in small modules to make the information easier to read, process, and remember. 
-
->:gem: **Designer Insight:** Ask a TA to give an example of how they've used content chunking in their work.
 
 Focus is something hard to capture these days—research shows that human attention spans have dropped to 8 seconds. [Source:  Time magazine/Microsoft Study 2015: https://time.com/3858309/attention-spans-goldfish/.]
 
@@ -574,60 +508,44 @@ Content chunking is important to responsive web and component designs, especiall
 
 - We'll go deeper into responsive web design during Units 10 and 11.
 
+## SLIDE 51
+Review
+
+## SLIDE 52
 ### Miller’s Law and Content Chunking
-
 Breaking up information allows the brain to focus.
-
-- Review the content chunking methods.
 
 - In 1956, George Miller, an American psychologist and cognitive neuroscientist, asserted that the span of immediate memory and absolute judgment were both limited to around seven pieces of information.
 
 - For example, a chunked phone number (+1-919-555-2743) is easier to remember (and scan) than a long string of unchunked digits (19195552743).
-
-- Take questions and let students know we'll practice this skill next.
 
 - **TAs,** slack out the following: 
   - [https://www.youtube.com/watch?v=hydCdGLAh00](https://www.youtube.com/watch?v=hydCdGLAh00)
   - [lawsofux.com](https://lawsofux.com/)
   - [https://uxdesign.cc/ux-foundations-via-millers-law-5121715b487d](https://uxdesign.cc/ux-foundations-via-millers-law-5121715b487d)
 
-### Content Chunking Applies to UI Component Design
 
+## SLIDE 53
 Component-based design is a practice of splitting UI into smaller, more manageable parts with clear names.
 
 - A component can be anything that uses at least three UI elements.
 UI components: Cards, Hero Spaces, Image Viewers, Video Players, and Navigation Menus.
 
-### Content Chunking Organization
-
+## SLIDE 54
 - Content is organized around a user’s interest.
-
 - Establish your chunked content into cards.
 
-### Content Chunking Example
+## SLIDE 55
+Revie
 
-- Review page top-down.
-
-### Markup Review, Content Chunking, and Inventory Example
-
-- Take questions and let students know we'll practice this skill next.
-
+## SLIDE 56
 - Markup review will likely be one of your first tasks as a UX/UI designer, so pay attention to the details and show that you know what you're talking about.
 
-- Take questions from students.
+## SLIDE 57
+Questions??
 
-> :briefcase: **Employer Competitive Note:** The ability for students to analyze UI work and show how they can recognize UI/IA and UX principles could be a way to show an interviewer their skills. Analyzing UI work will likely be a deliverable a UX/UI designer does first on the job.
-
-Students should now have a solid understanding of what content chunking is. They will get a chance to apply it *soon.*
-
-
+## SLIDE 58
 ## 9. Instructor Do: Demo - Figma Content Annotation (10 min)
-
-  - Quickly walk students through the basics of marking up a UI and adding annotations.
-
-
-> Briefly pause to take a few questions.
-
 - Reviewing these design tools is a lot to accomplish quickly. Students can ask questions and learn while doing.
 - They'll work with content and information structure for the rest of the boot camp and their UX/UI careers.
 - Students should continue to internalize these ideas and look for them out in the real world. They should be acutely critiquing navigation titles, looking for and expecting clear organization, recognizing the use of taxonomy, and basking in great content chunking on their own.
@@ -639,12 +557,7 @@ Students should now have a solid understanding of what content chunking is. They
 
 Now, proceed with showing them how Freehand works in the next demo.
 
-## 10. Instructor Do: Demo - InVision Freehand (5 min)
-
-After this demo, students will spend half an hour on the next activity with support from you and the TAs.
-
-> :briefcase: **Employer Competitive Note:** Remind students that they're preparing to join a workforce that has been influenced by UX thinking. That workforce is collaborative and requires knowing the tools designers use. Explain to students that their ability to collaborate will make them hirable as well as successful on the job.
-
+## SLIDE 59
 ### Demo InVision Freehand
 
 Quickly demo InVision Freehand's collaborative features. Ask your TAs to help share the feature and collaborate.
@@ -690,6 +603,7 @@ Quickly demo InVision Freehand's collaborative features. Ask your TAs to help sh
 
 At last! Now it's time for students to practice working with the tools from your demo and to accomplish the final two learning objectives of the day.
 
+## SLIDES 60-61
 ## 11. Student Do: IA Analysis and Intervention Activity (30 min)
 
 **TAs,** slack out the following Google Doc activity file (also in your class drive):
@@ -723,6 +637,7 @@ Students will work in groups for the first two parts and independently for part 
 
 Students will share three items: (1) an annotated, marked up Figma board showing their analysis; (2) a Freehand sketch from InVision; and (3) their redesign from Figma.
 
+## SLIDE 62
 ## 12. Instructor Do: IA Analysis and Intervention Activity Review (10 min)
 
 Call the class back to attention to review student work and discuss how it went for everyone.
