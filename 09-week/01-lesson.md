@@ -425,7 +425,7 @@ Choreography is the set of rules for interaction among the parts. This part of I
 Review
 
 ## SLIDE 38
-Let's look at this taxonomy example.
+A taxonomy is closed list of acceptable terms that are arranged hierarchically and are used to describe and classify content. Let's look at this taxonomy example.
 - There is a clear hierarchical relationship consisting of parent/child and siblings
 - It's exclusive in that we do not have the same item in two distinct categories (think navigation items that are found in multiple categories)
 - It's Top-down or established by authority... the Info Architect has defined a high level category of Technology usability and then broken into related sub items
