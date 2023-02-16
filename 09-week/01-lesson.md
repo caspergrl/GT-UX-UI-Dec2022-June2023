@@ -144,7 +144,8 @@ During Week 8, we analyzed a website through the lens of usability. In Week 9, w
 Review
 
 ## SLIDE 5
-IA is the science of organizing and structuring the content of websites, web and mobile applications, and social media software.
+Information architecture refers to the science of organizing information within digital products. For example, when designers create apps and websites, they lay out each individual screen so that the user can easily find the information they need. They also create a flow that lets users navigate between screens without much effort. Part of our job is to determine the right organization and flow.
+
 
 ## SLIDE 6
 Review
@@ -155,9 +156,6 @@ Our goal with IA is to help people find what they're looking for without too muc
 - organizing content and media to help visitors find what they may want to see or connected with related content
 
 ## SLIDE 8
-Review
-
-## SLIDE 9
 IA preceded the UX designer.
 
 - An information architect generally performs various activities as part of a UX project team. Everyday tasks include research, navigation creation, wireframing, labeling, and data modeling. IA tasks follow a process to create logic and structure. Deliverables include visualizations, such as sitemaps for hierarchy or tag clouds for text data.
@@ -166,11 +164,20 @@ IA preceded the UX designer.
 
 - The art and science of IA began in the 1970s, long before the rise of the web, mobile apps, or popular UX design. Its roots are found in numerous fields that UX practitioners draw on, including library science, cognitive psychology, and architecture.
 
-IA is the art and science of organizing and labeling information for websites, intranets (confined networks), online communities, and software to support usability and learning. It brings principles of design and architecture to the digital landscape.
 
-- When do we use IA? IA is foundational to building UI, websites, and software. Users consume and interact with content (information).
+Questions an information architect may ask:
+- What is the flow of users through our site?
+- How does the application help the users catalog their information?
+- How is that information presented back to users?
+- Is that information helping the customer and driving decisions?
+
+
+## SLIDE 9
+- When do we use IA? IA is foundational to building UI, websites, and software. Users consume and interact with content (information). (anytime people interact with our content in some way, we need to consider it)
 
 - Why do we use IA? IA is essential in considering a user's needs. As the volume of information grows, UX/UI designers must apply logic and structure to manage that data.
+
+
 
 ## SLIDE 10
 If you want clean, focused design, you have to start with clean, focused IA. It forces us to think, so our users don’t have to.
@@ -180,7 +187,22 @@ If you want clean, focused design, you have to start with clean, focused IA. It 
 - Take Spotify, for example. We can deconstruct the UI to reveal the underlying IA. Using an iOS device to view the screen, we first notice the tab bar, a core component of iOS that is essential to the page's IA. The tab bar includes four primary tabs: Home, Browse, Radio, and Your Library. From each page, we can break down all of the separate pages for a rough output of the IA.
 
 ## SLIDE 11
-Review IA goals
+Findable: Able to be located
+
+Accessible: Easily approached and/or entered
+
+Clear: Easily Perceptible
+
+Controllable: Able to adjust to a requirement
+
+Communicative: Talkative, informing, timely
+
+Usable: Can the user complete tasks with little to no frustration? ALSO - Useful: Capable of producing the desired or intended result
+
+Credible: Worthy of confidence, reliable
+
+Learnable: Easily understood and recalled?
+
 
 ## SLIDE 12
 Review
@@ -211,8 +233,9 @@ Richard Saul Wurman is an American architect, graphic designer, and a founder of
 
 ## SLIDE 19
 **What are organization schemes?**
+Organization schemes have to do with how you are going to categorize your content and the various ways you'll create relationships between each piece. Most content can be categorized in multiple ways. 
 
-An organization scheme defines the shared characteristics of content and influences the logical grouping of those items. An organization structure defines the types of relationships between content items and groups.
+They define the shared characteristics of content and influence the logical grouping of those items. An organization structure defines the types of relationships between content items and groups. It defines the ways in which users can navigate. 
 
 **When do designers use organization schemes?**
 
@@ -306,8 +329,8 @@ An information architect is an expert in information (content), when that conten
 
 1. **Organization systems/schemes and structures** refer to how users categorize information.
 2. **Labeling systems** pertain to how users represent information.
-3. **Navigation systems** relate to how users browse through information.
-4. **Searching systems** concern how users look for and find information.
+3. **Navigation systems** relate to how users browse through existing visible information.
+4. **Searching systems** concern how users seek out and discover or locate information that may not otherwise be visible.
 
 **TAs,** slack out the following links:
 
@@ -321,7 +344,7 @@ An information architect is an expert in information (content), when that conten
  There are three main organizational structures—hierarchical, sequential, and matrix.
 
 - **Hierarchical:**
-  - Visual hierarchy is a well-known technique of content organization. Initially based on Gestalt psychological theory, the primary goal of hierarchy is to present content on the carrier—be it a book, poster, webpage, or mobile screen. Hierarchy allows users to understand the level of importance for each element by establishing a visual priority.
+  - Visual hierarchy is a well-known technique of content organization. Initially based on Gestalt psychological theory, the primary goal of hierarchy is to present content within a carrier — be it a book, poster, webpage, or mobile screen. Hierarchy allows users to understand the level of importance for each element by establishing a visual priority.
 
 - **Sequential:**
   - This structure creates a path for users. Information design can assist a user in going step by step through content to accomplish the task. Sequential information is used for retail websites or apps, where people have to go from one task to another to make the purchase.
@@ -332,7 +355,7 @@ An information architect is an expert in information (content), when that conten
 ## SLIDE 29
 #### Labeling Systems
 
-Labeling systems are how designers represent information. Product design requires simplicity; too much information can confuse users because it forces them to consume content that might not be relevant to their task. This is commonly referred to as the signal/noise problem. Simplicity creates the clearest signal of an interface possible. That’s why designers create labels that represent loads of data in a few words.
+Labeling systems are how designers represent information. Product design requires simplicity; too much information can confuse users because it forces them to consume content that might not be relevant to their task. This is commonly referred to as the signal/noise problem. Simplicity creates the clearest signal of an interface possible. That’s why designers often strive to create labels that represent loads of data in as few words as possible.
 
 - For example, when designers give the contact information of the company on the website, it usually includes the phone number, email, and social media contacts. However, designers can’t present all of this information on the landing page. The “Contact Us” triggers the realization of a labeling system for that information.
 
@@ -375,7 +398,7 @@ Ontology is the establishment of particular meanings. We often forget to take a 
 
 Taxonomy is the arrangement of the parts to accomplish specific goals within or across contexts. This is the principle that is most commonly identified as “information architecture,” meaning to structure information in the form of taxonomies, sitemaps, or wireframes. However, the forms are only useful once the meaning of the underlying system has been identified. Moreover, given the complex and contradictory nuances of meaning between businesses and their customers, the structures for ensuring its integrity across channels need to be both precise and adaptable.
 
-- For example, the color orange may be defined as "Pantone 1505 C," but taxonomically, it can belong both under "Interior Paints" and "Paint Samples" if that is the context where the user needs it.
+- For example, the color orange may be defined as "Pantone 1505 C," but from a taxonomy perspective, it can belong both under "Interior Paints" and "Paint Samples" if that is the context where we learn that the user expect to see it.
 
 #### Choreography
 
@@ -402,7 +425,10 @@ Choreography is the set of rules for interaction among the parts. This part of I
 Review
 
 ## SLIDE 38
-Review
+Let's look at this taxonomy example.
+- There is a clear hierarchical relationship consisting of parent/child and siblings
+- It's exclusive in that we do not have the same item in two distinct categories (think navigation items that are found in multiple categories)
+- It's Top-down or established by authority... the Info Architect has defined a high level category of Technology usability and then broken into related sub items
 
 ## SLIDE 39
 **What is information categorization?**  
