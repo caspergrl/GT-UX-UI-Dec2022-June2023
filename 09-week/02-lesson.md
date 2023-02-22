@@ -136,26 +136,26 @@ Remind students that the UI is not the end goal—meeting users' needs is the en
 Review
 
 ## SLIDE 5
-Review
+Remember, IA is about organizing and labelling content within our products to better support good usability and findability for our users.
 
 ## SLIDE 6
-Information architecture (IA) focuses on organizing, structuring, and labeling content in an effective and sustainable way.  The goal is to help users find information and complete tasks.  To do this, you need to understand how the pieces fit together to create the larger picture, how items relate to each other within the system.
+Information architecture (IA) focuses on organizing, structuring, and labeling content in an effective and sustainable way.  The goal is to help users find information and complete tasks.  To do this, you need to understand how the pieces fit together to create the larger picture, how items relate to each other within the system or product.
 
 Russell Ackoff, a systems theorist and professor of organizational change says the content of the human mind can be classified into 5 categories:
-- **Data**: symbols... this represents a fact or statement of events without relation to other things  
+- **Data**: symbols of things (often content in our products)... facts or statements of events without relation to other things  
 - **Information**: data processed to be useful; provides answers to 'who', 'what', 'where', and 'when' questions... embodies the understanding of a relationship of some sort, possibly cause and effect  
 - **Knowledge**: application of data and information; answers 'how' questions... refers to a pattern that connects and generally provides a high level of predictability as to what is described or what will happen next  
-- **Understanding**: appreciation of 'why'... the process by which we can take knowledge and synthesize nenw knowledge from previously held knowledge    
-- **Wisdom**: evaluated understanding... it embodies more of an understanding of fundamental principles embodied within the knowledge that are essentially the basis for the knowledge being what is. Wisdom is essentially systemic.  
+- **Insight**: (also known as Understanding?) appreciation of 'why'... the process by which we can take knowledge and synthesize new knowledge from previously held knowledge    
+- **Wisdom**: evaluated understanding... it embodies more of an understanding and tying together of fundamental principles. Wisdom is essentially systemic and involves creating a sound rationale for organising content.  
 
 ## SLIDE 7
-The purpose of IA is to help users understand where they are, what they've found, what's around them and what to expect. We use it to inform content strategy including dentifying appropriate verbiage for labels, navigation, microcopy and we use it for informing the decisions we make regarding layout, UI and interaction design.
+The purpose of IA is to help users understand where they are, what they've found, what's around them and what to expect. We use it to inform content strategy including identifying appropriate verbiage for labels, navigation, microcopy and we use it for informing the decisions we make regarding layout, UI and interaction design. Content strategy focuses on the planning, creation, delivery, and governance of content - not just text but images and media as well.
 
 ## SLIDE 8
 Review
 
 ## SLIDE 9
-***Design systems*** are a living, breathing set of design documents and development documentation that outline all the parts of the UI system, business, product, or service. These design elements can change based on user testing, businesses' needs and objectives, and UI direction. Examples include design systems like Apple's Human Interface Guidelines, Microsoft's Metro, and Google's Material Design, but they exist at countless other companies, including Samsung, LG, Ford, and Adobe.
+***Design systems*** are a living, breathing set of design and development documentation that outline all the parts of the UI system, business, product, or service. These design elements can change based on usability testing, businesses' needs, branding and objectives, and UI direction. Examples include Apple's Human Interface Guidelines, Microsoft's Metro, and Google's Material Design, but they exist at countless other companies, including Samsung, LG, Ford, and Adobe.
 
 💼 **Employer Competitive Note:** If you are interviewing at a company that has a publicly available design system, you will be expected to speak with some authority on how the UI system is set up. Do your research. You will be required to speak to their system in your job interview and use their documentation as an employee.
 
@@ -168,27 +168,27 @@ Building a design system is an iterative, collaborative process that combines us
 Today we will be working on creating a UI navigation, which is a foundational piece of any design system. Your users need to navigate your website, and we can create a consistent set of rules that can be applied to all our webpages, apps, or software solutions.
 
 ## SLIDE 10
-### What Is Information Structure? 
+Design systems are collections of reusable components, that guided by clearly defined standards used to manage design at scale for an organization or product by reducing redundancy and increasing consistency.
 
-Information structure is the domain of language structure and language study that is concerned with notions such as topic, comment, presupposition, and focus. Put more simply, information structure helps explain why people say things in different ways. 
+When laying the groundwork for a design system we have to consider the context the content may exist in, business processes and rules surrounding defining and maintaining content, the brand, roadmaps and planning for existing and upcoming product decisions, the business and product strategy.
 
-IA helps build information structure, which constitutes the following values for a design system:
+The results of this work that show up within the design system may include:
+- global elements
+- navigation patterns
+- diagrams and sitemaps related to the app's structure or system
+- page types
+- information hierarchy
+- high-level nomenclature or high level overview of how and what items are named as
 
-1. Topic: Where they are (navigation and wayfinding).
-2. Comment: What they’ve found (labels and tags).
-3. Presupposition: What’s around (classification and hierarchy).
-4. Focus: What to expect (search and others).
-
-Design systems are collections of reusable components, guided by clearly defined standards used to manage design at scale for an organization or product by reducing redundancy and increaseing consistency.
 
 ## SLIDE 11
 ### Sitemaps
 
 Sitemaps help guide web structure and ultimately lead to navigation UI.
 
-- A sitemap is not a UI.
+- A sitemap is not a UI component necessarily
   - Designing a website or app navigation UI without a sitemap is very difficult because you don’t know what navigation items should or will be.
-  - Sitemaps are the seeds, and navigation UI is the plant.
+  - Sitemaps are the seeds, and navigation UI is the plant... the sitemap helps with laying the groundwork for the navigation.
 
 ## SLIDE 12
 Sitemaps range from simple to detailed and are intended to help communicate structure.
@@ -207,7 +207,7 @@ Review
 
 *Card sorting* is an organizational method used to help design or evaluate the IA of a site. A "card" can be as simple as a sticky note or an index card.
 
-When applying card sorting, users group a website's content and develop a hierarchy themselves. Understanding how users group information can provide insights into the users' mental model (i.e., the users' thought process).
+When applying card sorting, users group a website's content and develop a hierarchy themselves. Understanding how our users group information can provide insights into the users' mental model (i.e., the users' thought process).
 
 ## SLIDE 16
 **What is card sorting?**
@@ -215,9 +215,6 @@ When applying card sorting, users group a website's content and develop a hierar
 Card sorting is used to help design or evaluate the structure and natural grouping of content particularly helpful with defining the IA of a website, product, or service.
 
 **When do we use card sorting?**
-
-Card sorting is used to help design or evaluate the IA of a site.
-
 - During redesign or usability improvements of a website navigation.
 - Conducting user research and attempting to understand how our users think and expect content to be categorized.
 - Understanding what a navigation should contain to create labels, categories, and titles.
@@ -264,7 +261,7 @@ Consider an e-commerce website and the top-level categories it might have for it
 To which top-level category on the website should these products be added? Involving users in a closed card sort could help you arrive at an answer.
 
 ## SLIDE 19
-Card Sorting allows us to define the data, group it and create structure from it.
+Card Sorting allows us to work with our users to define, group information and create structure from it.
 
 ## SLIDE 20
 Review
@@ -278,19 +275,19 @@ Review
 
 Like any form of user research, card sorting requires preparation.
 
-- The first task in running an offline session is to prepare your cards. Create a document that lists all of the items you're testing and give each item a number—spreadsheets are ideal for this. These items could be pages in a sitemap, product categories, or labels in a taxonomy. Each item in this list then gets written on a single card, with the corresponding number written on the reverse. This numbering will help if you want to run a more advanced analysis once the sessions are complete.
+- The first task in running an offline session is to prepare your cards. Create a document that lists all of the items you're testing and give each item a number. Spreadsheets are ideal for this. These items could be pages in a sitemap, product categories, or labels in a taxonomy. Each item in this list then gets written on a single card, with the corresponding number written on the reverse. This numbering will help if you want to run a more advanced analysis once the sessions are complete.
 
 - For the cards themselves, use actual cards instead of paper, which can get lost, worn out, or torn easily. Also, don’t test too many things at once. Use no more than 30 to 70 items per session. If you’re trying to organize a massive system, break it up into chunks, and then run sessions for each chunk.
 
 ## SLIDE 23
-- There are three steps that involve **defining, grouping, and organizing** your user information:
-  - Step 1: Sort the cards
+- There are three steps in card sorting: **defining, grouping, and organizing** your user information:
+  - Step 1: Create and sort the cards in to related groupings
 
 ## SLIDE 24
-  - Step 2: Sort into multiple categories
+  - Step 2: Define your grouping categories
 
 ## SLIDE 25
-  - Step 3: Structure and label the categories
+  - Step 3: Structure and label the categories in a hierarchical way (where applicable)
 
 > :briefcase: **Employer Competitive Note:** Card sorting is a highly relevant skill for creating accurate and effective sitemaps that are driven by users' rationale and data-driven UI solutions. These should be added to your resume skills.
 
@@ -469,13 +466,12 @@ Before students undertake the final card sorting activity, they'll need to learn
 Review
 
 ## SLIDE 40
-***Why are they called "schemes"?*** A scheme is a plan or strategy—something organized to put an idea, or plan, into effect. The term is often applied to marketing, architecture, construction, and, er, organized crime.
+A sitemap is *not* a UI component, but it can help inform UI navigation.
 
 As UI designers, we need to consider the navigation scheme of our websites.
 
-### Sitemap Scheme and Structure Lead to a UI
+***Why are they called "schemes"?*** A scheme is a plan or strategy—something organized to put an idea, or plan, into effect. The term is often applied to marketing, architecture, construction, and, er, organized crime.
 
-A sitemap is *not* a UI, but it can help inform UI navigation.
 
 ## SLIDE 41
 **Why use navigation schemes?** 
@@ -515,6 +511,8 @@ A navigation scheme is the plan that determines how Web pages will relate to eac
 
 - **Utility/optional navigation/supplemental:**
   - Many websites have functional or utility-based features that need to be represented in a navigation like sign-in, account info, profile, search, etc. Accounting for these features can be included in a sitemap as well as linked with global, primary, or secondary UI navigation.
+
+_SHOW https://www.rei.com/_
 
 ## SLIDE 43
 Review
