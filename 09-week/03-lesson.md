@@ -147,6 +147,17 @@ We'll start with style guides.
 
 You'll start the branding lesson by teaching style guides. UI style guides are the "maps" that dictate the dos and don'ts for designers and how design teams manage a brand across an organization.
 
+
+## SLIDES 1-4
+Review
+
+## SLIDE 5
+Review design process
+
+## SLIDE 6
+Review
+
+## SLIDE 7
 ### Introduce UI Style Guides
 
 Design style guides are a building block for a brand. Simply put, a style guide is a set of rules for how a brand, product, or service lives in the world.
@@ -156,8 +167,6 @@ Branding is a broad topic that involves marketing, business, and products/servic
 - We'll cover branding topics quickly, so prepare your students for an accelerated pace. Remind them that UI is a relatively new profession compared to being a doctor or an architect, and it requires rapid learning to keep pace with changes.
 
 - All good brands have a great style guide. Creating a simple booklet that catalogs the specific colors, type, logos, imagery, patterns, and taglines of a brand ensures consistency. To prove why style guides matter, we’re going to look at 50 stunning and detailed examples of style guides.
-
-### Review the UI Style Guide Tool Snapshot
 
 **What is a UI Style Guide?**
 
@@ -174,15 +183,13 @@ Branding is a broad topic that involves marketing, business, and products/servic
 
 - A UI style guide brings cohesion and consistency to a digital product’s UI and experience.
 
+## SLIDE 8
 ### Types of Style Guides
-
 There are two types of style guides: brand and UI.
 
-- Review the goals of the UI style guide.
 
-- Review the style guide development process.
-
-  - Let's start building our style guides.
+## SLIDE 9
+Brand style guides describe, define and present examples of a brand's visual media including print, internet and broadcast.
 
 **What happens if you don't have a style guide?**
 
@@ -192,30 +199,50 @@ Too few businesses take the time to create a company brand style guide. In the a
 
 It is important for designers to create and maintain a brand style guide. If your company is like most, your brand (including logo, tagline, graphics, and text elements) is handled by many before it is released to the public.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to build professional solutions that stand up to competition in the market. Analyzing other companies' style guides will make you more competitive, and competitive analysis should be a skill added to your resume and LinkedIn profiles.
 
-### What Goes Into a UI Style Guide?
+## SLIDE 10
+Review slide
 
+## SLIDE 11
+Review slide
+
+## SLIDE 12
+Review
+
+## SLIDE 13
 - **Logo:** Define and give examples of your logo. Show how your logo should be used in various formats, including full color, black and white, transparent, or on different backgrounds.
 
+## SLIDE 14
 - **Color palette:** Provide hex and RGB color values for each palette color. Include recommended color combinations.
 
+## SLIDE 15
+Review
+
+## SLIDE 16
 - **Typography:** Define the font families; point sizes; kerning, leading, and tracking; and colors for various content types: headers, subheads, paragraphs, citations, block quotes, labels, form headers, or any other formatted text used.
 
-- **Layout:** Define where and how HTML and other elements are positioned on the page and how they relate to each other. Define margins, padding, gutters, or grid patterns of the overall layout as well as any specific elements if different.
-
+## SLIDE 17
 - **Links and buttons:** Define the colors and styles for all links (content, sidebar, etc.) and buttons (submit, form, info, etc.). Show examples and hex values for links and buttons.
 
+## SLIDE 18
+- **Layout:** Define where and how HTML and other elements are positioned on the page and how they relate to each other. Define margins, padding, gutters, or grid patterns of the overall layout as well as any specific elements if different.
+
+## SLIDE 19
 - **Graphics and iconography:** Define what type, sizes, file sizes, dimensions, and styles should be used for graphics and icons on your site. Do you have specific icon sets that need to be used?
 
+## SLIDE 20
 - **Navigation:** Define the main and sub-navigation styles as well as the interactivity among them. Define what happens when nesting or parent/child navigation is used, and show examples of how the navigation should be used or created.
 
+## SLIDE 21
 - **Imagery and photography:** Define the style for the use of imagery. Do you want images in soft focus? Is it OK to show people’s faces? Real people or stock images? In black and white or in color?
 
-> :gem: **Designer Insight:** If you've developed a style guide, quickly share it with the students. Alternatively, relate a struggle you experienced professionally due to the lack of a style guide.
+## SLIDE 22
+Review
 
-Now that students understand the importance of style guides for guiding UI design decisions, it's time for them to study a style guide. They'll analyze the components of a style guide in the following small group activity.
+## SLIDE 23
+Questions??
 
+## SLIDES 24-25
 ## 3. Student Do: UI Style Guide Analysis Activity (10 min)
 
 **TAs,** slack out to students the following Google Doc activity: [09-Week/02-Activities/09.3/09.3-01-Analyze-UI-Style-Guide-Activity Google Doc](https://drive.google.com/open?id=1vURMktNh9NbYXppUmnLN6tC-AkRMFesBxv8Yx1aHsFM).
@@ -246,6 +273,8 @@ In Part 3, groups will export their analysis in a Google Doc to share via Slack.
 
 Students will perform and document a group analysis of a style guide and share their results in the form of a Google Doc.
 
+
+## SLIDE 26
 ## 4. Instructor Do: UI Style Guide Analysis Activity Review (10 min)
 
 Call attention back to the front of the class and lead a review of the groups' style guide analyses.
@@ -271,18 +300,16 @@ This wraps up the style guide part of today's lesson. This means that students h
 
 The next part of your lesson deals with brand positioning. The following lecture will prepare students to write their own brand positioning statements, which is their second learning objective. Think of a brand positioning statement as a written form of a style guide, or an extension of a style guide. Let's dive in.
 
-## 5. Instructor Do: Brand Positioning Statements (5 min)
 
-> :pushpin: **Important Point:** The goal of this lecture is to introduce brand thinking and articulation, which supports today's second learning objective, articulate a clear and precise brand positioning statement.
+## SLIDE 27
+Review
 
-Here you will detail what makes a well-defined brand positioning statement in order to prepare students to write their own in the activity that follows.
-
+## SLIDE 28
 A brand positioning statement achieves three things: it explains what your brand does, its benefits, and who it targets.
 
 > **Say:** People don’t tend to drive somewhere they’ve never been before without first consulting a map. Companies often continue down the road they are on without stopping to think where they want to go. Writing a brand positioning statement will help define the sort of company you aspire to be and give marketing a consistent voice.
 
-### Review the Brand Positioning Tool Snapshot
-
+## SLIDE 29
 **What is a brand positioning statement?**
 
 They explain what your brand does, who you target, and the benefits of your brand in a short, concise statement.
@@ -304,10 +331,7 @@ The positioning statement is probably the most critical sentence in a marketing 
 
 > :briefcase: **Employer Competitive Note:** As UX/UI designers, you will be working with the brands of your companies when you get a job. Being able to demonstrate the understanding, thinking, and hard work that goes into a UI brand will allow you to be trusted to execute that brand yourself when you get the UX/UI job.
 
-### Elements of Brand Positioning Statements
-
-Review the four elements of brand positioning statements:
-
+## SLIDE 30
 1. **The category in which the brand operates:** The category/industry/vertical your brand operates in will often be self-explanatory, but it can be beneficial to think about this. Your product might overlap into multiple categories. Defining the exact space in which you operate helps focus your direction.
 
 2. **The target audience:** You might have more than one, but focusing on your primary target group gives a more explicit message. It can be a good idea to work out who your most valuable customers are before deciding on this.
@@ -316,20 +340,19 @@ Review the four elements of brand positioning statements:
 
 4. **The reason why the brand will deliver on this promise:** A brand might be the most cost-effective option available by not having brick-and-mortar stores. Whatever the reason, there has to be something backing up your claim.
 
->:gem: **Designer Insight:** Invite a TA to relate his or her own anecdote or share one of your own about the amount of practice it takes to get really good at writing brand positioning statements.
-
-### Examples of Brand Positioning Statements
-
+## SLIDE 31
 Amazon.com used the following positioning statement in 2001, when it almost exclusively sold books:
 
 "For World Wide Web users who enjoy books, Amazon.com is a retail bookseller that provides instant access to over 1.1 million books. Unlike traditional book retailers, Amazon.com delivers a combination of extraordinary convenience, low prices, and comprehensive selection."
 
-Review the brand positioning statement template as well as the boot camp and Listerine examples. 
 
-Students now have an understanding of the four key ingredients of a brand positioning statement, so there is no better time to practice writing one of their own. Next up, students will write the brand positioning statement for their government agency.
+## SLIDES 32-34
+Review
 
-> **Instructor Note:** Pause for any questions.
+## SLIDE 35
+Questions??
 
+## SLIDES 36-38
 ## 6. Student Do: Brand Positioning Statement Activity (25 min)
 
 **TAs,** slack out to students the following Google Doc activity and read the instructions:
@@ -359,6 +382,8 @@ Students will work individually and in groups for this three-part activity:
 
 Students’ brand positioning statements should contain the four elements: the category for the brand, target audience, customer benefit, and why the brand can deliver on its promise. Students will submit their statements in a Google Doc via Slack.
 
+
+## SLIDE 39
 ## 7. Instructor Do: Brand Positioning Statement Activity Review (10 min)
 
 Call attention back to the front of the class and lead a review of students' brand positioning statements.
@@ -390,6 +415,8 @@ Before moving on, ask students to practice active recall by naming the key ingre
 
 This wraps up Part 2 of today's lesson, which was to introduce students to brand positioning. They have achieved another learning objective, how to create brand positioning statements—congratulate them. Next, you'll be talking about how a brand is expressed in a more nuanced way, through voice and tone.
 
+
+## SLIDE 40
 ## 8. Break (15 min)
 
 Invite everyone to take a break.
@@ -400,35 +427,17 @@ Let students know that when they come back from break, they'll learn about voice
 
 > :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Instead, put up a Google or YouTube timer video. A visual time will help get students back into the main Zoom room on time.
 
-## 9. Instructor Do: UI Brand, Voice, and Tone (10 min)
+## SLIDE 41
+Review
 
-> :pushpin: **Important Point:** Your goal is to help students understand the value of language, voice, and tone as part of their UI design work. This lecture supports today's third learning objective, identifying brand dos and don'ts using a brand matrix.
-
-> **Instructor Note:** Communication is subtle, and getting students to think deeply about their communication decisions requires some consideration. Students must practice observation to develop the skill. As UI designers, they'll be expected to participate in brand voice decisions and be able to stand by their use of language, both visual and written. Encourage students to start being mindful of how others are communicating with them.
-
-You've been building up to this: First, there was the style guide and then the brand positioning statement. With voice and tone, you're talking about how those pieces of the brand puzzle are expressed. A brand's voice and tone are the expression of the style guide and brand positioning statement.
-
-If the style guide is the script, voice and tone are what tell the actor to use a joyful or somber quality when they read their lines. It's the *expression* of the character or brand.
-
-### Seth Godin Quote
-
-Share the following quote from author and business executive Seth Godin: 
+## SLIDE 42
 - "A brand is a set of expectations, memories, stories, and relationships that, taken together, account for a consumer’s decision to choose one product or service over another. If the consumer (whether it’s a business, a buyer, a voter, or a donor) doesn’t pay a premium, make a selection, or spread the word, then no brand value exists for that consumer."
 
   - **TAs,** slack out [https://seths.blog/2009/12/define-brand/](https://seths.blog/2009/12/define-brand/), which is a longer definition of brands that students should read at home.
 
   - Recommend following Seth Godin's blog and listening to his podcast, which usually focuses on marketing.
 
-- Brands are complicated. A UI is just one aspect of a brand, but it can be a crucial aspect.
-
-  - For example, imagine if you want to buy a pair of shoes. You find the pair you want, but when you go to purchase the shoes, they are out of stock. Frustrating, right? This experience has just damaged the brand. It was a failure in the UI to inform the user of availability.
-
-  - **Ask,** "*How likely are you to buy that pair of shoes?*"
-
-  - One bad experience will not drive users away from your brand, hopefully. UI designers must "**sweat the details**" so that users have as few bad experiences on a website as possible.
-
-  - When we get the functional/emotional considerations tuned to our user, it creates lasting value for our UI and our brands.
-
+## SLIDE 43
 ### Brand Personality
 
 Something essential to consider when thinking about a brand and UI is its voice and personality. By intimately understanding your customer, you’re able to shape your brand personality in a way that evokes the “like, know, and trust” factor.
@@ -437,11 +446,19 @@ Something essential to consider when thinking about a brand and UI is its voice 
   - [https://www.prnewswire.com/news-releases/new-retail-study-shows-marketers-under-leverage-emotional-connection-300720049.html](https://www.prnewswire.com/news-releases/new-retail-study-shows-marketers-under-leverage-emotional-connection-300720049.html)
   - [https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-lynn-aaker](https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-lynn-aaker)
 
+## SLIDE 44
+Review brand personality
+
+## SLIDE 45
+Questions??
+
+## SLIDE 46
+Review
+
+## SLIDE 47
 ### Voice and Tone 
 
 The personality of your brand is determined, in large measure, by the words you use and the sentences you write. UI is an extension of the "brand voice." UI should work with content strategy to craft the language and personality.
-
-### Review the brand voice and tone tool snapshot
 
 **What is brand voice and tone?**
 
@@ -456,6 +473,8 @@ The personality of your brand is determined, in large measure, by the words you 
 
 - Brand voice and tone can help stakeholders + designers + developers all be consistent with how they use language and align for who they are communicating to.
 
+
+## SLIDE 48
 ### **Voice for a brand is important, and varied:**
 
 Consider the voice and personality along a spectrum between two ideas, for example:
@@ -463,6 +482,7 @@ Consider the voice and personality along a spectrum between two ideas, for examp
 - Formal to informal or professional to relaxed, etc.
 - Coca-Cola is "happy," Disney is "magic," Southwest is "friendly," and FedEx is "efficient."
 
+## SLIDE 49
 ### Tone
 
 If your voice is funny/humorous, is your tone:
@@ -472,19 +492,19 @@ If your voice is funny/humorous, is your tone:
 - Mean funny?
 - Dark humor?
 
-### MailChimp Voice and Tone Style Guide
+## SLIDE 50
+MailChimp has created a fantastic case study of what a voice and tone style guide should be. 
+Brands are not people, but they are made up of people. People use brands. UX and UI care about people. If we can figure out what matters to users about a brand, we can infuse that into our UI.
 
-Point out to students that MailChimp has created a fantastic case study of what a voice and tone style guide should be. Tell students that in a world where voice interface technology—Amazon's Alexa, Google Home, and Apple's Siri—continues to evolve, voice and tone will only become more important.
+
 
 - **TAs,** slack out a link to the [Mailchimp style guide voice and tone](https://styleguide.mailchimp.com/voice-and-tone/) for students to read at home. This guide can help when they create their own voice and tone for the government brands in their weekly challenge assignment.
 
-Brands are not people, but they are made up of people. People use brands. UX and UI care about people. If we can figure out what matters to users about a brand, we can infuse that into our UI.
+## SLIDE 51
+Review
 
-### How to Define a UI Brand's Voice and Tone
-
+## SLIDE 52
 Voice and tone are connected to language usage and how you speak to your user through your UI. They are adjectives and implement themselves throughout the user's experience.
-
-### Walk through the Brand Voice Matrix template and example 
 
 - Start with a matrix of words and adjectives that help focus on you brand's position.
 
@@ -499,25 +519,37 @@ Voice and tone are connected to language usage and how you speak to your user th
 
 > :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be responsible for addressing the needs of a brand and getting the voice of a UI to match a brand. This is a nuanced skill desired by many recruiters. Add UX writing or UI voice and tone to your resume and LinkedIn skills profile.
 
-### Review the Brand Identity Prism
+## SLIDE 53
+Review sample
 
-Quickly go over the brand identity prism template as students will be practicing this on their own. Make sure students are with you before moving on to each section.
+## SLIDE 54
+Review
 
+## SLIDE 55
 1. Physique - What your brand is made of through materials.
+
+## SLIDE 56
 2. Personality - How your brand is personified.
+
+## SLIDE 57
 3. Culture (values) - What your brand cares about.
+
+## SLIDE 58
 4. Self-image - How your brand helps you users.
+
+## SLIDE 59
 5. Reflection - How your brand portrays its users.
+
+## SLIDE 60
 6. Relationship - How a brand connects with its audience and the type of relationship it wants to build is entirely up to that brand.
 
-### Review the Apple Macintosh Brand Identity Prism Sample
+## SLIDE 61
+Review apple's brand identity prism
 
-- Walk through each section and pause to see if students have questions.
+## SLIDE 62
+Questions??
 
-Now that students have learned how brand voice and tone are defined, as well as seen a few examples of the voice and tone of successful brands, it's time for them to experience it hands-on. In the following activity, students will craft the voice and tone for their government agency, using a matrix as a guide.
-
-> **Instructor Note:** Pause for any questions before jumping into practicing creating a brand voice.
-
+## SLIDE 63
 ## 10. Student Do: Brand Voice and Tone Matrix Activity (20 min)
 
 **TAs,** slack out the following activity files and read the instructions:
@@ -553,6 +585,7 @@ Students should complete this activity with their teammates working on the same 
 
 Students will share their completed brand voice and tone matrices and brand identity prisms via Slack.
 
+## SLIDE 64
 ## 11. Instructor Do: Brand Voice and Tone Matrix Activity Review (10 min)
 
 Call attention back to the front of the class to lead a review of the brand matrices.
@@ -582,53 +615,40 @@ This wraps up Part 3 of today's lesson, a discussion of brand voice and tone. St
 
 Next, the final part of today's lesson will be to discuss iconography and style tiles. This is the fine detail or "icing on the cake" of brand design. This will also give students the knowledge they need to fulfill their final learning objective of the day, which is creating a style tile for their government agency.
 
-## 12. Instructor Do: Iconography and UI Style Tiles (10 min)
 
-> :pushpin: **Important Point:** The goal of this section is for students to execute their brand direction, voice, and tone into visuals. This lecture supports today's third *and* fourth learning objectives, the do's and don'ts of brand voice and, especially, creating a UI style tile for an online brand.
+## SLIDE 65
+Review
 
-At this point, students have gained an appreciation for how visuals, writing, voice, and tone each help shape a brand. Now let's look at one final element: iconography. Icons are tiny compared to other brand elements, but they're equally powerful.
+## SLIDE 66
+Review
 
-- Icons are an important part of a UI and how a style guide communicates.
+## SLIDE 67
+Review
 
-> :briefcase: **Employer Competitive Note:** As a UI designer, you will need to visualize brand decisions and potentially create or maintain a style guide on the job. Being able to show this design deliverable in your portfolio will go a long way in helping you get a job.
+## SLIDE 68
+_Review slide then_
+Iconography is used to reinforce IA.
+- Considerations include categories, navigation, sizing, features, controls, applications, etc.
+- Icons should be taken seriously and applied equally across your UI design system.
+- Consider icons that can communicate to all users, not just to those who already use or know of your products.
 
-### Introduce Iconography
 
-Iconography is defined as the traditional or conventional images or symbols associated with a subject or idea, typically used for religion-based visuals.
+## SLIDE 69
+Review
 
-We'll cover *iconography in the UI,* which is defined as the little graphic visuals that represent features, behaviors, or components of your user interface.
+## SLIDE 70
+### Review the Communication Goals of the Icons
 
-Share the basics so that students can dive deeper and practice the design concepts at home.
+- Easily touched (when a button 44px x 44px)
+- Compact and small (ideally 12 x 12px at the smallest when not clickable
+- Fast to recognize
+- Language agnostic
+- Aesthetic
+- Reinforce the design system
 
-- Review where and when to use iconography.
 
-  - **When:** UI iconography design is used throughout the process. All interfaces are learned, and icons are essential to making interfaces more usable.
 
-  - **Why:** Iconography helps your user define context and improves recognition. Iconography can communicate complicated concepts through recognizable visuals that take up small amounts of space.
-
-- Iconography is enormously important in the UI world.
-
-  - Iconography helps us navigate our world (e.g., airports, trains, cities, etc.).
-
-- Generally, an icon is 44px x 44px.
-
-- **TAs:** Share the Apple human interface guidelines for students to read at home. They should study them so they can design more complex UI systems:
-
-  - [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
-
-- Review icon styling and consistent voice.
-
-  - Icons require consistency in size and presentation.
-
-- These design tips are a lot to absorb quickly, but you'll work with UI type for the rest of this boot camp as well as throughout your UX/UI careers. Continue internalizing these concepts and discovering their uses in the wild.
-
-> **Instructor Note:** Share an icon that is your personal favorite or you love using (e.g., the share icon or the camera icon).
-
-### Ideograms, Pictograms, and Logomarks
-
-We'll cover more iconography foundations.
-
-- Icons come in many forms.
+## SLIDE 71
 
 **Review Ideograms.**
 
@@ -641,6 +661,8 @@ An ideogram is a graphic symbol representing work or an idea.
   - It is a pivotal piece in universal design.
   - It should be tested for accessibility and usability.
 
+## SLIDE 72
+
 **Review Pictograms.**
 
 A pictogram is also called a pictogramme, pictograph, or picto, and in computer usage, an icon. A pictorial ideogram resembles a physical object or action.
@@ -650,52 +672,46 @@ A pictogram is also called a pictogramme, pictograph, or picto, and in computer 
   - It is a pivotal piece in universal design.
   - It should be tested for accessibility and usability.
 
+## SLIDE 73
+
 **Review Logomarks.**
 
 A logomark is a character or symbol representing a word, phrase, or organization.
   - It is a graphical symbol used to represent a brand and to promote products and services.
 
-**Review logo and logotype.**
 
-A logo is a mark that represents a brand (e.g., the Nike Swoosh).
-  - A logotype is a logo centered around a company name or initials (e.g., Nike).
-  - It is specific to industry and application.
+## SLIDE 74
+  - **When:** UI iconography design is used throughout the process. All interfaces are learned, and icons are essential to making interfaces more usable.
 
-### Introduce Icon Interaction and Usability
+  - **Why:** Iconography helps your user define context and improves recognition. Iconography can communicate complicated concepts through recognizable visuals that take up small amounts of space.
 
-Iconography is used to reinforce IA.
-- Considerations include categories, navigation, sizing, features, controls, applications, etc.
-- Icons should be taken seriously and applied equally across your UI design system.
-- Consider icons that can communicate to all users, not just to those who already use or know of your products.
 
-### Review the Communication Goals of the Icons
+## SLIDE 75
+Review
 
-- Easily touched
-- Compact and small
-- Fast to recognize
-- Language agnostic
-- Aesthetic
-- Reinforce the design system
+## SLIDE 76
+Review
 
-Emphasize that there are lots of resources for icons.
+## SLIDE 77
+ - Iconography helps us navigate our world (e.g., airports, trains, cities, etc.). In addition to conveying brand personality through color and style, icons must communicate meaning: an action, idea, or object.  
 
-  - **TAs,** slack out these resources:
-    - [https://fontawesome.com/](https://fontawesome.com/)
-    - [https://icons8.com/](https://icons8.com/)
-    - [https://thenounproject.com/](https://thenounproject.com/)
+## SLIDE 78
+Review benefits
 
-- Recommend any others, and note that we'll be using Font Awesome later in the development section of the course.
+- **TAs:** Share the Apple human interface guidelines for students to read at home. They should study them so they can design more complex UI systems:
 
-> :briefcase: **Employer Competitive Note:** As a UI designer, you will work with iconography systems or be responsible for creating them internally on a team. Showing your ability to use these UI systems consistently and effectively for usable and useful systems will help you when applying for jobs. Add iconography development to you resume and LinkedIn skills profile.
+  - [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
 
-- There are many resources. A good book is *Branded Interactions: Creating the Digital Experience*, by Marco Spies.
+## SLIDES 79-80
+Review
 
-  - **TAs,** slack out: [https://www.brandedinteractions.com/](https://www.brandedinteractions.com/).
+## SLIDE 81
+Review
 
-- The UI is talking to multiple users at once, and there is a lot to consider, but practice your icon usage. Testing them with your users is essential.
+## SLIDES 82
+Review
 
-### Walk through the UI Style Tiles tool snapshot
-
+## SLIDE 83
 **What is a UI style tile?**
 
 A one-page, bite-size design guide that includes fonts, colors, and interface elements. Style tiles capture the essence of brand visuals in a condensed form.
@@ -715,19 +731,20 @@ Style tiles are a great exercise in visual design and will help you to get to gr
 - Can help build cohesion and consistency to a digital product’s UI and experience.
 - Style tiles are easily shareable and quick to produce.
 
-### Ingredients of a UI Style Tile
+## SLIDE 84
+Review
 
-- Color
-- Typography
-- Button styles
-- Shape and layout
-- Photography or illustration
-- Iconography
+  - **TAs,** slack out these resources:
+    - [https://fontawesome.com/](https://fontawesome.com/)
+    - [https://icons8.com/](https://icons8.com/)
+    - [https://thenounproject.com/](https://thenounproject.com/)
 
-Don't worry about only briefly discussing UI style tiles, as students will learn more about style tiles during the next activity.
+  - **TAs,** slack out: [https://www.brandedinteractions.com/](https://www.brandedinteractions.com/).
 
-We'll take the design concepts we just discussed and start using them in the world of website and UI design. Students will work in teams to gather and design iconography sets for their brands.
+## SLIDE 85
+Questions??
 
+## SLIDES 86-87
 ## 13. Student Do: UI Style Tile Challenge Activity (30 min)
 
 **TAs,** slack out to students the following Google Doc activity and read the instructions:
@@ -758,6 +775,7 @@ While working in groups of two to three, students are going to create a UI style
 
 Students will submit their UI style tile as a .png export of their Figma/Adobe XD artboard.
 
+## SLIDE 88
 ## 14. Instructor Do: UI Style Tile Challenge Activity Review (10 min)
 
 Call the class back to attention and lead a review of students' UI style tiles.
