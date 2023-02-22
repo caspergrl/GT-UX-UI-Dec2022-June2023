@@ -131,13 +131,33 @@ In this lecture, you'll give students a high-level overview of the concepts and 
 
 Remind students that the UI is not the end goal—meeting users' needs is the end goal.
 
-### Define UI Design Systems
 
-***UI design systems*** are a living, breathing set of design documents and development documentation that outline all the parts of the UI system, business, product, or service. These design elements can change based on user testing, businesses' needs and objectives, and UI direction. Examples include design systems like Apple's Human Interface Guidelines, Microsoft's Metro, and Google's Material Design, but they exist at countless other companies, including Samsung, LG, Ford, and Adobe.
+## SLIDES 1-4
+Review
+
+## SLIDE 5
+Review
+
+## SLIDE 6
+Information architecture (IA) focuses on organizing, structuring, and labeling content in an effective and sustainable way.  The goal is to help users find information and complete tasks.  To do this, you need to understand how the pieces fit together to create the larger picture, how items relate to each other within the system.
+
+Russell Ackoff, a systems theorist and professor of organizational change says the content of the human mind can be classified into 5 categories:
+- **Data**: symbols... this represents a fact or statement of events without relation to other things  
+- **Information**: data processed to be useful; provides answers to 'who', 'what', 'where', and 'when' questions... embodies the understanding of a relationship of some sort, possibly cause and effect  
+- **Knowledge**: application of data and information; answers 'how' questions... refers to a pattern that connects and generally provides a high level of predictability as to what is described or what will happen next  
+- **Understanding**: appreciation of 'why'... the process by which we can take knowledge and synthesize nenw knowledge from previously held knowledge    
+- **Wisdom**: evaluated understanding... it embodies more of an understanding of fundamental principles embodied within the knowledge that are essentially the basis for the knowledge being what is. Wisdom is essentially systemic.  
+
+## SLIDE 7
+The purpose of IA is to help users understand where they are, what they've found, what's around them and what to expect. We use it to inform content strategy including dentifying appropriate verbiage for labels, navigation, microcopy and we use it for informing the decisions we make regarding layout, UI and interaction design.
+
+## SLIDE 8
+Review
+
+## SLIDE 9
+***Design systems*** are a living, breathing set of design documents and development documentation that outline all the parts of the UI system, business, product, or service. These design elements can change based on user testing, businesses' needs and objectives, and UI direction. Examples include design systems like Apple's Human Interface Guidelines, Microsoft's Metro, and Google's Material Design, but they exist at countless other companies, including Samsung, LG, Ford, and Adobe.
 
 💼 **Employer Competitive Note:** If you are interviewing at a company that has a publicly available design system, you will be expected to speak with some authority on how the UI system is set up. Do your research. You will be required to speak to their system in your job interview and use their documentation as an employee.
-
-> :gem: **Designer Insight:** Invite a TA to share how UI design systems play into their client work.
 
 Building a design system is an iterative, collaborative process that combines user research, UI design, development, and management. For example:
 
@@ -147,8 +167,7 @@ Building a design system is an iterative, collaborative process that combines us
 
 Today we will be working on creating a UI navigation, which is a foundational piece of any design system. Your users need to navigate your website, and we can create a consistent set of rules that can be applied to all our webpages, apps, or software solutions.
 
-> **Instructor Note:** Students will be working on their government agency design systems iteratively over the next six weeks, helping prevent them from getting overwhelmed. We cannot work on everything at once; we focus on what we are learning today, and will apply this knowledge down the road.
-
+## SLIDE 10
 ### What Is Information Structure? 
 
 Information structure is the domain of language structure and language study that is concerned with notions such as topic, comment, presupposition, and focus. Put more simply, information structure helps explain why people say things in different ways. 
@@ -160,28 +179,9 @@ IA helps build information structure, which constitutes the following values for
 3. Presupposition: What’s around (classification and hierarchy).
 4. Focus: What to expect (search and others).
 
-### Review the Context for Information Structure
+Design systems are collections of reusable components, guided by clearly defined standards used to manage design at scale for an organization or product by reducing redundancy and increaseing consistency.
 
-- When to use it?
-  - Information structure is essential to meeting your users' needs. As we build UIs and interactions, the content's structure will inform the outcomes and be tested for effectiveness.
-
-- Why use it?
-  - Information is what our interfaces are communicating. Caring about the information structure will improve usability and help gain a return on investment for our clients and brands.
-
-### Structured Content Is Turned Into UIs
-
-- Walk through a few outcomes of structured content (i.e., the stuff of the web).
-
-  - Blogs, microsites, websites, social media, email, print, apps, etc.
-
-### IA Builds Sitemaps
-
-> :globe_with_meridians: **Online Recommendation:** Stop sharing your screen for a moment and switch to Gallery View in Zoom to see your class on one screen. You can find this option in the top right.
-
-- Ask: "How many of you have seen a sitemap before?"
-
-  - "Good, we're going to get better at sitemaps today."
-
+## SLIDE 11
 ### Sitemaps
 
 Sitemaps help guide web structure and ultimately lead to navigation UI.
@@ -190,38 +190,26 @@ Sitemaps help guide web structure and ultimately lead to navigation UI.
   - Designing a website or app navigation UI without a sitemap is very difficult because you don’t know what navigation items should or will be.
   - Sitemaps are the seeds, and navigation UI is the plant.
 
-### Review the Context for Sitemaps
+## SLIDE 12
+Sitemaps range from simple to detailed and are intended to help communicate structure.
 
-- When to use it?
-  - Sitemaps are generally produced after you have completed your persona and user journey work, and after you have completed your initial discovery period.
+They are generally produced after you have completed your persona and user journey work, and after you have completed your initial discovery period.
 
-- Why use it?
-  - Sitemaps show how the information should be structured and identify where content will sit in an organization and what needs to be produced. They help explain the relationship between different pages, which helps when developing a navigation UI. They provide a structure upon which to begin estimates for development. They are the first tangible deliverable showing what you will be creating.
+Sitemaps show how the information should be structured and identify where content will sit in an organization and what needs to be produced. They help explain the relationship between different pages, which helps when developing a navigation UI. They provide a structure upon which to begin estimates for development. They are the first tangible deliverable showing what you will be creating.
 
-> :globe_with_meridians: **Online Recommendation:** Stop sharing your screen for a moment and switch to Gallery View in Zoom to see your class on one screen. You can find this option in the top right.
->
-> **Ask:** "How do designers create sitemaps?"
+## SLIDE 13
+Questions??
 
-Students should have a broad sense of UI design systems and information structures. You'll introduce them to card sorting, a typical method designers use to understand and structure site content.
+## SLIDE 14
+Review
 
-## 3. Instructor Do: Card Sorting (10 min)
-
-> :pushpin: **Important Point:** Your goal in this section is to define card sorting and explain its benefits and importance to design work. This ties into today's first two learning objectives—using card sorting to understand a site’s IA and conducting open card sorting as a team.
-
-You'll help students move from concept to practical application as you pivot from information structure to card sorting. Connect the dots by explaining that card sorting is an effective form of information structure.
-
-As you walk students through card sorting, approach your lecture like you would a road trip: occasionally stop to invite students to share their observations.
-
-:globe_with_meridians: **Online Recommendation:** Have students share their thoughts in the Zoom chat or Slack.
-
-### Introduce Card Sorting
+## SLIDE 15
 
 *Card sorting* is an organizational method used to help design or evaluate the IA of a site. A "card" can be as simple as a sticky note or an index card.
 
 When applying card sorting, users group a website's content and develop a hierarchy themselves. Understanding how users group information can provide insights into the users' mental model (i.e., the users' thought process).
 
-### Review the Card Sorting Tool Snapshot
-
+## SLIDE 16
 **What is card sorting?**
 
 Card sorting is used to help design or evaluate the structure and natural grouping of content particularly helpful with defining the IA of a website, product, or service.
@@ -242,8 +230,8 @@ Card sorting is collaborative among designers, users, and clients. In a card sor
 - It is collaborative among designers, users, and clients. Participants (users and clients) organize topics into categories that make sense to them.
 - To communicate how and why a navigation solution is or is not usable.
 
-### Discuss the Benefits of Card Sorting
 
+## SLIDE 17
 Card sorting has many benefits and use cases.
 
 Benefits:
@@ -260,9 +248,7 @@ Use cases:
 - Prototyping in the early stages
 - Managing content for a large website
 
-> :gem: **Designer Insight:** Share a story, or ask a TA to share a memorable card sorting experience you had in your work with a team and/or client.
-
-### Card Sorting Methods
+## SLIDE 18
 Card sorting sessions can be classified as one of two types—open or closed. Open card sorting is the more flexible option of the two.
 
 Open card sorting:
@@ -273,15 +259,20 @@ Closed card sorting:
 - Closed card sorting has fixed categories or labels. 
 - **Best used:** When you want to understand how users fit content into an existing structure. It’s also used when new content needs to be added to a website.
 
-**Engage the class in the following scenario:** 
+Consider an e-commerce website and the top-level categories it might have for its products, such as technology, home and garden, and sports and leisure. Now suppose that the store has started stocking a new range of products that just launched. 
 
-:globe_with_meridians: **Online Recommendation:** Invite students to share heir thoughts in Slack or via Zoom chat. 
+To which top-level category on the website should these products be added? Involving users in a closed card sort could help you arrive at an answer.
 
-**Say:** Consider an e-commerce website and the top-level categories it might have for its products, such as technology, home and garden, and sports and leisure. Now suppose that the store has started stocking a new range of products that just launched. 
+## SLIDE 19
+Card Sorting allows us to define the data, group it and create structure from it.
 
-**Ask:** To which top-level category on the website should these products be added? Involving users in a closed card sort could help you arrive at an answer.
+## SLIDE 20
+Review
 
-### How to Card Sort
+## SLIDE 21
+Review
+
+## SLIDE 22
 
 #### Preparation for Card Sorting
 
@@ -289,21 +280,24 @@ Like any form of user research, card sorting requires preparation.
 
 - The first task in running an offline session is to prepare your cards. Create a document that lists all of the items you're testing and give each item a number—spreadsheets are ideal for this. These items could be pages in a sitemap, product categories, or labels in a taxonomy. Each item in this list then gets written on a single card, with the corresponding number written on the reverse. This numbering will help if you want to run a more advanced analysis once the sessions are complete.
 
-- For the cards themselves, use actual cards instead of paper, which can get lost, worn out, or torn easily. Also, don’t test too many things at once. Use no more than 50 to 70 items per session. If you’re trying to organize a massive system, break it up into chunks, and then run sessions for each chunk.
+- For the cards themselves, use actual cards instead of paper, which can get lost, worn out, or torn easily. Also, don’t test too many things at once. Use no more than 30 to 70 items per session. If you’re trying to organize a massive system, break it up into chunks, and then run sessions for each chunk.
 
-#### Steps for Card Sorting
-
+## SLIDE 23
 - There are three steps that involve **defining, grouping, and organizing** your user information:
   - Step 1: Sort the cards
+
+## SLIDE 24
   - Step 2: Sort into multiple categories
+
+## SLIDE 25
   - Step 3: Structure and label the categories
 
 > :briefcase: **Employer Competitive Note:** Card sorting is a highly relevant skill for creating accurate and effective sitemaps that are driven by users' rationale and data-driven UI solutions. These should be added to your resume skills.
 
-> :globe_with_meridians: **Online Recommendation:** Stop sharing your screen for a moment and switch to Gallery View in Zoom to see your class on one screen. You can find this option in the top right. Ask if there are questions, then wait a full 30 seconds for questions to arise.
+## SLIDE 26
+Questions??
 
-Students should understand that card sorting helps study the structure of a site. Also, they've seen a few illustrations of card sorting. Now they'll dive in and try card sorting themselves. The next several activities involve card sorting. First, we'll set up the cards.
-
+## SLIDES 27-28
 ## 4. Student Do: Create Card Sorting Content Cards Activity (10 min)
 
 **TAs,** slack out to students the following Google Doc activity: [09-Week/02-Activities/09.2/09.2-01-Card-Sorting-Card-Creation-Activity Google Doc](https://drive.google.com/open?id=1UQujRoJuxp4h34EjoPIqI5Q2zd8V8wl-tf5gIR-SFv4).
@@ -347,6 +341,7 @@ For this activity, students should gather in groups of five to six people. First
 
 At the end of the activity, students will submit a total card count via Slack.
 
+## SLIDES 29-30
 ## 5. Instructor Do: Create Card Sorting Content Cards Activity Review (5 min)
 
 Call attention back. Make sure everyone has placed their card sorting content into one stack.
@@ -368,6 +363,7 @@ Call attention back. Make sure everyone has placed their card sorting content in
 
 Next, we'll dive deeper into *why* we produced these 3x5 cards and we'll refine the cards and their categories. We'll continue working with the same cards and groups in the next three activities. By the end of class, these cards will be the basis for designing site navigation.
 
+## SLIDES 31-32
 ## 6. Student Do: Open Card Sorting Activity - Part 1 (10 min)
 
 **TAs,** slack out to students the following Google Doc activity:
@@ -399,6 +395,7 @@ Students will review their cards, add cards for missed items, and divide the car
 
 Students will post a photo/screenshot of their card sorting progress in Slack.
 
+## SLIDES 33-34
 ## 7. Instructor Do: Open Card Sorting Activity - Part 1 Review (5 min)
 
 Call attention back and review a group's first card sorting samples.
@@ -424,6 +421,7 @@ Call attention back and review a group's first card sorting samples.
 
 Next, students will use the card sorting method to identify and label categories.
 
+## SLIDES 35-36
 ## 8. Student Do: Open Card Sorting Activity - Part 2 (5 min)
 
 > **Instructor Note:** For Part 2, students will refer to the same activity instructions used for Part 1 (LP Section 6).
@@ -450,6 +448,7 @@ Students will evaluate their organized cards and add category labels to them.
 
 Students will post on Slack a photo of their card sorting progress. 
 
+## SLIDES 37-38
 ## 9. Instructor Do: Open Card Sorting Activity - Part 2 Review (5 min)
 
 Call attention back and review the work of one or two groups by having students share their screen.
@@ -466,14 +465,10 @@ Call attention back and review the work of one or two groups by having students 
 
 Before students undertake the final card sorting activity, they'll need to learn about navigation schemes.
 
-## 10. Instructor Do: Navigation Schemes (5 min)
+## SLIDE 39
+Review
 
-> :pushpin: **Important Point:** Your goal is to familiarize students with types of navigation schemes pertaining to card sorting. This further supports today's second learning objective, helping students use open card sorting with a group to make navigation structure discoveries.
-
-This brief lecture will teach students about the types of navigation that exist. This will inform how they reorganize their cards in the activity that follows.
-
-Before we get into the last part of the card sorting exercise, let's discuss some navigation schemes.
-
+## SLIDE 40
 ***Why are they called "schemes"?*** A scheme is a plan or strategy—something organized to put an idea, or plan, into effect. The term is often applied to marketing, architecture, construction, and, er, organized crime.
 
 As UI designers, we need to consider the navigation scheme of our websites.
@@ -482,32 +477,7 @@ As UI designers, we need to consider the navigation scheme of our websites.
 
 A sitemap is *not* a UI, but it can help inform UI navigation.
 
-- **Primary/main navigation:**
-  - It is also called main (or global navigation if this is not included) because it is consistent on all pages of a website.
-
-  - The primary/main navigation generally represents the top-level pages of a site’s structure—or the pages just below the home page. The links in the main navigation are expected to lead to pages within the site and behave in a very consistent way. Users don’t expect to land somewhere completely unrelated when using main navigation links. Changes in navigation from page to page are usually small when using the main navigation.
-
-> **Instructor Note:** In your sitemap, this is very likely the top categories of your sitemap structure.
-
-- **Secondary navigation:**
-- It is also called sub-nav because it exists inside a primary page. The webpages are the children of the primary navigation.
-- Secondary navigation is used to navigate sections or content pages that are associated with its parent navigation item.
-
-> **Instructor Note:** In the sitemap, the nested items in a column are secondary pages of the parent page.
-
-- **Tertiary navigation:**
-  - It is also called sub-sub-nav because it exists inside a sub-page. This is more complicated and has layers of navigation.
-
-> **Instructor Note:** Tertiary navigation is complex and can be a pitfall for usability and navigation issues. If students are doing too much nesting it will cause usability issues that they should be able to catch via user testing.
-
-- **Global navigation:**
-  - Can be used on more complex websites to maintain a way to navigate a larger organization. This could be to navigate from department to department or from product to product.
-
-- **Utility/optional navigation/supplemental:**
-  - Many websites have functional or utility-based features that need to be represented in a navigation like sign-in, account info, profile, search, etc. Accounting for these features can be included in a sitemap as well as linked with global, primary, or secondary UI navigation.
-
-### Review the Navigation Schemes Tool Snapshot
-
+## SLIDE 41
 **Why use navigation schemes?** 
 
 A navigation scheme is the plan that determines how Web pages will relate to each other. A Web site's structure should support the site's mission. The hierarchical navigation scheme is used by the majority of web sites. The linear navigation scheme is often used with a hierarchical scheme.
@@ -524,26 +494,55 @@ A navigation scheme is the plan that determines how Web pages will relate to eac
 - To make your content more consumable and thus more usable.
 - To meet your users’ needs of logical and clear structure.
 
-### Sitemap Navigation Scheme and Categories of Navigation
 
+## SLIDE 42
+- **Primary/main navigation:**
+  - It is also called main (or global navigation if this is not included) because it is consistent on all pages of a website.
+
+  - The primary/main navigation generally represents the top-level pages of a site’s structure—or the pages just below the home page. The links in the main navigation are expected to lead to pages within the site and behave in a very consistent way. Users don’t expect to land somewhere completely unrelated when using main navigation links. Changes in navigation from page to page are usually small when using the main navigation.
+
+- **Secondary navigation:**
+- It is also called sub-nav because it exists inside a primary page. The webpages are the children of the primary navigation.
+- Secondary navigation is used to navigate sections or content pages that are associated with its parent navigation item.
+
+
+- **Tertiary navigation:**
+  - It is also called sub-sub-nav because it exists inside a sub-page. This is more complicated and has layers of navigation.
+
+
+- **Global navigation:**
+  - Can be used on more complex websites to maintain a way to navigate a larger organization. This could be to navigate from department to department or from product to product.
+
+- **Utility/optional navigation/supplemental:**
+  - Many websites have functional or utility-based features that need to be represented in a navigation like sign-in, account info, profile, search, etc. Accounting for these features can be included in a sitemap as well as linked with global, primary, or secondary UI navigation.
+
+## SLIDE 43
+Review
+
+## SLIDE 44
 - **Structural navigation:**
   - As its name implies, structural navigation follows the structure of a website. It allows people to move up and down the different points of a site’s hierarchy. Structural navigation can be further subdivided into two types: main navigation and local navigation.
 
+## SLIDE 45
 - **Associative navigation:**
   - Associative navigation connects pages with similar topics and content, regardless of their location in the site. Links tend to cross structural boundaries.
 
+## SLIDE 46
 - **Utility navigation:**
   - Connects pages and features that help people use the site itself. These may lie outside the main hierarchy of the site, and their only relationship to one another is their function.
 
 - **Local/secondary navigation:**
   - Local navigation is used to access lower levels in a structure, below the main navigation pages. The term “local” implies “within a given category.” On a given page, local navigation generally shows other options at the same level of a hierarchy, as well as the options below the current page.
 
-> :gem: **Designer Insight:** Share a personal experience of redesigning navigation.
+
+## SLIDE 47
+Questions??
+
 
 > :briefcase: **Employer Competitive Note:** Linking card sorting to your sitemapping decisions in your portfolios will make your design deliverables data-driven. It also shows the UX/UI/IA design research you can bring to a team or organization. These skills should be added to your resume and LinkedIn profile.
 
-Now that students are familiar with a few types of navigation schemes, it's time for them to apply their knowledge with a final card sorting activity. The following activity will be the basis for the sitemapping and UI navigation design they'll complete later today.
 
+## SLIDES 48-49
 ## 11. Student Do: Card Sorting Reorganization Activity (10 min)
 
 **TAs,** slack out to students the following Google Doc activity: [09-Week/02-Activities/09.2/09.2/09.2-03-Card-Sorting-ReOrg-Activity-Google-Doc](https://drive.google.com/open?id=1lIo0gAscadYbMC4ZGe9qgGH6r3uzge_2TdnnhtaxyLM). 
@@ -570,6 +569,7 @@ In this activity, students will work in groups of five to six. In Part 1, they'l
 
 For both parts of this activity, students will share a photo documenting their categorization work. 
 
+## SLIDES 50-51
 ## 12. Instructor Do: Card Sorting Reorganization Activity Review (10 min)
 
 🌐**Online class:** Call attention back to the front of the class by using the gallery view in Zoom. Aim to review the work of two to three groups.
@@ -585,18 +585,13 @@ For both parts of this activity, students will share a photo documenting their c
 
   - User testing will improve your ability to catch and improve your category titles.
 
-> :gem: **Designer Insight:** Share a personal story about addressing "demanding clients" who insist on having certain items in the navigation.
-
-Share additional ideas about the value of card sorting for designers in the real world:
-
-- While card sorting is highly effective with tangible cards, it also can be done remotely.
-
   - Working remotely with clients and getting data feedback from users on information design is key to justifying structural changes and modifying navigation.
   - **TAs:** share the following link in Slack:
       - [Optimizly](https://www.optimalworkshop.com/optimalsort)
       - [Miro.com](https://miro.com/app/)
       - [Mural.co](https://mural.co/)
 
+## SLIDE 52
 - UX/UI cares about:
   - **01—Organization schemes and structures:**
     - How users categorize information, assisted by card sorting
@@ -613,45 +608,18 @@ Share additional ideas about the value of card sorting for designers in the real
     - How users look for and find information
     - How we create UI navigation from our sitemaps
 
-- Now, provide students with a few pieces of actionable feedback that they can apply directly to their work the next time they try this skill, for example:
-
   - Take care with creating an organization system for your cards that is clear and logical.
   - Your team might love a structure and organization, but you must always validate it with your users.
   - Capture your organization process. Photograph your process, too. These are highly useful in your portfolio case studies.
 
-> **Instructor Note:** You have covered a lot of material and students have completed a lot of work. Acknowledge this.
 
-🌐**Online class:** Switch to the gallery view and ask if there are questions, then pause briefly for questions to arise.
-
-### UI Designers and Information Architects
-
-UI designers and information architects care about:
-
-- Categorization
-- Labeling systems
-- Navigation
-- Search
-
-This wraps up the first part of today's lesson, which covered information structure, card sorting, and navigation schemes. Students have achieved the first two learning objectives: articulate the IA of a site using card sorting and perform open card sorting with a team to create a new structure for a site.
-
-The work we've completed has laid the groundwork for learning about sitemapping after the break.
-
+## SLIDE 53
 ## 13. Break (15 min)
 
-Before the students break, let them know their sorted cards will prove useful in the next section on sitemapping, after the break.
+## SLIDE 54
+Review
 
-Encourage students to get some fresh air or eat a snack. However, if you're running behind, consider a shorter break.
-
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
-## 14. Instructor Do: Making Sitemaps (5 min)
-
-> :pushpin: **Important Point:** Your goal is to explain sitemapping and prepare students to visualize the organization of their content. This supports today's third learning objective, creating a sitemap that defines primary, secondary, and tertiary page distinctions.
-
-Here you're transitioning into the second part of the lesson, which is all about sitemapping. Students will build on what they just learned and practiced, as sitemaps are derived from card sorting.
-
-### Review the Sitemaps Tool Snapshot
-
+## SLIDE 55
 **What's a sitemap?**
 
 A sitemap is a diagram of the structure of a website or app. Sitemaps are based on card sorting. Liken sitemapping to creating a seating chart for a huge event; there must be a seat for each person, the people must be organized by relationship or another criterion, and also grouped into tables.
@@ -662,6 +630,15 @@ Sitemapping seems easy but is detailed and requires lots of attention.
 
   - Card sorting has produced some knowledge about user navigation.
 
+
+The sitemap you ultimately create needs to have a few key attributes:
+
+- A homepage/home screen item at the top
+- A reference number for each item in the sitemap (this helps when creating wireframes or functional specifications)
+- A label for each item in the sitemap
+
+
+## SLIDE 56
 **When use a sitemap?**
 
 - Redesigning or improving the usability of website navigation.
@@ -674,25 +651,22 @@ Sitemapping seems easy but is detailed and requires lots of attention.
 - It is collaborative among users, designers, developers, and stakeholders. Participants (users and stakeholders) organize topics into categories that make sense.
 - To communicate how and why a website structure exists as well as tool for scoping the size of a web design project.
 
-### Sitemaps
 
-The sitemap you ultimately create needs to have a few key attributes:
+## SLIDES 57-59
+Review examples
 
-- A homepage/home screen item at the top
-- A reference number for each item in the sitemap (this helps when creating wireframes or functional specifications)
-- A label for each item in the sitemap
+## SLIDE 60
+Review
 
-> :gem: **Designer Insight:** Invite a TA to share how they have utilized sitemaps with clients.
->
-> - Alternatively share an anecdote of your own.
+## SLIDE 61
 
 A sitemap is generally a reasonably basic diagram. If your website has an unusually large amount of content, you may wish to split your sitemap into several pages. Showing one category per page with a top-level overview at the beginning is preferable.
+
+## SLIDE 62
 
 ### How to Make a Sitemap
 
 The homepage should start with reference number 1.0, and categories beneath it should increase numerically (i.e., the first category would be 2.0, the second 3.0, and so on). Content should follow this same pattern, with content beneath category 2.0 going in the format 2.1, 2.2, and so on.
-
-### Sitemap Heuristics
 
 Sitemaps have their heuristics and best practices:
 
@@ -701,18 +675,19 @@ Sitemaps have their heuristics and best practices:
 - Clear
 - Communicative
 - Usable
+
+## SLIDE 63
 - Credible
 - Controllable
 - Valuable
 - Learnable
 - Delightful
 
-> **Instructor Note:** Pause for questions.
 
-> :briefcase: **Employer Competitive Note:** Sitemaps are a highly desirable skill for UX/UI designers. This is because IA is part of our roles. Clear and well-designed sitemaps with primary, secondary, and tertiary page distinctions will help you communicate your professionalism and commitment to the craft of UX/UI. Sitemapping should be included on your resume and LinkedIn profile.
+## SLIDE 64
+Questions??
 
-Now that students know what sitemaps are, what they look like, and their organizing principles, show them how to create one in Figma/Adobe XD.
-
+## SLIDE 65
 ## 15. Instructor Do: Demo - Figma/Adobe XD Sitemap (10 min)
 
 🌐**Online class:** Using Zoom, share your screen by clicking on the green Share Screen button in your lower Control Panel. Ensure all notifications have been muted, any personal information has been cleared from your screen, and that the lesson plan is not visible.
@@ -738,6 +713,7 @@ The goal of your demo is to teach students how to use Adobe XD components/Figma 
 
 In the following two-part activity, students will create sitemaps based on the navigation they came up with during their card sorting activity.
 
+## SLIDES 66-67
 ## 16. Student Do: Figma/Adobe XD Sitemap Activity v. 1 (10 min)
 
 **TAs,** slack out to students the following links: 
@@ -770,6 +746,7 @@ Working independently in Figma/Adobe XD, students will create a sitemap that con
 
 Students will upload and share in Slack the sitemap they created in Figma/Adobe XD.
 
+## SLIDES 68-69
 ## 17. Instructor Do: Figma/Adobe XD Sitemap Activity v. 1 Review (5 min)
 
 It's time to review how the sitemapping went for students and reinforce their learning.
@@ -791,6 +768,7 @@ It's time to dive deeper into sitemapping. Iteration is key to any design soluti
 
 Next, students will create an iteration of their sitemap.
 
+## SLIDES 70-71
 ## 18. Student Do: Figma/Adobe XD Sitemap Activity v. 2 (10 min)
 
 > **Instructor Note:** Students should work from the same document for Part 1 (LP Section 16).
@@ -813,6 +791,7 @@ Students should continue working independently in Figma/Adobe XD for Part 2 and 
 
 Students will upload and share in Slack the sitemap they created in Figma/Adobe XD.
 
+## SLIDES 72-73
 ## 19. Instructor Do: Figma/Adobe XD Sitemap Activity v. 2 Review (5 min)
 
 Call the class back to attention and lead a review of their sitemapping iteration.
@@ -841,26 +820,19 @@ You've now wrapped up Part 2 of this lesson on sitemapping. Students have achiev
 
 Next, you're moving on to the third and final part of the lesson: UI navigation. This next section builds on what students have just learned and prepares them to design a UI navigation for their site in Figma/Adobe XD.
 
-## 20. Instructor Do: UI Navigation (5 min)
 
-> :pushpin: **Important Point:** Your goal is to explain UI navigation and how it ties into students' sitemaps so they can begin executing navigation solutions. This ties into today's fourth and fifth learning objectives. It organizes content into a navigation scheme and designs a UI navigation solution through hand sketching, and wireframes a new UI navigation solution in Figma/Adobe XD based on a sitemap.
+## SLIDE 74
+Review
 
-This final lesson will enable students to design UI navigation for their sites by applying UI navigation principles. Learning about UI navigation will help students translate their sitemaps into actual site design, which they'll execute in Figma/Adobe XD.
+## SLIDE 75
+Review
 
-### UI Navigation
-
-- > **Say:** "You have a sitemap. Now what? Sitemaps lead to UI navigation."
-  - > **Ask:** "Who can guess how sitemaps lead to UI navigation?"
-    
-  - Answers may include: Your primary pages become your main navigation as a tab, a list, or a shelf.
-  
+## SLIDE 76
 - The content structure has an impact on how a UI will get designed.
   - A sitemap is *not* a UI.
     - A site map is just a visual representation of the structure of webpage in a website.
   - A sitemap *informs* a UI.
     - It informs navigation by aligning UI teams to page and title names, amount of primary, secondary, and tertiary relationships, as well as potential content types that each webpage will represent.
-
-### Review the Context for UI Navigation
 
 - When to use it?
   - Use it after the sitemap has been completed and the information categories for a website or app are defined.
@@ -869,10 +841,7 @@ This final lesson will enable students to design UI navigation for their sites b
   - A navigation UI is how your users interact with the website defined in a sitemap. A sitemap informs navigation.
     - For example: Say a client wants to add another tab to your primary navigation. You don't just bloat the navigation solution—you can use user-centered data to determine the best UI solution for all items, not just the client's new ask.
 
-> :gem: **Designer Insight:** Share how navigation shows up in your work.
->
-> Alternatively, ask a TA to share a relevant anecdote.
-
+## SLIDE 77
 ### Navigation UI Is Defined Through a Scheme
 
 - A desktop navigation scheme is different from a mobile application navigation scheme because the way users interact with different screen sizes.
@@ -883,56 +852,18 @@ This final lesson will enable students to design UI navigation for their sites b
 
   - Primary navigation: The pages and content that the users are the most interested in should be included in the highest profile primary navigation. The menu is generally placed in the most visible location—usually horizontally across the top of the site, but just below the header and logo.
 
-  > **Instructor Note:** These are pages from the primary categories of a sitemap.
-
   - Secondary navigation (sub-nav): Pages that are important but less visited often are included as children of primary pages. These are generally  included inside primary navigation dropdowns and their color, size, and font decrease their visibility somewhat.
 
     - For usability, do try to limit the number of secondary pages in a navigation and sitemap structure.
 
-  > **Instructor Note:** These pages will require an organizing principle and are typically content or sub-categories.
 
-- > **Ask:** "Does primary navigation have to be at the top of the page on a website?"
+## SLIDES 78-83
+Review
 
-  - Answer: No, but each student should first practice applying best practices for navigation.
+## SLIDE 84
+Questions??
 
-- Have a short conversation about how navigation is a place with a lot of brand experimentation, but be cautious with this, as nothing will frustrate your users more than changing the site's navigation.
-
-- Review how sitemap categories become UI navigation on a wireframe.
-
-  - Point out similarities. Remark that wireframes are about exploring the structure of a webpage. A vital component of any wireframe is navigation.
-
-- > **Ask:** "Any questions?"
-
-Students should have a sense of navigation now, so it's time to jump into examples of UI navigation from the web. Students' earlier sitemaps are now the blueprint for their websites' navigation.
-
-- Check in with students to make sure they are feeling up to speed.
-
-> **Instructor Note:** Feel free to include your personal samples or other samples of navigation on the web to point out the global, primary, secondary, and utility navigation.
-
-**Review Yahoo! homepage.**
-
-- Point out: global, primary, secondary, and utility navigation.
-
-  - Discuss how Yahoo! Sports covers thousands of teams.
-
-**Review Apple's homepage.**
-
-- Ask students some questions:
-    - Which is the global navigation?
-    - Which is the page's primary navigation?
-    - Which is the page's secondary navigation?
-    - Which is the utility navigation?
-
-**Review how UI navigation schemes need to be maintained across multiple screens.**
-
-- Responsive navigation maintains similar navigation schemes between desktop to tablet to mobile.
-
-**Review Dwell and Blue Cross mobile navigation.**
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to work on navigation and create great solutions. Having the ability to speak with authority about organizing content into a navigation scheme and designing a UI navigation solution will go a long way during an interview. UI navigation development should be added to your resume skills and LinkedIn profile.
-
-As students jump into the activity, encourage experimentation and point out that the first solution for the navigation probably will not be the best or final solution.
-
+## SLIDES 85-86
 ## 21. Student Do: Sketch a Desktop Figma/Adobe XD Navigation Activity (15 min)
 
 **TAs,** slack out to students the following Google Doc activity: [09-Week/02-Activities/09.2/09.2/09.2-05-XD-UI-Navigation-Deskop-Activity](https://drive.google.com/open?id=1UALLWgLFJ1owI7BFsA6EiiFP5CoEryQq-hyyBVYmtxM).
@@ -963,6 +894,7 @@ Students will design a navigation for their government site on an artboard in Fi
 
 **Bonus:** Design a footer to match your navigation design.
 
+## SLIDE 87
 ## 22. Instructor Do: Sketch a Desktop Figma/Adobe XD Navigation Activity Review (10 min)
 
 Call the class back to attention.
