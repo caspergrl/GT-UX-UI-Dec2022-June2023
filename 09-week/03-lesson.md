@@ -544,7 +544,19 @@ Review
 6. Relationship - How a brand connects with its audience and the type of relationship it wants to build is entirely up to that brand.
 
 ## SLIDE 61
-Review apple's brand identity prism
+A brand identity prism is a concept for describing a brand's identity through its characteristics. It's not only useful for identifying a brand's core characteristics but also how they relate to one another.
+
+**The Physical/physique**: The tangible physical characteristics of a brand. This brand element includes things like logos, colors, shapes, and other brand assets strongly associated with your brand in the minds of consumers.
+
+**Brand Personality**: The brand’s character and personality traits such as fun-loving, happy and playful, honest and kind, and so on. This element is often conveyed in the brand’s voice, but a brand’s design assets play an important role as well.
+
+**Relationship**: This is a big one, representing the relationship a brand has with its audience or its consumers. What does the customer expect to get from a brand outside of the products and services it offers? Great customer service, amazing experiences, and guaranteed quality backed by a lifetime warranty are just a few examples.
+
+**Culture**: A company’s internal culture is an integral facet of a brand’s identity, too. Google, Tesla, Starbucks, Nike, Amazon – for better or for worse, these major brands have all become almost as recognized for their workplace cultures as they are for their products and services.
+
+**Customer Reflection**: What does the target audience look like, or the brand’s ideal buyer? Most brands have a few different buyer personas, but there’s usually one that’s a stand-out, go-to win for the brand – the loyalists. It’s this target buyer that brands should be targeting with their messaging, speaking to that go-to buyer who is more likely than other personas to become an ambassador for the brand.
+
+**Customer Self-Image**: The customer self-image flips the customer reflection on its head, instead representing the customer’s ideal self. What are the target customer’s aspirations, goals, and how they want to look and behave? Brands should aim for messaging that cultivates this vision of the customer’s ideal self to resonate with their audiences.
 
 ## SLIDE 62
 Questions??
