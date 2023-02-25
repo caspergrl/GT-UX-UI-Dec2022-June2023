@@ -117,74 +117,118 @@ Encourage your students to use office hours. By the same token, encourage them t
 
 Here you'll draw from what you and students just shared about "interaction" in real life. This time, invite students to imagine how an *app-based interaction* might play out in real life. Invite them to pretend that they are at a grocery store:
 
-> Imagine you are going grocery shopping. As you prepare to enter the store, you are stopped by a store employee who says:
->
-> "*Hi, welcome to Trader Joe's. Before you can enter the store, we need some information about you. What is your first name, last name, email, and phone number?*"
 
-**TAs:** Slack out to the #resources channel Jamal Nichol's IxD talk, which inspired the Trader Joe's metaphor: [https://www.youtube.com/watch?v=KWtWqbJSP5E](https://www.youtube.com/watch?v=KWtWqbJSP5E)—for viewing at home.
+## SLIDES 1-5
+Review
 
-> **Ask:** What's working in this interaction, and what isn't?
+## SLIDE 6
+**What is a UI style tile?**
 
-Pause and take one to two students' responses. This doesn't have to be a lengthy discussion, but it should be engaging.
+A one-page, bite-size design guide that includes fonts, colors, and interface elements. Style tiles capture the essence of brand visuals in a condensed form.
 
-Remind students that as designers, we should always ask ourselves why websites and apps communicate in ways that humans don't enjoy.
+- Designers refer to the work of others to make their work easy, and so can you. Building a robust style guide starts with a simple UI style tile template.
 
-> :gem: **Designer Insight:** Share how this shows up in your own work—how you think about whether or not an interaction is actually pleasant for a user.
->
-> - Alternatively, invite a TA to share.
+Style tiles are a great exercise in visual design and will help you to get to grips with how things like colors, shapes, and various other assets mingle together in your designs.
 
-### Why Do Apps Communicate Like This (Google Assistant)?
+**When do designers use a UI style tile?**
 
-- Digital and physical products are "rude."
+- Developing as a starting place before defining any high-fidelity prototypes or mock-up screen executions.
+- Develop and produce with the help of visual designers to establish rules and consistency within a UI.
 
-It's good that Google Assistant sends out the daily weather forecast via text. But it's bad when the user has texted "stop" and it still sends the user information they no longer want.
+**Why do we use a UI style tile?**
 
-> **Say:** What else do you notice?
+- A UI style tile allow for experimentation.
+- Can help build cohesion and consistency to a digital product’s UI and experience.
+- Style tiles are easily shareable and quick to produce.
 
-Google Assistant isn't communicating like a human. So the user has to work to think like a machine.
+## SLIDE 7
+Review
 
-> **Instructor Note:** Invite students to share examples of lousy IxD they notice via the Slack channel this week.
+  - **TAs,** slack out these resources:
+    - [https://fontawesome.com/](https://fontawesome.com/)
+    - [https://icons8.com/](https://icons8.com/)
+    - [https://thenounproject.com/](https://thenounproject.com/)
 
-Now that students have considered poor user interaction experiences like Google Assistant, they are ready to learn what effective user IxD looks like, why it works, and how it is applied.
+  - **TAs,** slack out: [https://www.brandedinteractions.com/](https://www.brandedinteractions.com/).
 
-## 3. Instructor Do: Interaction Design (IxD) (5 min)
+## SLIDES 8-9
+## 13. Student Do: UI Style Tile Challenge Activity (30 min)
 
-> :pushpin: **Important Point:** Your goal is to show students what role IxD plays within UX/UI design. This ties into the first learning objective, the ability to spot instances of IxD on sites and apps.
+**TAs,** slack out to students the following Google Doc activity and read the instructions:
 
-Here you will walk through five key considerations for IxD, providing students with some fundamentals that all interaction designers know.
+- [09-Week/02-Activities/09.3/09.3-04-UI-Style-Tile-Activity Google Doc](https://drive.google.com/open?id=1mlHelGzPm9-Vo3JaxzxoVU5c7neJa1PeDJ6pGiH__fQ)
 
-:gem: **Designer Insight:** Start off by sharing *when* IxD considerations come into play for you on the job—what part of your process with clients.
+- [09-Week/02-Activities/09.3/09.3-04-XD-UI-Style-Tile-Template-Resource](https://drive.google.com/open?id=1HnfxorS-OT9IiNaqfSzmlgKGtJH3Sd4b)
 
+- [09.3-04-UI-Style-Tile-Figma-Template](https://www.figma.com/file/ZN7NY8mQBm8ig1PyDAvjiP/09.3-04-UI-Style-Tile-Template)
+
+**Instructor and TAs:** Be sure to circulate and suggest ways that students can enhance, arrange, and design their UI style tiles. Encourage them to have *fun.*
+
+> :globe_with_meridians: **Online Recommendation:** Have students work individually, rather than in groups. Keep all students in the main Zoom room and have them all share their screens. If students need more time, you can shorten the review.
+
+**Summary**
+
+This activity gives students practice with UI style tiles by gathering and designing iconography for their government website.
+
+*Tips for students who struggle*: Help students start with the template and work on adding things they have already made decision about. Their color palette, their logo, etc.
+
+*For students who finish early*: Shouldn't be an issue, but this style tile is also part of the challenge so progress in class will reduce work at home. Encourage iteration.
+
+**Instructions**
+
+While working in groups of two to three, students are going to create a UI style tile in Figma/Adobe XD that includes a color palette, typography, images and patterns, and icons/iconography.
+
+**Deliverable**
+
+Students will submit their UI style tile as a .png export of their Figma/Adobe XD artboard.
+
+## SLIDE 10
+## 14. Instructor Do: UI Style Tile Challenge Activity Review (10 min)
+
+Call the class back to attention and lead a review of students' UI style tiles.
+
+:globe_with_meridians: **Online Recommendation:** Since students can’t physically come to the front of the class to demonstrate, stop sharing your screen and ask a student to share their screen instead. Once they are finished, ask them to stop sharing so you can reshare your screen.
+
+Remind the volunteer to mute notifications and close any screens that may contain private information before sharing their screen.
+
+- Aim to review the work of two to four groups.
+- Ask students to explain their rationale behind their design choices.
+- Open the room for feedback on the students' work.
+  - *What works well?*
+  - *What could have been done differently?*
+
+- Finally, discuss any **common misconceptions and FAQs** about UI style tiles. For example:
+
+  - "A UI style title is the only way to create a style guide." *False.* There are literally endless ways to design a style guide, but why work so hard! Using templates and tools to speed up your decision-making is essential to being good at your job.
+
+  - "UI style tiles aren't helpful when actually designing" *False.* Style tiles can be helpful in speeding up your experimentation and layout executions rather than always designing from scratch. Do not design from scratch for every screen—it's far too slow!
+
+
+## SLIDE 11
+Review
+
+## SLIDE 12
 ### IxD Defined
 
 A term was invented by Bill Moggridge of IDEO and countless others in HCI and software designer to alleviate unpleasant user-system interactions. IxD is a process in which designers focus on creating engaging web interfaces with logical and thought-out behaviors and actions.
 
 - IxD is a subset of UX design, along with countless other professions. By "countless" other professions, we mean the job roles for UX/UI/FE dev are constantly changing. There might be new job titles like "service designer" or "AI Prototyper" but fundamentally, they are using similar skills.
 
+
+## SLIDE 13
 ### Interaction Designers
 
 An interaction designer is the person on the design team who helps form and create a design strategy, identifies critical interactions of the product, creates prototypes to test concepts, and stays current on technology and trends that will impact users.
 
 > :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to work with interaction designers or take on these roles in your job as you produce solutions. Being able to speak to the ideas IxD applies to solutions will go a long way toward securing a role in UX/UI. Add interaction design to your resume and LinkedIn skills profile.
 
-### Review the IxD Role Questions
+## SLIDE 14
+Interaction Design (IxD) is the design of interactive products and services in which a designer's focus goes beyond the item in development to include the way users will interact with it. Thus, close scrutiny of users' needs, limitations and contexts, etc. empowers designers to customize output to suit precise demands.
 
-:globe_with_meridians: **Online Recommendation:** If time allows, invite students to take turns reading the following questions aloud from the slides. Alternatively, keep it interesting by having the TAs read the questions. 
+## SLIDE 15
+Review jobs
 
-Ask the following to help shape how the design comes together:
-
-- What **commands** can a user give to interact with the interface?
-- What about the **appearance** gives the user a clue about how it functions?
-- What **information** do you provide to let users know what will happen before they perform an action?
-
-- Do **error messages** provide a way for the user to correct the problem?
-- Are there constraints to help prevent errors?
-- What **feedback** does a user get when an action is performed?
-- What is the **response time** between an action and a response?
-- Are the interface elements a reasonable **size** to interact with?
-- Are edges and corners strategically being used to locate **interactive elements**?
-- Is **information chunked** into a few items at a time?
-
+## SLIDE 16
 ### IxD Considerations
 
 There are five primary considerations in IxD. (By "consideration," we mean factors you as a designer should build into the layers of your interface.)
@@ -195,25 +239,37 @@ There are five primary considerations in IxD. (By "consideration," we mean facto
 - **4. Workflow:** In addition to facilitating the completion of discrete tasks such as selecting a payment method, IxD is also concerned with the achievement of multitask goals, such as browsing, selecting, and purchasing an item.
 - **5. Malfunction:** As with all forms of communication, misunderstandings and mistakes occur. Therefore, it is also part of the designer’s role to anticipate and mitigate those problems, ensuring that both the user and the system can quickly recover.
 
-> :gem: **Designer Insight:** Invite a TA to give an example of how they have used one of the above five considerations in their work.
-
-When creating design interactions, Usability.gov offers some basic questions that can be asked to help shape how the design comes together.
-
 - **TAs:** Slack out to the #resources channel: [https://www.usability.gov/what-and-why/interaction-design.html](https://www.usability.gov/what-and-why/interaction-design.html).
   - Students can review the link at home.
 
-Now that you've shared the fundamentals take the students deeper by walking through the five dimensions of IxD in the next section.
+## SLIDE 17
+Ask the following to help shape how the design comes together:
+- What **commands** can a user give to interact with the interface?
+- What about the **appearance** gives the user a clue about how it functions?
+- What **information** do you provide to let users know what will happen before they perform an action?
+- Do **error messages** provide a way for the user to correct the problem?
+- Are there constraints to help prevent errors?
 
-## 4. Instructor Do: IxD's Five Dimensions (8 min)
+## SLIDE 18
+- What **feedback** does a user get when an action is performed?
+- What is the **response time** between an action and a response?
+- Are the interface elements a reasonable **size** to interact with?
+- Are edges and corners strategically being used to locate **interactive elements**?
+- Is **information chunked** into a few items at a time?
 
-> :pushpin: **Important Point:** Your goal is to introduce IxD's five dimensions so students can recognize and describe examples on websites and apps. This ties into today's second learning objective about recognizing the five dimensions in the wild.
+## SLIDE 19
+Questions?
 
-Start by defining what we mean by "dimensions" when we talk about IxD. Dimensions refer to the specific elements that make up an interactive system.
+## SLIDE 20
+Review
 
+## SLIDE 21
 ### Introduction to IxD's Five Dimensions
 
 Interaction designers utilize all five dimensions to consider the interactions between a user and a product/service/interface in a holistic way. Specifically, designers use them to help envision the real-world demands of a user group concerning design that is not yet introduced.
 
+
+## SLIDE 22
 #### 1D - Words
 Words used in interactions.
 
@@ -222,6 +278,7 @@ Words used in interactions.
   - **Ask,** "What are some words we see in interfaces?"
   - Answer: Common words associated with the actions a user takes: submit, share, download, search, filter, checkout, save, delete, favorite, etc.
 
+## SLIDE 23
 #### 2D - Visuals
 
 Graphic elements:
@@ -234,6 +291,7 @@ Graphic elements:
 
     - Answer: No, but they should work together as they both build an interface.
 
+## SLIDE 24
 #### 3D - Physical Objects or Space
 
 User context of use:
@@ -248,6 +306,7 @@ User context of use:
 
       - Answer: None—even voice UI requires a microphone in an Alexa device.
 
+## SLIDE 25
 #### 4D - Time
 
 Motion and sound play a crucial role over time.
@@ -257,6 +316,7 @@ Motion and sound play a crucial role over time.
   - **Ask,** "Has anyone ever used an interface that has a lot of latency (delay)?"
   - Answer: Some older cable company set-top boxes and remote controls had this latency issue. Trying to use the grid keyboard with the up and down arrows was painful.
 
+## SLIDE 26
 #### 5D - Behavior
 
 How users interact and perform actions:
@@ -269,24 +329,22 @@ How users interact and perform actions:
 
 **TAs:** Slack out to the #resources channel [https://www.interaction-design.org/literature/article/the-five-languages-or-dimensions-of-interaction-design](https://www.interaction-design.org/literature/article/the-five-languages-or-dimensions-of-interaction-design) for students to explore at home.
 
-> :gem: **Designer Insight:** Explain how this plays into your own professional work—the many dimensions from which you evaluate user interactions.
+
 
 IxD is something we, as UX/UI designers, need to think about deeply. Why? Because it enables us to design solutions that respond to our users to create an experience. The human and the computer interact to solve a problem together.
 
-Briefly discuss how, when the five dimensions come together effectively, you get a usable, useful, and shareable product. For example:
+## SLIDE 27
+_Review IxD Dimensions then_
 
 - What is the sound an email makes? Whoosh. Right? Or, "You've got mail." These are examples of interactions with a computer software that are designed with the five dimensions as part of their interaction behavior.
 
 - Why did Zoom beat Skype or Google Chat? The interaction tool effectively captivated users and created habits.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to understand what it takes to make a great UX through creating interactive experiences. These interactive experiences are best displayed as prototypes and should be showcased highly in your portfolio case studies as well as in on your LinkedIn skill profile.
 
-Share any personal experience of working with interaction designers or testing products for feedback on their execution of the five dimensions of IxD.
+## SLIDE 28
+Questions?
 
-> **Instructor Note:** Pause for questions before turning students loose to practice these interaction skills.
-
-Now that students know the five dimensions, they're ready to test their knowledge with an activity. In the following activity, they'll find and document examples of the five IxD dimensions on their own.
-
+## SLIDES 29-30
 ## 5. Student Do: IxD's Five Dimensions Activity (20 min)
 
 **TAs,** slack out to students in the #_in_class_chat these two Google Doc files:
@@ -314,6 +372,7 @@ Working in groups of two to five, students will download and fill out the Five D
 
 Students will share a link to their spreadsheet via Slack. If they took photos of their sketches, they will upload those to Slack as well.
 
+## SLIDE 31
 ## 6. Instructor Do: IxD's Five Dimensions Activity Review (10 min)
 
 - Call the class back to attention to review IxD five dimensions.
@@ -363,26 +422,19 @@ We have wrapped up the first part of today's three-part lesson. You covered IxD 
 
 Next up, you will dive into IxD principles, mental models, and micro-interactions.
 
-## 7. Instructor Do: IxD Principles, Mental Models, and Micro-interactions (15 min)
 
-> :pushpin: **Important Point:** Your goal is to get students to think more deeply about IxD through mental models, IxD principles, and micro-interactions. This supports the third learning objective—identifying examples of micro-interactions on apps and sites.
+## SLIDE 32
+Review
 
-It's time to walk students through the inner workings of IxD and show them all the stuff that makes IxD work. This knowledge will empower students to begin designing user interactions themselves. You'll cover:
+## SLIDE 33
+Review
 
-- Mental models: You'll teach this first because it's easily relatable for students.
-
-- IxD principles: Detail all the IxD rules that students will apply to their work.
-
-- Micro-interactions: Cover how principles and mental models come together in an applied way.
-
-> :briefcase: As a UX/UI designer, you will be expected to build effective micro-interactions into your software solutions. These should be called out in your interactive prototypes and these skills should be added to you resume and LinkedIn skills profile.
-
-### Walk Through Mental Models
-
+## SLIDE 34
 In the field of UI design, a mental model refers to how users think something should work. A mental model is a representation of what the user has in mind.
 
 Adding mental models to your designs makes them more user-friendly and intuitive. An example is the URL field at the top of a Chrome browser, which evolved to become a search field. Why? Because the mental model users have in their minds is that a long bar on a browser window is something to type search terms into.
 
+## SLIDE 35
 ### Mental Models — Skeuomorphic Design
 
 Skeuomorphic refers to the design concept of making items resemble their real-world counterparts (e.g., the calendar on your phone has the squares and numbers of a wall calendar).
@@ -391,70 +443,68 @@ When Apple was first designing apps for iOS, they used the concept of skeuomorph
 
 - **TAs,** slack out to the #resources channel [https://medium.muz.li/skeuomorphic-design-a-controversial-ux-approach-that-is-making-a-comeback-a0b6e93eb4bb](https://medium.muz.li/skeuomorphic-design-a-controversial-ux-approach-that-is-making-a-comeback-a0b6e93eb4bb) for students to read at home.
 
-- The designer invents a conceptual model—the design model—and this is how the designer intends the device or software to work. The only way to communicate this model to users is to implement it through a UI.
-
-- If the designers of the conceptual models don't take the user’s mental model into account, users won't be able to learn and use the products.
-
-  - **Multiple user groups:** If there are multiple user groups, and the conceptual model is designed to match just one mental model, then the other users will find the device hard to learn and use.
-
-  - **No design process:** If the conceptual model didn't go through a design process at all and is just a reflection of the underlying hardware or software or database, then the conceptual model is unlikely to match the user’s mental model. Users will find the device hard to learn and use.
-
-  - **Changing users' mental models:** There will be times when the mental model of a user group won't fit the conceptual model. In that case, you'll want to change the mental model to match the conceptual model that has been designed.
-
-> :gem: **Designer Insight:** Share a personal story about mental models if you have one, or ask a TA to share.
-
-### Gear Shift Example
-
+## SLIDE 36
 - > **Ask:** What do you expect to happen when you use a car's gear shift?
 - **A costly mistake:** Fiat tried to reinvent the gear shift. It led to a tragic death, and the company lost millions of dollars. They had to recall 1.8 million vehicles because their design didn't take into account their users' mental models.
-- **Engineers versus normal people:** Creators and users have different thought models. A good interaction designer understands *both.*
 
-> **Instructor Note:** Pause for questions on the concept of mental models.
 
-### Walk Through IxD Principles
+## SLIDE 37
+- **Engineers or creators of products versus users:** Creators and users have different thought models. A good interaction designer understands *both.*
 
+## SLIDE 38
+Questions??
+
+## SLIDE 39
+Review
+
+## SLIDE 40
 Don Norman's IxD principles:
 
 >  Read the quote by Don Norman, the father of UX and author of *The Design of Everyday Things.*
 
+## SLIDE 41
 ### Five Tenets of Goal-Driven Design
-
 Alan Cooper popularized goal-driven design in his book, *The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity.*
-
-**TAs:** Slack out to the #resources channel [The Inmates Are Running the Asylum/dp/0672326140/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=uxbo09-20&linkId=52189db31293c4003c0cba3200dbb868](https://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=uxbo09-20&linkId=52189db31293c4003c0cba3200dbb868) for students to add to their UX libraries for later reading.
 
 - Cooper defines goal-driven design as a design that holds problem-solving as the highest priority. The goal-driven design focuses first and foremost on satisfying the specific needs and desires of the end-user. Today, some of the points Cooper brings up seem obvious since designers rarely select interactions based solely on development constraints. However, at its heart, the methodology is all about satisfying the end user's needs and wants, which is just as necessary today as it ever was.
 
-> :gem: **Designer Insight:** Ask a TA to say something about goal-driven design as it relates to their own design work.
+1. Design first, program second
+2. Separate responsibility for design from responsibilities for programming
+3. Hold designers responsible for product quality
+4. Define one specific user for your product
+5. Work in teams of two
 
+**TAs:** Slack out to the #resources channel [The Inmates Are Running the Asylum/dp/0672326140/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=uxbo09-20&linkId=52189db31293c4003c0cba3200dbb868](https://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=uxbo09-20&linkId=52189db31293c4003c0cba3200dbb868) for students to add to their UX libraries for later reading.
+
+
+## SLIDE 42
 The following are goal-driven design principles that define how a user is driven to do something (their goal):
 
 - **1. Visibility** is the basic principle that the more visible an element is, the more likely users will know about it and how to use it. Equally important is the opposite: When something is out of sight, it’s difficult to know about and use. If the user cannot find it, it does not exist. It must be made clear as a bell what actions are possible in a UI in less than a microsecond (e.g., labeling icons as a best practice). We’ve seen a shift in major apps like Facebook away from hamburger menus and back toward tab-bar menus to improve the visibility of their essential experiences.
 - **2. Feedback** makes it clear to the user what action has been taken and what has been accomplished.  Many forms of feedback exist in IxD, including visual, tactile, audio, and more. The key is to design an experience that does not make users guess what action they have to take and what the outcome will be.
+
+
+## SLIDE 43
 - **3. Constraints** are about limiting the range of interaction possibilities for the user to simplify the interface and guide the user to the appropriate next action. Constraints are clarifying since they make it clear what to do. Limitless possibilities often leave the user confused. Foursquare uses design constraints to limit available interactions and focus user’s tasks.
 - **4. Mapping** is about having a clear relationship between controls and the effect they have on the world. You want this mapping to feel as natural as possible.
 - Stovetops are a great example here. When you see an illustration of a stove top, it may be challenging to understand which knob operates which burner. With better mapping, however, it becomes *much* clearer which knob controls which burner.
+
+## SLIDE 44
 - **5. Consistency** refers to having similar operations and similar elements for achieving related tasks. By leveraging consistent features throughout your entire experience, you make your experience far more comfortable to use. Consistency is essential in your interface, and across the many interfaces, users use across their devices.
 - **6. Affordance** refers to an attribute of an object that allows people to know how to use it. To afford means to give a clue. The physical button on a mouse provides a hint that it can be clicked to perform an action. When an object has strong affordances, it’s obvious how to use it.
 
-> **Instructor Note:** Check in with the class: Ask everyone to give you a "thumbs up" or "thumbs down" to show whether they're grasping this information or not. 
->
-> - Pause and take any questions on IxD principles.
 
-We are now moving on to micro-interactions, which embody the six principles we just walked through.
+## SLIDE 45
+Review
 
-### Walk Through Micro-interactions
-
-Introduce micro-interactions with the Vamsi Batchu quote.   
-
+## SLIDE 46
 > *"Micro-interactions are events that have one main task—a single purpose—and they’re found all over your device and within apps. Their purpose is to delight the user: to create a moment that is engaging, welcoming and, dare we say it, human."* —Vamsi Batchu, UX designer and writer
 
 Single-task events, or interactions, that have the goal of delighting users. Micro-interaction is what makes a UI system dynamic.
 
 Whenever you change a setting, sync your data or devices, set the alarm, pick a password, log in, set a status message, or favorite or “like” something, you are engaging with a micro-interaction. They are everywhere—in the devices we carry, the appliances in our house, the apps on our phones and desktops, even embedded in the environments we live and work in.
 
-### Review the Micro-interactions tool snapshot
-
+## SLIDE 47
 **What are micro-interactions?**  
 
 Micro-interactions are events which have one main task — a single purpose — and they're found all over your device and within apps. Their purpose is to delight the user and to create a moment that is engaging, welcoming, and humane.
@@ -471,14 +521,12 @@ Micro-interactions are events which have one main task — a single purpose — 
 - To apply a unique look and feel to your UIs. 
 - To meet your user’s needs for recognizable, useful, usable UI elements.
 
->:gem: **Designer Insight:** Give an example of a micro-interaction from a project you recently were part of.
 
 - We’re surrounded by micro-interactions every day, and only designers notice them for what they are. Normal people might think, "Neat!" and move on. Designers know how incredibly important micro-interactions are to UX.
 
 - **TAs,** slack out this book recommendation for students to read at home: [https://www.amazon.com/Microinteractions-Full-Color-Designing-Details/dp/1491945923/ref=sr_1_1?keywords=microinteractions&qid=1558033274&s=gateway&sr=8-1](https://www.amazon.com/Microinteractions-Full-Color-Designing-Details/dp/1491945923/ref=sr_1_1?keywords=microinteractions&qid=1558033274&s=gateway&sr=8-1).
 
-- Review the quote from Vamsi Batchu, UX designer and writer.
-
+## SLIDE 48
 ### Micro-interaction Structure 
 
 What makes effective micro-interactions is not only their contained size but also their form. A beautifully crafted micro-interaction pays attention to all four parts of a micro-interaction.
@@ -488,10 +536,10 @@ What makes effective micro-interactions is not only their contained size but als
 - **Feedback** lets people know what’s happening.
 - **Loops and modes** determine the meta-rules of the micro-interaction.
 
-### Common Micro-interactions
+## SLIDES 49-52
+Review micro-interactions
 
-Review some common examples of micro-interactions.
-
+## SLIDE 53
 - Micro-interactions can be used to:
   - Encourage sharing
   - Like
@@ -499,25 +547,28 @@ Review some common examples of micro-interactions.
   - Direct users’ attention
   - Provide instant and relevant feedback
   - Improve navigation
+_Review slide_
 
-### Micro-interaction Rules
+## SLIDE 54
+Review
 
+## SLIDE 55
 Micro-interaction rules to live by:
-
 1. Speed
 2. Clear narrative
 3. Create a single, unified movement
 4. Design before automation
 5. Detail, detail, detail.
 
+## SLIDE 56
 > Read the quote by **Dan Saffer**, UX designer and writer: 
 >
 > *Even though we’re surrounded by micro-interactions every day, we don’t usually notice them until something goes horribly wrong. But micro-interactions are, despite their small size and near-invisibility, incredibly important. The difference between a product you love and a product you tolerate is often the micro-interactions you have with it. They can make our lives easier, more fun, and just more interesting if done well.*
 
-> **Instructor Note:** Take questions on the concept of micro-interactions.
+## SLIDE 57
+QUestions?
 
-Now that students have a grasp on micro-interactions and the principles on which they are built, let's show them how to record a micro-interaction from a phone or laptop.
-
+## SLIDE 58
 ## 8. Instructor Do: Demo - GIPHY Capture (5 min)
 
 > **Instructor Note:** Giphy Capture is only supported by Mac. TAs, share this link for PC users: [https://www.screentogif.com/](https://www.screentogif.com/)
@@ -553,6 +604,8 @@ Show the class how to use Giphy to capture a micro-interaction. This knowledge w
 
 Now that students have seen how it's done, it's time for them to capture and create their own GIF files of the micro-interactions they find on apps and sites.
 
+
+## SLIDES 59-60
 ## 9. Student Do: Capture IxD Activity (10 min)
 
 **TAs:** Slack out the following activity file:
@@ -579,6 +632,8 @@ Working independently, each student will search webpages of their choice, huntin
 
 Students will share their GIFs in Slack.
 
+
+## SLIDE 61
 ## 10. Instructor Do: Capture IxD Activity Review (5 min)
 
 Call the class back to attention and review the GIFs.
@@ -610,24 +665,14 @@ With this activity, your students have been able to integrate the fundamentals o
 
 Students now have three of today's learning objectives under their belt: the ability to identify examples of IxD, the five IxD dimensions, and micro-interactions on sites and apps in the wild.
 
+## SLIDE 62
 ## 11. Break (15 min)
 
-Great job—that was a lot of ground to cover. It's time for a break.
 
-Let students know that after the break, you'll dive even deeper into micro-interactions by studying habit loops.
+## SLIDE 63
+Review
 
-**Option to shorten break:** If the energy is high and you're short on time, feel free to shorten the break.
-
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
-## 12. Instructor Do: Habit Loops (15 min)
-
-> :pushpin: **Important Point:** Your goal is to explain habit loops and connect them to the micro-interactions concept. This lecture supports the fourth and final learning objective of the day, designing and prototyping a micro-interaction in Figma/Adobe XD.
-
-This is one of two lectures that will prepare students to create an Adobe XD prototype for a micro-interaction. The lecture that follows this is an Adobe XD prototyping demo of micro-interactions.
-
-As you walk through the lecture, remind students that all user interaction stems from understanding human behavior. This is important because we want to make our software solutions user-centered and making solutions habitual for our users will help them use our solutions overtime.
-
+## SLIDE 64
 ### Habits and Habit Loops
 
 Habits impact our daily lives in many different ways, even in how we interact with websites and applications. Being aware of how habits may influence interactions users have with your products can help you design a better UX.
@@ -650,8 +695,7 @@ The habit loop is a neurological loop that governs any habit.  The habit loop co
 - To make your solutions “sticky” and useful to your users. 
 - To meet your user’s needs for recognizable, useful, usable UI elements.
 
-> :gem: **Designer Insight:** Say something about how habit loops show up in your work process.
-
+## SLIDE 65
 In *The Power of Habit: Why We Do What We Do in Life and Business*, Charles Duhigg explains the process of habit creation. At the core of every habit is a simple neurological loop that is composed of three parts:
 
 - **Cue**: A cue is “a trigger that tells your brain to go into automatic mode and which habit to use.” Triggers can include places, times of day, emotions, and more.
@@ -662,16 +706,10 @@ In *The Power of Habit: Why We Do What We Do in Life and Business*, Charles Duhi
 
 - **TAs:** Slack out in the #resources this book recommendation on Slack: [https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/ref=sr_1_3?crid=XXF54G9ZF5H3&keywords=power+of+habit&qid=1558033655&s=gateway&sprefix=power+of+habit%2Caps%2C196&sr=8-3](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/ref=sr_1_3?crid=XXF54G9ZF5H3&keywords=power+of+habit&qid=1558033655&s=gateway&sprefix=power+of+habit%2Caps%2C196&sr=8-3) for students to add to their UX libraries for later reading.
 
+## SLIDE 66
 ### Hook Habit Model
 
 After researching habits and behavior changes, Nir Eyal analyzed many huge companies like Facebook, LinkedIn, Pinterest, and Instagram. Based on this work, he developed the **hook model theory** to describe habits. In a nutshell, the theory states that the holy grail for digital product makers is for their offering to become part of a customer’s habitual behavior. The hook model relies on a trigger, action, reward, and investment.
-
-Review why changing user habits is essential:
-
-- Habits increase customer lifetime value.
-- Habits provide greater pricing flexibility.
-- Habits supercharge growth. “Hooked” users don’t churn.
-- Habits improve a business’s defensibility. It’s hard to get someone to stop using a product that they use without thinking.
 
 - **A trigger,** or, as Charles Duhigg calls it, a cue, causes an individual to take action. Triggers can be internal or external. Intense emotions like loneliness, boredom, stress, and uncertainty are internal triggers. Ads, friend recommendations, messages, and weather are external triggers.
 
@@ -683,20 +721,22 @@ Review why changing user habits is essential:
 
 - **TAs:** Slack out in the #resources channel this book recommendation [https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?keywords=hooked+nir&qid=1558033684&s=gateway&sr=8-1](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?keywords=hooked+nir&qid=1558033684&s=gateway&sr=8-1) for students to add to their UX libraries for later reading.
 
-> :pushpin: **Important Point:** The goal is to introduce students to how UIs are habit-forming. Discuss how habits work and why UX/UI designers need to consider their users for every UI decision.
+## SLIDE 67
 
-- UI is learned.
+Review why changing user habits is essential:
 
-- We want to encourage good UI behavior.
+- Habits increase customer lifetime value.
+- Habits provide greater pricing flexibility.
+- Habits supercharge growth. “Hooked” users don’t churn.
+- Habits improve a business’s defensibility. It’s hard to get someone to stop using a product that they use without thinking.
 
-- Behavior is reinforced.
+## SLIDES 68-75
+Review slides
 
-> :briefcase: **Employer Competitive Note** As a UX/UI designer, your ability to effectively design user habits can be the difference between successful solutions and failure. Habit loops and user behavior modeling should be added to your skill set on your resume and your LinkedIn skills profile.
+## SLIDE 76
+Questions?
 
-> **Instructor Note:** Take any questions that students may have about the concept of habit loops before moving on.
-
-Now that students have the theory of micro-interactions down, you can move on to your demo. After that, students will be fully prepared to create their own micro-interaction.
-
+## SLIDE 77
 ## 13. Instructor Do: Demo - Micro-interaction Adobe XD (10 min)
 
 **Instructions**
@@ -782,6 +822,7 @@ Walk through the Adobe XD sample in prototype mode to show off each micro-intera
 
 With that, students are as prepared as they're going to be to dive into creating their own micro-interaction prototypes. That's up next.
 
+## SLIDES 78-79
 ## 14. Student Do: Micro-interaction Prototype Activity (30 min)
 
 In this activity, you will work individually to build and prototype a micro-interaction in Figma/Adobe XD.
