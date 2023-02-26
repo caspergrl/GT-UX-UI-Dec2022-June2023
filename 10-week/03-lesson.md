@@ -103,12 +103,16 @@ Engage students in an important, yet brief, review of Atomic Design.
 - Follow up with "Why?"
   - *Answer:* UI can be started in many ways, but thinking about outlining the user goals of the interface and then applying the atoms through to the pages is an effective strategy. Small to big, but big must go back to small. A button can be designed out of context of a page but will be impacted by how it is used on a larger page.
 
-### Refresher on Atomic Design
 
+## SLIDES 1-4
+Review
+
+## SLIDE 5
 It's a system that helps designers understand the relationship between design elements and the systems they comprise.
 
 - **For example,** to understand a book, we must understand the words and sentences contained within it. However, their context informs the meanings of those words and sentences. One informs the other. This is called a **hermeneutic cycle** [hur·muh·noo·tuhk].
 
+## SLIDE 6
 ### The Design Thinking Process Is a Hermeneutic Cycle
 
 - The parts (atoms, molecules, and organisms) of the UI system build the whole (templates and pages). The desired functionality of the templates and pages inform which atoms, molecules, and organisms to employ in the UI design.
@@ -117,38 +121,10 @@ It's a system that helps designers understand the relationship between design el
 
 - **TAs:** Slack out into the #resource channel [https://www.uxbooth.com/articles/hermeneutics-for-designers/](https://www.uxbooth.com/articles/hermeneutics-for-designers/) for students to review at home.
 
-Keep the atomic design thread going, and discuss how it relates to button design in the next lecture.
+## SLIDE 7
+Review
 
-## 3. Instructor Do: Multistate Elements and UI Button Design (15 min)
-
-> :pushpin: **Important Point:** Your goal is to connect atomic design ideas to specific UI elements, buttons in this case that will support the first and second learning objectives for today. Students will be able to articulate the five interaction states for buttons and design and test UI buttons for those states.
-
-The following lecture will help you connect atomic design thinking (from last class) to button design. Remind students that atomic design approaches a website as a dynamic grouping of components, a system that builds a whole.
-
-> **Say:** "The atomic design ideas we learned last class apply to buttons. How? Buttons are dynamic and composed of various parts. A button is an atomic UI molecule!"
-
-### Define the Purpose of Buttons
-
-Buttons are nothing more than opportunities for your users to interact, whether that be a link, feature, or content review. Buttons are designed to grab a user's attention. Positive user experiences depend on buttons being well-designed.
-
-> :gem: **Designer Insight:** Ask one or two students to explain how buttons are "dynamic" and composed of parts. (This will teach them about buttons while reinforcing earlier learning about atomic design principles.)
->
-> - Answers may include: In the real world, a button can be pushed and is on or off.
-
-### UI Elements and States
-
-- States communicate the status of UI elements to the user.
-  - A **button state** refers to the state in which a button exists, which is driven by the user's actions.
-  - For example, when a user clicks on a button on a site, that button changes states—from "unclicked" to "clicked." You've seen this with URLs, which change color once you click them. In this way, "states" communicate user actions in relation to a button.
-
-Each button state should:
-
-- Be visually similar.
-- Not drastically alter a component.
-- Have clear affordances that distinguish it from other states and the surrounding layout.
-
-### UI Buttons Tool Snapshot
-
+## SLIDE 8
 **What are UI buttons?**
 
 Buttons communicate actions that users can take. They are typically placed throughout your UI, in places like dialogs, forms, toolbars, etc.
@@ -168,61 +144,80 @@ Buttons communicate actions that users can take. They are typically placed throu
 
 - To meet your user’s needs for recognizable, useful, usable UI elements.
 
-### Walk Through Types of UI States
+
+## SLIDE 9
+### Define the Purpose of Buttons
+
+Buttons are nothing more than opportunities for your users to interact, whether that be a link, feature, or content review. Buttons are designed to grab a user's attention. Positive user experiences depend on buttons being well-designed.
+
+## SLIDE 10
+Review
+
+## SLIDE 11
+- States communicate the status of UI elements to the user.
+  - A **button state** refers to the state in which a button exists, which is driven by the user's actions.
+  - For example, when a user clicks on a button on a site, that button changes states—from "unclicked" to "clicked." You've seen this with URLs, which change color once you click them. In this way, "states" communicate user actions in relation to a button.
+
+Each button state should:
+
+- Be visually similar.
+- Not drastically alter a component.
+- Have clear affordances that distinguish it from other states and the surrounding layout.
 
 - **Enabled:** An enabled state communicates an interactive component or element.
 - **Disabled:** A disabled state communicates a non-interactive component or element.
+
+## SLIDE 12
 - **Hover:** A hover state communicates when a user has placed a cursor above an interactive element (e.g., something the user can click on to go deeper into the app or webpage).
 - **Focused:** A focused state communicates when a user has highlighted an element, using an input method such as a keyboard or voice.
+
+## SLIDE 13
+Video on focused state
+
+## SLIDE 14
 - **Selected:** A selected state communicates a user's choice.
 - **Activated:** An activated state communicates a highlighted destination, whether initiated by the user or by default.
+
+## SLIDE 15
 - **Pressed:** A pressed state communicates a user tap.
 - **Dragged:** A dragged state communicates when a user presses and moves an element.
+
+## SLIDE 16
 - **On:** An on state communicates a toggle between two options.
 - **Off:** An off state communicates a toggle between two options.
 - **Error:** An error state communicates a user or system mistake.
 
-### UI Buttons
+## SLIDE 17
+Questions??
 
-- Buttons are a seemingly ordinary, workaday element of interaction design. However, because users encounter them so often, they are a vital element in creating a smooth user interaction experience on the web and in apps.
+## SLIDE  18
+Review
 
-- It's worth paying particular attention to their design. We'll go over button types and states and discuss best practices for button design so that you can create useful buttons that improve the UX.
+## SLIDE 19
+There are 5 main button interaction states
+- Normal
+- Focused
+- Hover
+- Active/Pressed
+- Disabled
 
-### Walk Through UI Button States
 
-- A button isn’t a one-state object. It’s a multistate object. The button changes when a user’s mouse hovers over it changes color when clicked, produces text, displays text such as “You’re enrolled!” and so forth.
-
-- Designers are responsible for the visual feedback users receive when they interact with an app or site.
-
-- UI buttons are meant to direct users to take the action that you want them to take (e.g., sign up, enroll, find out more, etc.). Glitches—such as the inability to find the correct button—are, at best, interruptions and can become, at worst, breakdowns.
-
+## SLIDE 20
 1. **Normal state:** The main rule for this state: a UI button should look like a button in a normal state. Windows 8 is an excellent example of such a problem; it is hard for users to know if things are clickable or not in Settings.
 
 2. **Focused state:** Offer good visual feedback to users. A focused state communicates when a user has highlighted an element.
 
+## SLIDE 21
 3. **Hover state:** Offering good visual feedback to users that they’re hovering over a button is good practice. Users instantly know their action was accepted, and they want to be delighted by visual rewards.
 
 4. **Active/pressed state:** By animating different elements of your design, you can add a bit of excitement and delight your users with creative and helpful motion.
 
+## SLIDE 22
 5. **Disabled/inactive state:** There are two possibilities—either show it in a disabled state or hide the UI button.
    - Hiding UI buttons is not recommended for usability and accessibility issues.
 
-### Arguments for Hiding the Button
-
-- **Clarity:** It only shows what is needed for the task at hand.
-
-  - Gmail hides unused buttons and makes them visible only if the user takes an appropriate action.
-
-Arguments for using a disabled state:
-
-- Shows the action possibility. Even if the button isn’t in use, the user can learn that the action is possible.
-  
-- You may even have a tooltip explaining the criteria for use.
-  
-- Control location. The user can learn where controls and buttons live within the interface.
-
-- > **Ask:** Which button state is on desktop only?
-- Answer: The desktop has a hover state as the dominant interaction model for desktop computers in the mouse and keyboard.
+## SLIDES 23-25
+Review
 
 - **TAs:** Slack out the following links into the #resources channel for students to read at home.:
   - [https://uxplanet.org/7-rules-for-mobile-ui-button-design-e9cf2ea54556](https://uxplanet.org/7-rules-for-mobile-ui-button-design-e9cf2ea54556)
@@ -230,36 +225,37 @@ Arguments for using a disabled state:
 
 > :gem: **Designer Insight:** Now, share how you approach button states in your client work.
 
-### Review UI Button Design Best Practices
-
+## SLIDE 26
 - **Test all of your buttons.** Testing will validate if your button is achieving its design and interface potential.
 
+## SLIDE 27
 - **Make buttons look like buttons.** When it comes to interacting with a UI, users need to know instantly what's clickable and what’s not. Every item in a design requires effort by the user to decode. Generally, the more time needed for users to decode the UI, the less usable it becomes for them.
 
+## SLIDE 28
 - **Label buttons with what they do.** Buttons with generic or misleading labels can be a massive source of frustration for your users. Write button labels that clearly explain what each button does. Ideally, the button’s label should clearly describe its action.
 
+## SLIDE 29
 - **Make buttons finger-friendly for mobile users.** In many mobile apps, buttons are too small, which often leads to a situation in which users mistype.
 
+## SLIDE 30
 - **Use button shapes.** Make buttons square or square with rounded corners, depending on the style of the site or app.
 
+## SLIDE 31
 - **Provide visual or audio feedback on interaction.** When users click or tap on the button, they expect that the UI will respond with appropriate feedback. For example, use a “ding” or “swoosh” sound or a visual indicator like color, text, or a checkmark that confirms the user transaction was successful.
 
+## SLIDE 32
 - **Put buttons where users expect to find them.** Buttons should be located in places where users can easily find them or expect to see them. Don’t make users hunt for buttons. If users can’t find a button, they won’t know that it exists.
 
+## SLIDE 33
 - **Mind the order.** The order for buttons should reflect the nature of a conversation between the user and the system. Ask yourself, in what order do users expect buttons to appear on this screen? Design accordingly.
 
+## SLIDE 34
 - **Avoid using too many buttons.** This is a common problem for many apps and websites. When you provide too many options, your users end up doing nothing. When designing pages in your app or website, think about the most important actions you want your users to take.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you are expected to be experts in buttons and maintaining a user interface system. This includes being skilled at executing the correct button interactions and "sweating all the little details." UI button design should be added to your resume and LinkedIn skills profile.
+## SLIDE 35
+Questions??
 
-> **Instructor Note:** Let's take a moment to check in with the class and see how comfortable they're feeling with the topic we just covered. Stop sharing your screen for a moment and switch to Gallery View in Zoom to see your class on one screen. You can find this option in the top right.
-
-> Ask your class to rate their level of understanding by raising their hand for a "Fist-to-Five" check. A closed fist (0) means they are lost on the topic and need much more help. An open hand (5) means they completely understand everything that was covered and feel confident and ready to go.
-
-> Use the feedback from this check to recommend office hours to review things more in depth, or adjust your pace throughout the rest of the class
-
-Seeing is believing. Follow up your discussion of buttons and button states with a demo. Show students how designers build buttons in Adobe XD to prepare them to create their own.
-
+## SLIDE 36
 ## 4. Instructor Do: Demo - Multistate UI Button (15 min)
 
 You will demo how to build a multistate button in Figma/Adobe XD.
@@ -311,6 +307,7 @@ If you need additional resources on how to build a button in Adobe XD, please wa
 
 Now that students have a grasp on how designers use Adobe XD to build multistate buttons, let them try creating buttons of their own. That's up next.
 
+## SLIDES 37-38
 ## 5. Student Do: Multistate UI Buttons Activity (20 min)
 
 For the next activity, students will design buttons with their partners. Remind your students of the roles and responsibilities of the driver and navigator, emphasizing that both are important as you will create multistate buttons as a team.
@@ -345,6 +342,7 @@ Working in pairs, students will complete the three-part activity:
 
 Students will create each other's buttons based on sketches.
 
+## SLIDE 39
 ## 6. Instructor Do: Multistate UI Buttons Activity Review (10 min)
 
 Call the class back to attention and lead a review of the button sketches and Figma/Adobe XD button designs.
@@ -380,37 +378,31 @@ Finally, discuss any **common misconceptions and FAQs** about buttons. For examp
 
 It's time to set buttons aside for a moment and use the ideas learned to approach another UI element: the form. Buttons and forms are both critical UI elements for customer enjoyment and retention. Designers spend a lot of time iterating on button designs to get them right.
 
-## 7. Instructor Do: UI Form Best Practices (10 min)
 
-> :pushpin: **Important Point:** Your goal is to help students understand the best practices designers use to create forms. This will give them something to measure their own forms against. This lecture, and the activities that follow, support the third, and final, learning objective for today, which is to build a UI form prototype.
+## SLIDE 40
+Review
 
-You're moving onto forms, but they are not that different from buttons. Both are dynamic UI elements. Both are business-critical—companies whose users have bad button or form experiences have trouble retaining customers.
+## SLIDE 41
+Review
 
-> :globe_with_meridians: **Online Recommendation:** Have students utilize the "raise hand" feature in Zoom. Call on a student, have them come off mute, and let them answer.
-
-- > **Ask:**  "What's a form?"
-  >
-  > - Correct answers include: A place for users to type in information, a place to search a site, a part of e-commerce, or a way to supply payment information.
+## SLIDE 42
+Web form UX is the process of focusing on how your site visitors interact with every aspect of your form. Successful web form UX ensures your form is easy to use, accessible, convenient, and professional. In turn, it helps you boost conversions and drive more business.
 
 The harder a form is to use, the less likely it is that your client will convert. When visitors to a site or app struggle with a form, they blame the business.
 
-> :briefcase: **Employer Competitive Note:** As UX/UI designers, you will work on UI forms, guaranteed. Therefore, you should be experts and have samples of these deliverables in your portfolios. Show employers that you know how to create a good user experience on UI forms, and you will be trusted to do the same for user features—i.e., fun and exciting work. Add UI form best practices to your resume skills and LinkedIn skills profile.
+As UX/UI designers, you will work on UI forms, guaranteed. Therefore, you should be experts and have samples of these deliverables in your portfolios. Show employers that you know how to create a good user experience on UI forms, and you will be trusted to do the same for user features—i.e., fun and exciting work. Add UI form best practices to your resume skills and LinkedIn skills profile.
 
-### Review Web Form UX/UI
-Web form UX is the process of focusing on how your site visitors interact with every aspect of your form. Successful web form UX ensures your form is easy to use, accessible, convenient, and professional. In turn, it helps you boost conversions and drive more business.
+**ANYTIME a user needs to submit or request some information, a form is involved**
 
+
+## SLIDE 43
 ### Why Do UI Forms Matter?
 
 The point of a web form is to collect certain personal information from your visitor, whether that be an email address or shipping and payment details. Why would visitors want to convert and conduct any business with you if the form they’re being asked to list their information on is difficult to use or visually unattractive? Simple answer, they wouldn’t.
 
 - Several factors go into great UX. Form UX matters because you want to leave a good (and lasting) impression on your visitors, create a positive experience for them while on your site, and convert more leads.
 
-> :gem: **Designer Insight:** Describe how your approach to making web forms is powerful for your clients and their site users.
->
-> - Alternatively, invite a TA to share a web form design anecdote from their own professional experience.
-
-### UI Forms Tool Snapshot
-
+## SLIDE 44
 **What are UI forms?**
 
 A form is a UI element that allows the user to send information to a server. 
@@ -431,32 +423,16 @@ A form is a UI element that allows the user to send information to a server.
 
 - UI forms help communicate what information is being stored with back-end developers. 
 
-### **Review the UI form best practice examples.**
+## SLIDE 45
+Review
 
-Forms are an essential part of many UIs.
+## SLIDES 46-54
+Review slides
 
-- What aspects of UX require a form?
-  - Surveys
-  - Login
-  - Email list
-  - Profile
-  - Application
-- Buttons are essential in UI forms.
-- UI forms are a crucial aspect of many webpages and businesses.
-- The nine web form design best practices:
-  1. Be simple, straightforward.
-  2. Use one column.
-  3. Arrange your form fields from easiest to hardest.
-  4. Use inline form field validation.
-  5. Align text to the left.
-  6. Use autofill browsers.
-  7. Address possible user concerns with summary boxes.
-  8. Include smart defaults.
-  9. Add progress bars for long forms.
-- Now it is your turn to practice building a mobile UI form.
+## SLIDE 55
+Questions??
 
-Give students a chance to apply the best practices for form design themselves in the next activity.
-
+## SLIDE 56
 ## 8. Student Do: Mobile UI Form Paper Prototype Activity (15 min)
 
 **TAs:** Slack out to students the following file in the #_in_class_chat channel:
@@ -501,6 +477,7 @@ As a bonus, students can trade sketches and review with a classmate.
 
 Students will create a multistate UI form.
 
+## SLIDE 58
 ## 9. Instructor Do: Mobile UI Form Paper Prototype Activity Review (10 min)
 
 - Call attention back and lead a review of students' form prototypes.
@@ -527,58 +504,53 @@ Finally, discuss any **common misconceptions and FAQs** about the UI forms. For 
 
 💎 **Designer Insight:** Wrap up the review by sharing a personal experience with forms—or invite a TA to share an anecdote about forms in his or her design work.
 
+## SLIDE 59
 ## 10. Break (15 min)
 
-Let's take a break.
+## SLIDE 60
+Review
 
-Let students know that when they return from break, you'll dive even deeper into forms.
-
-**Optional:** If there's good energy and you're tight on time, feel free to shorten the break.
-
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Instead, put up a Google or YouTube timer video. A visual time will help get students back into the main Zoom room on time.
-
-## 11. Instructor Do: Mobile UI Forms Dos and Don'ts (10 min)
-
-> :pushpin: **Important Point:** Your goal is to drive home what to do and what *not* to do with UI forms. This lecture also supports the third, and final, learning objective to build a UI form prototype in Figma/Adobe XD.
-
-In this section, you're going to go a bit deeper into how and why forms work. In particular, you'll go over the dos and don'ts of form design.
-
-Call class back to attention. Hopefully, everyone feels a bit refreshed.
-
-Say: *If you are thinking to yourself, "Forms are harder than I thought," know that UX/UI takes a lot of practice, and we are responsible for not making inferior forms.*
-
-### Dos and Don'ts
-
-Building interactions are about thinking through every step the user takes with a UI system.
-
+## SLIDE 61
 - **Do** make required fields obvious.
   - Define the required fields.
   - Make forms legible.
   - All forms get labels.
-- ***Don't*** clear forms on refresh.
+
+## SLIDE 62
+- ***Don't*** clear forms on refresh (or at least have a good reason to do this).
+
+## SLIDE 63
 - **Do** help complete forms over time.
   - Use autofill.
   - Decrease task abandonment.
-- **Do** let the user know what percentage of the form is complete.
+  - Let the user know what percentage of the form is complete
+
+## SLIDE 64
 - ***Don't*** use multiple columns.
   - Users often omit fields if they are in more than one column.
   - It's easy for users to misinterpret field relationships in multiple column formats.
+
+## SLIDE 65
 - **Do** split up lengthy forms into form wizards.
   - UX is helping to reduce the user's cognitive load.
-- ***Don't*** use red asterisks to indicate the required fields.
-  - Users associate negative emotions with the color red.
-  - Most forms have required fields.
+
+## SLIDE 66
 - **Do** add error-finding queues.
   - The user will not always complete, as asked.
+
+## SLIDE 67
 - ***Don't*** use too much text or color for calls to action (CTAs).
   - Confusing CTAs cause cognitive overload in users.
   - CTAs are successful when they're no-brainer-level obvious.
+
+
+## SLIDE 68
 - **Do** use autofill to help complete forms.
 
-> :briefcase: As UX/UI designers, you will build a lot of UI form prototypes. Becoming skilled at them now will speed up your on-the-job performance. Add UI form prototyping to your resume skills and LinkedIn skills profile.
+## SLIDE 69
+Questions??
 
-Now, take forms a step further by showing students how designers use Figma/Adobe XD to create forms.
-
+## SLIDE 70
 ## 12. Instructor Do: Demo - Mobile UI Forms (15 min)
 
 Time to demo building a sign-up form in Figma/Adobe XD.
@@ -625,6 +597,8 @@ Time to demo building a sign-up form in Figma/Adobe XD.
 
 Students are now ready to get hands-on and design forms in Adobe XD or Figma in the next activity.
 
+
+## SLIDES 71-72
 ## 13. Student Do: Mobile UI Form Prototype Activity (25 min)
 
 **TAs:** Slack out to students the following file in the #_in_class_chat channel:
@@ -667,6 +641,7 @@ As a bonus, students can enhance their prototype with micro-interactions and ani
 
 Students will share in Slack a screenshot of their form prototype.
 
+## SLIDE 73
 ## 14. Instructor Do: Mobile UI Form Prototype Activity Review (10 min)
 
 **TAs:** Slack out the mobile UI form solution file into the #resources channel to students: [https://drive.google.com/open?id=1RdyW6QvBTgwSX0ggwZQ4vRHyTT1gaL5u](https://drive.google.com/open?id=1RdyW6QvBTgwSX0ggwZQ4vRHyTT1gaL5u).
