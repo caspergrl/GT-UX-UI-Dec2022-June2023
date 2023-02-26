@@ -105,49 +105,73 @@ Encourage your students to use office hours. By the same token, encourage them t
 
 In this section, you're going to encourage students to see webpages as UI systems. We want them to understand the pieces that comprise the whole.
 
-Let's start by thinking BIG! Let's "get cosmic."
 
-- > **Ask:** "Has anyone seen the Milky Way?"
-- Call on a few students to share their experiences. Say, "Tell us briefly where you were when you saw it and how that made you feel."
-  
-- Share a personal experience if you have one.
-  
+## SLIDES 1-4
+Review
+
+## SLIDE 5
+- > **Ask:** "Has anyone seen the Milky Way?"... "Tell us briefly where you were when you saw it and how that made you feel."
+    
 - What does the Milky Way have to do with UX design? Well, it requires us to think conceptually, especially since we can only see an exceedingly small part of it. The cosmos is large and complex, yet it has order. Just like UX/UI design.
 
+## SLIDE 6
   - **Read the quote of** Clement Mok, a graphic designer and author.
 
 - The cosmos is helpful to keep in mind as a way to think about atomic design. This is because what might seem vast and hard to approach, like space, has order and structure, and we will break it down into its individual parts.
 
-### Atomic Design
 
+## SLIDE 7
 Atomic design is a methodology for designing within dynamic systems as a way to create systems that consider the parts that build the whole.
 
+
+## SLIDE 8
+**What**
+Atomic design is a methodology comprised of 5 levels which we use to evaluate and organize complex UI systems, typically in preparation for building design systems.
+The levels are:
+- Atoms
+- Molecules
+- Organisms
+- Templates
+- Pages
+
+**When**
+- In preparation for designing and developing a design system
+- working to establish rules about visual design surrounding consistency, maintenance and organization
+
+
+**Why**
+- Design systems are often large, complex systems that can be difficult to maintain just due to size. Atomic design can help add clarity both when dealing with maintenance as well as when preparing to create new systems though giving teams a shared understanding and langauge for the components.
+
+
+## SLIDE 9
+Review
+
+## SLIDE 10
+_Read quote from Brad_
 - Developer Brad Frost authored *Atomic Design*, which provides a methodology for crafting design systems.
 
-- > **Say:** "Atomic design is a process that considers the parts of a web or app system to help us build the whole experience through code."
+"Atomic design is a process that considers the parts of a web or app system to help us build the whole experience through code."
 
 - Atomic design employs a scientific lexicon for building interfaces: Atoms > Molecules > Organisms > Templates > Pages.
 
 - **TAs:** Slack out in the #resource channel [Brad Frost's *Atomic Design*](http://atomicdesign.bradfrost.com/) for students to read at home.
 
-> :gem: **Designer Insight** Share how you think about Atomic Design to help students grasp the basic concept. Feel free to "think" on the whiteboard!
->
-> - Alternatively, ask a TA to share.
 
-### Atomic Design Parts
-
+## SLIDE 11
 1. **Atoms:**
 
    - Atoms are the basic building blocks of matter. When applied to web interfaces, atoms are our HTML tags, such as a form label, an input, or a button.
    - Using our earlier "house" metaphor, think of atoms as nails, tile, or lumber.
    - Discuss atoms as the smallest pieces of your system.
 
+## SLIDE 12
 2. **Molecules:**
 
    - Molecules are groups of atoms bonded together and are the fundamental units of a compound. These molecules take on their own properties and serve as the backbone of our design systems.
    - Using the "house" metaphor, think of molecules as windows (glass and lumber) or a door (lumber and doorknob and hinges).
    - Building up from atoms to molecules encourages “doing one thing and doing it well.”
 
+## SLIDES 13-14
 3. **Organisms:**
 
    - Organisms are groups of molecules joined together to form a relatively complex, distinct section of an interface.
@@ -155,6 +179,7 @@ Atomic design is a methodology for designing within dynamic systems as a way to 
    - Building up from molecules to organisms encourages creating standalone, portable, reusable components.
    - > **Say:** "We discussed content chunking. An organism is a chunk."
 
+## SLIDE 15
 4. **Templates:**
 
    - Templates consist mostly of groups of organisms stitched together to form pages.
@@ -162,35 +187,32 @@ Atomic design is a methodology for designing within dynamic systems as a way to 
    - Using the "house" metaphor, think of a template as a closet and room paired with windows and doors to create a bedroom. This "template" could be used in several house designs in a development.
    - Templates are reusable and can be filled with different types of content.
 
+## SLIDE 16
 5. **Pages:**
-
-> **Instructor Note:** Share the Steven Hay quote:
->
-> ​	*"We’re not designing pages; we’re designing systems of components."*
-
-- Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will see.
+Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will see.
 - Pages apply content and have the highest level of fidelity because they’re the most tangible.
 - Pages are most applicable to websites due to the fact they are designed as paged experiences. Still, app screens can also be designed into similar pages of the experience. For example, in Slack, all channels use the same page layout.
 - Using our "house" metaphor, think of pages as adding actual home furnishings to bare rooms, bringing the space to life.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to help create a designer system. Atomic design thinking is valuable for using, designing, or iterating a solution at scale. This is a highly valuable skill and should be included in your resume and your LinkedIn skills profile.
+## SLIDE 17
+Pages are the place to test variations in templates... 
 
-- Review the atomic design method.
-- Take the power of designing a UI system seriously. By "seriously," we mean:
-  - Sweat the detail and keep your system consistent.
-  - Consider how all the parts add up to something greater. The sum of the atomic parts is bigger than the part itself.
+## SLIDE 18
+"We’re not designing pages; we’re designing systems of components."
 
-- **Ask,** "Any questions?"
+## SLIDE 19
+Atoms make up molecules. Molecules make up organisms. Organisms make up templates and templates can be used to build pages.
 
-> :gem: **Designer Insight:** Share how atomic design thinking shows up in your own work—whether showing work you've done or just conveying the concept anecdotally.
+## SLIDE 20
+Questions??
 
-### Walk Through the Atomic Design of the University of Sydney
+## SLIDES 21-28
+Review 
 
-- > **Say:** "Let's practice identifying atomic design."
-- Walk through the University of Sydney slides and encourage students to identify aspects of atomic design.
+## SLIDE 29
+Questions?
 
-Now that students have learned how the atomic design methodology classifies parts of a website, they should have a new way of looking at a website. Students should think of a site not as a whole but as a system of components. In the next activity, students will identify the three types of atomic elements on a website.
-
+## SLIDES 30-31
 ## 3. Student Do: Atomic Design e-Commerce Analysis Activity (20 min)
 
 **TAs:** Slack out to students the following Google Doc activity in the #_in_class_chat:
@@ -220,6 +242,8 @@ Here, students will get hands-on practice identifying and then creating atomic e
 
 Students will share a photo of their sketched organism via Slack.
 
+
+## SLIDE 32
 ## 4. Instructor Do: Atomic Design e-Commerce Analysis Activity Review (10 min)
 
 Call the class back to attention, and lead a review of the atomic organism samples.
@@ -256,89 +280,34 @@ Call the class back to attention, and lead a review of the atomic organism sampl
 
 Now that students know how to see the system components and not just the whole, they have a foundation for appreciating wireframes, which we build from components, which are covered in the next section.
 
-## 5. Instructor Do: Wireframes - Layout, Type Hierarchy, and UI Components (20 min)
 
-> :pushpin: **Important Point:** Your goal is to help students to appreciate the three components that comprise a wireframe—an extension of their atomic design learning. This supports today's third learning objective, which is to create a wireframe using InVision Freehand.
+## SLIDE 33
+Review
 
-Students' understanding of atomic design will help them grasp wireframes. Whereas atomic design deals with systems of components, wireframes deal with three parts that make up a whole.
+## SLIDE 34
+Review
 
-> **Say:** "What do we do with all of this UI analysis we've done? We begin to redesign a webpage. The first step of that is creating a wireframe."
-
-### Walk Through the Wireframe Layout
-
-A wireframe is a visual guide that represents the skeletal framework of a website. This blueprint or page schematic is created to lay out site elements in the best way possible to support a specific purpose, whatever your page goal.
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to be an expert in wireframing and show how you use these design deliverables in your portfolios. Wireframing should be a skill on your resume and in your LinkedIn skills profile.
-
+## SLIDE 35
 - A wireframe is made up of three essential parts:
 
 1. Content layout and grid use
 2. Type hierarchy
 3. UI components
 
-- The website wireframe will show the arrangement of the content on your site. Wireframes typically include navigation, interface elements, copy, and so on. Wireframing is just a part of the design process. It should focus on your user's needs when interacting with content, which requires considering the context (mobile, tablet, desktop, etc.).
+- The wireframe will show the arrangement of the content on your site. Wireframes typically include navigation, interface elements, copy, and so on. Wireframing is just a part of the design process. It should focus on your user's needs when interacting with content, which requires considering the context (mobile, tablet, desktop, etc.).
 
 - The context includes the interface modality and the content, which is something you can only hope to put together if you understand the user's goal, the product or service, the value proposition, and the actual message.
 
-### What a Website Wireframe Is NOT
 
-- A place to include various end visuals such as pictures, actual colors, and fonts (there’s a reason they’re called “end” visuals).
-
-- A place to include lorem ipsum filler copy (use real text in the wireframe for clarity).
-
-- An actual design (wireframes show how the site works, not how it will look).
-
-- Just a drawing (remember, wireframes are 90% thinking/planning and just 10% drawing).
-
-- A place to do a rush job (you should label and describe every element of each page to avoid any misunderstandings).
-
-### Review the Example and Ask
-
-  - What guidance does this deliverable give your design team?
-  - How is this kind of “wireframe” supposed to guide you in building your site?
-  - How does it ensure that your message is focused?
-
-- Website wireframing is as close to an architect's job for web design as it can be. Wireframing should lay out the details necessary to visualize how the page will be structured, its layout, the flow of its messaging, and where its copy and images will be placed. Wireframes consider all of the elements that will help the page fulfill its goal: navigation, links, text, microcopy, flow, and calls to action.
+## SLIDE 36
+Review elements of a wireframe
 
 - **TAs:** Slack out in the #resources channel [The Hipper Element](https://thehipperelement.com/post/53283081651/protip-tuesday-8-what-isnt-a-wireframe) for students to read at home.
 
-> :gem: **Designer Insight:** Describe the value wireframes have had in your work with design teams. 
+## SLIDES 37-41
+Review
 
-### What *Should* a Website Wireframe Look Like?
-
-You want to consider what a good flow for your messaging would be and how you would determine where to put your call to action. Would you need a form or would you send the buyer to another page through a button? You can answer this by determining your page's ultimate goal and what the next step should be.
-
-- For example, let’s talk about a product page. Any product page's objective is always to get them to buy/ask/request a quote for it.  One of the first things you want on the product page is an attractive, large picture of the product, and all of the relevant product details.
-
-- Facebook does it right. In their Business Profile page, they have enough information to answer the most commonly asked questions, plus a form to make it easy for to immediately get in touch.
-
-### Four Steps to Create Wireframes
-
-1. Complete your user persona.
-2. Figure out the content messaging.
-3. Sketch out the wireframe layouts in blocks.
-4. Detail and annotate the wireframe.
-
-As you are creating your website wireframe in real size, you will need to define the following elements in your wireframe:
-
-- Usability conventions
-  - For example, placing the navigation on top, next to your logo, add a tagline, placing the search box—if you have one—on the top right, etc.
-
-- Layout and spacing
-  - How are elements positioned on a screen?
-
-- Information hierarchy
-  - What’s more important than what? Which messages need to be emphasized with font size?
-
-- Interactivity
-  - Make annotations.
-
-- Calls to action
-  - Where would you place your calls to action? How big should they be?
-
-- Images/interactivity
-  - What type of images/interactivity might help convey the message?
-
+## SLIDE 42
 ### Six Issues to Address in a Wireframe
 
 1. **Clarity:** Right at the top of your page, you need to have your value proposition answering basic questions for the visitor.
@@ -347,18 +316,29 @@ As you are creating your website wireframe in real size, you will need to define
 
 3. **User confidence:** Can the user feel confident that yours is a trustworthy business?
 
+
+## SLIDE 43
 4. **Social proof:** No one wants to be the first one to buy your product or service. It’s too risky.
 
 5. **Reduce friction:** Some friction-reducing elements include shorter sentences and paragraph structures that can be scanned and that consider how people read on the web.
 
 6. **Microcopy:** Refers to the tiny tidbits of copy found on websites, applications, and products. These short sentences tell a user what to do. Microcopy addresses user concerns, provides context to a situation, and helps determine the greater story about your brand/product and how you do business.
 
-### Walk Through Typography Hierarchy
+
+## SLIDE 44
+Questions?
+
+## SLIDE 45
+Review
+
+## SLIDE 46
 Type hierarchy is a system for organizing type that establishes an order of importance, allowing the reader to quickly navigate content and find what they want.
 
+## SLIDE 47
 ### Type Size
 Type size is the first place to start with hierarchy. In HTML, typography tags establish a default set of sizes. H1-H6 HTML elements: We'll explore more of this in front-end development, but start thinking about how type is an essential piece of UI systems and website code systems.
 
+## SLIDE 48
 ### Type Weight and Proportion
 Along with size, type weight can help clarify what is essential or not. Use the two-thirds rule: two typefaces with three weights each. Type proportion refers to the proportion of the width of a character to its height.
 
@@ -368,82 +348,43 @@ Along with size, type weight can help clarify what is essential or not. Use the 
 
   - [https://www.fonts.com/content/learning/fontology/level-2](https://www.fonts.com/content/learning/fontology/level-2)
 
+## SLIDE 49
 ### Type Positioning 
 Where sections of information are positioned in relationship to each other can establish a hierarchy.
 
-### Typography Tips
 
-1. Limit typefaces:
+## SLIDE 50
+Review
 
-   - > **Say:** "*In typography, less is more. Do not use too many typefaces.*"
+## SLIDE 51
+Buttons, toggles, dropdowns, checkboxes, these are typically in a more generic way as "components" or "elements" - thought you'll find out that both words are also used to describe not just Atoms but also Molecules and Organisms.
 
-     - Keep in mind that clarity is the goal of your text hierarchy.
+## SLIDE 52
+Input patterns include elements such as checkboxes, radio buttons, many of the items we just talked about. 
 
-     - Using two typefaces for one design is a safe standard.
+## SLIDE 53
+These patterns include things like breadcrumbs, sliders, searches, pagination and scrolling, etc.
 
-   - Why? Unless done carefully, combining more than two typefaces can have a distracting and cluttered effect.
+## SLIDE 54
+Information patterns include tooltips, icons, progress bars, notifications, cards and modals.
 
-     - As a general rule of thumb, an exciting font can pair well with a neutral font.
 
-     - One typeface for headings and one for body.
+## SLIDE 55
+Questions?
 
-2. F-shaped patterns:
+## SLIDE 56
+Review
 
-   - > **Say:** "*This slide shows the results of using eye-mapping technology to create a hierarchical map of our text.*"
-
-   - An F-shaped pattern is how Western users scan a webpage.
-
-   - Follow an F-shaped pattern:
-
-     - Help the user with legibility.
-
-     - In English, we read top to bottom, left to right. Consistency in language leads us to scan down the left side of the page, then read to the right when we see something interesting.
-
-     - For a more practical example, ask students to imagine a site like Wikipedia (sidebar with text on the left, headings, then body under the heading).
-
-3. Type contrast in Z-shaped patterns:
-
-   - > **Say:** "*Consider how your user learns and scans a composition.*"
-
-   - Apply a Z-shaped pattern.
-
-   - Structure and organization in typography can assist in usability.
-
-   - Consider how your user has learned to look at a page.
-
-4. Type weight and visual pairings:
-
-   - > **Say:** "*Typeface selection is critical to establishing visual hierarchy.*"
-
-5. Type spacing and white space:
-
-   - > **Say:** "*Space can emphasize type hierarchy.*"
-
-     - Spacing impacts your visual hierarchy in two distinct ways: proximity and negative space.
-
-     - Proximity is a powerful tool for a web designer, as it can suggest an element’s meaning and functionality using only visuals.
-
-### Type Quiz 
-
-Review the two Open Table and Airbnb examples. 
-
-**Ask students:** 
-- "What type do you see first?"
-- "What is the primary action of the users?" 
-- "What are the interactions required?"
-
-### Walk Through the UI Components
-
-Review the UI components on the slides: input patterns, navigation patterns, and information patterns.
-
-### Walk Through the UI Cards Patterns
-
+## SLIDE 57
 Cards are a common UI component. They became almost a default option when balancing UI aesthetics with excellent usability. Cards are a big trend in UI design.
 
-> **Instructor Note:** You gave students a brief demo of Freehand in Unit 9 (Lesson 9.1) to prepare them for the IA activity. Therefore, you do not need to give another demo now. If someone needs a refresher, you can tend to them during the activity.
+## SLIDES 58-60
+Review
 
-Now that students understand the essential components of a wireframe, they can create one of their own.
+## SLIDE 61
+Questions??
 
+## SLIDES 62-63
 ## 6. Student Do: InVision Freehand Wireframe Activity (15 min)
 
 **TAs:** Slack out to students the instructions: [10-Week/02-Activities/10.2/10.2-02-InVision-Freehand-Wireframe-Activity Google Doc](https://drive.google.com/open?id=1emIDU-aVbQa4laSL0dudRXe253tYdZm3teUopoza1sc).
@@ -472,6 +413,7 @@ This activity allows students to apply their knowledge of wireframing in Figma/A
 
 Students will submit via Slack a screenshot of the wireframe they created with the Freehand tool.
 
+## SLIDE 64
 ## 7. Instructor Do: InVision Freehand Wireframe Activity Review (10 min)
 
 Call the class back to attention and lead a critique of students' InVision Freehand work.
@@ -515,47 +457,20 @@ Repeat this critique process for one to two more designs.
 
 Hopefully, students feel more competent at building a wireframe and appreciate how a wireframe is the sum of its parts (layout plus type plus UI components).
 
+## SLIDE 65
 ## 8. Break (15 min)
 
-It's time for a break.
+## SLIDE 66
+Review
 
-Let students know that after the break they'll learn how to bring detail, color, and specifics to their wireframes—and transform them into something called a "mockup." Mockups are an exciting step in the UI design process because it's when wireframes begin to look like websites.
-
-**Optional:** If students are feeling particularly energetic or the lesson is running behind, feel free to shorten the break.
-
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
-## 9. Instructor Do: UI Style Guides, Material Design, and Mockups (15 min)
-
-> :pushpin: **Important Point:** Your goal is to walk students through style guides and material design to prepare them to create a mockup from a wireframe. Emphasize how designers implement a style guide. This section ties into today's fourth, and final, learning objective, preparing students to create a mockup using a material design library, applying a style guide, and working in Figma/Adobe XD.
-
-It's time to bring students deeper into UI design by showing them how designers transform wireframes into mockups. It's an exciting lesson because you'll be teaching students how color and style choices bring a site design concept to life.
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to work quickly within existing systems. Your ability to show how you can manipulate and effectively apply high-fidelity design will go a long way in helping you secure a new job. Add these UI kits and frameworks to your resume and LinkedIn skills profile.
-
+## SLIDE 67
 ### Style Guides
 
 Whether you’re overseeing the marketing efforts in a large B2B organization or running a startup, a style guide should be an integral component of your marketing strategy. A style guide or manual of style is a set of standards for the writing, formatting, and design of documents.
 
-> :gem: **Designer Insight:** Ask one to two students to share any previous experience they may have had with style guides. 
-
 - A style guide is a document that provides guidelines for the way your brand should be presented from both a visual and a language perspective. The purpose of a style guide is to make sure that multiple people contribute to a design and that they do so clearly and cohesively in a way that reflects the corporate style and ensures brand consistency with everything from design to writing.
 
 - Style guides are maintained by a design and development team.
-
-### Compare and Contrast Style Tile and Style Guide
-
-Students already know what a style tile is, so compare it to a style guide. One way to think of a style tile is as a modified or “lite” version of a style guide.
-
-### Walk Through UI Style Guide Elements
-
-UI Style guide is a design and development tool that brings cohesion to a digital product's UI and experience. At their core, style guides:
-
-- Record all of the design elements and interactions that occur within a product.
-- List crucial UI components such as buttons, typography, color, navigation menus, etc.
-- Contain live elements and code snippets for developers to reference and use.
-
-The value of style guides extends beyond big brands with large product teams. Small to midsize businesses seeking a consistent digital experience also benefit when UI style guides are tailored to their specific needs.
 
 #### Typography
 
@@ -565,6 +480,7 @@ Typography is one of the most common interface design elements, so it’s not en
 
   - Additionally, font sizes should be provided, weights indicated, and styles defined. Line height and kerning (the space between letters) are also needed, and it’s a good idea to single out a go-to font to be used when exceptional circumstances arise.
 
+## SLIDE 68
 #### Color Palette
 
 One of the quickest ways to wreck an interface is inconsistent color use, so color combinations need to be clearly defined.
@@ -573,6 +489,7 @@ One of the quickest ways to wreck an interface is inconsistent color use, so col
 
 - For example, in addition to a broad color palette that includes a range of lighter secondary colors, IBM's UI Style Guide demonstrates how to apply specific schemes (like this triadic example) to its products.
 
+## SLIDE 69
 #### Buttons 
 
 Nearly every interface includes buttons, so take time to document their sizes, styles, colors, placement, spacing, and typographic elements.
@@ -587,6 +504,7 @@ Components may be necessary depending on the content, website, or application in
 
 In addition to must-have UI components, several practical features make UI style guides easier for businesses and design teams to reference, navigate, and implement, such as:
 
+## SLIDE 70
 #### Table of Contents
 
 A well-organized and marked table of contents is a simple way to help everyone quickly find what’s inside the document.
@@ -601,18 +519,14 @@ Frequently, it can be helpful to outline design dos and don’ts clearly.
 
 - **TAs:** Slack out in the #resource channel: [https://www.frontify.com/](https://www.frontify.com/) for students to explore at home.
 
-### Walk Through Material Design
-Material Design is an Android-oriented design language created by Google, supporting onscreen touch experiences via cue-rich features and natural motions that mimic real-world objects. Designers optimize users’ experience with 3D effects, realistic lighting, and animation features in immersive, platform-consistent GUIs.
 
-- **Read the quote of** Matías Duarte, Google's VP of Material Design.
+## SLIDE 71
+Questions??
 
-- Material design involves applying fundamental, natural laws from the physical world, principally concerning lighting and motion. The idea is that by mimicking the physical world, we reduce users’ cognitive loads. Through careful attention to layout, visual language, and pattern libraries, we can maximize predictability and eliminate ambiguity.
+## SLIDE 72
+Review
 
-- **TAs:** Slack out these links in the #resources channel for students to nerd out at home:
-  - [https://material.io/design/](https://material.io/design/)
-  - [https://www.youtube.com/watch?v=tfSiXRy1vEw](https://www.youtube.com/watch?v=tfSiXRy1vEw)
-
-### Walk Through High-Fidelity Mockups
+## SLIDES 73-74
 
 Mockups are a visual representation of an app, product, or website. While a wireframe mostly represents a product’s structure, a mockup shows what a product is going to look like. However, a mockup is not clickable (just like the wireframe). A mockup is either a mid- or high-fidelity display of design.
 
@@ -622,10 +536,15 @@ Mockups are a visual representation of an app, product, or website. While a wire
 
 - You can't sketch a mockup. Mockups are made using design tools.
 
-Now that students have a grasp of the theory, it's time for them to put what they've learned into action. Next, they will design their own mockups.
 
-> **Instructor Note:** Students will be using a pre-created wireframe for this activity, so they don't have to stress about whether or not their wireframe from the previous activity is complete.
+- **TAs:** Slack out these links in the #resources channel for students to nerd out at home:
+  - [https://material.io/design/](https://material.io/design/)
+  - [https://www.youtube.com/watch?v=tfSiXRy1vEw](https://www.youtube.com/watch?v=tfSiXRy1vEw)
 
+## SLIDE 76
+Questions??
+
+## SLIDE 77-78
 ## 10. Student Do: Material Design Mockup Activity (40 min)
 
 It's time to practice creating a mockup using the material design library.
@@ -657,6 +576,7 @@ This activity allows students to apply their knowledge of wireframes and mockups
 
 Students will take a screenshot of their wireframe and share it via Slack.
 
+## SLIDE 79
 ## 11. Instructor Do: Material Design Mockup Activity Review (15 min)
 
 Call the class back to attention and lead a review of the mockups.
