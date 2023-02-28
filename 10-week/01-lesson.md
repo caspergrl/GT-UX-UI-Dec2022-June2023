@@ -470,9 +470,10 @@ Alan Cooper popularized goal-driven design in his book, *The Inmates Are Running
 
 1. Design first, program second
 2. Separate responsibility for design from responsibilities for programming
-3. Hold designers responsible for product quality
-4. Define one specific user for your product
-5. Work in teams of two
+3. Hold designers responsible for product quality - ALSO, as a part of this, more companies are expecting designers to hold product and engeineers accountable for product quality. 
+4. Define one specific user for your product to start - most products have at least a few core user types bu tyou should start with one to keep your focus on the early adopters and those most likely to benefit primarily.
+5. Work in teams of two - in other words, be collaborative! Don't work in a silo!
+
 
 **TAs:** Slack out to the #resources channel [The Inmates Are Running the Asylum/dp/0672326140/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=uxbo09-20&linkId=52189db31293c4003c0cba3200dbb868](https://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=uxbo09-20&linkId=52189db31293c4003c0cba3200dbb868) for students to add to their UX libraries for later reading.
 
