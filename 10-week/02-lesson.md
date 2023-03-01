@@ -113,12 +113,14 @@ Review
 
 ## SLIDE 4
 
-Review why changing user habits is essential:
+Habit loops refer to the hardwiring of information and processes in the brain that happens when we perform actions the same way frequently. Why would we want to change or build habits with our users?
 
-- Habits increase customer lifetime value.
-- Habits provide greater pricing flexibility.
+- Habits increase customer lifetime value (customer retention).
+- Habits provide greater pricing flexibility (a customer that continues to return is willing to pay more potentially to stay in the product).
 - Habits supercharge growth. “Hooked” users don’t churn.
 - Habits improve a business’s defensibility. It’s hard to get someone to stop using a product that they use without thinking.
+
+There are 4 steps associated with a habit loop to consider in UX which are the trigger, actions, rewards and investment 
 
 ## SLIDE 5
 The trigger (or cue) causes an individual to take an action. Triggers can be internal or external. In this case, a bright orange button is the trigger to encourage the user to search flghts.
@@ -127,16 +129,18 @@ The trigger (or cue) causes an individual to take an action. Triggers can be int
 Actions (also known as routines) are what the trigger causes the person to do after. In this case, search flights.
 
 ## SLIDE 7
-The action takes place if the following criteria are met:
-- The user must have sufficient motivation
+The action takes place if:
+- The user has sufficient motivation
 - They must have the ability to complete the desired action
-- There must be a trigger present in order to complete the action
+- If there is a trigger present in order to complete the action
+So they must have the desire, the ability and then the actual functionality in the UI to complete an action.
+
 
 ## SLIDE 8
-The reward happens when the action is completed and can be as simple as completing an action. It brings satisfaction and happiness (this is a great time to explore ways to add user delight!).
+The process of rewarding the user once the action is complete. It brings satisfaction and happiness (this is a great time to explore ways to add user delight!).
 
 ## SLIDE 9
-In a social media scenario, when we complete an action such as posting something, our peers give us validation as the reward. Having something go viral feels good!
+Rewards of the tribe: In a social media scenario, when we complete an action such as posting something, our peers give us validation as the reward. Having something go viral feels good!
 
 ## SLIDE 10
 In the Investment step of habit loops, users ideally continue using the product after accomplishing different tasks and experiencing the rewards from completing the action. For example, gaining rewards when going with a particular airline can be motivating to continue to use that airline.
