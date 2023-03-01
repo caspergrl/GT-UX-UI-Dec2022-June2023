@@ -120,13 +120,34 @@ Review why changing user habits is essential:
 - Habits supercharge growth. “Hooked” users don’t churn.
 - Habits improve a business’s defensibility. It’s hard to get someone to stop using a product that they use without thinking.
 
-## SLIDES 5-12
-Review slides
+## SLIDE 5
+The trigger (or cue) causes an individual to take an action. Triggers can be internal or external. In this case, a bright orange button is the trigger to encourage the user to search flghts.
+
+## SLIDE 6
+Actions (also known as routines) are what the trigger causes the person to do after. In this case, search flights.
+
+## SLIDE 7
+The action takes place if the following criteria are met:
+- The user must have sufficient motivation
+- They must have the ability to complete the desired action
+- There must be a trigger present in order to complete the action
+
+## SLIDE 8
+The reward happens when the action is completed and can be as simple as completing an action. It brings satisfaction and happiness (this is a great time to explore ways to add user delight!).
+
+## SLIDE 9
+In a social media scenario, when we complete an action such as posting something, our peers give us validation as the reward. Having something go viral feels good!
+
+## SLIDE 10
+In the Investment step of habit loops, users ideally continue using the product after accomplishing different tasks and experiencing the rewards from completing the action. For example, gaining rewards when going with a particular airline can be motivating to continue to use that airline.
+
+## SLIDE 11
+Many sites use data and history of our prior engagements with their products to keep us invested. For example, LinkedIn shows how many times we've showed up in others searches which could encourage use. Profiles that post more frequently also see higher engagement and get more visibility from others in the product (so post often!)
+
+## SLIDE 12
+Questions??
 
 ## SLIDE 13
-Questions?
-
-## SLIDE 14
 ## 13. Instructor Do: Demo - Micro-interaction Adobe XD (10 min)
 
 **Instructions**
@@ -212,87 +233,16 @@ Walk through the Adobe XD sample in prototype mode to show off each micro-intera
 
 With that, students are as prepared as they're going to be to dive into creating their own micro-interaction prototypes. That's up next.
 
-## SLIDES 15-16
-## 14. Student Do: Micro-interaction Prototype Activity (30 min)
+## SLIDE 14
+Review
 
-In this activity, you will work individually to build and prototype a micro-interaction in Figma/Adobe XD.
-
-**TAs:** Slack out to students in the #_in_class_chat channel the following activity files:
-
-- [10-Week/02-Activities/10.1/10.1-03-Micro-Interaction-Prototype-Activity Google Doc](https://drive.google.com/open?id=1vLxJlSkDnsSv3gpBANpgZSMUOrSh9mXndkfZcDoLnbw)
-
-- [10-Week/02-Activities/10.1/10.1-03-Micro-Interaction-Student-Starter-UX.zip](https://drive.google.com/open?id=1xVizsCMBZLLU__yGe8kaXsB356xTHbki)
-
-- [Boot Camp Figma Team 10.1-03-Micro-Interaction-Samples-Template](https://www.figma.com/file/9wqClddq5lXaGpzmgkODXK/10.1-03-UI-Micro-Interaction-Samples-Template?node-id=0%3A1)
-
-**Instructor and TAs:** During this activity, monitor the students for progress and offer support. Help out if they are missing everyday web tasks, such as buying products, registering, creating a profile, searching, saving, rating, watching, etc.
-
-**Summary**
-
-Here students will work in Figma/Adobe XD to design a micro-interaction prototype.
-
-**Instructions**
-
-First thing, have students open the Figma/Adobe XD materials in the Activity folder and download the samples they want to work with. From there, each student will design a micro-interaction in Figma/Adobe XD and animate it. Finally, students will share their work with a classmate for a feedback session. Following that, they may choose to iterate their micro-interaction.
-
-> :globe_with_meridians: **Online Recommendation:** Students will be working individually, so keep all students in the main Zoom room and have them all share their screens. During review, take volunteers to highlight their screen.
-
-**Deliverable**
-
-Students will share a prototype of an animated micro-interaction on Slack in the #_in_class_chat channel.
-
-## SLIDE 17
-## 15. Instructor Do: Micro-interaction Prototype Activity Review (15 min)
-
-- Call the class back to attention and lead a review of micro-interaction Figma/Adobe XD prototypes.
-
-> globe_with_meridians: **Online Recommendation:** End breakout rooms and call everyone back into the main Zoom room.
-
-- Aim to review the work of three to four students.
-- Ask students to present their work at the front of the classroom.
-- Facilitate peer feedback and give your own.
-
-- **Discussion facilitation questions to consider:**
-  - Why did you choose this micro-interaction?
-  - Why do you believe this micro-interaction is improving your user's experience?
-  - Have you seen a micro-interaction like this before or did you start from scratch?
-
-- Provide students with a few pieces of actionable feedback that they can apply directly to their work the next time they apply micro-interactions to prototypes, for example:
-
-  - Micro-interactions should not be too obnoxious or jarring—if a student's animation moves too fast or calls attention to itself in a distracting way, help nuance the prototype.
-
-  - Micro-interactions should occur where the user expects them. For example, an upload button turning into and animating the upload process. If a student is triggering an animation in their prototype that is not connected to an interaction, reinforce the role of micro-interactions as a way to improve and focus your user, not to distract them or get them to pay attention to other parts of the interface.
-
-- Finally, discuss any **common misconceptions and FAQs** about micro-interactions. For example:
-
-  - "Your user doesn't remember a micro-interaction." *False.* The micro interaction can be the most memorable feature. Remember the pull down to refresh your emails in iOS?
-
-  - "Micro-interactions are too time consuming for development." *False.* A UX/UI designer should be pushing at the limits and trying to build the best experience at all times.
-
-> :gem: **Designer Insight:** Invite a TA to share a professional anecdote about micro-interactions.
-
-- **TAs:** Slack out in the #_in_class_chat channel the solution file for students:
-  - [https://drive.google.com/file/d/1MCIvZO-wQ2qRLbGYK37hFunns0w5j-KW/view?usp=sharing](https://drive.google.com/file/d/1MCIvZO-wQ2qRLbGYK37hFunns0w5j-KW/view?usp=sharing)
-
-
-
-
-## SLIDE 18
+## SLIDE 15
 - > **Ask:** "Has anyone seen the Milky Way?"... "Tell us briefly where you were when you saw it and how that made you feel."
     
 - What does the Milky Way have to do with UX design? Well, it requires us to think conceptually, especially since we can only see an exceedingly small part of it. The cosmos is large and complex, yet it has order. Just like UX/UI design.
 
-## SLIDE 19
-  - **Read the quote of** Clement Mok, a graphic designer and author.
 
-- The cosmos is helpful to keep in mind as a way to think about atomic design. This is because what might seem vast and hard to approach, like space, has order and structure, and we will break it down into its individual parts.
-
-
-## SLIDE 20
-Atomic design is a methodology for designing within dynamic systems as a way to create systems that consider the parts that build the whole.
-
-
-## SLIDE 21
+## SLIDE 16
 **What**
 Atomic design is a methodology comprised of 5 levels which we use to evaluate and organize complex UI systems, typically in preparation for building design systems.
 The levels are:
@@ -311,10 +261,10 @@ The levels are:
 - Design systems are often large, complex systems that can be difficult to maintain just due to size. Atomic design can help add clarity both when dealing with maintenance as well as when preparing to create new systems though giving teams a shared understanding and langauge for the components.
 
 
-## SLIDE 22
+## SLIDE 17
 Review
 
-## SLIDE 23
+## SLIDE 18
 _Read quote from Brad_
 - Developer Brad Frost authored *Atomic Design*, which provides a methodology for crafting design systems.
 
@@ -325,21 +275,21 @@ _Read quote from Brad_
 - **TAs:** Slack out in the #resource channel [Brad Frost's *Atomic Design*](http://atomicdesign.bradfrost.com/) for students to read at home.
 
 
-## SLIDE 24
+## SLIDE 19
 1. **Atoms:**
 
    - Atoms are the basic building blocks of matter. When applied to web interfaces, atoms are our HTML tags, such as a form label, an input, or a button.
    - Using our earlier "house" metaphor, think of atoms as nails, tile, or lumber.
    - Discuss atoms as the smallest pieces of your system.
 
-## SLIDE 25
+## SLIDE 20
 2. **Molecules:**
 
    - Molecules are groups of atoms bonded together and are the fundamental units of a compound. These molecules take on their own properties and serve as the backbone of our design systems.
    - Using the "house" metaphor, think of molecules as windows (glass and lumber) or a door (lumber and doorknob and hinges).
    - Building up from atoms to molecules encourages “doing one thing and doing it well.”
 
-## SLIDES 26-27
+## SLIDES 21-22
 3. **Organisms:**
 
    - Organisms are groups of molecules joined together to form a relatively complex, distinct section of an interface.
@@ -347,7 +297,7 @@ _Read quote from Brad_
    - Building up from molecules to organisms encourages creating standalone, portable, reusable components.
    - > **Say:** "We discussed content chunking. An organism is a chunk."
 
-## SLIDE 28
+## SLIDE 23
 4. **Templates:**
 
    - Templates consist mostly of groups of organisms stitched together to form pages.
@@ -355,32 +305,32 @@ _Read quote from Brad_
    - Using the "house" metaphor, think of a template as a closet and room paired with windows and doors to create a bedroom. This "template" could be used in several house designs in a development.
    - Templates are reusable and can be filled with different types of content.
 
-## SLIDE 29
+## SLIDE 24
 5. **Pages:**
 Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will see.
 - Pages apply content and have the highest level of fidelity because they’re the most tangible.
 - Pages are most applicable to websites due to the fact they are designed as paged experiences. Still, app screens can also be designed into similar pages of the experience. For example, in Slack, all channels use the same page layout.
 - Using our "house" metaphor, think of pages as adding actual home furnishings to bare rooms, bringing the space to life.
 
-## SLIDE 30
+## SLIDE 25
 Pages are the place to test variations in templates... 
 
-## SLIDE 31
+## SLIDE 26
 "We’re not designing pages; we’re designing systems of components."
 
-## SLIDE 32
+## SLIDE 27
 Atoms make up molecules. Molecules make up organisms. Organisms make up templates and templates can be used to build pages.
 
-## SLIDE 33
+## SLIDE 28
 Questions??
 
-## SLIDES 34-42
+## SLIDES 29-36
 Review 
 
-## SLIDE 43
+## SLIDE 37
 Questions?
 
-## SLIDES 44-45
+## SLIDES 38-39
 ## 3. Student Do: Atomic Design e-Commerce Analysis Activity (20 min)
 
 **TAs:** Slack out to students the following Google Doc activity in the #_in_class_chat:
@@ -411,7 +361,7 @@ Here, students will get hands-on practice identifying and then creating atomic e
 Students will share a photo of their sketched organism via Slack.
 
 
-## SLIDE 46
+## SLIDE 40
 ## 4. Instructor Do: Atomic Design e-Commerce Analysis Activity Review (10 min)
 
 Call the class back to attention, and lead a review of the atomic organism samples.
@@ -449,13 +399,13 @@ Call the class back to attention, and lead a review of the atomic organism sampl
 Now that students know how to see the system components and not just the whole, they have a foundation for appreciating wireframes, which we build from components, which are covered in the next section.
 
 
-## SLIDE 47
+## SLIDE 41
 Review
 
-## SLIDE 48
+## SLIDE 42
 Review
 
-## SLIDE 49
+## SLIDE 43
 - A wireframe is made up of three essential parts:
 
 1. Content layout and grid use
@@ -467,15 +417,16 @@ Review
 - The context includes the interface modality and the content, which is something you can only hope to put together if you understand the user's goal, the product or service, the value proposition, and the actual message.
 
 
-## SLIDE 50
+## SLIDE 44
 Review elements of a wireframe
 
 - **TAs:** Slack out in the #resources channel [The Hipper Element](https://thehipperelement.com/post/53283081651/protip-tuesday-8-what-isnt-a-wireframe) for students to read at home.
 
-## SLIDES 51-55
-Review
+## SLIDES 45
+Review wireframes and annotations
 
-## SLIDE 56
+
+## SLIDE 46
 ### Six Issues to Address in a Wireframe
 
 1. **Clarity:** Right at the top of your page, you need to have your value proposition answering basic questions for the visitor.
@@ -485,7 +436,7 @@ Review
 3. **User confidence:** Can the user feel confident that yours is a trustworthy business?
 
 
-## SLIDE 57
+## SLIDE 47
 4. **Social proof:** No one wants to be the first one to buy your product or service. It’s too risky.
 
 5. **Reduce friction:** Some friction-reducing elements include shorter sentences and paragraph structures that can be scanned and that consider how people read on the web.
@@ -493,20 +444,20 @@ Review
 6. **Microcopy:** Refers to the tiny tidbits of copy found on websites, applications, and products. These short sentences tell a user what to do. Microcopy addresses user concerns, provides context to a situation, and helps determine the greater story about your brand/product and how you do business.
 
 
-## SLIDE 58
+## SLIDE 48
 Questions?
 
-## SLIDE 59
+## SLIDE 49
 Review
 
-## SLIDE 60
+## SLIDE 50
 Type hierarchy is a system for organizing type that establishes an order of importance, allowing the reader to quickly navigate content and find what they want.
 
-## SLIDE 61
+## SLIDE 51
 ### Type Size
 Type size is the first place to start with hierarchy. In HTML, typography tags establish a default set of sizes. H1-H6 HTML elements: We'll explore more of this in front-end development, but start thinking about how type is an essential piece of UI systems and website code systems.
 
-## SLIDE 62
+## SLIDE 52
 ### Type Weight and Proportion
 Along with size, type weight can help clarify what is essential or not. Use the two-thirds rule: two typefaces with three weights each. Type proportion refers to the proportion of the width of a character to its height.
 
@@ -516,43 +467,43 @@ Along with size, type weight can help clarify what is essential or not. Use the 
 
   - [https://www.fonts.com/content/learning/fontology/level-2](https://www.fonts.com/content/learning/fontology/level-2)
 
-## SLIDE 63
+## SLIDE 53
 ### Type Positioning 
 Where sections of information are positioned in relationship to each other can establish a hierarchy.
 
 
-## SLIDE 64
+## SLIDE 54
 Review
 
-## SLIDE 65
+## SLIDE 55
 Buttons, toggles, dropdowns, checkboxes, these are typically in a more generic way as "components" or "elements" - thought you'll find out that both words are also used to describe not just Atoms but also Molecules and Organisms.
 
-## SLIDE 66
+## SLIDE 56
 Input patterns include elements such as checkboxes, radio buttons, many of the items we just talked about. 
 
-## SLIDE 67
+## SLIDE 57
 These patterns include things like breadcrumbs, sliders, searches, pagination and scrolling, etc.
 
-## SLIDE 68
+## SLIDE 58
 Information patterns include tooltips, icons, progress bars, notifications, cards and modals.
 
 
-## SLIDE 69
+## SLIDE 59
 Questions?
 
-## SLIDE 70
+## SLIDE 60
 Review
 
-## SLIDE 71
+## SLIDE 61
 Cards are a common UI component. They became almost a default option when balancing UI aesthetics with excellent usability. Cards are a big trend in UI design.
 
-## SLIDES 72-74
+## SLIDES 62-64
 Review
 
-## SLIDE 75
+## SLIDE 65
 Questions??
 
-## SLIDES 76-77
+## SLIDES 66-67
 ## 6. Student Do: InVision Freehand Wireframe Activity (15 min)
 
 **TAs:** Slack out to students the instructions: [10-Week/02-Activities/10.2/10.2-02-InVision-Freehand-Wireframe-Activity Google Doc](https://drive.google.com/open?id=1emIDU-aVbQa4laSL0dudRXe253tYdZm3teUopoza1sc).
@@ -581,7 +532,7 @@ This activity allows students to apply their knowledge of wireframing in Figma/A
 
 Students will submit via Slack a screenshot of the wireframe they created with the Freehand tool.
 
-## SLIDE 78
+## SLIDE 68
 ## 7. Instructor Do: InVision Freehand Wireframe Activity Review (10 min)
 
 Call the class back to attention and lead a critique of students' InVision Freehand work.
@@ -625,13 +576,13 @@ Repeat this critique process for one to two more designs.
 
 Hopefully, students feel more competent at building a wireframe and appreciate how a wireframe is the sum of its parts (layout plus type plus UI components).
 
-## SLIDE 79
+## SLIDE 69
 ## 8. Break (15 min)
 
-## SLIDE 80
+## SLIDE 70
 Review
 
-## SLIDE 81
+## SLIDE 71
 ### Style Guides
 
 Whether you’re overseeing the marketing efforts in a large B2B organization or running a startup, a style guide should be an integral component of your marketing strategy. A style guide or manual of style is a set of standards for the writing, formatting, and design of documents.
@@ -648,7 +599,7 @@ Typography is one of the most common interface design elements, so it’s not en
 
   - Additionally, font sizes should be provided, weights indicated, and styles defined. Line height and kerning (the space between letters) are also needed, and it’s a good idea to single out a go-to font to be used when exceptional circumstances arise.
 
-## SLIDE 82
+## SLIDE 72
 #### Color Palette
 
 One of the quickest ways to wreck an interface is inconsistent color use, so color combinations need to be clearly defined.
@@ -657,7 +608,7 @@ One of the quickest ways to wreck an interface is inconsistent color use, so col
 
 - For example, in addition to a broad color palette that includes a range of lighter secondary colors, IBM's UI Style Guide demonstrates how to apply specific schemes (like this triadic example) to its products.
 
-## SLIDE 83
+## SLIDE 73
 #### Buttons 
 
 Nearly every interface includes buttons, so take time to document their sizes, styles, colors, placement, spacing, and typographic elements.
@@ -672,7 +623,7 @@ Components may be necessary depending on the content, website, or application in
 
 In addition to must-have UI components, several practical features make UI style guides easier for businesses and design teams to reference, navigate, and implement, such as:
 
-## SLIDE 84
+## SLIDE 74
 #### Table of Contents
 
 A well-organized and marked table of contents is a simple way to help everyone quickly find what’s inside the document.
@@ -688,13 +639,13 @@ Frequently, it can be helpful to outline design dos and don’ts clearly.
 - **TAs:** Slack out in the #resource channel: [https://www.frontify.com/](https://www.frontify.com/) for students to explore at home.
 
 
-## SLIDE 85
+## SLIDE 75
 Questions??
 
-## SLIDE 85
+## SLIDE 76
 Review
 
-## SLIDES 86-87
+## SLIDES 77-78
 
 Mockups are a visual representation of an app, product, or website. While a wireframe mostly represents a product’s structure, a mockup shows what a product is going to look like. However, a mockup is not clickable (just like the wireframe). A mockup is either a mid- or high-fidelity display of design.
 
@@ -709,10 +660,10 @@ Mockups are a visual representation of an app, product, or website. While a wire
   - [https://material.io/design/](https://material.io/design/)
   - [https://www.youtube.com/watch?v=tfSiXRy1vEw](https://www.youtube.com/watch?v=tfSiXRy1vEw)
 
-## SLIDE 88
+## SLIDE 79
 Questions??
 
-## SLIDE 89-90
+## SLIDE 80-81
 ## 10. Student Do: Material Design Mockup Activity (40 min)
 
 It's time to practice creating a mockup using the material design library.
@@ -744,7 +695,7 @@ This activity allows students to apply their knowledge of wireframes and mockups
 
 Students will take a screenshot of their wireframe and share it via Slack.
 
-## SLIDE 91
+## SLIDE 82
 ## 11. Instructor Do: Material Design Mockup Activity Review (15 min)
 
 Call the class back to attention and lead a review of the mockups.
