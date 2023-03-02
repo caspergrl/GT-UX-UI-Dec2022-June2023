@@ -104,27 +104,13 @@ Engage students in an important, yet brief, review of Atomic Design.
   - *Answer:* UI can be started in many ways, but thinking about outlining the user goals of the interface and then applying the atoms through to the pages is an effective strategy. Small to big, but big must go back to small. A button can be designed out of context of a page but will be impacted by how it is used on a larger page.
 
 
-## SLIDES 1-4
+## SLIDES 1-3
+Review
+
+## SLIDE 4
 Review
 
 ## SLIDE 5
-It's a system that helps designers understand the relationship between design elements and the systems they comprise.
-
-- **For example,** to understand a book, we must understand the words and sentences contained within it. However, their context informs the meanings of those words and sentences. One informs the other. This is called a **hermeneutic cycle** [hur·muh·noo·tuhk].
-
-## SLIDE 6
-### The Design Thinking Process Is a Hermeneutic Cycle
-
-- The parts (atoms, molecules, and organisms) of the UI system build the whole (templates and pages). The desired functionality of the templates and pages inform which atoms, molecules, and organisms to employ in the UI design.
-
-  - A button cannot be designed out of context to how it will be used—otherwise, the button's design is faulty. Remember: form follows function.
-
-- **TAs:** Slack out into the #resource channel [https://www.uxbooth.com/articles/hermeneutics-for-designers/](https://www.uxbooth.com/articles/hermeneutics-for-designers/) for students to review at home.
-
-## SLIDE 7
-Review
-
-## SLIDE 8
 **What are UI buttons?**
 
 Buttons communicate actions that users can take. They are typically placed throughout your UI, in places like dialogs, forms, toolbars, etc.
@@ -145,15 +131,15 @@ Buttons communicate actions that users can take. They are typically placed throu
 - To meet your user’s needs for recognizable, useful, usable UI elements.
 
 
-## SLIDE 9
+## SLIDE 6
 ### Define the Purpose of Buttons
 
 Buttons are nothing more than opportunities for your users to interact, whether that be a link, feature, or content review. Buttons are designed to grab a user's attention. Positive user experiences depend on buttons being well-designed.
 
-## SLIDE 10
+## SLIDE 7
 Review
 
-## SLIDE 11
+## SLIDE 8
 - States communicate the status of UI elements to the user.
   - A **button state** refers to the state in which a button exists, which is driven by the user's actions.
   - For example, when a user clicks on a button on a site, that button changes states—from "unclicked" to "clicked." You've seen this with URLs, which change color once you click them. In this way, "states" communicate user actions in relation to a button.
@@ -167,33 +153,33 @@ Each button state should:
 - **Enabled:** An enabled state communicates an interactive component or element.
 - **Disabled:** A disabled state communicates a non-interactive component or element.
 
-## SLIDE 12
+## SLIDE 9
 - **Hover:** A hover state communicates when a user has placed a cursor above an interactive element (e.g., something the user can click on to go deeper into the app or webpage).
 - **Focused:** A focused state communicates when a user has highlighted an element, using an input method such as a keyboard or voice.
 
-## SLIDE 13
+## SLIDE 10
 Video on focused state
 
-## SLIDE 14
+## SLIDE 11
 - **Selected:** A selected state communicates a user's choice.
 - **Activated:** An activated state communicates a highlighted destination, whether initiated by the user or by default.
 
-## SLIDE 15
+## SLIDE 12
 - **Pressed:** A pressed state communicates a user tap.
 - **Dragged:** A dragged state communicates when a user presses and moves an element.
 
-## SLIDE 16
+## SLIDE 13
 - **On:** An on state communicates a toggle between two options.
 - **Off:** An off state communicates a toggle between two options.
 - **Error:** An error state communicates a user or system mistake.
 
-## SLIDE 17
+## SLIDE 14
 Questions??
 
-## SLIDE  18
+## SLIDE 15
 Review
 
-## SLIDE 19
+## SLIDE 16
 There are 5 main button interaction states
 - Normal
 - Focused
@@ -202,21 +188,21 @@ There are 5 main button interaction states
 - Disabled
 
 
-## SLIDE 20
+## SLIDE 17
 1. **Normal state:** The main rule for this state: a UI button should look like a button in a normal state. Windows 8 is an excellent example of such a problem; it is hard for users to know if things are clickable or not in Settings.
 
 2. **Focused state:** Offer good visual feedback to users. A focused state communicates when a user has highlighted an element.
 
-## SLIDE 21
+## SLIDE 18
 3. **Hover state:** Offering good visual feedback to users that they’re hovering over a button is good practice. Users instantly know their action was accepted, and they want to be delighted by visual rewards.
 
 4. **Active/pressed state:** By animating different elements of your design, you can add a bit of excitement and delight your users with creative and helpful motion.
 
-## SLIDE 22
+## SLIDE 19
 5. **Disabled/inactive state:** There are two possibilities—either show it in a disabled state or hide the UI button.
    - Hiding UI buttons is not recommended for usability and accessibility issues.
 
-## SLIDES 23-25
+## SLIDES 20-22
 Review
 
 - **TAs:** Slack out the following links into the #resources channel for students to read at home.:
@@ -225,37 +211,37 @@ Review
 
 > :gem: **Designer Insight:** Now, share how you approach button states in your client work.
 
-## SLIDE 26
+## SLIDE 23
 - **Test all of your buttons.** Testing will validate if your button is achieving its design and interface potential.
 
-## SLIDE 27
+## SLIDE 24
 - **Make buttons look like buttons.** When it comes to interacting with a UI, users need to know instantly what's clickable and what’s not. Every item in a design requires effort by the user to decode. Generally, the more time needed for users to decode the UI, the less usable it becomes for them.
 
-## SLIDE 28
+## SLIDE 25
 - **Label buttons with what they do.** Buttons with generic or misleading labels can be a massive source of frustration for your users. Write button labels that clearly explain what each button does. Ideally, the button’s label should clearly describe its action.
 
-## SLIDE 29
+## SLIDE 26
 - **Make buttons finger-friendly for mobile users.** In many mobile apps, buttons are too small, which often leads to a situation in which users mistype.
 
-## SLIDE 30
+## SLIDE 27
 - **Use button shapes.** Make buttons square or square with rounded corners, depending on the style of the site or app.
 
-## SLIDE 31
+## SLIDE 28
 - **Provide visual or audio feedback on interaction.** When users click or tap on the button, they expect that the UI will respond with appropriate feedback. For example, use a “ding” or “swoosh” sound or a visual indicator like color, text, or a checkmark that confirms the user transaction was successful.
 
-## SLIDE 32
+## SLIDE 29
 - **Put buttons where users expect to find them.** Buttons should be located in places where users can easily find them or expect to see them. Don’t make users hunt for buttons. If users can’t find a button, they won’t know that it exists.
 
-## SLIDE 33
+## SLIDE 30
 - **Mind the order.** The order for buttons should reflect the nature of a conversation between the user and the system. Ask yourself, in what order do users expect buttons to appear on this screen? Design accordingly.
 
-## SLIDE 34
+## SLIDE 31
 - **Avoid using too many buttons.** This is a common problem for many apps and websites. When you provide too many options, your users end up doing nothing. When designing pages in your app or website, think about the most important actions you want your users to take.
 
-## SLIDE 35
+## SLIDE 32
 Questions??
 
-## SLIDE 36
+## SLIDE 33
 ## 4. Instructor Do: Demo - Multistate UI Button (15 min)
 
 You will demo how to build a multistate button in Figma/Adobe XD.
@@ -307,7 +293,7 @@ If you need additional resources on how to build a button in Adobe XD, please wa
 
 Now that students have a grasp on how designers use Adobe XD to build multistate buttons, let them try creating buttons of their own. That's up next.
 
-## SLIDES 37-38
+## SLIDES 34-35
 ## 5. Student Do: Multistate UI Buttons Activity (20 min)
 
 For the next activity, students will design buttons with their partners. Remind your students of the roles and responsibilities of the driver and navigator, emphasizing that both are important as you will create multistate buttons as a team.
@@ -342,7 +328,7 @@ Working in pairs, students will complete the three-part activity:
 
 Students will create each other's buttons based on sketches.
 
-## SLIDE 39
+## SLIDE 36
 ## 6. Instructor Do: Multistate UI Buttons Activity Review (10 min)
 
 Call the class back to attention and lead a review of the button sketches and Figma/Adobe XD button designs.
@@ -379,13 +365,13 @@ Finally, discuss any **common misconceptions and FAQs** about buttons. For examp
 It's time to set buttons aside for a moment and use the ideas learned to approach another UI element: the form. Buttons and forms are both critical UI elements for customer enjoyment and retention. Designers spend a lot of time iterating on button designs to get them right.
 
 
-## SLIDE 40
+## SLIDE 37
 Review
 
-## SLIDE 41
+## SLIDE 38
 Review
 
-## SLIDE 42
+## SLIDE 39
 Web form UX is the process of focusing on how your site visitors interact with every aspect of your form. Successful web form UX ensures your form is easy to use, accessible, convenient, and professional. In turn, it helps you boost conversions and drive more business.
 
 The harder a form is to use, the less likely it is that your client will convert. When visitors to a site or app struggle with a form, they blame the business.
@@ -395,14 +381,14 @@ As UX/UI designers, you will work on UI forms, guaranteed. Therefore, you should
 **ANYTIME a user needs to submit or request some information, a form is involved**
 
 
-## SLIDE 43
+## SLIDE 40
 ### Why Do UI Forms Matter?
 
 The point of a web form is to collect certain personal information from your visitor, whether that be an email address or shipping and payment details. Why would visitors want to convert and conduct any business with you if the form they’re being asked to list their information on is difficult to use or visually unattractive? Simple answer, they wouldn’t.
 
 - Several factors go into great UX. Form UX matters because you want to leave a good (and lasting) impression on your visitors, create a positive experience for them while on your site, and convert more leads.
 
-## SLIDE 44
+## SLIDE 41
 **What are UI forms?**
 
 A form is a UI element that allows the user to send information to a server. 
@@ -423,16 +409,16 @@ A form is a UI element that allows the user to send information to a server.
 
 - UI forms help communicate what information is being stored with back-end developers. 
 
-## SLIDE 45
+## SLIDE 42
 Review
 
-## SLIDES 46-54
+## SLIDES 43-51
 Review slides
 
-## SLIDE 55
+## SLIDE 52
 Questions??
 
-## SLIDE 56
+## SLIDES 53-54
 ## 8. Student Do: Mobile UI Form Paper Prototype Activity (15 min)
 
 **TAs:** Slack out to students the following file in the #_in_class_chat channel:
@@ -477,7 +463,7 @@ As a bonus, students can trade sketches and review with a classmate.
 
 Students will create a multistate UI form.
 
-## SLIDE 58
+## SLIDE 55
 ## 9. Instructor Do: Mobile UI Form Paper Prototype Activity Review (10 min)
 
 - Call attention back and lead a review of students' form prototypes.
@@ -504,53 +490,53 @@ Finally, discuss any **common misconceptions and FAQs** about the UI forms. For 
 
 💎 **Designer Insight:** Wrap up the review by sharing a personal experience with forms—or invite a TA to share an anecdote about forms in his or her design work.
 
-## SLIDE 59
+## SLIDE 56
 ## 10. Break (15 min)
 
-## SLIDE 60
+## SLIDE 57
 Review
 
-## SLIDE 61
+## SLIDE 58
 - **Do** make required fields obvious.
   - Define the required fields.
   - Make forms legible.
   - All forms get labels.
 
-## SLIDE 62
+## SLIDE 59
 - ***Don't*** clear forms on refresh (or at least have a good reason to do this).
 
-## SLIDE 63
+## SLIDE 60
 - **Do** help complete forms over time.
   - Use autofill.
   - Decrease task abandonment.
   - Let the user know what percentage of the form is complete
 
-## SLIDE 64
+## SLIDE 61
 - ***Don't*** use multiple columns.
   - Users often omit fields if they are in more than one column.
   - It's easy for users to misinterpret field relationships in multiple column formats.
 
-## SLIDE 65
+## SLIDE 62
 - **Do** split up lengthy forms into form wizards.
   - UX is helping to reduce the user's cognitive load.
 
-## SLIDE 66
+## SLIDE 63
 - **Do** add error-finding queues.
   - The user will not always complete, as asked.
 
-## SLIDE 67
+## SLIDE 64
 - ***Don't*** use too much text or color for calls to action (CTAs).
   - Confusing CTAs cause cognitive overload in users.
   - CTAs are successful when they're no-brainer-level obvious.
 
 
-## SLIDE 68
+## SLIDE 65
 - **Do** use autofill to help complete forms.
 
-## SLIDE 69
+## SLIDE 66
 Questions??
 
-## SLIDE 70
+## SLIDE 67
 ## 12. Instructor Do: Demo - Mobile UI Forms (15 min)
 
 Time to demo building a sign-up form in Figma/Adobe XD.
@@ -598,7 +584,7 @@ Time to demo building a sign-up form in Figma/Adobe XD.
 Students are now ready to get hands-on and design forms in Adobe XD or Figma in the next activity.
 
 
-## SLIDES 71-72
+## SLIDES 68-69
 ## 13. Student Do: Mobile UI Form Prototype Activity (25 min)
 
 **TAs:** Slack out to students the following file in the #_in_class_chat channel:
@@ -641,7 +627,7 @@ As a bonus, students can enhance their prototype with micro-interactions and ani
 
 Students will share in Slack a screenshot of their form prototype.
 
-## SLIDE 73
+## SLIDE 70
 ## 14. Instructor Do: Mobile UI Form Prototype Activity Review (10 min)
 
 **TAs:** Slack out the mobile UI form solution file into the #resources channel to students: [https://drive.google.com/open?id=1RdyW6QvBTgwSX0ggwZQ4vRHyTT1gaL5u](https://drive.google.com/open?id=1RdyW6QvBTgwSX0ggwZQ4vRHyTT1gaL5u).
