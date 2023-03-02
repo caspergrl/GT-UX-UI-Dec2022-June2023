@@ -136,10 +136,6 @@ Buttons communicate actions that users can take. They are typically placed throu
 
 Buttons are nothing more than opportunities for your users to interact, whether that be a link, feature, or content review. Buttons are designed to grab a user's attention. Positive user experiences depend on buttons being well-designed.
 
-## SLIDE 7
-Review
-
-## SLIDE 8
 - States communicate the status of UI elements to the user.
   - A **button state** refers to the state in which a button exists, which is driven by the user's actions.
   - For example, when a user clicks on a button on a site, that button changes states—from "unclicked" to "clicked." You've seen this with URLs, which change color once you click them. In this way, "states" communicate user actions in relation to a button.
@@ -150,6 +146,10 @@ Each button state should:
 - Not drastically alter a component.
 - Have clear affordances that distinguish it from other states and the surrounding layout.
 
+## SLIDE 7
+Review
+
+## SLIDE 8
 - **Enabled:** An enabled state communicates an interactive component or element.
 - **Disabled:** A disabled state communicates a non-interactive component or element.
 
@@ -162,7 +162,7 @@ Video on focused state
 
 ## SLIDE 11
 - **Selected:** A selected state communicates a user's choice.
-- **Activated:** An activated state communicates a highlighted destination, whether initiated by the user or by default.
+- **Activated:** An activated state communicates a highlighted destination, whether initiated by the user or by default. An activated state differs from a selected state because it communicates a highlighted destination
 
 ## SLIDE 12
 - **Pressed:** A pressed state communicates a user tap.
