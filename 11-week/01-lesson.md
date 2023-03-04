@@ -126,14 +126,15 @@ You'll start by defining RWD and walking through examples of responsive elements
   - [https://theblog.adobe.com/](https://theblog.adobe.com/how-to-design-with-responsive-resize-xd/)
   - [https://www.xdguru.com/responsive-resize-free-ui-kit-xd/](https://www.xdguru.com/responsive-resize-free-ui-kit-xd/)
 
-### Define Responsive Web Design
 
+## SLIDES 1-4
+Review
+
+## SLIDE 5
 Responsive web design (RWD) is web design that transforms how sites are displayed from one screen size to another (think smartphone vs. smartwatch vs. tablet, etc.). When a site is designed with RWD, no matter what size device a user looks at, it will deliver a good user experience.
 
-> :gem: **Designer Insight:** Share briefly how RWD considerations came into play with a recent client or project.
 
-### Review the Responsive Web Design Tool Snapshot
-
+## SLIDE 6
 **What is RWD?**
 
 RWD uses HTML and CSS to automatically resize, hide, shrink, or enlarge, a website to make it look good on all devices. 
@@ -149,6 +150,8 @@ RWD uses HTML and CSS to automatically resize, hide, shrink, or enlarge, a websi
 - Website design systems can be large and hard to design. RWD allows us to reach a wide range of users. 
 - RWD logic is about designing and developing faster and defining RWD rules that are clear to communicate to developers. 
 
+
+## SLIDE 7
 ### Responsive Web Design
 
 Mobile devices are dominating how users consume information on the web. Unfortunately, many of the sites and pages online were not designed for today's mobile devices. Small screens require a different approach to the content layout so that users don't have to scroll through stacked content. Today's designers must figure out how to design for smaller screens and work within size constraints.
@@ -156,22 +159,31 @@ Mobile devices are dominating how users consume information on the web. Unfortun
 - **How does RWD work?** RWD responds to the user's needs and their devices through scaling, reordering, and flowing content as the screen size changes.
 - *Example:* A phone would show content in a single column, whereas a tablet might show it in two columns, and a desktop might show it in three columns.
 - **Screen size varies:** Designers cope with a multitude of screen sizes across phones, tablets, desktops, game consoles, TVs, and even wearables. RWD is about how designers adapt webpages to any screen size, today and in the future.
+
+## SLIDE 8
 - **Ethan Marcotte:** In the webzine A List Apart, web designer, speaker, and author Ethan Marcotte wrote about RWD. We recommend you read the article and add it to your UX/UI library:
 
 - **TAs:** Slack out the following into the #resource channel for students to read at home:
   - [https://alistapart.com/article/responsive-web-design/](https://alistapart.com/article/responsive-web-design/)
   - [https://abookapart.com/products/responsive-web-design](https://abookapart.com/products/responsive-web-design)
 
-### RWD's Goal
-
+## SLIDE 9
 RWD's goal is to improve the usability and accessibility of webpages through designing experiences that work across multiple screen sizes.
 
+## SLIDE 10
+Review
+
+## SLIDE 11
 🔑 **Key Tech Note:** Responsive sites use fluid grids. We size all page elements by relative units like proportion (%) or em and Root em (em/rem), rather than pixels.
 
 - Design elements on a responsive page respond and change based on the screen size.
 
   - *For example*: In a three-column layout, for example, column one should take up half the page, column two should take up 30%, and column three should take up 20%. No matter the screen width, the column proportions will respond to those relative measurements.
 
+## SLIDE 12
+Review
+
+## SLIDE 13
 ### Demand for Mobile Web Traffic
 Mobile use has increased over time. More than half of all website traffic happens via mobile devices. This has driven the need for both RWD and adaptive layouts.
 
