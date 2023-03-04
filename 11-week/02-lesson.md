@@ -114,15 +114,13 @@ Encourage your students to use office hours. By the same token, encourage them t
 
 ## 2. Instructor Do: Demo - Chrome Inspect (3 min)
 
->:pushpin: **Important Point:** Your goal here is to generate excitement about seeing "behind the curtain" of responsive webpages. This ties into the first learning objective, using Chrome Inspect to capture a variety of breakpoints for webpages.
 
-Begin by connecting knowing how to use Chrome Inspect to being a desirable job candidate.
+## SLIDES 1-3
+Review
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you should be able to use the same tools that developers use. The web is not magic: you must be able to use tools to "see" behind the visual veneer of the web as well as talk about what you see with design teams. Add "familiarity with Dev Tools (Chrome Inspect)" to your resume and LinkedIn skills profile.
-
+## SLIDE 4
 Show students how Chrome Inspect is used to see the inner workings of responsive webpages. You will show them where breakpoints occur in the code of a site. This activity will prepare them to do this on their own, and plant the seed for future front-end development learning.
 
-> :gem: **Designer Insight**: Share how you've used Chrome Inspect.
 
 > **Instructor Note:** We will discuss developer tools in much deeper terms during the front-end dev units 16-24. For now, touch on these tools and encourage some light research if students want to dig in.
 
@@ -163,6 +161,7 @@ Below is a list of sites that students should explore on their own to gain exper
 
 Doing is believing. The next activity is simple but powerful, as it allows students to play with the Chrome Inspect tool and spot the features of RWD on their own.
 
+## SLIDE 5
 ## 3. Student Do: RWD Website Breakpoint Activity (5 min)
 
 **TAs:** Slack out to students the following activity in Google Docs: [11-Week/02-Activities/11.2/11.2-01-RWD-Website-Breakpoint-Activity-Google-Doc](https://docs.google.com/document/d/1R5UbYSaxrplCWWgZCLVfOHA1f9XrSgANt0zjg_X3hE4/edit?usp=sharing).
@@ -185,6 +184,7 @@ Remind students to use screen capture or awesome screenshot extension to capture
 
 Students will post RWD samples to Slack.
 
+## SLIDE 6
 ## 4. Instructor Do: RWD Website Breakpoint Activity Review (5 min)
 
 Get everyone's attention and lead a review of students' findings.
@@ -206,17 +206,11 @@ Now, provide a bit of actionable feedback for the class and address a couple of 
 
 Now that students understand breakpoints, next, they'll learn how designers implement them. This activity will bring their understanding of breakpoints full circle.
 
-## 5. Instructor Do: RWD Media Queries (5 min)
+## SLIDE 7
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to go deeper into breakpoints by introducing students to media queries. Students might have many questions about media queries. Reassure them that they'll "get it" soon. Focus on the value of media queries, not how to code them.
-
-Here you'll introduce media queries and explain how designers communicate breakpoints so that websites can display as desired across devices.
-
-### Media Queries in a Nutshell
-
+## SLIDE 8
 Media queries dictate how a webpage displays on various device sizes. They dictate how a site displays on a smartphone versus a laptop. Just as a dashed line on paper indicates where to cut with scissors, a media query tells the webpage where to "cut" for different display types.
-
-- In order to fully understand media queries, we need to understand HTML and Cascading Style Sheets (CSS) .
 
 - **What is HTML?**
   - HTML is Hypertext Markup Language, which sets the structure and content of a webpage.
@@ -229,43 +223,32 @@ Media queries dictate how a webpage displays on various device sizes. They dicta
   - **Media queries and RWD:** Media queries are rules built into CSS code that allow us to modify a website or app depending on the device's general size (such as screen resolution or browser viewport width).
     - Media queries are a fundamental part of RWD, as they allow us to code content experiences across multiple screens. They are used to customize the appearance of websites for multiple devices.
 
-> **Instructor Note:** Acknowledge that aspects of the media query concept stray into web development (such as CSS). Let students know that we'll cover this during the lecture on front end later on (in units 16-21). Take questions. Ensure that students grasp media queries.
 
-> :gem: **Designer Insight**: Briefly explain how media queries function in your work.
+## SLIDE 9
+Media queries are what tell a webpage how to display itself on various screens: mobile, tablet, desktop and beyond. Each breakpoint is dictated by a media query.
 
-Students should now have a good grasp on how webpages display differently across devices, and that breakpoints and media queries drive that change. It is time for students to consider how breakpoints impact webpage images.
+## SLIDE 10
+Review
 
-## 6. Instructor Do: RWD Breakpoints and Imagery (15 min)
+## SLIDE 11
+Breakpoints are the range  predetermined screen sizes that have specific layout requirements. At a given range, the layout adjusts to suit the screen size and orientation.
 
-> :pushpin: **Important Point:** The goal is to get students to consider the primary screen widths to support while solving RWD visual solutions and content. This lecture supports today's second learning objective, cropping and resizing images samples according to RWD requirements.
-
-Now that students understand that we create breakpoints through media queries, it is time to look at the effect of breakpoints on webpage imagery. The following lecture will explain how designers approach the creative constraints that RWD breakpoints pose for imagery.
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be expected to design high-fidelity solutions for RWD. You must know how to use content effectively in a design system. Your portfolios and case studies must illustrate how you think and move from low fidelity to high fidelity.
-
-> :gem: **Designer Insight**: Make breakpoints tangible by sharing how you think about breakpoints—perhaps refer to a recent client project.
-
-Pose these questions to students:
-
-*If webpages display differently across various devices, what does that mean for the images on those webpages? How do breakpoints impact images?*
-
-- A breakpoint is a layout design target for approximating devices.
-
+## SLIDE 12
 - Typical breakpoints are:
   - Mobile (<767 px)
   - Tablet (768 to 959 px)
   - Desktop (>960 px)
 
-- Defining your breakpoints is key to your design requirements.
 
+## SLIDE 13
 - Content is like water:
-
   - Content in responsive design uses the same information on all screens.
+"If you put water into a cup, it becomes the cup. You put water into a bottle, and it becomes the bottle. You put it in a teapot, and it becomes the teapot." -- Bruce Lee, quoted in Seven Deadly Mobile Myths by Josh Clark
 
-  - Web content: Copy, images, etc. flow in one fluid screen.
+## SLIDE 14
+Review
 
-  - RWD is about considering how content works across these UI modalities.
-
+## SLIDE 15
 - How you crop matters:
 
   - RWD uses imagery often, so we must consider how this content is treated between screen sizes as imagery will be cropped, especially on mobile sizes.
@@ -274,40 +257,31 @@ Pose these questions to students:
 
   - Never distort an image's proportions—it looks bad and irritates the photographer or content maker.
 
-- Review sample:
-
+## SLIDE 16
   - Adobe Photoshop, Adobe XD, Figma etc. let you distort an image, but never do it!
 
-- Review the viewport:
+## SLIDE 17
+The viewport refers to the visible area of the webpage (not including the browser elements). It varies in size with the device and will be smaller on mobile than on dsktop. Viewport is defined by the width of the screen.
 
-  - The width of the screen defines the viewport size.
+## SLIDE 18
+Review viewport example
 
-- Review the viewport content .gif:
-
-  - Discuss how the height of the viewport also impacts the sample. Many webpages scroll. Therefore, the height of the viewport will not modify the image's height, just its width.
-
-- Review resizing versus cropping:
-
+## SLIDE 19
   - Resizing keeps the image composition and changes the size based on the screen size.
 
   - Cropping is when the image is cut off to achieve a new size or shape based on the screen size.
 
-- Review RWD scaling and cropping:
-
+## SLIDE 20
   - The image size needs to be considered from largest to smallest.
+  - The largest size uses most of the image composition.
 
-  - Point out the largest size, as it uses most of the image composition.
+## SLIDE 21
+Review
 
-- Discuss requesting images that have more "air" around the subject. “Air” is associated with the cropping of imagery and the amount of space around a subject in a photograph.
+## SLIDE 22
+Questions??
 
-  - When you work with a photographer, discuss how images will be cropped in your RWD to improve content display.
-
-  - Recommend that students work with a photography expert who has experience creating imagery for the web.
-
-- Let's practice this ourselves.
-
-Now that students have the basic idea of how to handle imagery for breakpoints, help them put it into practice. In the following activity, students will crop and resize images for varied screen sizes.
-
+## SLIDE 23
 ## 7. Student Do: RWD Image Cropping Activity (15 min)
 
 **TAs:** Slack out to students the following activity in Google Docs:
@@ -339,6 +313,7 @@ Float among students and assist with cropping decisions and the use of masking t
 
 Students will post RWD content to Slack, which shows their ability to scale between screens.
 
+## SLIDE 24
 ## 8. Instructor Do: RWD Image Cropping Activity Review (10 min)
 
 Call attention back to your screen and lead a review of the students' findings.
@@ -364,25 +339,10 @@ Now, provide a bit of actionable feedback for the class and address a couple of 
 
 Now that students have some practice—and appreciation—for handling images in RWD, they're ready to shift back to thinking about webpages as a whole. Next up: Responsive wireframes.
 
-## 9. Instructor Do: RWD Wireframing and UI Systems of Scale (5 min)
 
-> :pushpin: **Important Point:** The goal is to get students to consider how their government agency UI systems can be responsive. This lecture supports today's third learning objective, wireframing an RWD homepage for mobile, tablet, and desktop and transforming them into InVision prototypes.
+## SLIDE 25
+Review
 
-Now it is time to get into some of the details of images, such as resolution size and retina display. An understanding of images will help students select, import, and manipulate them for their designs.
-
-> :briefcase: **Employer Competitive Note:** As UX/UI designers, you will be responsible for working with content in responsive solutions and testing high-fidelity prototypes. These skills must be on display in your portfolios in order to be a desirable job candidate.
-
-### Safe Design Resolutions
-
-Let's dig deeper into RWD. Considering UI systems is challenging. It will require more software and production skills as the number of assets you have to create goes up depending on the breakpoints you support during design. Typically, a design team will build mobile, tablet, and desktop versions.
-
-> **Instructor Note:** Students should be advised to dive into more research and articles about UI systems. They'll be expected to practice using Figma or Adobe XD building with assets, components for responsive layouts.
-
-**What we mean by wireframing and systems of scale.**
-
-  - Using our UI design tools is about gaining efficiency and control over a large set of components.
-    - Example: If you have ever experienced having to update a color on dozens of cards or individual buttons, you know this pain. But using design tools allows you to quickly update your UI in every place it is used.
-  - In the real world, you will help manage global brands and learn to design and scale a UI system through your tools. Having a scalable process will be important and valuable to your success as a designer.
 
 - **TAs:** Slack out resources for responsive features in Adobe XD and Figma:
   - Adobe XD
@@ -393,30 +353,37 @@ Let's dig deeper into RWD. Considering UI systems is challenging. It will requir
     - [https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
     - [YouTube Figma Autolayout](https://www.youtube.com/watch?v=NrKX46DzkGQ)
 
-### Safe Design Resolutions
+## SLIDE 26
+Let's dig deeper into RWD. Considering UI systems is challenging. It will require more software and production skills as the number of assets you have to create goes up depending on the breakpoints you support during design. Typically, a design team will build mobile, tablet, and desktop versions.
 
-- Review safe design resolutions.
+**What we mean by wireframing and systems of scale.**
+
+  - Using our UI design tools is about gaining efficiency and control over a large set of components.
+    - Example: If you have ever experienced having to update a color on dozens of cards or individual buttons, you know this pain. But using design tools allows you to quickly update your UI in every place it is used.
+  - In the real world, you will help manage global brands and learn to design and scale a UI system through your tools. Having a scalable process will be important and valuable to your success as a designer.
 
   - Generally, 1024 × 768 pixels for desktop and tablet and 320 × 480 pixels for mobile are safe resolutions to work with.
 
-  - However, these standards are always changing.
+- It's important to start small and prepare for a large size. However, these standards are always changing.
 
-  - Design for the size at which the user will see it on their device.
-- Review retina resolution.
-- Build systems that scale:
-  - Be organized about where all the screens of a webpage can potentially live.
-  - Use  Adobe XD and Figma export tools when sharing assets for retina screens.
-- Considering your user across every screen is what UX is all about, including defining what will be supported and what will not.
-- User research and user data will help you determine what devices your users are concentrating their experience on (hint, hint: it is probably mobile).
 
-> :gem: **Designer Insight**: Say something about how you approach image selection in your own work. Alternatively, a TA could share an anecdote from client work.
+## SLIDE 27
+Retina display was introduced with the iPhone 4. The smaller the pixels and the closer they are together, the sharper and higher quality the images. Retina displays require double the pixels to display the same image as standard definition displays. 
 
-**Pause for questions.**
+iPad 2 and iPad 3 have the same physical screen size. 
+iPad 2 resolution = 1024 px by 768 px 
+iPad 3 resolution = 2048 px by 1536 px (@2x)
 
-> **Instructor Note:** Ask if there are any questions and use the 30-second trick by waiting for a count of 30 seconds before moving on (invariably, a question will arise).
+## SLIDE 28
+Export images and design assets that you're going to display on a portfolio @2x the size
 
-Next, students are going to shift gears a bit and sketch out webpage wireframes on paper—for mobile, desktop, and tablet.
+## SLIDE 29
+1366 x 768 is the most common resolution currently for desktop but be sure to always consider your audience. For example, 1024 x 768 may make more sense for users with older computers or in highly regulated corporate environments.
 
+## SLIDE 30
+Questions??
+
+## SLIDE 31
 ## 10. Student Do: RWD Homepage Wireframe Challenge Activity (25 min)
 
 **TAs:** Slack out to students the following:
@@ -451,6 +418,7 @@ Set a timer for 25 minutes.
 
 Students will post RWD wireframe solutions to Slack that show their ability to scale between screens.
 
+## SLIDE 32
 ## 11. Instructor Do: RWD Homepage Wireframe Challenge Activity Review (10 min)
 
 Call attention back to your screen and lead a review of the sketched wireframes.
@@ -475,19 +443,11 @@ Now, provide a bit of actionable feedback for the class as well as address a cou
 
 Now that students have a sense of how to make decisions about a webpage design to suit different screen sizes, let's get them thinking about testing different ways to display webpage content.
 
-## 12. Instructor Do: A/B Testing and the Power of UI Data (10 min)
+## SLIDE 33
+Review
 
-> :pushpin: **Important Point:** Your goal is to prepare students to test their UI. Without testing and validating solutions with users, UI solutions are just assumptions. This ties into today's fourth learning objective, articulating the value of A/B testing for identifying UI weaknesses.
-
-Students have several new skills to pull together—the role of breakpoints, imagery, and how to plan the layout of content for varied screen sizes. The next step is to get feedback, specifically through A/B testing their UI design.
-
-Testing creates a vital feedback loop for validating UI ideas, making mistakes quickly, and innovating faster. We want to test our solutions to make sure they are usable, useful, valuable, delightful, and hopefully, shareable.
-
+## SLIDE 34
 > :briefcase: **Employer Competitive Note:** As a UX/UI designer, your ability to execute usability tests to provide proof that your solutions work with users is essential to landing a job. This skill will also help clients improve their ROI. Add "proficient in A/B usability testing" to your resume and your LinkedIn skills profile.
-
-Students will be reluctant to test their work at first.
-
-- Share your personal stories along the way. Let students know that, although what you think matters, you are not their user!
 
 - **Ask,** "Anyone ever been part of an A/B test?"
 - Have you ever used Amazon?
@@ -499,15 +459,11 @@ Students will be reluctant to test their work at first.
 ### A/B Testing
 
 A marketing experiment wherein you "split" your audience to test several variations of a campaign and determine which performs better. In other words, you can show version A of a piece of marketing content to one half of your audience and version B to another.
-
-> :gem: **Designer Insight:** Take a moment to share your own experiences with "split" or A/B testing, and invite the TAs to share theirs.
-
-### A/B Vs. "Split" Testing
-
 The terms are used interchangeably in the design community.
 
 - Designers must ask, "How are you defining the parameters of an A/B test?" Each time they run a test, they need to be sure that they are all on the same page and gathering meaningful data.
 
+## SLIDE 35
 ### **Review when and why to use A/B testing.**
 
 **When do designers use A/B testing?**
@@ -518,6 +474,7 @@ Use A/B testing during the validation and usability assessment. It can be used t
 
 Testing A/B versions can help improve or optimize under-performing aspects of UX/UI. It can also supply feedback data to designers to validate a design hypothesis.
 
+## SLIDE 36
 - **We can't always sit with our users and watch over their shoulders.**
 - **Ask,** "What is a KPI?"
   
@@ -531,6 +488,8 @@ Testing A/B versions can help improve or optimize under-performing aspects of UX
   
   - Which group, A or B, is spending more money?
 
+
+## SLIDE 37
 **A/B testing should test aspects of the UX that are unique.**
 
 - Calls to action (CTAs) (buttons matter)
@@ -541,6 +500,7 @@ Testing A/B versions can help improve or optimize under-performing aspects of UX
 - Images (composition matters)
 - Text (what is your user reading, and why?)
 
+## SLIDE 38
 **Review samples of the A/B test.**
 
 Which version will convert better? Stack with an option to expand for more details or all details and swipe left or right for more.
@@ -552,31 +512,19 @@ Which version will convert better? Stack with an option to expand for more detai
 
 - **Ask,** "Any questions before we break?"
 
-  - We'll practice A/B testing throughout the remainder of the boot camp, so be prepared to validate your design decisions.
+## SLIDES 39-41
+Review tests
 
-Students are now ready to test out these ideas about A/B testing themselves—once they're back from the break.
+## SLIDE 42
+Additional resources
+
+## SLIDE 43
+Questions?
 
 ## 13. Break (10 min)
 
-Time for a 10-minute break.
-
-Let students know that they'll see a demo of how to use InVision for creating versions for A/B testing when they return from break. Following that, they'll begin a lengthy testing activity.
-
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
+## SLIDE 45
 ## 14. Instructor Do: Demo - InVision Version A/Version B (10 min)
-
-In this demo, you will show students how to set up their A/B tests using InVision as a versioning tool.
-
-> **Instructor Note:** This demo is the final piece of knowledge students need before getting into groups for A/B testing. This demo will prepare students to run A/B tests with classmates and users successfully.
->
-> - This demo also prepares students for today's fifth learning objective, generating A and B versions of a homepage design for team testing.
-> - The activity that follows will help students achieve today's sixth, and final, learning objective, executing A/B testing using InVision with a team.
-
-**Demo option:** Invite a TA to demo this process for students.
-
-> :globe_with_meridians: **Online Recommendation:** Demo creating an A/B version with the Figma resource.
-
 ### Adobe XD and InVision Demo Steps
 
 **Part 1:**
@@ -624,6 +572,7 @@ In this demo, you will show students how to set up their A/B tests using InVisio
 
 Now it's time for students to get hands-on and run their own A/B tests.
 
+## SLIDE 46
 ## 15. Student Do: A/B Team Testing Activity (45 min)
 
 **TAs:** Slack out to students the following activity in Google Docs: [11-Week/02-Activities/11.2/04-RWD-A-B-Team-Testing-Activity Google Doc](https://docs.google.com/document/d/1qe9_EG25bixY55aJCayDPUU_VQoMfN1zi4Aa7MUAOJw/edit?usp=sharing).
@@ -651,6 +600,7 @@ Jump into breakout rooms and see if students need help with creating an A/B hypo
 
 Students will post RWD A/B feedback to Slack.
 
+## SLIDE 47
 ## 16. Instructor Do: A/B Team Testing Activity Review (10 min)
 
 Call everyone's attention back to your screen and lead a review of the A/B testing results.
