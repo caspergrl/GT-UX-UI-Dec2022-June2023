@@ -184,43 +184,15 @@ Review
 Review
 
 ## SLIDE 13
-### Demand for Mobile Web Traffic
 Mobile use has increased over time. More than half of all website traffic happens via mobile devices. This has driven the need for both RWD and adaptive layouts.
 
-### RWD and Adaptive Layouts
+## SLIDE 14
+Mobile first design is a popular approach: design for the smallest screen and work up to the largest.
 
-Responsive design is smooth because the layout fluidly adjusts regardless of what device it is viewed on. Adaptive design, on the other hand, snaps into place because the page is serving something different because of the browser or device it is viewed on.
+## SLIDE 15
+Questions??
 
-- **TAs:** Slack out the following into the #resource channel for students to review at home:
-
-  - [https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
-
-### Interaction Design Paradigms: Mouse Vs. Touchscreen
-
-When designing for mobile devices, consider the differences between using a mouse versus using touch.
-
-  - *Example*: On desktop computers, the user typically has a mouse to navigate and select items. On a smartphone or tablet, the user normally uses fingers to touch the screen.
-
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will likely be working on modern web design projects. Your ability to demonstrate your skills and understand the RWD technology that enables solutions across screens will help you secure work. These skills should be included in your resume and added to your LinkedIn skills profile.
-
-### RWD and Mobile First Design
-
-The mobile first approach starts with designing the hardest, smallest screen first. Once the mobile design questions are answered, designing for other devices will be a more comfortable experience. What it boils down to is that the smallest of the designs will have only the essential features, so right away, you have designed the heart of your UX.
-
-### Mobile First Design Applies Progressive Enhancement
-
-Progressive enhancement is a web design strategy that emphasizes "core webpage content" designed first on the smallest screen. Progressive enhancement focuses on the content. Mobile design is tackled first because it is the hardest.
-
-- If your site is "right" on a mobile device, it translates better to all devices.
-  - For example, only supporting features that work on all screens as a modal carousel is harder to pull off on a mobile size.
-  - More important, though, is that mobile first is a content-first approach. Mobile has the most limitations—screen size and bandwidth, to name a couple—and so designing within these parameters forces you to prioritize content ruthlessly.
-- The mobile first approach organically leads to a design that’s more content-focused and, therefore, user-focused. The heart of the site is content—that’s what users are there for.
-
-- **TAs:** Slack out into the #resources channel for students to review at home:
-  - [https://www.uxpin.com/studio/ebooks/ux-design-trends-responsive-adaptive-web-design/](https://www.uxpin.com/studio/ebooks/ux-design-trends-responsive-adaptive-web-design/)
-
-Now that students understand the purpose of RWD, show them a responsive website, and demonstrate precisely what makes it responsive.
-
+## SLIDE 16
 ## 3. Instructor Do: Demo - Responsive Website (5 min)
 
 Now you are going to share your screen and give a demo of a responsive website for the class. Two options for what site to demo:
@@ -265,30 +237,63 @@ Now that students have contemplated the design decisions of a webpage across dis
 
 The following tips will prepare students for their own hands-on RWD work.
 
-## 4. Instructor Do: Five Responsive Grid Best Practices (5 min)
+### RWD and Adaptive Layouts
 
-> :pushpin: **Important Point:** Your goal is to walk through the five responsive design tips to prepare students to design their own responsive layouts. This short lecture supports the second of today's learning objectives, which is for students to apply a 12-column fluid grid that uses flexible content.
+Responsive design is smooth because the layout fluidly adjusts regardless of what device it is viewed on. Adaptive design, on the other hand, snaps into place because the page is serving something different because of the browser or device it is viewed on.
 
-Start by emphasizing the importance of building responsive grids as a designer in the real world.
+- **TAs:** Slack out the following into the #resource channel for students to review at home:
 
-> :briefcase: **Employer Competitive Note**: As a UX/UI designer, you will use responsive grids for the remainder of you careers. To improve your chances of being hired, display your knowledge of fluid 12-column grids and UI component design in your portfolio. Add expert in the 12-column fluid grid to your resume and LinkedIn skills profile.
+  - [https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 
-### RWD Best Practices
+### Interaction Design Paradigms: Mouse Vs. Touchscreen
 
-Review the five RWD best practices for designing responsive layouts:
+When designing for mobile devices, consider the differences between using a mouse versus using touch.
 
+  - *Example*: On desktop computers, the user typically has a mouse to navigate and select items. On a smartphone or tablet, the user normally uses fingers to touch the screen.
+
+> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will likely be working on modern web design projects. Your ability to demonstrate your skills and understand the RWD technology that enables solutions across screens will help you secure work. These skills should be included in your resume and added to your LinkedIn skills profile.
+
+### RWD and Mobile First Design
+
+The mobile first approach starts with designing the hardest, smallest screen first. Once the mobile design questions are answered, designing for other devices will be a more comfortable experience. What it boils down to is that the smallest of the designs will have only the essential features, so right away, you have designed the heart of your UX.
+
+### Mobile First Design Applies Progressive Enhancement
+
+Progressive enhancement is a web design strategy that emphasizes "core webpage content" designed first on the smallest screen. Progressive enhancement focuses on the content. Mobile design is tackled first because it is the hardest.
+
+- If your site is "right" on a mobile device, it translates better to all devices.
+  - For example, only supporting features that work on all screens as a modal carousel is harder to pull off on a mobile size.
+  - More important, though, is that mobile first is a content-first approach. Mobile has the most limitations—screen size and bandwidth, to name a couple—and so designing within these parameters forces you to prioritize content ruthlessly.
+- The mobile first approach organically leads to a design that’s more content-focused and, therefore, user-focused. The heart of the site is content—that’s what users are there for.
+
+- **TAs:** Slack out into the #resources channel for students to review at home:
+  - [https://www.uxpin.com/studio/ebooks/ux-design-trends-responsive-adaptive-web-design/](https://www.uxpin.com/studio/ebooks/ux-design-trends-responsive-adaptive-web-design/)
+
+Now that students understand the purpose of RWD, show them a responsive website, and demonstrate precisely what makes it responsive.
+
+
+## SLIDE 17
+Review
+
+## SLIDE 18
 1. Design mobile first.
+
+## SLIDE 19
 2. Use four-column and 12-column grids.
+
+## SLIDE 20
 3. Optimize UI grids for mobile.
+
+## SLIDE 21
 4. Frame important objectives.
+
+## SLIDE 22
 5. Pay attention to horizontal and vertical spacing.
 
-> :gem: **Designer Insight:** Ask a TA to briefly share how they remember best practices like these when they are working on a RWD project.
+## SLIDE 23
+Questions??
 
-> **Instructor Note:** Ask one or two students to share how they set themselves up for success in terms of checklists, tips, and notes. Do they keep them in a notebook, sticky notes next to their computer monitor, etc.?
-
-Now, at last, students are ready to work with RWD layouts.
-
+## SLIDES 24-25
 ## 5. Student Do: RWD Layout Challenge Activity (20 min)
 
 **TAs:** Slack out the following Google Doc activity and templates needed for this activity:
@@ -321,64 +326,45 @@ Monitor students and offer assistance. They might need help reordering their res
 
 Students will post the RWD challenge solutions to Slack that show their ability to scale between screens.
 
+## SLIDE 26
 ## 6. Instructor Do: RWD Layout Challenge Activity Review (10 min)
 
 **Instructor:** Download the solution file for the layout challenge: [11-Week/05-Instructor Resources/11.1-solution-files](https://drive.google.com/open?id=1WyLEkKIzIPbYORFigzSYA1wsu4en12Z2).
 
 Have students return to the main Zoom room and prepare to review the activity.
 
-Share your screen for a walkthrough and discussion of the solution file layouts.
 
-> **Instructor Note:** Most students will have something resembling the solution, with the main hero image, a log-in, and primary navigation. Their mobile and tablet views will also be similar, with fewer cards.
+## SLIDE 27
+Review Solution
 
-> globe_with_meridians: **Online Recommendation:**: Invite questions from the class or stimulate discussion with your own questions. For example, you might ask:
+## SLIDE 28
+Questions??
 
-- What was the goal of your layout? (call on a random student)
-- Ask if anyone came up with alternative layouts (e.g., removing the hero image for mobile), and discuss the merits of those layouts.
-- Which screen was the hardest to make decisions about?
+## SLIDE 29
+Review
 
-Now, provide a bit of actionable feedback for the class and address a couple of common misconceptions and FAQs about RWD layout practices:
-
-- Actionable feedback: Point out how working with "real content" in responsive design helps impact layout and composition decisions. A hero space can exist, but what makes it come to life is the content that gets used in that space.
-
-- Actionable feedback: The layout of a responsive page can be reinforced by where your content subject(s) are looking; use the eye gaze to improve layout decisions.
-
-- Misconceptions: "A good web developer will fix any responsive issues in code." *False.* Although the whole team is responsible for making the end user experience look great on all screens, giving developers more detailed views on how a responsive set of elements works will produce a tighter product.
-
-> **Instructor Note:** Let's take a moment to check in with the class and see how comfortable they're feeling with the topic we just covered.
->
-> :globe_with_meridians: **Online Recommendation:** Consider using Slack, Zoom chat, or a Zoom poll to interact with your class. 
->
-> **Fist-to-Five:** Ask your class to rate their level of understanding by raising their hand for a "Fist-to-Five" check. A closed fist (0) means they are lost on the topic and need much more help. An open hand (5) means they completely understand everything that was covered and feel confident and ready to go.
-
-Next, you will support students in going deeper into RWD with a look at navigation patterns—that's your next lecture.
-
-## 7. Instructor Do: Responsive Components and UI Navigation (25 min)
-
-> :pushpin: **Important Point:** Your goal is to help students appreciate navigation as part of usability, which can significantly improve responsive solutions. This lecture supports today's third learning objective, which is for students to execute navigation solutions for mobile.
-
-Now that students are familiar with creating responsive layouts, they need to learn how navigation design relates to RWD. Understanding navigation design will prepare them for adding navigation elements to their RWD layouts.
-
-> **Instructor Note:** This is a long section. Be sure to inject anecdotes along the way to bring learning to life for students. Anecdotes connect what students are learning in the classroom to your real-world experiences.
->
-> - Be sure to ask TAs to share their own professional examples, too.
-> - Look for the :gem: for opportunities to share anecdotes.
-
-### Responsive Components
-
+## SLIDE 30
 In modern web projects, responsive design and flexible layouts are common practice. It is very hard to create content that works on every screen and be aware that *not every element* of a website looks great big as well as small.
 
-- Fluid grids use columns that scale and resize content.
+- Fluid grids use columns that scale and resize content. Breakpoints written into the code determine if and when the layout changes.
 
+## SLIDE 31
 - When an element has a fluid width, its width expands and contracts as the screen size changes. This button fluidly scales within the right two columns.
 
+## SLIDE 32
 - Don’t use a container on fluid components if it’s too narrow to display elements and padding at smaller widths.
 
+## SLIDE 33
 - Use caution when spanning a fluid component across several columns in a widescreen. Specific components, like buttons, might be overly emphasized on larger screen widths.
 
-> :gem: **Designer Insight**: Say something about responsive components, such as how tricky it can be to design a flexible layout—"not every element of a site looks great both big as well as small."
 
-### Responsive UI Navigation
+## SLIDE 34
+Review
+
+## SLIDE 35
+- We see a typical breadcrumb UI pattern on a checkout page of an e-commerce website. Breadcrumbs are a great tool to communicate past, present, and future states for a user. In this case, the user's past was browsing from the homepage, the shop page, and then the cart page. Presently, the user is on the checkout page. The future requires the user to fill out the information, submit payment, and probably receive a success message after the payment is processed.
+
+- Studies show that navigation is crucial if your website sells things or tries to convince a user to come back. The navigation of a site informs whether visitors deem the site trustworthy or not.
 
 Any good global navigation scheme should answer the top three questions every user has when on a page:
 
@@ -390,40 +376,35 @@ UI navigation is essential to product usability and can help make a webpage more
 
 - On a website, “navigation” doesn’t just mean links. UI navigation is, like most elements of a website, about communicating with the user. Good UI navigation tells a story, and good stories have a beginning, middle, and end. UI navigation also has three parts, which communicate to users about their past, present, and future.
 
-Remember:
-
-1. Never, ever link to the page you're on.
-2. Show where you are.
-3. Think before you link.
-
-> :gem: **Designer Insight**: Say something about navigation and how you approach it as an essential element in your work.
->
-> - Feel free to let a TA field this anecdote.
-
-### Responsive UI navigation breadcrumb example
-
-- We see a typical breadcrumb UI pattern on a checkout page of an e-commerce website. Breadcrumbs are a great tool to communicate past, present, and future states for a user. In this case, the user's past was browsing from the homepage, the shop page, and then the cart page. Presently, the user is on the checkout page. The future requires the user to fill out the information, submit payment, and probably receive a success message after the payment is processed.
-
-- Studies show that navigation is crucial if your website sells things or tries to convince a user to come back. The navigation of a site informs whether visitors deem the site trustworthy or not.
-
+## SLIDE 36
 ### Responsive Desktop UI Navigation Patterns
 
 1. **A vertical navigation** menu is just as effective as its horizontal counterpart, with clear distinctions between pages and easily recognizable functionality.
 
 2. **Full-screen navigation** fills the entire screen.
 
+## SLIDE 37
 3. **Fixed/sticky navigation** requires seeing the entire screen header and is usually accompanied by standard drop-down menus. It should indicate where a user is located.
 
 4. **Parallax scrolling navigation** allows content to scroll at different speeds, allowing interacting with a scrolling experience.
 
+## SLIDE 38
 ### Responsive UI Navigation and the Mobile First Approach
 
 The first things that are affected in a mobile first world, or at least should be, are content and information architecture strategies. The small screen cannot allow for the navigation to be part of the layout due to size.
 
 - Intel’s navigation is complex, and small viewports exacerbate that complexity. Notice that the navigation has tabs, a list of links, and subcategories in a small space.
 
-### Responsive Mobile UI Navigation Patterns
+## SLIDE 39
+When designing navigation, be sure to consider:
+- How can complexity be reduced as much as possible?
+- How can you ensure the navigation is easy to locate and use between desktop and mobile? With responsive web you're working with the same code often.
+- Testing your navigation thoroughly to ensure that you're still meeting the needs and goals of the users between desktop and mobile.
 
+## SLIDE 40
+Review
+
+## SLIDE 41
 We have many options today for responsive navigation. Web designer and author Brad Frost has cataloged most, if not all, of these patterns on his website, This Is Responsive.
 
 1. **Hamburger navigation:** The hamburger menu allows the designer to free up screen real estate by shifting options off-screen into a side menu. This pattern can be particularly useful if you want the user to focus on the main content.
@@ -436,7 +417,6 @@ We have many options today for responsive navigation. Web designer and author Br
    - What’s out of sight is out of mind. When navigation is hidden, users are less likely to use it. While this type of navigation is becoming standard, and many mobile users are familiar with it, many people still don’t think to open it.
 
 2. **Tab bar navigation:** Tab bars are conventional on Android and iOS devices. They are becoming a trend in mobile-first web design as well. Tab bars outperform hamburger menus for discoverability while user testing.
-
    - The tab bar pattern is inherited from desktop design. It usually contains relatively few destinations of similar importance that require direct access from anywhere in the app.
 
    - For example, YouTube tested a tab bar design and replaced the hamburger menu due to the results.
@@ -444,55 +424,54 @@ We have many options today for responsive navigation. Web designer and author Br
    - **TAs:** Slack out into the #resources channel for students to review at home:
      - [https://www.nngroup.com/articles/hamburger-menus/](https://www.nngroup.com/articles/hamburger-menus/)
 
+
+## SLIDE 42
+Discoverability is cut nearly cut in half by hiding a website's primary nav. The task time is also longer the user tends to perceive the task as more difficult.
+
+## SLIDE 43
 3. **Do very little navigation:** This pattern makes navigation a priority and does not hide the navigation behind any progressive disclosure. Most responsive navigation patterns involve progressive disclosure. While the disclosure is a good option, we should only pursue it when a better option does not exist.
 
 4. **Multilevel toggle navigation:** Most applications can get away with two navigation levels—the sweet spot for most implementations. In small view ports, this pattern enables users to toggle the subsections easily and see the contents within.
 
+
+## SLIDE 44
 5. **Simple toggle navigation:** This is another good option and is a variant of the previous pattern. In this case, we do not need multiple levels. However, navigation items are still too numerous to allow for the “do very little” pattern.
 
 6. **Full-screen navigation:** This navigation is adapted from mobile where the desktop fills the whole screen.
 
+## SLIDE 45
 7. **Shelf navigation:** Shelf navigation can be on either the left or right rail of the screen, and they typically mirror the mobile navigation structure. Shelf navigation is best when it has an affordance to see the shelf and it animates in and out.
 
 8. **Overlay navigation:** Overlay navigation typically drops down from the header navigation and uses rich media to display content sections' navigation items. Large overlay navigation are used by media companies and car websites as they are prone to sharing large images and video content that operates as an advertisement in their navigation. An overlay navigation should be animated and needs to be optimized for speed, as waiting for a navigation to load is very bad UX.
 
+## SLIDE 46
 9. **Pull-down menu navigation:** The pull-down menu relies on the mobile gesture of swiping down. This can improve interaction design through animation.
 
 10. **Drop-down menu navigation:** The drop-down menu is a very standard menu pattern. Drop-down options should not be too many, and drop-downs must have clear affordance.
-
-> :gem: **Designer Insight**: Take a moment to share your own way of incorporating these 10 mobile design patterns into your own work.
 
 - **TAs:** Slack out the following into the #resource channel for students to read at home. Brad Frost's other articles and books are also great resources.
 
   - [https://bradfrost.github.io/this-is-responsive/patterns.html#navigation](https://bradfrost.github.io/this-is-responsive/patterns.html#navigation)
 
-### Responsive UI Navigation Tips
+## SLIDE 47
+Review
 
+## SLIDE 48
+### Responsive UI Navigation Tips
 1. Make it visible
 2. Show the task in the menu
+
+## SLIDE 49
 3. Communicate location
 4. Pin the menu during scroll
 
-### Discuss additional tips
-
-- Try not to hide navigation items inside menus when there is space to include them.
-- Use a good menu, visual weight, and color contrast.
-- Avoid long lists in menus. Use zebra lists to assist legibility.
-- Be clear with your user tasks, labels, and graphics.
-- Make menu labels easy to scan with clear spacing, logical titles, and legible typography.
-- “Where am I?” is a fundamental question a user needs to answer to navigate a webpage successfully. Users rely on visual cues from menus to answer this critical question.
-- Utilize breadcrumbs.
-- Adjust for the “fat thumb.”
-
->  :gem: **Designer Insight:** Add your own input on UI navigation tips based on your professional experience. 
+## SLIDE 50
+Questions??
 
 - **TAs:** Slack out in the #resources channel for students to read at home:
   - [https://www.nngroup.com/articles/navigation-you-are-here/](https://www.nngroup.com/articles/navigation-you-are-here/)
 
-> :briefcase: **Employer Competitive Note**: As UX/UI designers, your role will be to make usable, useful, and hopefully delightful UI navigation solutions. Your professional colleagues will recognize your ability to execute a variety of navigation schemes and deploy responsive best practices in your portfolios. Apply these skills effectively and add them to your resume and LinkedIn skills profile.
-
-Doing is believing. Now that students have a sense of how navigation elements work in RWD's context, it is time for them to try it themselves.
-
+## SLIDE 51
 ## 8. Student Do: Part 1: RWD Navigation Figma/Adobe XD Challenge Activity (25 min)
 
 > :pushpin: **Instructor Note:** This is the first of a three-part activity that will span most of the class's remainder.
@@ -532,6 +511,7 @@ Use this time to navigate among the students' screens and check on various stude
 
 Students will post RWD challenge solutions to Slack that show their ability to scale between screens.
 
+## SLIDE 52
 ## 9. Instructor Do: RWD Navigation Figma/Adobe XD Challenge Activity Review (10 min)
 
 **Launch the Adobe XD solution file:** [11-week/05-Instructor Resources/11.1-solution-files/11.2-Activity-02-Solution-Navigation/XD file](https://drive.google.com/drive/u/0/folders/1gk51oJX2suMYV1wPuUllncnEtsrEjUgD)
@@ -556,16 +536,10 @@ Now, provide a bit of actionable feedback for the class as well as address a cou
 
 Take questions to ensure that everyone understands the concepts. For anyone who needs additional explanation, remind them to stay after class for office hours.
 
-## 10. Break (15 min)
+## SLIDE 53
+Break
 
-Time for a break!
-
-Let students know that when they return, they'll take the next step in the RWD process by testing their layouts.
-
-> :globe_with_meridians: Don't stop sharing your screen: Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
--  [YouTube 15 min Timer videos](https://www.youtube.com/results?search_query=15+min+timer)
-
+## SLIDE 54
 ## 11. Student Do: Part 2: RWD Navigation Testing Activity (15 min)
 
 **TAs,** Slack students the following file: [11-Week/02-Activities/11.1/11.1-03-RWD-Test-Activity Google Doc](https://drive.google.com/open?id=11Rs18KxAmIwopT4Z7PJmM_2eBtUMmrnEnobMBcf8law).
@@ -593,6 +567,7 @@ Moving from group to group, use this time to check in with students in their bre
 
 Students will post RWD challenge iterations to Slack that show their ability to apply feedback.
 
+## SLIDE 55
 ## 12. Instructor Do: RWD Navigation Testing Activity Review (5 min)
 
 Bring students back to the main Zoom room, share your screen, and lead a review of the testing activity.
@@ -624,6 +599,8 @@ Take questions to ensure that all students are grasping these concepts.
 
 Now students are ready to move on to the third and final part of the three-part RWD design challenge: designing a responsive landing page layout.
 
+
+## SLIDE 56
 ## 13. Student Do: Part 3: RWD Landing Page Challenge Activity (20 min)
 
 **TAs:** Slack out to students the following two files:
@@ -649,6 +626,7 @@ Keep everyone motivated by moving among the students' screens, noticing where st
 
 Students will post RWD challenge solutions to Slack that show their ability to incorporate feedback from user testing into their designs.
 
+## SLIDE 57
 ## 14. Instructor Do: RWD Landing Page Challenge Activity Review (10 min)
 
 **Review two solution files for your demo:**
@@ -668,6 +646,10 @@ Next, invite two to three students to share their solution.
   - *What would you do differently?*
 
 > **Instructor Note:** Invite questions and remind students to take advantage of the office hours if they want more support on these concepts.
+
+## SLIDE 58
+Questions?
+
 
 Congratulate students on their hard work today!
 
