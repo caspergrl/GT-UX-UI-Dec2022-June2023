@@ -124,6 +124,8 @@ Does it reorder?
 Does it scale?  
 Does it move?  
 
+RWD can help ensure a good user experience by using flexible grids and images or media as well as by applying media queries to make conditional style sheets.
+
 
 - **TAs:** Slack out the following RWD links in the #resources channel, along with any others the instructor suggests—for students to read at home:
   - [http://blog.froont.com/9-basic-principles-of-responsive-web-design/](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
@@ -133,19 +135,25 @@ Does it move?
   - [https://www.popwebdesign.net/popart_blog/en/2018/10/fluid-vs-adaptive-vs-responsive-design/#:~:text=Fluid%20design&text=It%20is%20based%20on%20relative,adjustable%20to%20various%20screen%20sizes.&text=That%20is%20why%20fluid%20design,the%20same%20percentage%20of%20space.](https://www.popwebdesign.net/popart_blog/en/2018/10/fluid-vs-adaptive-vs-responsive-design/#:~:text=Fluid%20design&text=It%20is%20based%20on%20relative,adjustable%20to%20various%20screen%20sizes.&text=That%20is%20why%20fluid%20design,the%20same%20percentage%20of%20space.)
 
 ## SLIDE 6
-Responsive design can use fluid page layouts. A **fluid page layout** (sometimes called “liquid” or “fluid width”) uses relative units instead of fixed units.
-
+Responsive design can use fluid page layouts. 
 - Fluid design refers to RWD solutions based on relative units and proportional widths, making pages scalable and adjustable to various screen sizes. Whenever the screen size changes, elements of a fluid layout spread over the same percentage of space.
   - An example of fluid design is when a UI element scales down smoothly as you drag your browser window width in.
 
+- This is done using HTML and CSS
+- We consider RWD when making decisions about layout, structure and content hierarchy across multiple screens while designing and developing sites.
+- We also have to consider this when making decisions within our design system.
+
+
 ## SLIDE 7
-- An example: 100% vs. 1440px
+In RWD we as the designers work with engineers to explore and consider how a design may change for a website across a variety of devices and screen sizes. We need to think about how that design may change from really large, widescreen monitors to phones.
+
+Changes in these layouts from device to device can be achieved in a variety of ways.
 
 - Typically, a fluid or liquid, layout will use percentages instead of pixels, and relative units should be applied to all content, including typography.
 
-  - An example: Ems are used for typography and font size of the parent, in the case of typographical properties like font size, and font size of the element itself, in the case of other properties like width.
+- An example: 100% vs. 1440px
 
-    - font-size = 16px = 1em so 1.5 em = 24px (16px base em + 8px (1/2 an em))
+  - There are concepts of flexible units of measurement for websites. For example, emds and rems which are ways to make font sizes scalable, relative to a set value. 
 
 ### RWD Uses Relative Units
 
