@@ -143,45 +143,44 @@ RWD uses HTML and CSS to automatically resize, hide, shrink, or enlarge, a websi
 
 - Designing and developing a website.
 - Making decisions about layout, structure, and content hierarchy across multiple screens.
-- Great for exploring functionality, and usability before dedicating time and resources to visual design and development.
+- Important to consider from the perspectives of functionality, and usability before dedicating time and resources to visual design and development.
 
 **Why do we use RWD?**
 
-- Website design systems can be large and hard to design. RWD allows us to reach a wide range of users. 
-- RWD logic is about designing and developing faster and defining RWD rules that are clear to communicate to developers. 
-
+- Website design systems can be large and hard to design. RWD considerations allow us to more easily reach a wide range of users. 
+- RWD logic is about designing and developing faster but also creating experiences that work on as many devices as possible. 
 
 ## SLIDE 7
 ### Responsive Web Design
 
-Mobile devices are dominating how users consume information on the web. Unfortunately, many of the sites and pages online were not designed for today's mobile devices. Small screens require a different approach to the content layout so that users don't have to scroll through stacked content. Today's designers must figure out how to design for smaller screens and work within size constraints.
+Mobile devices are dominating how users consume information on the web. Unfortunately, many of the sites and pages online were not designed for today's mobile devices. Small screens require a different approach to the content layout from large, widescreen monitors. Today's designers must figure out how to design for smaller screens and work within size constraints.
 
 - **How does RWD work?** RWD responds to the user's needs and their devices through scaling, reordering, and flowing content as the screen size changes.
 - *Example:* A phone would show content in a single column, whereas a tablet might show it in two columns, and a desktop might show it in three columns.
 - **Screen size varies:** Designers cope with a multitude of screen sizes across phones, tablets, desktops, game consoles, TVs, and even wearables. RWD is about how designers adapt webpages to any screen size, today and in the future.
 
 ## SLIDE 8
-- **Ethan Marcotte:** In the webzine A List Apart, web designer, speaker, and author Ethan Marcotte wrote about RWD. We recommend you read the article and add it to your UX/UI library:
+- **Ethan Marcotte:** In A List Apart, web designer, speaker, and author Ethan Marcotte wrote about RWD. We recommend you read the article and add it to your UX/UI library:
 
 - **TAs:** Slack out the following into the #resource channel for students to read at home:
   - [https://alistapart.com/article/responsive-web-design/](https://alistapart.com/article/responsive-web-design/)
   - [https://abookapart.com/products/responsive-web-design](https://abookapart.com/products/responsive-web-design)
 
 ## SLIDE 9
-RWD's goal is to improve the usability and accessibility of webpages through designing experiences that work across multiple screen sizes.
+RWD's goal is to improve the usability and accessibility of webpages through designing experiences that work across multiple screen sizes. This is done by the browser and code detecting the user environment (device or viewport) and changing the layout accordingly.
 
 ## SLIDE 10
 Review
 
 ## SLIDE 11
-🔑 **Key Tech Note:** Responsive sites use fluid grids. We size all page elements by relative units like proportion (%) or em and Root em (em/rem), rather than pixels.
+🔑 **Key Tech Note:** Many responsive sites use fluid grids. We size all page elements by relative units like proportion (%) or em and Root em (em/rem), rather than pixels.
 
 - Design elements on a responsive page respond and change based on the screen size.
 
   - *For example*: In a three-column layout, for example, column one should take up half the page, column two should take up 30%, and column three should take up 20%. No matter the screen width, the column proportions will respond to those relative measurements.
 
 ## SLIDE 12
-Review
+Don't forget to consider touch interactions when making design decisions. What might be easy to select with a mouse may be difficult with a finger tip.
 
 ## SLIDE 13
 Mobile use has increased over time. More than half of all website traffic happens via mobile devices. This has driven the need for both RWD and adaptive layouts.
@@ -273,16 +272,21 @@ Now that students understand the purpose of RWD, show them a responsive website,
 
 
 ## SLIDE 17
-Review
+Five Best Practices for Responsive Grids
 
 ## SLIDE 18
 1. Design mobile first.
+As mobile use increases and desktop use declines, designers have adopted the mobile first approach to give deference to designing for mobile devices.
+
+By starting with the limitations of the smallest screens, designers can deliver a streamlined experience for mobile users that translates nicely to the desktop scree
+
 
 ## SLIDE 19
-2. Use four-column and 12-column grids.
+2. Use four-column for mobile, 8 for tablet and 12-column grids for desktop.
 
 ## SLIDE 20
 3. Optimize UI grids for mobile.
+We have limited space on mobile so multicolumn layouts may not be ideal. Typically, mobile content is limited to 1-2 columns.
 
 ## SLIDE 21
 4. Frame important objectives.
