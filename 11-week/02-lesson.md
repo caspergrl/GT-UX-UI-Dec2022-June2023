@@ -384,69 +384,9 @@ Export images and design assets that you're going to display on a portfolio @2x 
 Questions??
 
 ## SLIDE 31
-## 10. Student Do: RWD Homepage Wireframe Challenge Activity (25 min)
-
-**TAs:** Slack out to students the following:
-
-1. [11-Week/02-Activities/11.2/03-RWD-Homepage-Wireframe-Challenge-Activity Google Doc](https://docs.google.com/document/d/1RnYnMAXykfsgy0WXZsfmGVLjRdl3ndOakRISzIzSZ2M/edit?usp=sharing) and the [User-Persona.pdf](https://drive.google.com/open?id=1Sxux8JbZdz9KgjiPCGfmSE7I8vY9PWHf)
-
-2. [11-Week/02-Activities/11.2/Sketching Template](https://drive.google.com/open?id=1sJiBK4AP0cgNE9N_LQbG38nvQQRLljLi)
-
-3. [11-Week/02-Activities/11.2/Startup Desktop Wireframe Sample](https://drive.google.com/open?id=13dd2qkttQWOJ12IvPrS3Yp3prhdWhpVL)
-
-4. [Adobe XD Resource: https://xdresources.co/resources/big-wireframing-kit](https://xdresources.co/resources/big-wireframing-kit)
-
-5. [Figma Wireframe Kit](https://www.figma.com/resources/assets/wireframe-kit/)
-
-**Summary**
-
-In this activity, students will explore creating a homepage wireframe in RWD and use sketching and Figma/Adobe XD to quickly produce an RWD solution.
-
-**Instructions**
-
-Working alone, students will experiment and design RWD layouts. Students can use Adobe XD or Figma.
-
-Students can work from the supplied list of defined requirements, which will speed up the process. In the real world, they will likely be required to define what they are supplying.
-
-**Instructor and TAs**
-
-Set a timer for 25 minutes.
-
-> :globe_with_meridians: **Online Recommendation:** Have everyone share their screen. You and the TAs can navigate from screen to screen, helping students who need help wireframing responsive content.
-
-**Deliverable**
-
-Students will post RWD wireframe solutions to Slack that show their ability to scale between screens.
-
-## SLIDE 32
-## 11. Instructor Do: RWD Homepage Wireframe Challenge Activity Review (10 min)
-
-Call attention back to your screen and lead a review of the sketched wireframes.
-
-- Remind everyone to share their sketches on the Slack channel.
-- Scroll through all the samples and choose two or three that have all the content from the supplied wireframe.
-- Call on the first student—spotlight each student's screen when they begin to present their work.
-
-**Possible discussion questions:**
-
-- Why do you think Jack Brewster, our user, will use this mobile version?
-  - Which type of content did you find the hardest to translate into mobile?
-- What could you have done differently?
-
-> :gem: **Designer Insight:** Share a story about successfully educating a client about going with an RWD approach to their website.
-
-Now, provide a bit of actionable feedback for the class as well as address a couple of common misconceptions about RWD navigation considerations:
-
-- Actionable feedback: Look at how content has been cropped and give recommendations for improving screen layout.
-
-- Misconceptions: Homepages are the most important webpages of a website. False. Although they are useful and require attention, not all your users will enter a website through the front door. But if your homepage is flawed, that will likely impact all pages below it.
-
-Now that students have a sense of how to make decisions about a webpage design to suit different screen sizes, let's get them thinking about testing different ways to display webpage content.
-
-## SLIDE 33
 Review
 
-## SLIDE 34
+## SLIDE 32
 > :briefcase: **Employer Competitive Note:** As a UX/UI designer, your ability to execute usability tests to provide proof that your solutions work with users is essential to landing a job. This skill will also help clients improve their ROI. Add "proficient in A/B usability testing" to your resume and your LinkedIn skills profile.
 
 - **Ask,** "Anyone ever been part of an A/B test?"
@@ -463,7 +403,7 @@ The terms are used interchangeably in the design community.
 
 - Designers must ask, "How are you defining the parameters of an A/B test?" Each time they run a test, they need to be sure that they are all on the same page and gathering meaningful data.
 
-## SLIDE 35
+## SLIDE 33
 ### **Review when and why to use A/B testing.**
 
 **When do designers use A/B testing?**
@@ -474,7 +414,7 @@ Use A/B testing during the validation and usability assessment. It can be used t
 
 Testing A/B versions can help improve or optimize under-performing aspects of UX/UI. It can also supply feedback data to designers to validate a design hypothesis.
 
-## SLIDE 36
+## SLIDE 34
 - **We can't always sit with our users and watch over their shoulders.**
 - **Ask,** "What is a KPI?"
   
@@ -489,7 +429,7 @@ Testing A/B versions can help improve or optimize under-performing aspects of UX
   - Which group, A or B, is spending more money?
 
 
-## SLIDE 37
+## SLIDE 35
 **A/B testing should test aspects of the UX that are unique.**
 
 - Calls to action (CTAs) (buttons matter)
@@ -500,7 +440,7 @@ Testing A/B versions can help improve or optimize under-performing aspects of UX
 - Images (composition matters)
 - Text (what is your user reading, and why?)
 
-## SLIDE 38
+## SLIDE 36
 **Review samples of the A/B test.**
 
 Which version will convert better? Stack with an option to expand for more details or all details and swipe left or right for more.
@@ -512,18 +452,19 @@ Which version will convert better? Stack with an option to expand for more detai
 
 - **Ask,** "Any questions before we break?"
 
-## SLIDES 39-41
+## SLIDES 37-39
 Review tests
 
-## SLIDE 42
+## SLIDE 40
 Additional resources
 
-## SLIDE 43
+## SLIDE 41
 Questions?
 
+## SLIDE 42
 ## 13. Break (10 min)
 
-## SLIDE 45
+## SLIDE 43
 ## 14. Instructor Do: Demo - InVision Version A/Version B (10 min)
 ### Adobe XD and InVision Demo Steps
 
@@ -572,7 +513,7 @@ Questions?
 
 Now it's time for students to get hands-on and run their own A/B tests.
 
-## SLIDE 46
+## SLIDE 44
 ## 15. Student Do: A/B Team Testing Activity (45 min)
 
 **TAs:** Slack out to students the following activity in Google Docs: [11-Week/02-Activities/11.2/04-RWD-A-B-Team-Testing-Activity Google Doc](https://docs.google.com/document/d/1qe9_EG25bixY55aJCayDPUU_VQoMfN1zi4Aa7MUAOJw/edit?usp=sharing).
@@ -600,7 +541,7 @@ Jump into breakout rooms and see if students need help with creating an A/B hypo
 
 Students will post RWD A/B feedback to Slack.
 
-## SLIDE 47
+## SLIDE 45
 ## 16. Instructor Do: A/B Team Testing Activity Review (10 min)
 
 Call everyone's attention back to your screen and lead a review of the A/B testing results.
