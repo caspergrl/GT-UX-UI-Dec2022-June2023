@@ -167,13 +167,11 @@ A relative unit is relative to something else. For example, the size of the pare
 
 As a UX/UI designer, you will work with developers who will help code your RWD solutions. Being able to speak about fluid design technology and RWD concepts makes you more employable. These skills should be included in your resume and your LinkedIn skills profile.
 
-## SLIDE 8
-Questions??
 
-## SLIDE 9
+## SLIDE 8
 Review
 
-## SLIDE 10
+## SLIDE 9
   - It is the UI designer's job to take on this challenge.
 
   - Don't take screen real estate for granted.
@@ -187,7 +185,7 @@ Review
     - Time spent on mobile webpages is not the same as time spent on a desktop. The size of the device influences how long a user spends consuming mobile content.
     - Users will start on mobile, then move to tablet or desktop, all doing the same task.
 
-## SLIDE 11
+## SLIDE 10
 ### Keep Mobile Navigation Simple
 
 - Prioritize navigation based on functionality.
@@ -198,7 +196,7 @@ Review
 - Maintain a 44 x 44px space (iOS) for touchscreen tap points.
 - Define distinct interaction states and links while making it clear they have been activated.
 
-## SLIDE 12
+## SLIDE 11
 ### Keep Content to a Minimum
 
 Don’t overwhelm users. Respect the small screen space.
@@ -207,7 +205,7 @@ Don’t overwhelm users. Respect the small screen space.
 
 - Make page descriptions short and to the point for relevant bookmarks.
 
-## SLIDE 13
+## SLIDE 12
 ### Optimize User Time and Reduce User Inputs
 
 - Keep URLs short.
@@ -217,16 +215,16 @@ Don’t overwhelm users. Respect the small screen space.
 - Keep scrolling to a minimum and only allow scrolling in one direction.
 
 
-## SLIDE 14
+## SLIDE 13
 ### The Future Is Mobile
 
 Mobile access and commerce are driving forces in emerging economies where many consumers are more likely to have a smartphone or a feature-phone than they are to have a desktop or laptop computer.
 
 
-## SLIDE 15
+## SLIDE 14
 Questions??
 
-## SLIDES 16-17
+## SLIDES 15-16
 ## 4. Student Do: Mobile Blog Redesign Activity (15 min)
 
 **TAs:** Slack out to students the following Google Doc activity:
@@ -259,7 +257,7 @@ TAs, keep an eye on Slack and utilize a breakout room if students need more help
 
 Students will post mobile blog solutions for feedback to Slack.
 
-## SLIDE 18
+## SLIDE 17
 ## 5. Student Do: Mobile Blog Design Test Activity (10 min)
 
 **TAs:** Slack out to students the following Google Doc activity:
@@ -298,7 +296,7 @@ Be on the lookout for possible struggles students may have with sharing their pr
 
 Students will post the mobile blog iterations for feedback to Slack that show their ability to scale typography decisions between screens.
 
-## SLIDE 19
+## SLIDE 18
 ## 6. Instructor Do: Mobile Blog Review (10 min)
 
 Bring everyone back to the main Zoom room and lead a review of the activity outcomes.
@@ -317,14 +315,14 @@ Bring everyone back to the main Zoom room and lead a review of the activity outc
 
 > **Instructor Note:** Professional designers will often use two phones during mobile user tests to capture testing experiences.
 
-## SLIDE 20
+## SLIDE 19
 Review
 
-## SLIDE 21
+## SLIDE 20
 ### Testing and the Fat Thumb
 - We have to be mindful that we all come in different shapes and sizes which is true for our fingers as well. The minimum size for mobile in particular that we should strive for is around 42-44px. Around 60 pixels for medium priority items and around 72 for very high priority items.
 
-## SLIDE 22
+## SLIDE 21
 ### Make Your Screen Legible Through Size Testing 
 
 - A big consideration is typography and legibility.
@@ -335,7 +333,7 @@ Review
 
 - Typography is about consistency: consistent sizing, consistent styling, consistent legibility, etc.
 
-## SLIDE 23
+## SLIDE 22
 Giving your users control over their UI sizes.
 
 - We don't all have the same proportions, have the same eyesight, or the same hand dexterity. Allowing your user to modify the size of their typography, UI elements, and contrast will improve accessibility.
@@ -346,10 +344,10 @@ Giving your users control over their UI sizes.
 
 - **TAs:** Share this link: [https://mashable.com/2018/05/17/iphone-accessibility-features-for-everyone/](https://mashable.com/2018/05/17/iphone-accessibility-features-for-everyone/) — for students to read at home.
 
-## SLIDE 24
+## SLIDE 23
 Questions??
 
-## SLIDES 25-26
+## SLIDES 24-25
 ## 8. Student Do: Three Bears Type Test Activity (10 min)
 
 **TAs:** Slack out to students the following files:
@@ -382,7 +380,7 @@ Navigate from screen to screen and jump into breakout rooms and help students cr
 
 Students will post the version the tester preferred and explain why in Slack.
 
-## SLIDE 27
+## SLIDE 26
 ## 9. Instructor Do: Three Bears Type Review (10 min)
 
 Close out the breakout rooms and bring everyone's attention back to your screen to lead a review of the testing results.
@@ -404,10 +402,10 @@ Now, take a moment to share a few common misconceptions and *actionable* feedbac
 
 Before moving on to your demo, remind students that they can always ask for more feedback on their mobile blog during office hours.
 
-## SLIDE 28
+## SLIDE 27
 Review
 
-## SLIDE 29
+## SLIDE 28
 **Demo Adobe XD:**
 
 1. Download and open the Adobe XD resource:
@@ -426,10 +424,10 @@ Review
 
 Next, students can apply what they learned in the following activity.
 
-## SLIDE 30
+## SLIDE 29
 Review
 
-## SLIDES 31-33
+## SLIDES 30-32
 ## 11. Student Do: Figma/Adobe XD Type Styles Activity (5 min)
 
 **TAs:** Slack out to students the following Google Doc activity:
@@ -464,7 +462,7 @@ Use this time to target any students who are struggling with Figma/Adobe XD. Pos
 
 Students will post type style solutions for feedback to Slack that show their ability to make typography decisions for a UI system.
 
-## SLIDE 34
+## SLIDE 33
 ## 12. Instructor Do: Figma/Adobe XD Type Styles Activity Review (5 min)
 
 Bring all breakout rooms back to the main room, draw attention to your screen, and lead a review of the type styles activity.
@@ -491,10 +489,10 @@ Invite students to ask for more feedback on their type styles work during office
 
 Next, you'll dive into how designers handle navigation for mobile design.
 
-## SLIDE 35
+## SLIDE 34
 Review
 
-## SLIDE 36
+## SLIDE 35
 ### Navigation Is About Orientation
 
 All navigation should help your users understand: Where am I? Where can I go? And where have I been?
@@ -518,44 +516,44 @@ All navigation should help your users understand: Where am I? Where can I go? An
    - Reduces discoverability by half when main navigation is hidden
    - Increases task time and perceived task difficulty
 
-## SLIDE 37
+## SLIDE 36
 3. Do very little navigation
 4. Multilevel toggle navigation
 
-## SLIDE 38
+## SLIDE 37
 5. Simple toggle navigation
 6. Full-screen navigation
 
-## SLIDE 39
+## SLIDE 38
 7. Shelf navigation (desktop and mobile)
 8. Overlay navigation (desktop and mobile)
 
-## SLIDE 40
+## SLIDE 39
 10. Drop-down menu navigation
 11. Multi drop-down menu navigation
 
 
-## SLIDE 41
+## SLIDE 40
 Questions??
 
-## SLIDE 42
+## SLIDE 41
 ## 15. Break (15 min)
 
-## SLIDE 43
+## SLIDE 42
 Review
 
-## SLIDE 44
+## SLIDE 43
 ### Katica Babarczi's Quote
 Read the quote from Katica Babarczi, Hungarian UX/UI designer and creative director at Tep fitness app. Babarczi focuses on accessibility concerns and is a self-proclaimed "super-empathetic designer with a strategic mindset."
 
-## SLIDE 45
+## SLIDE 44
 Review
 
-## SLIDE 46
+## SLIDE 45
 Developers need to understand the states of a UI, and empty is one of them. This is especially so if you are working on a solution that has users' input or user-generated content (UGC). When a user first creates a space to put their content, that space is empty, waiting to be filled.
 
 
-## SLIDE 47
+## SLIDE 46
 ### Edge Cases
 
 - Edge cases include things like designing the most extended German version of a label.
@@ -567,11 +565,11 @@ Developers need to understand the states of a UI, and empty is one of them. This
     - For example: A headline tile under 60 characters.
 
 
-## SLIDE 48
+## SLIDE 47
 ### Provide Assets: Icons and Pictures
 - Assets need to be complete. All icons should be provided as .svg as they are vector elements.
 
-## SLIDE 49
+## SLIDE 48
 ### Consistency Is Key
 
 - Building a style guide for developers and turning it into a design system will make your designer-developer collaboration manageable and your product consistent.
@@ -581,10 +579,10 @@ Developers need to understand the states of a UI, and empty is one of them. This
   - [https://fireart.studio/designing-for-edge-cases-3/](https://fireart.studio/designing-for-edge-cases-3/)
 
 
-## SLIDE 50
+## SLIDE 49
 Questions??
 
-## SLIDE 51
+## SLIDE 50
 ## 17. Instructor Do: Demo - Figma/Adobe XD Development Specs and Zeplin.io (15 min)
 
 > :pushpin: **Important Point:** The goal is to introduce students to how developers code UIs and responsive websites. This requires sharing and communicating on developer's terms (e.g., specs and design assets).
@@ -661,7 +659,7 @@ Other tools can improve handoffs with front-end development.
 
 Now, at last, students can put into practice what they've just learned in a design and handoff activity using Figma/Adobe XD and Zeplin.
 
-## SLIDES 52-53
+## SLIDES 51-52
 
 ## 18. Student Do: RWD Blog Post and Development Handoff Challenge Activity (20 min)
 
