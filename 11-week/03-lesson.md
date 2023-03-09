@@ -405,29 +405,7 @@ Before moving on to your demo, remind students that they can always ask for more
 ## SLIDE 27
 Review
 
-## SLIDE 28
-**Demo Adobe XD:**
-
-1. Download and open the Adobe XD resource:
-
-    - [https://drive.google.com/open?id=1Gg5uKn3M-rvNOwAkgOx9dXYyNzQDgwta](https://drive.google.com/open?id=1Gg5uKn3M-rvNOwAkgOx9dXYyNzQDgwta)
-
-    - ![Images/01-XD-Assets-Demo.png](Images/01-XD-Assets-Demo.png)
-
-2. Review the Adobe XD file.
-3. Open the Assets panel.
-4. Select a typeface.
-5. Add a type style to the assets.
-6. Control select or right-click to edit the typestyle.
-
-> Pause for questions before moving on. Reassure students that they'll get faster at creating UI solutions the more they practice with Adobe XD.
-
-Next, students can apply what they learned in the following activity.
-
-## SLIDE 29
-Review
-
-## SLIDES 30-32
+## SLIDES 28-30
 ## 11. Student Do: Figma/Adobe XD Type Styles Activity (5 min)
 
 **TAs:** Slack out to students the following Google Doc activity:
@@ -462,7 +440,7 @@ Use this time to target any students who are struggling with Figma/Adobe XD. Pos
 
 Students will post type style solutions for feedback to Slack that show their ability to make typography decisions for a UI system.
 
-## SLIDE 33
+## SLIDE 31
 ## 12. Instructor Do: Figma/Adobe XD Type Styles Activity Review (5 min)
 
 Bring all breakout rooms back to the main room, draw attention to your screen, and lead a review of the type styles activity.
@@ -489,10 +467,10 @@ Invite students to ask for more feedback on their type styles work during office
 
 Next, you'll dive into how designers handle navigation for mobile design.
 
-## SLIDE 34
+## SLIDE 32
 Review
 
-## SLIDE 35
+## SLIDE 33
 ### Navigation Is About Orientation
 
 All navigation should help your users understand: Where am I? Where can I go? And where have I been?
@@ -516,44 +494,44 @@ All navigation should help your users understand: Where am I? Where can I go? An
    - Reduces discoverability by half when main navigation is hidden
    - Increases task time and perceived task difficulty
 
-## SLIDE 36
+## SLIDE 34
 3. Do very little navigation
 4. Multilevel toggle navigation
 
-## SLIDE 37
+## SLIDE 35
 5. Simple toggle navigation
 6. Full-screen navigation
 
-## SLIDE 38
+## SLIDE 36
 7. Shelf navigation (desktop and mobile)
 8. Overlay navigation (desktop and mobile)
 
-## SLIDE 39
+## SLIDE 37
 10. Drop-down menu navigation
 11. Multi drop-down menu navigation
 
 
-## SLIDE 40
+## SLIDE 38
 Questions??
 
-## SLIDE 41
+## SLIDE 39
 ## 15. Break (15 min)
+
+## SLIDE 40
+Review
+
+## SLIDE 41
+### Katica Babarczi's Quote
+Read the quote from Katica Babarczi, Hungarian UX/UI designer and creative director at Tep fitness app. Babarczi focuses on accessibility concerns and is a self-proclaimed "super-empathetic designer with a strategic mindset."
 
 ## SLIDE 42
 Review
 
 ## SLIDE 43
-### Katica Babarczi's Quote
-Read the quote from Katica Babarczi, Hungarian UX/UI designer and creative director at Tep fitness app. Babarczi focuses on accessibility concerns and is a self-proclaimed "super-empathetic designer with a strategic mindset."
-
-## SLIDE 44
-Review
-
-## SLIDE 45
 Developers need to understand the states of a UI, and empty is one of them. This is especially so if you are working on a solution that has users' input or user-generated content (UGC). When a user first creates a space to put their content, that space is empty, waiting to be filled.
 
 
-## SLIDE 46
+## SLIDE 44
 ### Edge Cases
 
 - Edge cases include things like designing the most extended German version of a label.
@@ -565,11 +543,11 @@ Developers need to understand the states of a UI, and empty is one of them. This
     - For example: A headline tile under 60 characters.
 
 
-## SLIDE 47
+## SLIDE 45
 ### Provide Assets: Icons and Pictures
 - Assets need to be complete. All icons should be provided as .svg as they are vector elements.
 
-## SLIDE 48
+## SLIDE 46
 ### Consistency Is Key
 
 - Building a style guide for developers and turning it into a design system will make your designer-developer collaboration manageable and your product consistent.
@@ -579,10 +557,13 @@ Developers need to understand the states of a UI, and empty is one of them. This
   - [https://fireart.studio/designing-for-edge-cases-3/](https://fireart.studio/designing-for-edge-cases-3/)
 
 
-## SLIDE 49
+## SLIDE 47-50
+Review
+
+## SLIDE 51
 Questions??
 
-## SLIDE 50
+## SLIDE 52
 ## 17. Instructor Do: Demo - Figma/Adobe XD Development Specs and Zeplin.io (15 min)
 
 > :pushpin: **Important Point:** The goal is to introduce students to how developers code UIs and responsive websites. This requires sharing and communicating on developer's terms (e.g., specs and design assets).
@@ -659,7 +640,7 @@ Other tools can improve handoffs with front-end development.
 
 Now, at last, students can put into practice what they've just learned in a design and handoff activity using Figma/Adobe XD and Zeplin.
 
-## SLIDES 51-52
+## SLIDES 53-54
 
 ## 18. Student Do: RWD Blog Post and Development Handoff Challenge Activity (20 min)
 
