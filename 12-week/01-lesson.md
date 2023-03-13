@@ -170,20 +170,21 @@ Review
 ## SLIDE 6
 Speculative design is a design method addressing big societal problems and looking toward the future—and creating products and services for those scenarios. Design for the future is speculative.
 
-- All design is speculative until it is in your user's hands. Just some solutions experiment more than others with how far technology and society can be pushed.
+- Doing speculative design often requires starting with research where you attempt to identify "signals" of emerging technologies and trends, then seek out weaknesses in those technologies and experimental uses. Brainstorming ideas and forming a story around a solution would follow.
+- We don't often have an opportunity in our day to day as designers to do this type of exploration but it can be a really fun and inspiring activity.
 
 ## SLIDE 7
 Software-based UX and UI design are new professions and require these 4 skills:
-- Critical thinker: solving problems
+- Critical thinker: solving problems - we need to be able to analyze ideas, concepts and data collected from different perspectives, then arrive at an unbiased solution. We need to attempt to ancitipate the consequences of certain actions in advance. We need to be able to reflect, think indepdently, stay objective and problem solve. We have to be discliplined but also flexible.
 - Communicator: understanding and communicating ideas
 - Collaborator: working with others
 - Creator: producing high quality work
 
 ## SLIDE 8
-- The world changes fast and technology is always striving to lead it. Considering what may be next will help you keep you role (currently AI and ML are popular topics)
+- The world changes fast and technology is always striving to lead it. Considering what may be next will help you keep you role (currently AI and ML are popular topics). This job requires being a lifelong learner.
 
 ## SLIDE 9
-Stay on top of trends and technological developments. Anticipating the innovations in the market and the ever changing needs of users will help. Never stop learning.
+Stay on top of trends and technological developments. Anticipating the innovations in the market and the ever changing needs of users will help. Always learning, always reading, always listening to podcasts, attending conferences, talks and networking, getting and receiving feedback on our designs.
 
   - [https://vimeo.com/236746650](https://vimeo.com/236746650)
 
@@ -192,8 +193,8 @@ Stay on top of trends and technological developments. Anticipating the innovatio
   - Peter Drucker was celebrated by *Businessweek* magazine as “the man who invented management. Not necessarily a "designer." 
 
 ## SLIDE 11
-- Global design company IDEO defines "innovation" as solutions that consider the domain of UX.
-_Review the ways that desirability, viability, and feasibility intersect:_  
+- Global design company IDEO defines "innovation" as solutions that consider the domain of user experience.
+They see innovation as being at the intersection of desirability, viability, and feasibility...  
   - Emotional innovation
   - Progress innovation
   - Design thinking
@@ -213,16 +214,16 @@ Questions??
 Review
 
 ## SLIDE 14
-Consider design thinking as a set of principles still applicable to:   
-- Voice user interface (VUI)
-- Virtual reality (VR)
-- Augmented reality (AR)
+3 near future opportunities (here now but still progressing):     
+- Voice user interface (VUI) (amazon echo, google nest, siri)  
+- Virtual reality (VR) (vr headsets)  
+- Augmented reality (AR) (pokemon go, museum tours, even wine bottles)  
+Consider design thinking as a set of principles still applicable to each of these opportunities.
 
 ## SLIDE 15
 ### Voice Commands
-When Macintosh launched in 1984, the dream of a talking computer was first born.
+When Macintosh launched in 1984, the dream of a talking computer was first born. This has evolved into the voice controlled devices we have today.
 
-  - Autonomous computers are a risk. Remember *2001: A Space Odyssey,* Stanley Kubrick's 1964 masterpiece.
 
   - **TAs:** Slack out: [https://www.nytimes.com/2018/05/10/science/2001-a-space-odyssey-kubrick.html](https://www.nytimes.com/2018/05/10/science/2001-a-space-odyssey-kubrick.html)
 
@@ -241,7 +242,7 @@ Stepping into a computer-generated world and being embodied as an avatar within 
 ## SLIDE 18
 ### Augmented Reality
 
-Pokémon GO, mobile gaming, and location-based interfaces augmented through our device screens are not too far off.
+Pokémon GO, virtual try ons... virtual placement and visualization of furniture in a room before you buy.
 
 
 - **TAs:** Slack out the following career resources:
