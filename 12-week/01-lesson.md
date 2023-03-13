@@ -160,65 +160,40 @@ You'll start by summarizing the state of UX/UI and where it's headed. Ideas to e
 
 > :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will be at the tip of the spear. Your ability to address innovations in technology, changes in culture, and new opportunities for your users makes you extremely valuable to employers. Students should add "innovation strategies" or "future casting" to their resumes and LinkedIn skills profiles.
 
-### Introduce UX/UI's Future
 
-Broach the subject of UX/UI's future by discussing Steve Jobs.
+## SLIDES 1-4
+Review
 
-- Discuss the quote from Steve Jobs.
-  
+## SLIDE 5  
 *"You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future."*
   
-  - Ask a TA or a student to read the quote: 
-
-> :gem: **Designer Insight:** Ask a TA to speak to their experience with speculative design briefly. Alternatively, you could share a professional anecdote.
-
-> :globe_with_meridians: **Online Recommendation:** Take a moment to check in with the class and see how comfortable they're feeling with mobile navigation patterns and strategies. Stop sharing your screen for a moment and switch to Gallery View in Zoom to see your class on one screen.
-
-### Speculative Design 
-
+## SLIDE 6
 Speculative design is a design method addressing big societal problems and looking toward the future—and creating products and services for those scenarios. Design for the future is speculative.
 
 - All design is speculative until it is in your user's hands. Just some solutions experiment more than others with how far technology and society can be pushed.
 
-### UX/UI Lets You Get the Job
-- **Now:** UX/UI lets you *get* the job.
-  - Discuss how you need relevant skills to be employer competitive.
-- **Near future:** UX/UI lets you *keep* the job.
-  - Discuss how you need skills to allow you to address a changing world.
-- **Far future:** UX/UI lets you *drive* the role.
-  - Discuss how students will continue to learn, and emphasize that UX is not a static profession.
-    - For example: They will learn how to prototype for technologies that exist but could just as well prototype design solutions for technologies that don't exist yet.
+## SLIDE 7
+Software-based UX and UI design are new professions and require these 4 skills:
+- Critical thinker: solving problems
+- Communicator: understanding and communicating ideas
+- Collaborator: working with others
+- Creator: producing high quality work
 
-**The 4 Cs**
-Students are practicing 21st century skills while gaining capabilities in: 
+## SLIDE 8
+- The world changes fast and technology is always striving to lead it. Considering what may be next will help you keep you role (currently AI and ML are popular topics)
 
-1. Critical thinking
-2. Communication
-3. Collaboration
-4. Creation
-
-### Near Future: UX/UI Lets You Keep the Job 
-The world changes fast. The web has only been around since 1990, and the iPhone was launched in 2007. Anticipating what developments are on the horizon will secure your role.
-
-- **TAs:** Slack out dystopic UI video from vimeo for students to watch at home:
+## SLIDE 9
+Stay on top of trends and technological developments. Anticipating the innovations in the market and the ever changing needs of users will help. Never stop learning.
 
   - [https://vimeo.com/236746650](https://vimeo.com/236746650)
 
-### Far Future: UX/UI Lets You Drive the Role
-
-Anticipating the technological innovations and changes in user needs will help inform your design decisions.
-
+## SLIDE 10
 - Review the Peter Drucker quote. 
-
-- Ask: "Is anyone familiar with Peter Drucker?"
-
   - Peter Drucker was celebrated by *Businessweek* magazine as “the man who invented management. Not necessarily a "designer." 
 
-### Consider the Innovation Possibilities
-
-Review innovation.
+## SLIDE 11
 - Global design company IDEO defines "innovation" as solutions that consider the domain of UX.
-- Review the ways that desirability, viability, and feasibility intersect:
+_Review the ways that desirability, viability, and feasibility intersect:_  
   - Emotional innovation
   - Progress innovation
   - Design thinking
@@ -227,151 +202,119 @@ Review innovation.
 
 Applying innovation can be big or small.
 
-> :gem: **Designer Insight:** Share an example of something you think is innovative and why.
->
-> - Ask if your TAs have anything they want to add.
+Innovation is not always something radically new like the introduction of the iPhone in 2007; innovation can be an efficient solution, an experience that supports a user emotionally, or a solution that is useful to differently-abled people (hearing or visually impaired). 
 
-- Have a short conversation with your students about innovative software. 
-  - Ideas to emphasize: Innovation is not always something radically new like the introduction of the iPhone in 2007; innovation can be an efficient solution, an experience that supports a user emotionally, or a solution that is useful to differently-abled people (hearing or visually impaired). 
-  - Innovation is an industry "buzz word," so be wary of self-proclaimed "innovative software teams" because sometimes they are the most unlikely to be innovative in their design.
-- Remind students that the world moves fast, and the role of UX/UI is to stay *ahead* of the curve.
+Innovation is an industry "buzz word," so be wary of self-proclaimed "innovative software teams" because sometimes they are the most unlikely to be innovative in their design.
 
-Now that students have a sense of the type of profession they're entering—and its great potential—it's time to talk about ways they can stay ahead as they enter the UX/UI design field.
+## SLIDE 12
+Questions??
 
-> **Instructor Note:** Check in with students before moving on to the next section.
+## SLIDE 13
+Review
 
-## 4. Instructor Do: Interaction Design Opportunities (3 min)
-
-> :pushpin: **Important Point:** Your goal is to discuss three emerging specializations and relate them to the UX/UI jobs your students will someday hold.
-
-Use this short discussion to get students excited about working in emerging areas of UX/UI design.
-
-### Three Near-Future Opportunities
-
-Walk through three new areas of specialization and discuss examples for each:
-
+## SLIDE 14
+Consider design thinking as a set of principles still applicable to:   
 - Voice user interface (VUI)
 - Virtual reality (VR)
 - Augmented reality (AR)
 
-Review VUI, VR, and AR samples.
-
+## SLIDE 15
 ### Voice Commands
-
-Discuss the first generation of VUI.
-
 When Macintosh launched in 1984, the dream of a talking computer was first born.
 
   - Autonomous computers are a risk. Remember *2001: A Space Odyssey,* Stanley Kubrick's 1964 masterpiece.
 
   - **TAs:** Slack out: [https://www.nytimes.com/2018/05/10/science/2001-a-space-odyssey-kubrick.html](https://www.nytimes.com/2018/05/10/science/2001-a-space-odyssey-kubrick.html)
 
+## SLIDE 16
 ### Hal 9000
 
 Hal 9000 is now a reality. In a nod to the AI character, Tesla cleverly used the glowing eye in its cars' sentry mode interface.
 
   - **TAs:** Slack out: [https://www.autoweek.com/news/green-cars/a32095342/tesla-wont-use-hal-9000-for-sentry-mode/](https://www.autoweek.com/news/green-cars/a32095342/tesla-wont-use-hal-9000-for-sentry-mode/)
 
+## SLIDE 17
 ### Virtual Reality
 
 Stepping into a computer-generated world and being embodied as an avatar within a virtual space is a new frontier for UIs.
 
+## SLIDE 18
 ### Augmented Reality
 
 Pokémon GO, mobile gaming, and location-based interfaces augmented through our device screens are not too far off.
 
-Opportunities for designers:
-
-- Encourage your students to embrace these nascent technologies, as they promise to reshape our future. As designers, they should cultivate a lifelong love of learning and welcome innovation and change.
 
 - **TAs:** Slack out the following career resources:
   - [https://www.toptal.com/designers/product-design/vr-ar-mr-the-future-of-design](https://www.toptal.com/designers/product-design/vr-ar-mr-the-future-of-design)
   - [https://medium.com/facebook-design/transitioning-to-a-career-in-ar-vr-design-ddb9b8545bc](https://medium.com/facebook-design/transitioning-to-a-career-in-ar-vr-design-ddb9b8545bc)
   - [http://www.valuecoders.com/blog/technology-and-apps/future-augmented-reality-virtual-reality-infographic/](http://www.valuecoders.com/blog/technology-and-apps/future-augmented-reality-virtual-reality-infographic/)
 
-Now that you've looked at the new, innovative ways that users can interact with websites and apps, you're going to shift into a discussion about motion and how it's used to delight users.
+## SLIDE 19
+ChatGPT and MidJourney
 
-> **Instructor Note:** Check in with your students
+## SLIDE 20
+Questions??
 
-> :globe_with_meridians: **Online Recommendation:** Zoom check-ins can be challenging, so try to switch from presentation to grid view so that you can see students' faces. This will allow you to quickly get a sense of how your class is doing quickly.
+## SLIDE 21
+Review
 
-## 5. Instructor Do: Interaction Design Motion and Delight (2 min)
-
-> :pushpin: **Important Point:** Your goal is to introduce students to motion, how robust its effect is, and how it's used in design. This will get them thinking about opportunities for adding movement to their designs.
-
-Here, you'll encourage students to think about what makes a UX interaction enjoyable for all types of UX/UI design. The goal of UX/UI design is to make solutions that delight users, whether an augmented reality app or a simple webpage.
-
-> :gem: **Designer Insight:** Share a personal example of either being delighted by a motion or interaction or your role in creating a delightful user experience.
-
-> **Instructor Note:** Ask two or three students to briefly share delightful experiences they've had with apps or sites in Slack.
-
+## SLIDE 22
 ### UX Should Strive to Be Delightful 
-
-Walk through the ingredients of delightful UI: usefulness, ease of use, and beauty.
-
 - Useful (UX)
 - Usable (UI)
 - Beautiful (IxD)
 - Delightful (motion and sound design)
 
+## SLIDE 23
 ### UI Animation Can Improve User Delight 
 
 - Animations can help make your experience more delightful.
 - Create animations carefully.
 - Design sounds delicately.
 
-Now show students how computer games utilize UI principles to add delight for their users.
+## SLIDE 24
+Review
 
-## 6. Instructor Do: Delightful Interaction Through Games (5 min)
+## SLIDE 25
+Review
 
-> :pushpin: **Important Point:** Your goal is to discuss how gamification and game design strategies keep users engaged and what we can learn from it. Emphasize that we can learn a lot about keeping users engaged by studying games and gaming interfaces.
-
-Here you will look at another area of design to see how it leverages interactivity to delight users—game design.
-
-> :gem: **Designer Insight:** Share an example of how you've implemented gamification elements to create delightful user experiences.
-
-### Six Most Common Game Strategies
-
-- Review the six most common game strategies: challenges, points or scoring, badges or stickers, leaderboards, journeys, and time constraints.
-
-  - Interject any samples you can think of. For example:
-    - Power-ups: Everything you're learning about UX/UI from this boot camp is a power-up for your skills.
-
+## SLIDE 26
 #### Challenges
 A challenge is one of the most compelling game elements that motivate people to take action.
   - Example: Video game levels are an example of challenges.
   - **Ask**, "What is a good example of a video game with challenges?"
 
+## SLIDE 27
 #### Points or Scoring
 Points allow users (players) to measure their success. Many games use a points system.
    - Example: Rewards programs
    - **Ask for a show of hands:** "Anyone use an app that keeps score?"
 
+## SLIDE 28
 #### Badges or Stickers
 Rewards can become additional drivers of motivation. Everyone wants a gold star!
    - Your user can be motivated by more than just informative content; they respond to sounds, badges, or gold coins.
    - **Ask**, “Anyone remember getting stickers in grade school? Welcome to social engineering.”
 
+## SLIDE 29
 #### Leaderboards
 Not many things can motivate users more than the desire to be the leader.
    - Humans are competitive; allowing your users to "win" will improve interaction.
    - **Ask for a show of hands:** “Anyone use Nike Run or Peloton?”
 
+## SLIDE 30
 #### Journeys
 The user should feel that they are starting a personal journey that allows them to learn the UI along the way.
    - Example: Quests and scavenger hunts have been keeping humans busy for millennia.
    - **Ask**, “What is an example of a quest?”
 
+## SLIDE 31
 #### Time Constraints
 Time ticking down can make users react faster and motivate them to take action right here and now.
    - Time is the ultimate decider in games. From sports like speed skiing, where winning can be separated by 100ths of a second, to Rubik's Cube challenges, getting the quickest time motivates players.
 
-> :gem: **Designer Insight:** Ask a TA to share an example of using a couple of the game tactics you just covered.
-
-- **Ask,** *"Are there any questions?"*
-- Recommend reading and following Brenda Laurel, video game designer and researcher.
-
-  - If students are interested in gaming and UI, set them loose on a few resources.
+## SLIDE 32
+Review resources
 
   - **TAs:** Slack out Brenda Laurel's Twitter account: [https://twitter.com/blaurel](https://twitter.com/blaurel)
 
@@ -382,14 +325,10 @@ Time ticking down can make users react faster and motivate them to take action r
   
   - [https://uxdesign.cc/gamification-aguide-for-designers-to-a-misunderstood-concept-4de5bef0c5d9](https://uxdesign.cc/gamification-aguide-for-designers-to-a-misunderstood-concept-4de5bef0c5d9)
 
-> **Instructor Note:** Take a moment to check in with your students
+## SLIDE 33
+Questions??
 
-> :globe_with_meridians: **Online Recommendation:** Zoom check-ins can be challenging, so try jumping out of your presentation view to grid view so that you can see student faces and get a sense of how the class is doing.
-
-Let's get into practicing these strategies to build delightful UI!
-
-Next, students will put everything they've just learned about interaction design, motion, and games into practice with a hands-on activity.
-
+## SLIDES 34-35
 ## 7. Student Do: Hero Space Interaction Activity (20 min)
 
 **TAs:** Slack out to students the following Google Doc activity and Figma/Adobe XD template:
@@ -424,6 +363,7 @@ Move from screen to screen with your TAs to make sure students are quickly defin
 
 Students will post their hero space design sketch or Figma/Adobe XD design in Slack.
 
+## SLIDE 36
 ## 8. Instructor Do: Hero Space Interaction Activity Review (10 min)
 
 Close the breakout rooms, bring everyone's attention to your screen, and lead a review of the hero space design activity.
@@ -448,71 +388,72 @@ Repeat this process with the remaining student examples.
 
 Now that students know how to apply game design ideas to the hero space, you can show them how animation can be added to the hero space, too.
 
-## 9. Instructor Do: 12 Principles of Animation (8 min)
+## SLIDE 37
+Review
 
-> :pushpin: **Important Point:** Your goal is to introduce students to key animation principles that will inform how they animate their own hero space experiences. This lecture supports today's second learning objective, which is for students to learn and apply the 12 principles of motion from *The Illusion of Life* to the hero space of a webpage.
+## SLIDE 38
+12 principles of animation from the classic book *The Illusion of Life: Disney Animation,* by Disney animators Ollie Johnston and Frank Thomas.
 
-It's time to talk about the basic principles of animation and techniques designers use to enhance their designs and bring more delight to users, much like how gaming strategies can improve our UX. We'll discuss animation from the masters at Disney and cover 12 fundamental principles from the classic book *The Illusion of Life: Disney Animation.*
-
-> :briefcase: **Employer Competitive Note:** As UX/UI designers, your user experiences are expected to be high-quality. The ability to apply the 12 principles of animation to the hero space of a webpage will be something you should showcase in your portfolios.
-
-- Remind students that although they're not in an animation course, their ability to demonstrate great animations will improve their employment competitiveness by making prototypes that are polished and delightful.
-
-> :gem: **Designer Insight**: Share how you've used simple animation techniques to add to your design work and delight users.
-
-- Review the 12 principles of animation from the classic book *The Illusion of Life: Disney Animation,* by Disney animators Ollie Johnston and Frank Thomas.
-
+## SLIDE 39
 ### The 12 Animation Principles
-
 1. Squash and stretch:
     - Objects respond to gravity, mass, weight, and flexibility.
 
+## SLIDE 40
 2. Anticipation:
     - Informs the viewers about what’s going to happen.
 
+## SLIDE 41
 3. Timing:
     - The more frames, the smoother and slower the animation.
 
+## SLIDE 42
 4. Slow-in and slow-out (known as easing):
     - Most of the objects in the real world follow motions which are eased.
 
+## SLIDE 43
 5. Staging:
     - Staging directs the attention toward the most critical objects in the scene.
 
+## SLIDE 44
 6. Arc:
     - A ball thrown from a height follows a parabolic path. Arcs make moving elements feel more natural.
 
+## SLIDE 45
 7. Highlight secondary action:
     - Animation can be used to support or enhance the primary action of an object.
 
+## SLIDE 46
 8. Exaggeration and appeal:
     - Specific actions can be exaggerated to gain more attention.
 
+## SLIDE 47
 9. Follow through and overlapping action:
     - Overshoot a position before coming to rest in order to make them feel more natural. It is known as bounce animation.
 
+## SLIDE 48
 10. Straight ahead action and pose to pose:
     - Straight ahead action scenes are animated frame by frame from beginning to end.
     - Pose to pose involves starting with drawing a few key frames and then filling in the intervals later.
 
+## SLIDE 49
 11. Solid drawing:
     - Solid drawing adds good form and a three-dimensional feel to an animated work.
 
+## SLIDE 50
 12. Appeal:
     - It is established before anything moves by choosing visuals and type that have potential.
-
-- Take any questions. (We went through these quickly to allow students to put their experience into practice!)
-  - Remind students that animation is a vast field. We will continue to practice animation with software, as Adobe XD has some quick animation features we will learn next.
 
 - **TAs:** Slack out this link in the #resources channel for students to read at home:
   - [https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43](https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43)
 
-You've covered the 12 principles, but how do designers actually create the animations you've shared? That's what you'll cover next in your summary of animation tools.
+## SLIDE 51
+Questions??
 
-## 10. Instructor Do: Animation Software (2 min)
+## SLIDE 52
+Review
 
-> :pushpin: **Important Point:** Your goal is to show students that there are a variety of tools for creating interaction and motion as part of their designs.
-
+## SLIDE 53
 - Review tools designers use to animate elements of their designs:
   - Figma
   - Adobe XD
@@ -521,15 +462,16 @@ You've covered the 12 principles, but how do designers actually create the anima
   - InVision Studio
   - Flinto
 
-> :gem: **Designer Insights:** Ask TAs to share tools they are familiar with, then mention which of these tools you most often use.
-
-- Review UI animation best practices:
+## SLIDE 54
+_Review UI animation best practices:_  
   - Use easing during an animation.
   - Animations should support branding.
   - Test all your animations on all devices.
 
-Now show students how Figma or Adobe XD can be used to add basic animations to their designs. You'll demo the Auto-Animate tool.
+## SLIDE 55
+Questions??
 
+## SLIDE 56
 ## 11. Instructor Do: Demo - Auto-Animate in Figma or Adobe XD (5 min)
 
 - Walk students through auto-animating in Figma or Adobe XD Prototype.
@@ -607,6 +549,7 @@ Now show students how Figma or Adobe XD can be used to add basic animations to t
 
 Students will get to animate their hero designs themselves in the next activity.
 
+## SLIDES 57-58
 ## 12. Student Do: Figma/Adobe XD Auto-Animate Hero Space Activity (20 min)
 
 **TAs:** Slack out to students the following Google Doc activity:
@@ -636,6 +579,7 @@ Navigate between student screens with TAs to make sure students are quickly star
 
 Students will post hero animation solutions for feedback to Slack that show their ability to animate an element of their hero space.
 
+## SLIDE 59
 ## 13. Instructor Do: Figma/Adobe XD Auto-Animate Hero Space Activity Review (10 min)
 
 Call attention back to your screen and remind students to share their hero animation recordings in Slack.
@@ -659,14 +603,10 @@ We have wrapped up the interaction and animation portions of the lesson. This me
 
 Next, you'll move into the transitions section of the lesson.
 
-## 14. Instructor Do: UI Transitions (5 min)
+## SLIDE 60
+Review
 
-> :pushpin: **Important Point:** Your goal is to help students grasp essential practice for transitions and gain an appreciation for the power of adding motion to UIs.
-
-Here you'll talk about another type of animation—transitions. This will prepare students to add transitions to their prototypes in the next activity.
-
-> :gem: **Designer Insight:** Before you dive in, share some of your own experience with applying transitions to design projects you've been a part of.
-
+## SLIDE 61
 ### UI Transition Best Practices
 
 The following six best practices are important to designers because transitions can be very helpful when working with lots of content or multiple pages of a design system.
@@ -679,6 +619,7 @@ The following six best practices are important to designers because transitions 
 
 - The transition connects content and functionality, like a play button transitioning into a pause.
 
+## SLIDE 62
 **3. Fast:**
 
 - A slow transition can be misunderstood as a mistake.
@@ -687,6 +628,7 @@ The following six best practices are important to designers because transitions 
 
 - Transitions should change in an arc.
 
+## SLIDE 63
 **5. Clear:**
 
 - The user should understand why elements are transitioning.
@@ -695,22 +637,14 @@ The following six best practices are important to designers because transitions 
 
 - Animations should be A/B tested and improved over time.
 
-> **Instructor Note:** Pause for questions. This is an excellent moment to use the 30-second trick (pause for 30 seconds after asking if there are any questions).
+## SLIDE 64
+Questions?
 
-> **Instructor Note:** Take questions.
-
-Now that students have a grasp on how transitions work and the best practices for their design, they can put this knowledge to the test with a hands-on transition activity. That's next, after a break.
-
+## SLIDE 65
 ## 15. Break (10 min)
 
-It's time for a break.
 
-Let students know that after break, they'll jump right into extending their hero animation with a transition.
-
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen. Instead, put up a Google or YouTube timer video. A visual timer will help get students back into the main Zoom room on time.
-
-**Optional:** Shorten the break if everyone is feeling energetic and you're short on time.
-
+## SLIDES 66-67
 ## 16. Student Do: Hero Design Transition Challenge (30 min)
 
 **TAs:** Slack out to students the following Google Doc activity file: [12-Week/02-Activities/12.1/12.1-03-Transition-Challenge-Activity-Google-Doc](https://drive.google.com/open?id=1c6DqMoDOL3NIKu_8vm0wQTP0Riml3k9XTbGtUxhDYz4).
@@ -734,6 +668,7 @@ Navigate student screens with your TA to make sure students are quickly defining
 **Deliverable**
 Students will upload their prototype transition videos to Slack.
 
+## SLIDE 68
 ## 17. Instructor Do: Hero Design Transition Challenge Review (10 min)
 
 Call attention back to your screen and remind everyone to place their Figma or Adobe XD prototypes into Slack.
@@ -754,14 +689,10 @@ Remind students that if they want more feedback on their transitions, they shoul
 
 Next, you're going to talk about components and how a component approach makes it easier for designers to work across devices responsively.
 
-## 18. Instructor Do: Components Built for Scale (5 min)
+## SLIDE 69
+Review
 
-> :pushpin: **Important Point:** Your goal is to review why UX/UI designers build out UI systems for scale (so that hopefully millions of people can use their solutions). The key idea is to view their design assets as reusable parts of a design kit.
-
-Now it is time to introduce the idea of scalable UI components and UI kits. Familiarity with UI kits will inform how students develop and manage their design assets in their professional work and speed them up professionally. UI kits can be thousands of parts, and the expectation they design from scratch is unrealistic.
-
-> **Say:** "If you are thinking to yourself, 'Animations and transitions are harder than I thought,' you're right! UX/UI takes a lot of practice."
-
+## SLIDE 70
 ### Scalable Components Are a Building Kit
 
 - We are responsible for helping define the animation for our experiences as part of designing solutions that are scalable for our users. This happens alongside maintaining and designing the UI style guide and should be designed together.
@@ -770,29 +701,29 @@ Now it is time to introduce the idea of scalable UI components and UI kits. Fami
 
   - Work on top of scalable systems.
 
+## SLIDE 71
 ### Scalable Components
 
 Scalable components are UI elements like cards, UI forms, navigation, buttons, etc. that are built for scale. They are worth testing because they are solutions built to be deployed to your users.
 
   - Consider building on top of an existing UI framework as it is faster to develop and faster to get solutions to market.
 
-- Review how animation can scale as well.
-
+_Review how animation can scale as well._  
   - Consider how and where your UI differentiates itself from its competitors.
-
   - UX/UI takes time to make excellent! Start small and improve over time.
-
   - Quickly discuss MailChimp's launch animation.
 
 - Animation rules are part of the UI style guides.
   - Example from real life: Consider the millions of email campaigns MailChimp helps manage. The design and animation experience is part of their brand.
 
-Take questions to ensure that the "built for scale" concept has clicked for all students.
+## SLIDES 72-73
+Review
 
-> :gem: **Designer Insight:** Share how this concept has been a part of your own work and describe its advantages. Invite a TA to quickly share as well.
+## SLIDE 74
+Questions??
 
-Next, students will run a testing process on their hero experience animations.
 
+## SLIDE 75
 ## 19. Student Do: Figma/Adobe XD Hero Experience Animation Testing Activity (15 min)
 
 **TAs:** Slack out to students the following Google Doc file:
