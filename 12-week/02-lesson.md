@@ -106,55 +106,36 @@ Now that you've generated some excitement about the future of UX/UI design and i
 
 Here you will give students an overview of AR. It's a wide topic, so stick to focusing on using your current experiences to project into the future the foundations of usability and user-centered prototyping. The key ideas to emphasize are:
 
+## SLIDES 1-4
 ### The Future of UI and IxD 
 
+## SLIDE 5
 *The world is the way it is because we shaped it. Be a changemaker, not a victim.*
 *—Alex Osterwalder*, entrepreneur, speaker, and business model innovator
 
-1. AR is a new opportunity, not a new UI. AR happens inside our existing tech (phone, tablets, computers, etc.).
+## SLIDES 6-10
+Review
 
-2. AR allows a user to embody all the systems of computer interfaces (GUI and VUI).
+## SLIDE 11
+Questions??
 
-This lecture will set up the AR prototype activity that follows by testing their AR ideas.
+## SLIDE 12
+Review
 
-UX/UI designers are responsible for creating new interactions and interfaces, which is increasingly important considering the role of software in how the world runs.
+## SLIDE 13
+AR is a technology that superimposes a computer-generated image on a user's view of the real world, thereby creating a blended or composite view.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, you will need to show that you can think about the fast-approaching future. We are expected to be "innovative" in our roles and apply our human-centered design skills to respond to any challenge in the future.
+It combines real-life input, stimuli, or environs with computer-generated ones. 
 
-### Augmented Reality
+Often confused with VR, which entirely replaces the world, AR just augments the world.
 
-***Define Augmented Reality (AR):*** AR is a technology that superimposes a computer-generated image on a user's view of the real world, thereby creating a blended or composite view.
+AR adds digital elements to reality to create something new. 
 
-***Remind students of the definition of IxD as it relates to AR***: Interaction design for AR is not easy, especially for interaction designers who work in traditional 2D GUI design. The ability to switch mindsets from a screen to an immersive space requires a lot of experimentation and using AR computing software to understand what AR is capable of.
 
-Smartwatches and AR are two new interface modalities that are having a transcendent moment. This is because technology and internet speeds enabled these experiences to flourish. At the same time, voice interfaces are becoming commonplace with devices like Alexa, Sonos, Google Home, etc.
+## SLIDE 14
+While often used these days for social media, there are no limitations to what could be possible.
 
-**AR:** This is a cheaper and more feasible option for marketers and developers compared to virtual reality (VR), which requires pricey headsets and equipment to be fully immersed.
-
-Compare AR and VR so that the distinction is clear to students:
-
-- AR is a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
-
-- VR is a simulated experience that can be similar to or completely different from the real world.
-
-The use of existing technology (smartphones) is essentially the crux of why AR will be so crucial for mobile app companies.
-
-> **Say:** People want to know the skills and tools for designing AR experiences. The truth is, with the technology still in its infancy, the skills and tools are evolving. This means designers are slowly developing standards and best practices, and some of the specific skills needed to design for the web can be applied to new modalities.
-
-> :gem: **Designer Insight**: Share how AR has featured in some of your client work.  In particular, convey how simple it is to implement.
->
-> - Ask a TA to share about AR in their work as well.
-
-- UX/UI uses storytelling, which is a crucial skill for any of our work. Storytelling is especially important to AR design because the more detailed and specific the narratives are, the easier it is to implement and test them to determine how effective they are for your users.
-
-- **TAs:** Slack out in the #resources channel for students to read and watch at home:
-
-  - [http://www.retailperceptions.com/2016/10/the-impact-of-augmented-reality-on-retail/](http://www.retailperceptions.com/2016/10/the-impact-of-augmented-reality-on-retail/)
-  - [https://www.youtube.com/watch?time_continue=2&v=1t1gBVykneA](https://www.youtube.com/watch?time_continue=2&v=1t1gBVykneA)
-  - [https://www.caranddriver.com/news/a27610640/porsche-augmented-reality-app/](https://www.caranddriver.com/news/a27610640/porsche-augmented-reality-app/)
-
-### Types of AR UIs
-
+## SLIDE 15
 AR can manifest itself in several different interfaces. The following are common acronyms for some of them:
 
 - **GUI** (graphical user interface): Interacting with data through graphic and visual indicators (e.g., pressing ❌ to cancel).
@@ -165,26 +146,42 @@ AR can manifest itself in several different interfaces. The following are common
 
 The early definition of these experiences makes it easy to scope the content that needs to be produced. Testing is a crucial part of the design process. Understanding the focus of each experience will allow you to produce testing plans early and often.
 
+## SLIDE 16
+Questions??
+
+## SLIDE 17
+Review
+
+
+- **TAs:** Slack out in the #resources channel for students to read and watch at home:
+
+  - [http://www.retailperceptions.com/2016/10/the-impact-of-augmented-reality-on-retail/](http://www.retailperceptions.com/2016/10/the-impact-of-augmented-reality-on-retail/)
+  - [https://www.youtube.com/watch?time_continue=2&v=1t1gBVykneA](https://www.youtube.com/watch?time_continue=2&v=1t1gBVykneA)
+  - [https://www.caranddriver.com/news/a27610640/porsche-augmented-reality-app/](https://www.caranddriver.com/news/a27610640/porsche-augmented-reality-app/)
+
+
+## SLIDE 18
 ### AR Design Patterns
-
-Review the design patterns that are emerging in the AR space.
-
 #### 1. Color
 
 A commonly used color for text, icons, and guides is white. Some applications have additional gradients in the header and footer to make fixed elements more legible.
 
+## SLIDE 19
 #### 2. Contrast
 In AR, we are essentially layering data over a live camera feed. We have no control over what the camera shows and have to design accordingly. It is good practice to preview and test the interface over a variety of background images and videos as the design evolves.
 
+## SLIDE 20
 #### 3. Blend Modes
 Taking a cue from video games, designers can wander beyond opaque and transparent UI and consider adding blend modes to their graphic elements. This method will allow the user to still see parts of the background without completely obstructing the view. Blend modes also might reduce the visual weight of a fixed element.
 
+## SLIDE 21
 #### 4. Layout and Position
 
 Fixed elements are usually situated on the top and/or bottom of the screen. Having fixed elements lets the user focus on the center of the camera and composition.
 
 - Additional prompts and elements that do not focus on content remain close to the bottom (e.g., carousels and additional options).
 
+## SLIDE 22
 #### 5. Typography
 Text is usually treated as a caption or a label and is sans serif since it is easier to read.
 
@@ -192,6 +189,7 @@ Text is usually treated as a caption or a label and is sans serif since it is ea
 - Text usually has an opaque or semi-opaque container to improve legibility.
 - Text without containers is treated with soft shadows and/or a subtle stroke.
 
+## SLIDE 23
 #### 6. Iconography
 White is the most common color for text, icons, and guides. Some applications have additional vignettes or gradients in the header and footer to make fixed elements more legible.
 
@@ -199,12 +197,13 @@ White is the most common color for text, icons, and guides. Some applications ha
 - System colors outside of the brand colors may be used to reference errors, warnings, or completed states (e.g., red warning when getting too close).
 - We usually reserve opaque colors for the call to action buttons or features such as triggers that might be obscured by the user's hand.
 
-> :gem: **Designer Insight:** Share an experience of using an AR application or thinking about its potential.
+## SLIDE 24
+Questions??
 
-> **Instructor Note:** Invite a couple of students to share their experience and impressions interacting with AR.
+## SLIDE 25
+Review
 
-### AR IxD
-
+## SLIDE 26
 Design patterns for interactions are also emerging. Language plays a critical role when defining your experience. In AR, there are five main types of content for designing interactions:
 
 1. **Static:** Content that is still and lacks movement and interaction.
@@ -213,16 +212,13 @@ Design patterns for interactions are also emerging. Language plays a critical ro
 4. **Dynamic:** Adaptive content that changes with interaction or over time.
 5. **Procedural:** Content generated automatically or algorithmically.
 
-When defining interactions in AR, it is helpful to be specific about where and how to treat the content.
-
-> :gem: **Designer Insight:** As you cover the following design patterns, share your professional experience with one or two of the patterns.
-
 ### Static and Locked in Space
 Although these elements are locked in space, they could have a dynamic feature where they always face the user. This design convention is useful for labels and materials that need to accompany an object or marker in space.
 
 ### Static and Fixed on Glass
 This interaction has a static graphic overlay fixed to the glass (screen) at all times. This design convention is useful for permanent elements that need to be within the user's reach at all times. An example of this is a menu or return prompt.
 
+## SLIDE 27
 ### Dynamic 3D and Proportionate in Space
 This is helpful when allowing a user to see an object in an actual environment with lighting and measurement considerations. They are often used in commerce platforms.
 
@@ -236,6 +232,7 @@ How an object gets introduced into space can set the pace for the rest of the ex
   - *Should the content automatically place itself in the environment?*
   - *Or should the user place the content manually?*
 
+## SLIDE 28
 ### Indicators
 
 Indicators range from minimal to complex and animated.
@@ -250,6 +247,7 @@ Indicators range from minimal to complex and animated.
 
 - Indicators are dynamic and adjust accordingly. They also are not persistent and disappear when an action has taken place.
 
+## SLIDE 29
 ### Snapping
 Snapping refers to automatically aligning or referencing a guide. It is similar to everything having a weak magnetic force that gets stronger the closer it is to another magnet. Below are some examples:
 
@@ -259,17 +257,17 @@ Snapping refers to automatically aligning or referencing a guide. It is similar 
 
 - Snap to the guide (e.g., we center a table in the middle of a rug).
 
+## SLIDE 30
 ### Rewards and Alerts
 Rewards motivate users to continue a story, move on to the next step, or complete an achievement. Alerts can grab their attention when they are facing the wrong direction.
 
 - It is essential to have significant moments and actions visualized in a way that considers the whole environment (e.g., confetti exploding everywhere after an achievement).
 
-> **Instructor Note:** Take questions. This is the only lecture that will cover AR, so be sure everyone grasps these concepts.
 
-> :globe_with_meridians: **Online Recommendation:** Exit presentation mode to get back to Zoom Gallery View to make sure every student is with you. Answer any questions by having students turn off mute to discuss.
+## SLIDE 31
+Questions??
 
-Now that we've introduced students to AR, it's time to let them practice on their own. The following hands-on activity is prototyping an AR solution for a cooking app.
-
+## SLIDES 32-33
 ## 3. Student Do: AR Prototype Activity (40 min)
 
 **TAs,** Slack out the following instructions and keep them open during the activity:
@@ -308,6 +306,7 @@ This is a long activity, so keep the energy high!
 
 Students will post their paper prototypes or Figma or Adobe XD solutions for feedback in Slack.
 
+## SLIDE 34
 ## 4. Instructor Do: AR Prototype Activity Review (10 min)
 
 Close the breakout rooms and share your screen for the review process.
@@ -345,24 +344,21 @@ Remind students to use office hours for additional questions or feedback from yo
 
 Give everyone a break before moving on to the next section on smartwatches.
 
+## SLIDE 36
 ## 5. Break (15 min)
 
-Take a break!
 
-***Instructor Note:*** This break comes a bit earlier than usual. An early break allows students to work continuously through the three-part activity that follows the lecture about wearables and smartwatches.
+## SLIDE 37
+Review
 
-Let students know that when they return, you'll be jumping into smartwatch design!
-
-> globe_with_meridians: **Online Recommendation:**: Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
-## 6. Instructor Do: Wearables and Smartwatch IxD (15 min)
-
-> :pushpin: **Important Point:** This section aims to discuss the new modalities we have not yet explored in this boot camp. This lecture supports the second learning objective, building a smartwatch paper prototype.
-
+## SLIDE 38
 Much like AR, wearable tech and smartwatch technology best practices are in their infancy. There are no clear-cut tools or approaches. A lot of the work is highly experimental.
+
+Wearables were primed to become a fifty billion market by 2022 and are expected to reach 72 billion in 2023.
 
 > :briefcase: **Employer Competitive Note:** As UX/UI designers, your ability to create solutions and think through new screen modalities quickly will make you more employable. This is because it shows you have a wider range than your colleagues who only work on desktop websites. Your ability to build and test a paper prototype for a smartwatch should be included in your portfolios or as skills on your resume and LinkedIn skills profile.
 
+## SLIDE 39
 ### Wearables
 Wearable technology has a variety of applications that grow as the field itself expands.
 
@@ -370,6 +366,7 @@ Wearable technology has a variety of applications that grow as the field itself 
 
 - Wearables appear prominently in consumer electronics with the popularization of the smartwatch and activity tracker. Apart from commercial uses, wearable technology is being incorporated into navigation systems, advanced textiles, and healthcare.
 
+## SLIDE 40
 ### Smartwatches
 Like smartphones, smartwatches use touchscreens, offer apps, and often record your heart rate and other vital signs. The most popular operating systems are Apple’s WatchOS and Android’s Wear OS.
 
@@ -377,13 +374,17 @@ Like smartphones, smartwatches use touchscreens, offer apps, and often record yo
   - [https://www.lifewire.com/an-introduction-to-smart-watches-3441381](https://www.lifewire.com/an-introduction-to-smart-watches-3441381)
   - [https://www.wareable.com/smartwatches/smartwatches-hearables-ccs-insight-5782](https://www.wareable.com/smartwatches/smartwatches-hearables-ccs-insight-5782)
 
-> **Instructor Note:** Check in with the class to make sure they are with you.
 
+## SLIDE 41
+Review
+
+## SLIDE 42
+Review
+
+## SLIDE 43
 ### Apple Watch Guidelines
 
 There are a few considerations to focus on as you try to design a smartwatch app.
-
-> :gem: **Designer Insight:** As you walk through the following design considerations, choose one or two to comment on from a professional standpoint for real-world relevance for students.
 
 **Increase speed:** The 2016 benchmark for interaction with a smartwatch was 2 seconds. According to analytics, Apple showed in its Worldwide Developers Conference (WWDC) that the average user interaction time with its smartwatch was between two and five seconds. Always try to provide content to the user as fast as possible. It is crucially important on smartwatches compared to other platforms.
 
@@ -393,36 +394,50 @@ There are a few considerations to focus on as you try to design a smartwatch app
 
 **Apps:** Apps must be holistic with increased cohesion between devices.
 
+
+## SLIDE 44
 #### Layout
 
 - Avoid displaying too much information onscreen at once.
   - Create visual groupings to help users find the information they want.
   - Use the full width of the screen.
 
+## SLIDE 45
 #### Color
   - Use black for your app’s background color.
   - Be aware of color blindness and how different cultures perceive color.
   - Avoid using color as the only way to show interactivity.
 
+## SLIDE 46
 #### Optimize
 Optimize your asset files. Using PNG-8 instead of PNG-24 helps decrease the file size significantly. Another thing you can do is add a black background instead of leaving it transparent.
 
+## SLIDE 47
 #### Progressive Loading
 If you need to load heavy content like photos or maps, in the meantime, show the user the rest of the content. Don’t block the whole screen just because you’re waiting for the photo to load.
 
+## SLIDE 48
 #### No Back Button
 On the iPhone and iPad, we used to have both title and back label at the top of the screen. The watch does not have enough space for both, so Apple decided to leave only the screen title that the user is currently looking at.
 
+## SLIDE 49
 #### Type
 Apple has two different fonts for mobile and desktop and for the watch. The San Francisco font family has a Compact version for the watch. Compared to the regular version, it has more free space between characters, which makes it legible at small sizes.
 
+## SLIDE 50
+Review
+
+## SLIDE 51
 #### Padding
 How close the content is to the edges in Adobe XD, Figma, and Sketch documents will bother your eyes when designing for a watch. It’s important to keep in mind that the Apple Watch has a hardware bezel that will add natural padding to the app.
 
-> **Instructor Note:** Take questions. Be sure students are up to speed and let them know they will have an opportunity to experiment with these modalities in their next group project.
+## SLIDE 52
+Review
 
-Now that students know about designing for the smartwatch, it's time for them to practice it in the next three-part activity.
+## SLIDE 53
+Questions?
 
+## SLIDES 54-55
 ## 7. Student Do: Part 1 | Smartwatch Prototype Activity (25 min)
 
 **TAs:** Slack out the following Google Doc. Keep the file open during the entire three-part activity:
@@ -459,6 +474,7 @@ Set a timer for 25 minutes.
 
 Students will create a paper prototype with three to five screens. *Work will not be shared until Part 3 is completed.*
 
+## SLIDE 56
 ## 8. Student Do: Part 2 | Smartwatch Prototype User Test Activity (10 min)
 
 **Instructions**
@@ -478,6 +494,7 @@ Set a timer for 10 minutes.
 
 Students will take notes, photos, and videos of the paper prototype testing process. *Work will be shared once Part 3 is completed.*
 
+## SLIDE 57
 ## 9. Student Do: Part 3 | Smartwatch Prototype Iteration Activity (20 min)
 
 **Instructions**
@@ -498,6 +515,7 @@ Set a timer for 20 minutes. Post a breakout room warning at 15 minutes that room
 
 Students will share their paper prototypes, testing notes, and digital wireframes, clickable prototypes via Slack.
 
+## SLIDE 58
 ## 10. Student Do: Smartwatch Prototype Review (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** Post a breakout room warning that rooms will close in 5 minutes. Close the breakout rooms and bring everyone's attention back to your screen in order to lead a review of the smartwatch prototyping activity.
