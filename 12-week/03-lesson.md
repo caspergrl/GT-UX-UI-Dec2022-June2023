@@ -124,17 +124,12 @@ Then, give a brief example of a multimodal experience that you had this morning:
 
 - For example, this morning I used my voice to ask Alexa to play a podcast on my kitchen speaker, then I used my hands to keep listening when I headed out for a walk.
 
-### Quote from Christopher Vogler
 
-Ask a TA or student to read aloud the quote on Slide 5.
+## SLIDES 1-4
+Review
 
-- Christopher Vogler is a Hollywood development executive and screenwriter for Disney and Warner Bros. He is well known for his screenwriting book, *The Writer's Journey: Mythic Structure for Writers.*
-
-> **Say:** Your design careers will introduce you to new expressive technologies or modalities. Let's discuss what that opportunity looks like.
-
-**Ask,** "Does anyone want to share an example of a multimodal experience they use personally or know of?"
-
-Call on a few students.
+## SLIDE 5
+"Multimodal" simply means "many ways." For designers that means giving the user many ways to interact with a device, app, site, or brand.
 
 Examples of multimodal experiences:
 
@@ -144,20 +139,26 @@ Examples of multimodal experiences:
 - Mac iOS (Apple TV, macOS, iPhoneOS, watchOS, arOS, and vrOS)
 - Tesla (CarOS, desktop monitoring, and app)
 
-> :gem: **Designer Insight**: Share how multimodal design has shown up in your recent design projects.
-
-### Multimodal Interactions and Design
-
-**Review multimodal human-computer interaction:** 
 - Multimodal human-computer interaction engages with the virtual and physical environment through natural modes of communication (visual, acoustic, and tactile).
 - *Multimodal* interactions are more "free and natural" because they simulate real-life verbal and nonverbal communication. In contrast, *monomodal* interactions are limited to only words (text) or sound (a recording).
 
-**Review multimodal design:** 
+## SLIDE 6
 - Multimodal design combines multiple modalities (visual, acoustic, and tactile) to improve a product's UX. 
     - Examples: MacOS and Siri, Sonos apps (mobile/tablet/desktop), or Roku remote and voice search.
 - Multimodal UX/UI design addresses the user *where they are*—on a jog, commuting to work, on a train, on a hands-free device, etc.
 - Multimodal design takes a user's location and activity into account. For example, once a user returns home from their jog, they may switch from hands-free to typing on their device's screen.
+_Review slide_
 
+## SLIDE 7
+Multimodality approaches users through a variety of channels such as speech, gesture and eye gaze as well as text, graphics, sound avatars and voice synthesis.
+
+Where there may be challenges with learning styles and preferences, multimodality by it's nature of using multiple channels and methods can ensure everyone can use it.
+
+For folks with special needs, it can help with accessibility and equity.
+
+And when considering 21st century methods of learning, mutimodality can provide an enriched learning process through matching the content delivery wit hthe best moda of learning for the student.
+
+## SLIDE 8
 ### Multimodal Is Multisensory: The Five Senses
 
 Multimodal UXs involve multiple human senses:
@@ -172,10 +173,10 @@ Multimodal UXs involve multiple human senses:
 
 **5. Smell:** No, Smell-a-Vision isn't available yet.
 
-> **Instructor Note:** Pause for any questions.
 
 > :briefcase: **Employer Competitive Note**: As a UX/UI designer, you are expected to consider the broader context of your user. Like Don Norman says, "UX is how you experience everything—it's bigger than just a screen or an app." Being able to articulate use cases for multimodal solutions in UI design *will make students more competitive*. Students can add multimodal experience design to their resumes or LinkedIn skills profile.
 
+## SLIDE 9
 ### Multimodal Design Considers a Variety of Senses
 
 Multimodal design is where physical awareness and digital awareness meet. Imagine an app that can sense how you move, the temperature of the air, or even the tone of your voice.
@@ -186,30 +187,29 @@ Multimodal design is where physical awareness and digital awareness meet. Imagin
 
 Fun fact: In 2019, researchers reported evidence suggesting that humans have magnetoception.
 
+
+## SLIDE 10
 ### Interfaces Rely on Sense
 
 We anticipate UIs will interact with a greater variety of our senses (e.g., not just a tap on a screen but *how hard we tap*).
 
-### Consider the Innovation Possibilities
+## SLIDE 11
+Review
 
-Take a moment to imagine the future of design.
+## SLIDE 12
+Questions??
 
-Invite students to make some imaginative guesses about how devices and humans will interact with each other in the future.
+## SLIDE 13
+Review
 
-> **Ask:** "What is an innovative opportunity?"
-
-- Call on a few students for quick answers.
-
-> :globe_with_meridians: **Online Recommendation:** In Zoom, stop sharing your presentation and return to grid view of students. Have a quick conversation about the opportunities. Keep it short, then return to presentation mode.
-
-### Multimodal Design Opportunities
-
+## SLIDE 14
 Multimodal design lets us use products together seamlessly to accomplish tasks, such as:
 
 - *Search and discovery* uses voice to search the web, to set a timer, or to find a recipe or directions.
 - *Health and healthcare* integrates medications with devices and wearables that monitor biological functions.
 - *Internet of things (IoT)* products are designed to reflect how humans interact with physical objects and appliances (e.g., lights go on/off based on a user's presence).
 
+## SLIDE 15
 ### Voice Commands
 
 Amazon, Google, and Apple have the leading voice-activated smart speakers on the market:
@@ -218,15 +218,11 @@ Amazon, Google, and Apple have the leading voice-activated smart speakers on the
 - Google Home provides the most accurate search results.
 - Apple Siri has the best sound, and users can send texts via voice.
 
-**Ask,** “Does anyone have a smart speaker at home?”
 
-- If yes, ask what the student uses it for most.
-- If no, just move on.
+## SLIDE 16
+Questions??
 
-> **Instructor Note:** Pause for any questions.
-
-Now that you've given students an introduction to multimodal design, let's have students add multimodal elements to their UI.
-
+## SLIDES 17-18
 ## 3. Student Do: Multimodal UX Scenario and Storyboard Challenge Activity (20 min)
 
 **TAs:** Slack out to students the following Google Doc activity:
@@ -260,6 +256,7 @@ In this activity, students work in teams of three and create user personas, UX s
 
 Students will share their group storyboards via Slack.
 
+## SLIDE 19
 ## 4. Instructor Do: Multimodal UX Scenario Storyboard Review (10 min)
 
 > :pushpin: **Important Point:** The goal is to quickly review the UX scenarios and storyboard experiences and explore the options of multimodal solutions.
@@ -282,34 +279,17 @@ With this activity, students have accomplished the second learning objective, ex
 
 Now focus on a particular aspect of multimodal design: voice.
 
-## 5. Instructor Do: Voice Interaction (Voice User Interface) (5 min)
+## SLIDE 20
+Review
 
-> :pushpin: **Important Point:** The goal is to cover important considerations before adding VUI to multimodal experiences. This ties into the third learning objective, adding voice commands to a multimodal Adobe XD prototype.
+## SLIDE 21
+1. **Language**: It represents a UI as words that can be turned into commands.
+2. **Natural processing**: Voice commands substitute for physical affordances. Users should be able to control aspects of the UI naturally.
+3. **Voice controls**: Voice commands are specific and require learning. The user understands what a UI system can do; they can verbalize control commands in that system.
 
-In this section, you'll walk students through voice as an aspect of multimodal design. This demo will prepare them for adding voice commands to their prototypes if they choose to.
+Voice prototyping is a unique feature to Adobe XD, which makes it valuable to know how to use multiple prototyping tools. At some point, Figma might add this feature, but for now, using Adobe XD is just as useful.
 
-> :briefcase: **Employer Competitive Note**: The ability to prototype new interactions that actually work rather than faking the functionality in your prototypes makes you more skilled and your prototypes more realistic. Add voice prototyping to your resume and LinkedIn skills profile.
-
-Explain to students that while they're not in a master's degree program for human-computer interaction, they must learn how to integrate voice into UI to improve their employer competitiveness.
-
-### Consider the Innovation Possibilities
-
-- Review VUIs.
-
-- Review voice considerations.
-
-1. Language: It represents a UI as words that can be turned into commands.
-2. Natural processing: Voice commands substitute for physical affordances. Users should be able to control aspects of the UI naturally.
-3. Voice controls: Voice commands are specific and require learning. The user understands what a UI system can do; they can verbalize control commands in that system.
-
-**Ask:** "Does anyone have an Alexa? What commands do you use regularly?"
-
-> :gem: **Designer Insight:** Before starting the demo, share with students your professional experience with including voice commands in UI design. Alternatively, invite a TA to share.
-
-> **Instructor Note:** Voice prototyping is a unique feature to Adobe XD, which makes it valuable to know how to use multiple prototyping tools. At some point, Figma might add this feature, but for now, using Adobe XD is just as useful.
-
-Next, demonstrate how designers use Adobe XD to add voice commands to their prototypes.
-
+## SLIDE 22
 ## 6. Instructor Do: Demo - Adobe XD Voice User Interface Prototyping (10 min)
 
 Demo how to create voice commands in Adobe XD prototype by walking students through the supplied Siri voice command sample (link below).
@@ -360,6 +340,7 @@ Your mission is to quickly show off the voice commands in Adobe XD and get your 
 
 Next, students will build out their multimodal experiences using a VUI to add that necessary *delightful* UX element to their prototypes.
 
+## SLIDE 23
 ## 7. Student Do: Part 1 | Multimodal Paper Prototyping Challenge Activity (25 min)
 
 In this activity, student teams create paper prototypes of their multimodal experiences and add in a VUI command.
@@ -402,6 +383,7 @@ Move between screens with your TAs and make sure students are quickly building t
 
 Students will post multimodal Adobe XD solutions in Slack for feedback.
 
+## SLIDE 24
 ## 8. Instructor Do: Part 1 | Multimodal Paper Prototyping Review (10 min)
 
 > :globe_with_meridians: **Online Recommendation:** Check in with groups. If they need more time, reduce the review time. Bring all breakout rooms back to the main room and lead a review of paper prototypes.
@@ -420,14 +402,11 @@ Call attention back to your screen and make sure everyone has placed their click
 - Ask a TA to share feedback as well.
 - Share a personal story on working on complex systems and their solutions.
 
+
+## SLIDE 25
 ## 9. Break (15 min)
 
-It's break time.
-
-When students come back from the break, they're going to continue with their activity and add voice commands to their UI and make the prototype clickable as Part 2 of the activity.
-
-> :globe_with_meridians: **Online Recommendation:** We all need a break, but do not close your Zoom or stop recording. Be creative with what you share during break. YouTube timers, gifs, Jeopardy song, etc.
-
+## SLIDES 26-27
 ## 10. Student Do: Part 2 | Multimodal Paper Prototyping Challenge Activity (20 min)
 
 **TAs:** Students will use the same activity file as Part 1 for this activity.
@@ -458,6 +437,7 @@ Set a timer for 20 minutes.
 
 Students will post their prototypes for feedback to Slack.
 
+## SLIDE 28
 ## 11. Instructor Do: Part 2 | Multimodal Paper Prototyping Review (10 min)
 
 > :globe_with_meridians: **Online Recommendation:** Check in with groups. If they need more time, reduce the review time. Bring all breakout rooms back to the main room and lead a review of the prototypes.
@@ -477,6 +457,8 @@ Bring all breakout rooms back to the main room to lead a review of the prototype
 
 No design process is complete without testing. In the next activity, students will practice with their prototypes and give and receive feedback.
 
+
+## SLIDE 29
 ## 12. Student Do: Multimodal Prototype User Testing Challenge Activity (20 min)
 
 **TAs:** Slack out to students the following file:
@@ -514,6 +496,7 @@ Jump into breakout rooms and help students test the prototypes of their multimod
 
 Students will share the feedback they received during their testing on Slack for review.
 
+## SLIDE 30
 ## 13. Instructor Do: Multimodal Prototype User Testing Review (10 min)
 
 > :globe_with_meridians: **Online Recommendation:** Check in with teams and see if they need more time. Send a quick @channel message with 1 min left. Bring all breakout rooms back to the main channel.
@@ -535,6 +518,9 @@ Call attention back to your screen to lead a review of two or three teams' multi
 >:gem: **Designer Insight:** Share a personal story of having to consider prototypes across a broad spectrum of modalities.
 
 > **Instructor Note:** Pause for any questions.
+
+## SLIDES 31-37
+Review
 
 ## 14. Instructor Do: Recap and Wrap-Up (5 min)
 
