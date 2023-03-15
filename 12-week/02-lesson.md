@@ -129,8 +129,6 @@ It combines real-life input, stimuli, or environs with computer-generated ones.
 
 Often confused with VR, which entirely replaces the world, AR just augments the world.
 
-AR adds digital elements to reality to create something new. 
-
 
 ## SLIDE 14
 While often used these days for social media, there are no limitations to what could be possible.
