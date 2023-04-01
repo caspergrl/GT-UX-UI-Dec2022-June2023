@@ -85,16 +85,44 @@ Quickly review today goals before jumping into group work.
 
 ## 2. Instructor Do: Group Project 2 Presentation Requirements (5 min)
 
-### Group Project 2 presentations:
 
-Each presentation will last about 10 minutes.
-- Each group will receive 5 to 10 minutes of constructive feedback.
+## SLIDES 1-3
+Review
 
-### Presentation requirements:
+## SLIDE 4
+Review
 
-Presentations should be in Google Slides. Prototypes should be built in Adobe XD or InVision.
-- A presentation should have 10 to 15 slides, last no more than 15 minutes, and contain no font smaller than 18 points.
+## SLIDE 5
+Days 7-8 Presentation Prep
+- Complete a UI case study presentation: UI case study template (found in activities folder).
+- Complete and practice your final presentation.
 
+## SLIDE 6
+Day 9, each team will give a presentation to class:
+- Presentations will be 10 minutes long.
+- All groups must present their design process.
+- Each team member should present an equal share of the work.
+
+## SLIDE 7
+Review
+
+## SLIDE 8
+Your presentation should describe:
+- The overall concept
+- Your team's UX and UI design process
+- The motivation and your user
+- The problem being solved
+- The solution you created
+- A demonstration of your high-fi prototype
+- Directions for future development
+
+## SLIDE 9
+Presentations should be in Google Slides. Prototypes should be built in Figma, Adobe XD or InVision.
+
+## SLIDE 10
+- A presentation should have 10 to 15 slides, last no more than 15 minutes, and contain no font smaller than 14 points.
+
+## SLIDE 11
 ### Make sure to:
 
 - Set up the problem.
@@ -102,35 +130,54 @@ Presentations should be in Google Slides. Prototypes should be built in Adobe XD
 - Define the user persona (including goals, needs, potential gains/opportunities).
 - Cite user research.
 - Illustrate the user journey/storyboards.
-- Outline user testing.
 - Describe iterations based on problems encountered.
+- Outline user testing.
 - Present final InVision prototype (mobile).
 
-> **Instructor Note:** Each group member should present an equal share, or roughly one-third, of the presentation.
+## SLIDE 12
+Review
 
-### Presentation strategies:
+## SLIDE 13
+Review
 
-Behind every presentation is a story. Once you know the story that you want to tell, the design of the presentation should support the message.
+## SLIDE 14
+Review
 
-### Practice, practice, practice.
-If you wing it, we will know.
+## SLIDE 15
+Presentations can go wrong from designers:
+- Using UX jargon to non-uxers
+- Not visualizing the process from wireframes to design compositions
+- Not validating ideas before presenting them
+- Making presentations too short or too long
+- Forgetting to practice and thinking they can "wing it"
 
-### Use a simple image as a background:
+## SLIDE 16
+Additional presentation tips:   
+- We frequently have to present our work to communicate what we've done previously
+- We need to consider how our presentations must change for our audience
+- We have to also present to show our design thinking process.
+- We need to convey that we are self-initiating and driven to find the answers we need.
 
+## SLIDE 17
+Practice, practice, practice!
+
+## SLIDE 18
+Review tips
+
+## SLIDE 19
+Use a clear, simple image as a background.
 - The presentation starts by highlighting the product’s mission. It's a good starting point.
 - Blurring the background is helpful if you want to put text over the image.
-- If the background is blurred, use an image that reinforces the text.
+- If the background is blurred, use an 
+image that reinforces the text.
 
-### Let the user do the talking:
-
-- Using the words of your customers has a real impact on a project team because no one can argue with how a customer feels.
-- The customers' or users' words remind everyone that the user is the center of this story.
-
+## SLIDE 20
 ### Highlight key themes with diagrams:
 
 - A diagram can be more efficient than trying to describe something in words.
 - This diagram illustrates how diagrams can help reinforce a concept using words differently.
 
+## SLIDE 21
 ### Expose your design process:
 
 - Don’t be afraid to put your raw sketches out there for the project team to see.
@@ -141,81 +188,42 @@ If you wing it, we will know.
   - Why did you decide to do it this way?
 - It’s a good idea to include at least one slide that provides some context on how you arrived at your design. That can include any deliverables that might help support your narrative and design conclusion.
 
+## SLIDE 22
 ### Put your design front and center:
 
 - After providing some context on the design process and demonstrating how the design was arrived at, introduce the proposed design.
 - Every time you showcase design, make sure it’s the focus.
 - Your audience will likely have questions, and thus you should be prepared to discuss the design.
 
-### Most important, tell a story and remember to:
+## SLIDE 23
+- Consider your audience
+- Ask questions at crucial moments
+- Don't read directly off the slides
+- Highlight important points with visual metaphors
+- Organize your presentation by main points or takeaways
+- Share the responsibilty
 
-- Keep your slides very simple so the audience will listen to you and not be distracted by the text.
+## SLIDE 24
+Review
 
-- Keep the audience engaged as much as possible.
+## SLIDES 25-26
+Review
 
-## 3. Instructor Do: Presentation Tips and Strategies (15 min)
+## SLIDE 27
+Review
 
-1. Tell a story as a group.
+## SLIDE 28
+- Write a two- to three-sentence summary of the product and how it works.
+- Define the problem/objective.
+- Define the solution.
+- Define how you contributed to the project.
+- Establish the role and how UI is validated and tested.
 
-   - Stories are much more interesting than facts because stories entertain us. Storytelling grabs and maintains audience attention.
+## SLIDE 29
+Review
 
-2. Ask questions at crucial moments.
-
-   - A question breaks up your regular presentation rhythm and helps to reinforce that what you’re saying is important.
-
-3. Don’t read off of slides.
-
-   - Reading directly from a slide that everyone in the room can see (and read for themselves) is boring and makes you look unprepared.
-
-4. Highlight important points with visual metaphors.
-
-   - Visual images of scenarios the audience is already familiar with help retain points longer in our memory.
-
-5. Organize your presentation into three main points or takeaways.
-
-6. Share the responsibility.
-
-   - You are a team, and each team member needs to demonstrate their contributions. Use an MC, and make sure to introduce yourself.
-
-7. Consider your audience and use a pitch mindset.
-
-   - The audience doesn't know you and they are seeing this presentation for the first time. Consider what the audience is curious about.
-
-## 4. Instructor Do: Review UI Design Portfolios (5 min)
-
-Group projects are about creating work that students can highlight in their portfolios. The goal is to review the value of UI in their portfolio. We also want to show students some samples from others that do this in the "real world."
-
-- Hiring managers and UX/UI teams care about process.
-
-- Hiring managers want to understand how you solve problems pertaining to the following:
-  - User research, research reports, sketches, wireframes, user flows, wireflows, user stories, customer journey maps, prototypes, user testing, and the final product
-
-- UI case studies should be easy to consume. Consider a one-pager.
-
-  - Encourage students to review some sample case studies:
-
-  - [https://www.casestudy.club/category/interface](https://www.casestudy.club/category/interface)
-
-   - [https://www.bestfolios.com/home](https://www.bestfolios.com/home)
-
-- Review what great UI case studies cover.
-
-## 5. Student Do: Project 2 Case Study Outline Activity (25 min)
-
-In this activity, you will create a case study outline for your mobile application homework.
-
-**TAs:** Slack out the template: [https://drive.google.com/open?id=1GBcwzYYT3kpyiCZX3HFFBPlQhq0T4Fn9TcxAcAHafyU](https://drive.google.com/open?id=1GBcwzYYT3kpyiCZX3HFFBPlQhq0T4Fn9TcxAcAHafyU).
-
-> :globe_with_meridians: Online Recommendation: Instructor and TAs should move between group breakout rooms use Slack to communicate with groups. We recommend using more scheduling with groups to make sure the instructional staff is not too disruptive to the groups working flow. Don't allow groups to not touch base online collaboration is harder and will require more accountability.
-
-## 6. Student Do: Peer Review (20 min)
-
-Call the class back to attention, and have students conduct a peer review.
-
-## 7. Instructor Do: Review Outlines (2 min)
-
-Call the class back to attention.
-
+## SLIDE 30
+Review summary
 ## 8. Student Do: Google Slide Presentation Prep (30 min)
 
 It is time to begin creating your Google Slide presentation.
