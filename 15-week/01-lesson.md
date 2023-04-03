@@ -110,7 +110,7 @@ Review
 Your presentation should describe:
 - The overall concept
 - Your team's UX and UI design process
-- The motivation and your user
+- The user and what they're trying to achieve
 - The problem being solved
 - The solution you created
 - A demonstration of your high-fi prototype
