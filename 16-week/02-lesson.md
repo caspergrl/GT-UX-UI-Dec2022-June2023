@@ -78,45 +78,9 @@ What should be on a homepage portfolio wireframe:
 Review Case Study Requirements
 
 ## SLIDE 11
-## 3. Student Do: Portfolio Homepage Wireframe Activity (30 min)
-
-**TAs,** Slack out to students the activity instructions: [16-Week/01-Activities/16.2/16.2-01-Portfolio-Wireframe](https://drive.google.com/open?id=1L1tRCRmcrjiwRZG_T0SeriT3VjL9FWLTo7RBsFLY-k8).
-
->These activity instructions cover sections 3-5 of this LP.
-
-**Summary**
-
-The goal of this activity is for students to sketch a homepage portfolio wireframe using the mood board inspiration and About Me content they created in the previous class. They will continue working on this wireframe as part of this week's homework.
-
-**Instructions**
-
-Use pen and paper to sketch a homepage portfolio wireframe that includes the requirements listed in the activity.
-
-
-## SLIDE 12
-## 4. Student Do: Portfolio Case Study Wireframe Activity (20 min)
-
-**TAs,** Slack out to students the activity instructions: [16-Week/01-Activities/16.2/16.2-02-Case-Study-Wireframe](https://drive.google.com/open?id=10M7zs_DEHlw_kMJ6AAdc93H0U2uEAo7yG2ijSt8LmYc).
-
-**Summary**
-
-The goal of this activity is for students to begin sketching a case study wireframe using the mood board inspiration and case study content they created in the previous class.
-
-> **Note:** If students complete this activity early, encourage them to keep going since this activity is also homework.
-
-**Instructions**
-
-Students will use a pen/pencil and paper to sketch a case study wireframe that includes the requirements listed in the activity.
-
----
-
-## SLIDE 13
-## 8. Break (15 min)
-
-## SLIDE 14
 Review
 
-## SLIDE 15
+## SLIDE 12
 **What to Expect**
 While UX is a relatively new field and growing rapidly, the UX hiring process is pretty uniform. Sometimes it can be a little messy.
 
@@ -163,7 +127,7 @@ The typical interview process follows five steps:
       - Schedule a coaching call with their career director.
       - Sign up for a career services workshop. 
 
-## SLIDE 16
+## SLIDE 13
 Hiring process:
 1. Submit resume, portfolio and application
 2. Attend a phone screening
@@ -174,10 +138,10 @@ Hiring process:
 7. Negotiate an offer
 8. Land the job!
 
-## SLIDE 17
+## SLIDE 14
 Review
 
-## SLIDE 18
+## SLIDE 15
 Portfolios should make a great first impression and be easy to find: 
 
 - Make sure your portfolio is ready to go because you want and need it to make a great impression.
@@ -186,14 +150,14 @@ Portfolios should make a great first impression and be easy to find:
    - You have an About Me page that discusses who you would like to be in the industry. 
    - You have a Contact Me page with your LinkedIn and email address. 
 
-## SLIDE 19
+## SLIDE 16
 - Update your resume and LinkedIn profile. These should match and speak to the journey that makes you unique and valuable to the marketplace.
 - Dress the part... this may depend on the org.
 
-## SLIDE 20
+## SLIDE 17
     - Take advantage of networking: The best way to find a job is to find a friend who knows a job. Breaking into a new industry is never easy and requires a lot of hustle. Meetup.com is a great resource for finding industry-specific events.
 
-## SLIDE 21
+## SLIDE 18
   **Remember Companies are Looking for You**
 
 - Hiring is an expensive cost for companies. They are looking for candidates such as yourself. It’s important that you sell yourself as the solution to their problem: finding quality designers.
@@ -206,10 +170,10 @@ Portfolios should make a great first impression and be easy to find:
   - Add why design is meaningful.
   - Emphasize how you will help the team.
 
-## SLIDE 22
+## SLIDE 19
 Review resources
 
-## SLIDE 23
+## SLIDE 20
 ## 10. Student Do: 60-/120-Day Action Plan Activity (15 min)
 
 **TAs,** Slack out to students the activity instructions: [16-Week/01-Activities/16.2/16.2-03-60-120-Day-Action-Plan](https://drive.google.com/open?id=1UwyaiykiQOeNS4fqYpRLyVlnfLb0kRTDgzMBcFusrqI).
@@ -226,7 +190,7 @@ This is a tool to help you with short-term goal setting. Whether you realize it 
 
 Getting a new job isn't easy, and you are not guaranteed a job after graduation. You need to plan for success, and this is a tool to help you brainstorm what you need to do and list out the steps you will take on this journey.
 
-## SLIDE 24
+## SLIDE 21
 ## 11. Instructor Do: 60-/120-Day Action Plan Review (15 min)
 
 Call the class to attention for a review.
@@ -246,6 +210,46 @@ Tell the students to share both their 60-/120-day action plan in Slack.
 > :pushpin: **Important Point:** The goal of this section is to educate students about strategies they can use to prepare for a phone or on-site interview. This supports the final learning objective of the day, to do a self-assessment of their skills. 
 
 This final lecture of the day is all about tactically preparing for an interview. This lecture is followed by a skills assessment activity. The hope is they will feel confident about how many skills they've acquired! 
+
+
+
+
+## SLIDE 22
+## 3. Student Do: Portfolio Homepage Wireframe Activity (30 min)
+
+**TAs,** Slack out to students the activity instructions: [16-Week/01-Activities/16.2/16.2-01-Portfolio-Wireframe](https://drive.google.com/open?id=1L1tRCRmcrjiwRZG_T0SeriT3VjL9FWLTo7RBsFLY-k8).
+
+>These activity instructions cover sections 3-5 of this LP.
+
+**Summary**
+
+The goal of this activity is for students to sketch a homepage portfolio wireframe using the mood board inspiration and About Me content they created in the previous class. They will continue working on this wireframe as part of this week's homework.
+
+**Instructions**
+
+Use pen and paper to sketch a homepage portfolio wireframe that includes the requirements listed in the activity.
+
+
+## SLIDE 23
+## 4. Student Do: Portfolio Case Study Wireframe Activity (20 min)
+
+**TAs,** Slack out to students the activity instructions: [16-Week/01-Activities/16.2/16.2-02-Case-Study-Wireframe](https://drive.google.com/open?id=10M7zs_DEHlw_kMJ6AAdc93H0U2uEAo7yG2ijSt8LmYc).
+
+**Summary**
+
+The goal of this activity is for students to begin sketching a case study wireframe using the mood board inspiration and case study content they created in the previous class.
+
+> **Note:** If students complete this activity early, encourage them to keep going since this activity is also homework.
+
+**Instructions**
+
+Students will use a pen/pencil and paper to sketch a case study wireframe that includes the requirements listed in the activity.
+
+---
+
+## SLIDE 24
+## 8. Break (15 min)
+
 
 
 ## SLIDE 25
