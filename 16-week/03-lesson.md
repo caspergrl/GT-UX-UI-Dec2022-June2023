@@ -74,46 +74,36 @@ After today's lesson, you will transition into the front-end web development wee
 
   - Make a PDF copy and share it in Google Drive for class. Share slides in Slack.
 
-- Share today's objectives.
 
-Today is about job hunting preparation, specifically how to prepare for the design challenge aspect of UX/UI interviews.
 
-A designer's work has value and will help them get an interview; however, what *gets them the job* is their ability to talk about their work—that's the real value.
 
-Remember, no one wants to hear about your work more than a hiring manger. So embrace your moment to talk about your work when it comes.
+## SLIDES 1-5
+Review
 
-> :gem: **Designer Insight:** Get the class into the mindset for job interview prep by sharing a story of your own early interviews—what's something that you wish you'd known?
->
-> - Ask a TA to share his or her own job interview insights.
-
-## 2. Instructor Do: How to Present Your Work (10 min)
-
-> :pushpin: **Important Point:** The goal is to prepare students to present their work by telling a story about their design process. This supports today's first learning objective, to articulate the importance of presenting one's work.
-
-In this first lecture, you'll convince students that effectively presenting their work is the difference between getting a job or not. This lecture transitions into an activity in which students get to present their work.
-
+## SLIDE 6
 **Designers must be able to talk about their work.**
-
 - However, your portfolio is not a script. You do not want to read your portfolio to people. You want to tell a story.
-
-Share graphic designer Simon Johnston's quote about communication.
-
-**Say,** "Google's UX team will tell you the same thing."
 
 ***TAs,*** Slack out to students the video "Prepare for Your Google Interview: UX Design" (c) 2019 #LifeAtGoogle:  [https://www.youtube.com/watch?v=Z7UpV6TnyOg](https://www.youtube.com/watch?v=Z7UpV6TnyOg).
 
+
+## SLIDE 7
+Share graphic designer Simon Johnston's quote about communication.
+
+
+## SLIDE 8
+**Say,** "Google's UX team will tell you the same thing."
 Here are the top two tips from Google's UX team:
 
 Tip No. 1: *Be able to explain your problem-solving thought process and answer questions about it, too.*
 
 Tip No. 2: *Practice your presentation.*
 
+## SLIDE 9
 **Reddit Portfolio Example**
-
->***Note:*** For this example, show students HOW TO and HOW NOT TO talk about design work. If you have an example to share, this is a great place to add your story.
-
 Imagine a project in your portfolio is a user research and prototyping project you did for Reddit.
 
+## SLIDE 10
 **What Not to Say**
 
 "When I was at Reddit, I worked on this project to increase advertising revenue for the company.
@@ -124,6 +114,8 @@ Imagine a project in your portfolio is a user research and prototyping project y
 
 "Then we identified where there were trends and overlap, and we decided on which “How Might We...” we would pursue."
 
+
+## SLIDE 11
 **Why This Is Not Good Communication**
 
 1. It doesn't narrate what you did.
@@ -132,6 +124,8 @@ Imagine a project in your portfolio is a user research and prototyping project y
 4. It is not captivating.
 5. It sets the tone for how you would communicate as part of the team.
 
+
+## SLIDE 12
 **A Better Way to Tell the Story**
 "When I was at Reddit, I worked on this project to increase advertising revenue for the company.
 
@@ -139,10 +133,8 @@ Imagine a project in your portfolio is a user research and prototyping project y
 
 "To help us understand the 'why' behind those numbers, we decided to do a 1:1 interview and group discussions with existing and new users of Reddit. Our goal was to understand their experience with the product so that we could balance that with the goals of the business.""
 
->:gem: **Designer Insight:** If you have been on an interview team, share what went well (and didn't go well) when it comes to storytelling to understand a job candidate's work.
->
-> Invite a TA to provide an example of how they've used storytelling in their interviews.
 
+## SLIDE 13
 **Use Anecdotes and Insights to Tell the Story**
 
 1. What did you learn from the product?
@@ -153,49 +145,11 @@ Imagine a project in your portfolio is a user research and prototyping project y
 
 Before moving on to the presentations, ask two to three students to share about their prior experiences with using anecdotes to talk about their work.
 
-## 3. Student Do: Prototype Presentations Activity (20 min)
+## SLIDE 14
+Review
 
-**Note:** There is no activity instructions document with this activity. Follow the directions below.
-
-For the next 20 minutes, there is time for two students to present their case study work.
-
-Presentations will last for seven minutes with three minutes for feedback.
-
-**Guidelines**
-
-1. Ask if any students want to volunteer to present their case study work.
-2. If no one volunteers, randomly select a student to present.
-3. Instruct the student to Slack out his or her case study presentation.
-4. Set a timer for seven minutes.
-5. Critique the student's presentation.
-6. Select another student to present.
-
-**Review**
-
-Lead a review session of the presentations so that students can get the full value of presenting.
-
-Questions to stimulate feedback and discussion:
-
-- What did you notice about how stories or anecdotes were used in the presentations?
-- What did you learn that you will use to iterate your own presentation?
-- Point out something you noticed about the presentations.
-- Invite a TA to offer overarching thoughts about the presentations.
-
-Take any final questions, then move on to the next lecture.
-
-## 4. Instructor Do: Design Challenges and How to Solve Them (25 min)
-
-> :pushpin: **Important Point:** Your goal is to prepare students for the design challenge part of the interview process. This lecture supports the second and third learning objectives of the day, designing and completing a whiteboard challenge.
-
-In this lecture, you'll go deeper and pick apart what goes on in a design challenge and how to do one well. Afterward, students will do a design challenge activity to put these ideas into action.
-
-***Note:*** Students will be nervous about design challenges. Encourage them to do a lot of reading, to practice other prompts at home, and to dig into the interview process for jobs they're interested in before applying. Persistence, preparation, and some moxie are essential to succeeding in design challenges.
-
->:gem: **Designer Insight:** As an instructor, students are relying on you to share your experience with design challenges. Have you been in the room during a challenge? Have you completed a challenge yourself?
-
+## SLIDE 15
 **What is a design challenge?** A design challenge is a short exercise that gauges a designer's design process and critical thinking skills. Once presented with a prompt, the designer must assess the problem, conceptualize a solution, and communicate their reasoning.
-
-***Solicit student input:*** Ask students for their own ideas about what a design challenge is and why it's so important to the job interview process.
 
 **When does a design challenge take place?**
 
@@ -214,10 +168,7 @@ In the "real world," hiring teams will test candidates:
 - To see how they respond to stress
 - To understand their “design process”
 
-> :gem: **Designer Insight:** Share a story about a design challenge an employer gave you, or ask a TA to share.
->
-> - If any students have already done design challenges as part of a job interview, ask them to share, too.
-
+## SLIDE 16
 **What are interviewers looking for?**
 
 - How you go through your thinking process when solving a problem
@@ -225,8 +176,10 @@ In the "real world," hiring teams will test candidates:
 - What questions you ask
 - How you solve the problem for the user and the constraints that you're designing for
 
-> ***Tip!*** Students are not alone. There are interview preparation tips online from UX/UI designers who have been in your students' shoes. Just search: "how to prepare for UX interview design challenges."
+## SLIDE 17
+Review
 
+## SLIDE 18
 **Design Challenge Strategy**
 
 1. Identify the problem or task.
@@ -236,6 +189,8 @@ In the "real world," hiring teams will test candidates:
 5. Brainstorm new solutions.
 6. Critique these new solutions to determine one possible direction.
 
+
+## SLIDE 19
 **Five Steps to Take During a Design Challenge**
 
 Review the five steps to approaching a design challenge.
@@ -246,6 +201,7 @@ Review the five steps to approaching a design challenge.
 4. Sketch a new user flow that addresses the problems.
 5. Sketch screens to reflect solution.
 
+## SLIDE 20
 **Tips for Design Exercises**
 
 1. Don't be afraid to ask questions.
@@ -268,6 +224,8 @@ Review the five steps to approaching a design challenge.
 
    - If you struggle with ideas, think about a product that is similar and go down a route where you compare the product to a competitor's.
 
+
+## SLIDE 21
 **Design Exercise Dos and Don'ts**
 
 DOs... It is okay to:
@@ -283,20 +241,17 @@ DON'Ts:
 - Don't hesitate to use the whiteboard!
 - Don't design in silence.
 
-> :gem: **Designer Insight:** Take a moment to relay a couple of "I wish I'd known..." tips from your own experience.
+## SLIDE 22
+Review
 
-**The Whiteboard Framework**
-
-You will now walk students through the whiteboard canvas framework. Chances are that during a whiteboard exercise, you will be constrained by time and space, so planning every one of your movements and decisions will be key to set you up for a successful session.
-
-![Whiteboard Image](Images/Whiteboard.png)
-
+## SLIDE 23
 **Review the Whiteboard Challenge Canvas**
 
 - It is a method for dividing space to quickly articulate all the things we have taught in this boot camp and more.
 - Whiteboarding is done in real-time during an interview, and it is hard to hide your skills when you're being asked to execute them.
 - Practicing this will make you less nervous during an interview.
 
+## SLIDE 24
 The framework for this canvas follows the following steps:
 
 1. Ask questions.
@@ -309,6 +264,7 @@ The framework for this canvas follows the following steps:
 8. Define success metrics.
 9. Write down assumptions made during the challenge.
 
+## SLIDE 25
 This framework is composed of five main sections:
 
 1. **The Goal of the Exercise**
@@ -321,6 +277,10 @@ This framework is composed of five main sections:
      - How can we know that an objective is the right one to pursue?
      - How will we know if this is true?
 
+## SLIDES 26-27
+Review Steps 1-2
+
+## SLIDE 28
 2. **The User Persona**
 
    - The best next step is to bring the user into the conversation by asking the participants what assumptions are being made around the target users.
@@ -333,6 +293,10 @@ This framework is composed of five main sections:
       - How do they measure success?
       - What is getting in the middle of them and achieving their goals?
 
+## SLIDE 29
+Review Step 3
+
+## SLIDE 30
 3. **The Problem Space**
 
    - While advocating for the user might be one of our top priorities, it is only a third of the problem. Within the problem space, you should explore the context in which the behaviors are performed, the business goals the organization is trying to accomplish while building the product, and the technical constraints.
@@ -345,18 +309,38 @@ This framework is composed of five main sections:
      - What are the business objectives behind the solution?
      - What are the technical constraints that the team has or could face in the future?
 
+## SLIDE 31
+Review step 4
+
+## SLIDE 32
 4. **Assumptions**
 
    - By considering the main goal, user groups, business goals, and technical constraints, the team should have found insights that might feel risky not to validate. These insights can be written in the assumptions section.
 
+
+## SLIDE 33
+Review step 5
+
+## SLIDE 34
 5. **Solution space**
 
    - If you’ve considered the previous steps before starting to propose solutions, you will feel more confident about the solutions you start sketching on the whiteboard. Start with a high-level journey of the user accomplishing the main goal and discuss the minimum steps it might take to reach such a milestone. If you feel confident enough with the scenario followed, you can start exploring interface components, layouts, and interactions.
 
+## SLIDES 35-38
+Review Steps 7-9
+
+## SLIDE 39
 **There Are Many Frameworks**
 Find one that works best for you!
 
 - If you want more practice, pick up the book *Solving Product Design Exercises: Questions & Answers*.
+
+
+## SLIDE 40
+Download canvas here
+
+## SLIDES 41-43
+Review examples
 
 - TAs, Slack out:
 
@@ -372,6 +356,7 @@ Find one that works best for you!
 
 Now for the road test! Students are going to jump into a design challenge of their own in the following activity.
 
+## SLIDE 44
 ## 5. Student Do: Whiteboard Design Challenge Activity (50 min)
 
 **TAs,** Slack out to students the following file:
@@ -397,6 +382,7 @@ If students are struggling, you may want to skip the review to give them more ti
 
 **If students finish early,** there is a second design challenge prompt in Part 2 of the activity document. Have students start that challenge.
 
+## SLIDE 45
 ## 6. Instructor Do: Whiteboard Design Challenge Review (10 min)
 
 Use this review section for students to solicit feedback on their work, give feedback, and come away with actionable steps for iteration.
@@ -412,66 +398,51 @@ Lead your class in a review of their whiteboard work. Encourage students to cons
 
 Next, invite students to take a break and relax a bit. When they return from break, you'll shift gears completely and introduce the class to GitHub.
 
+## SLIDE 46
 ## 7. Break (15 min)
 
-Breaks are part of the learning process and help get the most out of every lesson.
 
-Encourage students to grab a snack, drink water, and stretch their bodies—they should step outside, if possible.
+## SLIDE 47
+Review
 
-## 8. Instructor Do: What Is Front-End Development? (10 min)
-
-> :pushpin: **Important Point:** Your goal is to introduce students to the concept of what front-end development is. Front-end development is the practice of developing the user-facing section of websites. This lecture supports today's fourth learning objective, articulating the value of being code conversational.
-
-Here you'll completely shift gears from job interview preparation and prepare students for moving into front-end web development. After the lecture, students will make sure they've installed all the right software.
-
-Engage students as much as you can as you discuss what front-end development is all about. Feel free to take three to five minutes to ask the students what they think front-end development is.
-
-**To help get the conversation rolling, you can ask:**
-
-1. What do you think a front-end developer does?
-2. What do you think front-end development is?
-3. What do we mean by the "front end" of a website?
-
-Let two or three students answer to get a wide variety of opinions. This will generate discussion and help students feel comfortable participating.
-
+## SLIDE 48
 Front-end development is:
 
 - The practice of building the client-facing section of webpages and user interfaces.
 - Front-end developers build the parts of the web that users see and interact with.
 - Front-end developers use HTML, CSS, and JavaScript to build rich interfaces that are pleasing to the eye.
 
+## SLIDE 49
 **Why do I need to know front-end development?**
-
 "Don't they have people hired to program it for me? I want to be a UX designer."
 
 Believe it or not, this is a common sentiment among people new to the UX community.
 
-Students should learn front-end development because:
+## SLIDE 50
+Review
 
+## SLIDE 51
+Why Learn Front-End Development?:
 - Understanding the medium you are designing for helps create better user interfaces. How can you make a realistic design if you don't know what is realistically possible with the programming languages used?
 
+## SLIDE 52
 - As a UX designer, you *will* be working with developers to implement your design. Being able to communicate your ideas effectively to developers is essential to getting a pixel-perfect design.
 
 - You need to know how to code so you can recommend and design ideas based on feasible solutions. You know if the solutions are feasible because you have had experience in the programming language.
 
 - Many UX jobs require development experience for more senior-level roles as working knowledge of the medium you are designing for helps to make UX calls.
 
-> 💎 **Designer Insight:** Tell the class that it is common for UX/UI designers to be embedded in development teams and sometimes work on code.
-
-*Share your experience with the class!*
-
-Discuss with the class how understanding front-end development has helped you as a UX designer.
-
+## SLIDE 53
 **Do designers need to know how to code?**
-
 Short answer: **Yes.**
 
-Define ***"code conversational"*** as knowing *how* HTML, JavaScript, jQuery, and CSS are used to build sites—well enough to have a conversation about with a coder about site design.
+## SLIDE 54
+***"Code conversational"*** is knowing *how* HTML, JavaScript, jQuery, and CSS are used to build sites—well enough to have a conversation about with a coder about site design.
 
-> :gem: Relay a professional anecdote about how you've been able to move a project forward more effectively because you knew how to code and/or were able to communicate with front-end developers.
->
-> - Ask a TA to share if coding isn't your area of strength.
+## SLIDE 55
+Review
 
+## SLIDE 56
 **Many job postings request knowledge of code.**
 
 The majority of UX job descriptions have four requirements that make knowing front-end development invaluable:
@@ -484,16 +455,7 @@ The majority of UX job descriptions have four requirements that make knowing fro
 
 4. Some development experience for the more senior-level UX roles.
 
-Hopefully, students now see how knowledge of front-end development is an advantage to UX/UI designers.
-
-**Q&A about coding knowledge:**
-
-Invite the class to raise their hands if they're wondering why they need to learn code.
-
-- **Answer:** Learning some code allows you a window into the final product of your user experiences, which is ultimately code.
-
-Respond to questions and address the following questions as well:
-
+## SLIDE 57
 **How much code do UX/UI designers need to know?**
 
 - **Answer:** At a base level, you need to understand what is possible to do in your design. As creatives, it is very easy to design something that would either require too much development time or is not technically feasible with web technologies. A UI developer needs to be a functional front-end developer. You need to be able to make beautiful responsive layouts as well as be able to do solid UI design work.
@@ -502,8 +464,7 @@ Respond to questions and address the following questions as well:
 
 - ***Answer:*** No. Mobile app developers are usually software engineers that specialize in app languages for the platform they develop on. However, the technologies used in the mobile app—some make use of HTML, CSS, and JavaScript—may make learning the skills we talk about in this class relevant.
 
-At this point, students should feel that they have context for the work of web developers and why they're learning HTML, CSS, and JavaScript. This will be a great basis for practicing some HTML and CSS, which will happen right after they get their software and tools ready. That's next.
-
+## SLIDE 58
 ## 9. Student Do: Software Check Activity (8 min)
 
 **TAs,** Slack out the activity file: [16-Week/02-Activities/16.3/16.3-03-Software Check Activity Instructions Google Doc](https://drive.google.com/open?id=18gU1yuX5Mxi9laknwZdx7Hd3p_4z1sZ9N1u2JNPRLyk).
@@ -518,20 +479,17 @@ The tools students are installing today are used by professionals and companies 
 
 - Once students verify their software is in good shape, challenge them to play around and/or watch a GitHub or VS Code how-to video and try out their new tools.
 
-## 10. Instructor Do: GitHub and Version Control (5 min)
+## SLIDE 59
+Review
 
-> :pushpin: **Important Point:** The main takeaway from this section is for students to understand what version control is. It is equally important that students learn their first Git workflow—publishing their code to the cloud. This lecture supports the final learning objective of the day, creating a GitHub repo.
-
-In this last lecture, you will need to reassure anxious students while giving them a first look at GitHub and conveying its version control value.
-
-Take a moment to explain how GitHub fits into the front-end web development picture.
-
+## SLIDE 60
 **What is version control?**
 
 - Version control is the management of changes to documents, computer programs, large websites, and other collections of information.
   - Version control saves all the previous changes you make to a file in "commits." Each commit has a unique number that you can use to see how your project has changed over time.
   - This means that projects that are tracked by Git can roll back to previous versions. Having a backup is especially useful if you post incorrect code up to your production server and need to roll it back.
 
+## SLIDE 61
 **What is GitHub?**
 
 Here you'll introduce GitHub, the tool students will use to publish their webpages and sites, and one which more and more designers are also using.
@@ -550,6 +508,7 @@ The goal of this section is to justify the use of Git to designers who, up to th
 
 - Git is not easy and has a lot of developer jargon, but we will spend some time getting used to it!
 
+## SLIDE 62
 - GitHub is also a valuable skill to have as a UX/UI designer and can be the difference between candidates for open roles. It is common for UX/UI designers to be embedded in dev teams and work on front-end code. Having a base understanding of Git will help you stand out for these roles.
 
 - TAs, Slack out resources:
@@ -564,6 +523,7 @@ The goal of this section is to justify the use of Git to designers who, up to th
 
 Take any questions before moving onto your demo. After your GitHub demo, students will create their first GitHub repo.
 
+## SLIDE 63
 ## 11. Instructor Do: GitHub Desktop Demo (8 min)
 
 > :pushpin: **Important Point:** Your goal for this demo is to instill confidence in students who might be creating their first GitHub repositories and commits.
@@ -607,6 +567,7 @@ Remind students that you and the TAs will be able to answer their questions when
 
 Now it's time for students to practice creating a GitHub repo on their own (with your support)!
 
+## SLIDE 64
 ## 12. Student Do: My First GitHub Repo Activity (12 min)
 
 **TAs,** Slack out to students the activity file: [16-Week/03-Activities/16.3/16.3-04-GitHub-Repo-Activity](https://drive.google.com/open?id=1RJpqPltupSIPEnPyRMYSmGBxJXKVms4j00vTrJNG5ow).
