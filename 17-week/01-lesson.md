@@ -189,13 +189,18 @@ Here you'll provide context for where students have been, then walk them through
 
 > **Instructor Note:** Be prepared to address questions as you work through this section—this is all new and overwhelming for many students.
 
+
+## SLIDES 1-2
+Review
+
+## SLIDE 3
+
+
 ### Welcome to Weeks 17-24
 
 Let's recap what we learned over the past 16 weeks of the course and how it relates to what we're learning now.
 
 **During weeks 1-7, we learned about the value of design thinking and how UX designers approach solving problems.**
-
-> :briefcase: **Employer Competitive Note:** Take a moment to tell students how all the skills learned in weeks 1-7 have value for real-world professional UX/UI designers on the job.
 
 - We learned how UX professionals research their users to gather insights and evidence that support the digital idea, product, or service they're designing.
 
@@ -204,8 +209,6 @@ Let's recap what we learned over the past 16 weeks of the course and how it rela
 - We created a wireframe for a mobile travel app prototype. First, we researched our assumptions about our users and then used their insights to create a product that is both useful and functional.
 
 **During weeks 8-15, we learned how to build and add visual design to our prototypes.**
-
-> :briefcase: **Employer Competitive Note:** Remind students how the skills learned in the UI portion of the boot camp make them more attractive to potential employers.
 
 - We crafted sleek designs by applying Gestalt principles of visual design and learned how to design on a grid to create a fluid and responsive layout.
 
@@ -221,9 +224,7 @@ Let's recap what we learned over the past 16 weeks of the course and how it rela
 
 - We are analyzing our digital products by using Google Analytics and Hotjar to track our users' interactions with websites.
 
-> :briefcase: **Employer Competitive Note:** Help students appreciate that what they're about to learn is important in the real world they'll be entering. Say how these skills give professional designers an on-the-job advantage.
-
-During the remaining weeks of the UX/UI Boot Camp, students will create their own digital portfolios and publish them on the web for all to see. This is an important step toward job interview readiness because it gives students a way to share their work with hiring managers.
+During the remaining weeks of the UX/UI Boot Camp, you will create your own digital portfolios and publish them on the web for all to see. This is an important step toward job interview readiness because it gives you a way to share your work with hiring managers.
 
 After the web portion is finished, we'll conclude this boot camp globally with a project that encompasses all three aspects of the course:
 
@@ -231,51 +232,44 @@ After the web portion is finished, we'll conclude this boot camp globally with a
 2. Designing full-color responsive designs
 3. Coding our work and presenting our findings in a case study
 
-### Where Are My Activity Support Files?
 
-Walk students through where their activity resources are and how to set up a folder on their hard drive. Remind them that they'll need to download the .zip file for each day's activities before class.
+## SLIDES 4-6
+Review Version Control and Git
 
-### HTML and CSS: Today's Objectives
+## SLIDE 7
+Review
 
-Review today's learning objectives with the class.
+## SLIDE 8
+For the code portion of class, your activities will live in the class Google drive. All homework will be in GitHub.
 
-Put today's topics in a design context: UI design, HTML, and CSS3 are today's focus.
+## SLIDE 9
+Review
 
-**UX, UI, and Front-End Dev: Solutions Are Ultimately Code**
+## SLIDES 10-12
+Review
 
-Everything you have studied to date—UX and UI—and now front-end development ALL intersect with interface design.
+## SLIDE 13
+Review
 
-**You will be expected to work.**
+## SLIDE 14
+By the end of class today you will:
+- Practice writing HTML
+- Debug HTML code
+- Use semantic elements by referencing the documentation
+- Select HTML elements in CSS and add color, typographical styles and background images.
 
-Welcome to your new job!
+## SLIDE 15
+Review
 
-- During the web development section of the course, you **MUST** put in time outside of class.
-
-- We lecture about the basics you will need to create a layout on the web, but YOU must apply the concepts to your challenge for you to fully grasp the concepts.
-
+## SLIDE 16
 **Jeff Dickey Quote**
 
-Review software engineer Jeff Dickey's quote. Consider asking a couple of students to read the quote aloud.
+_Review software engineer Jeff Dickey's quote. Consider asking a couple of students to read the quote aloud._
 
-Emphasize the phrase *"learning feels a lot more like frustration."*
+## SLIDE 17
+With coding, you'll face 3 primary challenges
 
-- When learning any programming language, there is a lot of experimentation or “playing” with code. Naturally, experimenting with something new can cause frustration and confusion if you don’t understand why something is happening. Not knowing why a piece of tech doesn’t work leads to research, which will help you solve the problem.
-
-- Many students might be new to this process and find it abrasive at first. Encourage students to research problems and experiment with code—this is a critical step to the learning process.
-
-**Running Into Issues: Researching Solutions to Problems is Par for the Course**
-
-The best developers are really good problem-solvers, motivated by figuring out how websites work and getting to the bottom of problems when they arise. The secret the best developers know is remembering to take a step back from their work to research solutions in order to solve unique problems.
-
-> **Instructor Note:** Code research is very important for students. Researching how to accomplish your vision for a design in code is essential to bringing students' designs to life.
-
-> **Say:** "Problem-solving is a normal process that all developers go through. Developers often have to design custom solutions to fit a business's needs."
-
-Problems vary from student to student and from design to design—two students will rarely have the same problem when working on their own individual design work. Individual designs require unique solutions to get the look right.
-
->:gem: **Designer Insight:** Share your own process for solving code and other issues.
-
-Understanding the process of problem-solving is just as valuable as finding the solution. While students solve problems, they will learn the valuable workflow and research skills that will make them excellent front-end developers.
+## SLIDE 18
 
 **The Path of Learning**
 
@@ -285,39 +279,46 @@ Obstacle No. 1: *The Great Confusion:*
 
 - When learning front-end development (or any programming language), you will often find yourself with code that works, and you are not sure why.
 
+- When learning any programming language, there is a lot of experimentation or “playing” with code. Naturally, experimenting with something new can cause frustration and confusion if you don’t understand why something is happening. Not knowing why a piece of tech doesn’t work leads to research, which will help you solve the problem.
+
+**Running Into Issues: Researching Solutions to Problems is Par for the Course**
+
+The best developers are really good problem-solvers, motivated by figuring out how websites work and getting to the bottom of problems when they arise. The secret the best developers know is remembering to take a step back from their work to research solutions in order to solve unique problems.
+
+Problem-solving is a normal process that all developers go through. Developers often have to design custom solutions to fit a business's needs.
+
+Understanding the process of problem-solving is just as valuable as finding the solution. While students solve problems, they will learn the valuable workflow and research skills that will make them excellent front-end developers.
+
+## SLIDE 19
 Obstacle No. 2: *The Great Doubt:*
 
 - Doubt during the development section is so common that there is a term for it, imposter syndrome. Imposter syndrome is when you don't think you have the skills to learn web development (or anything really). The best way to get rid of this feeling is to code! Boost that confidence!
 
+## SLIDE 20
 Obstacle No. 3: *The Great Distance:*
 
 - Learning to be a developer takes a long time. Developers never stop learning and are continually adding to what they know. Software changes often, so you will need to keep learning in order to stay relevant!
 
+## SLIDE 21
 **Nothing Comes Easy**
 
 You must be persistent and maintain self-confidence if you want to learn to code. Coding is hard work, but you can do it.
 
+## SLIDE 22
 **Pair Coding**
 
 Trying to code alone is often a frustrating experience. It can be helpful to have someone to talk to about what you're programming conceptually. When you work with another student, the pair can often reason through code together.
 
 - Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
 
-Now that students understand how to manage working with code, it is time for them to get an introduction to front-end development.
+## SLIDE 23
+Review
 
-> **Instructor Note:** Quickly pause for any questions. Remind students that there are support resources including code tutors.
+## SLIDE 24
+Review
 
-## 2. Instructor Do: Diving Into HTML (10 min)
-
-> :pushpin: **Important Point:** Your goal is to introduce the basic concepts of HTML: what it is, how to write it, and how to apply semantics.
-
-It is time to prepare students for their first experience with HTML by presenting the basics of HTML syntax and demoing that syntax on CodePen.
-
-> **Instructor Note:** Students will have varying levels of knowledge about the basics, which can make it difficult to keep everyone engaged. For now, focus on maintaining enthusiasm by staying conversational; practice will come in the activities.
-
+## SLIDE 25
 ### What is HTML?
-
-> **Ask:** "Does anyone know what HTML stands for?"
 
 - HTML stands for Hypertext Markup Language.
 - Hypertext is text that contains links to other text.
@@ -325,15 +326,40 @@ It is time to prepare students for their first experience with HTML by presentin
 
 > :key: In 1990, computer scientist Tim Berners-Lee created HTML to allow non-programmers to publish and share academic documents.
 
+## SLIDE 26
+**HTML documents use tags to tell the browser how to format or display the content**  
+
 **HTML is the standard markup language for building webpages.** Frontend developers also use other languages, like CSS and JavaScript, to control how a webpage looks and feels.
 
 **HTML elements are instructions for how to structure content.** The content on a webpage is split into HTML elements, which tell the browser what to do with that content.
 
 > :briefcase: **Employer Competitive Note:** Having a basic understanding of HTML is the very first step to being a successful UI developer, because HTML is the foundation for all web pages. Even designers who don't code in the workplace will have to be equipped to talk about HTML.
 
-### Anatomy of an HTML Element
+## SLIDE 27
+Nesting is a key part of writing HTML that will work across all browsers, render all content, 
+be readable by screen readers, and be able to be targeted by CSS and JavaScript. This readability is one of the advantages of using nesting in HTML.
 
-> **Say:** "Now that we know how what HTML is, let's take a look at how to use it."
+The basic page structure we outlined before is valid HTML because each element's open tag has a closing tag and fully contains any other elements within it.
+
+## SLIDES 28-29
+Review anatomy of a webpage slides
+
+## SLIDE 30
+Review HTML document structure
+
+## SLIDE 31
+All HTML pages have consistent structure: 
+The ``<!DOCTYPE html>`` declaration defines this document to be HTML5.  
+The ``<html>`` element is the root element of an HTML page.  
+The ``<head>`` element contains meta information about the document.  
+The ``<title>`` element specifies a title for the document.  
+The ``<body>`` element contains the visible page content.  
+
+## SLIDE 32
+Review
+
+## SLIDE 33
+### Anatomy of an HTML Element
 
 Reference the following `a` element and cover all of its parts (tags, attributes, and content).
 
@@ -355,35 +381,25 @@ This HTML element represents a clickable link to the USPS website.
 
 	Placing HTML elements inside of HTML elements is called **nesting**, because one is nested inside the other.
 
-### Debugging
+## SLIDE 34
+Review
 
+## SLIDE 35
 Debugging is the process of finding and resolving problems within code, similar to editing a paper for spelling and grammar mistakes.
 
-> :briefcase: **Employer Competitive Note:** Front-end development work is an iterative process. Writing code perfectly the first time is not likely, even with professionals. Learning to debug is as important as learning to write code.
+Front-end development work is an iterative process. Writing code perfectly the first time is not likely, even with professionals. Learning to debug is as important as learning to write code.
 
 The process of debugging varies from language to language, but usually starts when you notice something isn't working as intended. In HTML, this means things aren't displaying correctly or are entirely missing.
 
-Walk students through the example:
+## SLIDE 36
+Review
 
-```html
-<a href="www.google.com">Google<a>
-```
-
-> **Ask:** "What is wrong with this element?"
-
-The closing tag is missing a `/`. This common mistake means that we are actually opening two `a` elements and closing neither.
-
+## SLIDE 37
 When characters are missing or misplaced, the resulting bug is a **syntax error**, akin to a spelling or grammar mistake.
 
-> 🔑 **Key Tech Note:** Just like Word or Docs will underline incorrect spelling and grammar, code editors like <!--CodePen and -->VS Code use a process called **linting** to check your code for errors. Just like spellcheck, linting is never 100% accurate.
 
-> :gem: **Designer Insight:** Use a personal anecdote to explain the often lengthy process of fixing a tricky bug. Emphasize the satisfaction of finally squashing it.
-
-Now that students are familiar with the fundamentals of creating HTML, it's time for students to try it themselves in the following activity.
-
+## SLIDE 38
 ## 3. Instructor Do: Element Anatomy on CodePen Demo (5 min)
-
-> :pushpin: **Important Point:** Your goal is to prepare students for using CodePen during the remainder of today's lesson. Students should understand that HTML elements can be created in the HTML panel, and that the resulting webpage is rendered in the bottom panel.
 
 Demonstrate the use of CodePen and reiterate the anatomy of an element by creating a small example like [this](https://codepen.io/2u-uxuxi-bootcamp/pen/XWMNGwL).
 
@@ -421,6 +437,7 @@ Demonstrate the use of CodePen and reiterate the anatomy of an element by creati
 
 > **Instructor Note:** Before introducing the next activity, pause to answer any questions.
 
+## SLIDE 39
 ## 4. Student Do: Hello, World! Activity (15 min)
 
 **TAs:** Slack out the activity file: [17.1-01-Hello-World](https://docs.google.com/document/d/16nQVi5UwQCoiMVsggKeSUWVo840PnPEMetDFA4Mr5mg/edit?usp=sharing). 
@@ -451,6 +468,7 @@ Students should submit a link to a pen containing the following code:
 <a href="https://en.wikipedia.org/wiki/HTML">Hello, World!</a>
 ```
 
+## SLIDE 40
 ## 5. Instructor Do: Hello, World! Activity Review (5 min)
 
 Call attention back to the class to lead a discussion of the students' first coding activity. This review provides moral support and encourages a fun, open-minded spirit for coding.
@@ -483,12 +501,11 @@ Share some common misconceptions about working with HTML elements:
 
 	_HTML elements are valid with any amount of whitespace between their parts. Different organizations and individuals have different preferences. The most important thing is to be consistent in your own code._
 
-## 6. Instructor Do: Semantic Elements (10 min)
 
-> :pushpin: **Important Point:** **Your goal is to** introduce students to the programming concept of semantics and how it applies to HTML elements. This is also where students need to learn how to use the documentation.
+## SLIDE 41
+Review
 
-> **Say:** "Now that we've covered HTML **syntax**, let's talk about HTML **semantics**."
-
+## SLIDE 42
 ### Semantics Builds on Syntax
 
 There is more to good code than running without errors; there are tiers of correctness:
@@ -497,6 +514,10 @@ There is more to good code than running without errors; there are tiers of corre
 
 - Code is **semantically correct** if it is human-readable. Properly semantic HTML uses each element only for its intended purpose.
 
+## SLIDE 43
+Review
+
+## SLIDE 44
 ### Semantic Elements Have Unique Roles
 
 For example, the `a` tag defines an anchor, or hyperlink. While it is technically possible to use an anchor to simply display content, its intended purpose is to link between pages. To fulfill that role, an anchor requires an `href` attribute.
@@ -511,12 +532,16 @@ When making a link between pages, only the anchor element should be used. For si
 
 Again, every element has a **role** and a set of **required attributes**. For an image element, the role is to display an image, and the single required attribute is the `src` (short for source).
 
+
+## SLIDE 45
 ### Optional Attributes
 
 Most elements have optional attributes. For example, an image element can make use of the `alt` attribute to include a textual description of the image. "Alt text" appears if the image doesn't load, and is spoken aloud on screen readers.
 
 The image element also accepts attributes to control its size, like `height` and `width`. We'll explore these in the next activity.
 
+
+## SLIDE 46
 ### Exceptions
 
 > **Ask:** "Who noticed that there is no closing tag in this image element?"
@@ -527,6 +552,7 @@ Some elements are exceptions to the basic rules we have learned about HTML.
 
 > **Ask:** "Between element types, attributes, and exceptions, how do you think frontend developers remember everything?"
 
+## SLIDES 47-48
 ### Using the Documentation
 
 > :briefcase: **Employer Competitive Note:**:** Professional programmers do not have every element and attribute memorized. Frontend developers in the workplace need to be resourceful enough to find answers on their own.
@@ -535,6 +561,10 @@ Information about code is called **documentation**. Referencing documentation is
 
 The most reliable documentation for HTML is W3C, an organization directed by the creator of HTML, Tim Berners-Lee.
 
+## SLIDE 49
+Review
+
+## SLIDE 50
 ## 7. Instructor DO: Using the Documentation Demo (5 min)
 
 > :pushpin: **Important Point:** **Your goal is to** prepare students for using the documentation. Show them how to work efficiently by keeping CodePen and W3C open side-by-side.
@@ -569,6 +599,7 @@ The most reliable documentation for HTML is W3C, an organization directed by the
 
 > **Instructor Note:** Before introducing the next activity, pause to answer any questions.
 
+## SLIDE 51
 ## 8. Student Do: Semantic Sandbox Activity (15 min)
 
 **TAs:** Slack out the activity file: [17.1-02-Semantic-Sandbox](https://docs.google.com/document/d/1eB1uFkK3z34uVUAZjJCAT6qxloAfqOmK_CvUgtL8r00/edit?usp=sharing). 
@@ -597,6 +628,8 @@ Encourage students to rely on the documentation for this activity. Just this onc
 
 Students should submit a link to a pen with at least five semantic HTML elements.
 
+
+## SLIDE 52
 ## 9. Instructor Do: Semantic Sandbox Activity Review (5 min)
 
 > globe_with_meridians: **Online Recommendation:**: When students respond to one of the questions below, open their pen and share it with the class.
@@ -629,16 +662,16 @@ Now that students have a grasp on HTML and how to use it to create webpages, we'
 
 > **Instructor Note:** Let students know that you are available to provide individual feedback during the break.
 
+## SLIDE 53
 ## 10. Break (15 min)
 
 Break time!
 
-## 11. Instructor Do: Introduction to CSS (10 min)
 
-> :pushpin: **Important Point:** Your goal is to introduce the concept of CSS. Students should know how CSS is used in tandem with HTML and how to link the two together.
+## SLIDE 54
+Review
 
-On its own, HTML does not look very interesting because it only has basic styles inherited from your internet browser. Let's talk about how to stylize HTML with CSS.
-
+## SLIDE 55
 ### What is CSS?
 
 > **Ask:** "Does anyone know what HTML stands for?"
@@ -654,46 +687,46 @@ On its own, HTML does not look very interesting because it only has basic styles
 **CSS rules are instructions for how to style content.** CSS and HTML are partners in crime. CSS rules target specific HTML elements and define how they should look. CSS does not work without HTML.
 
 Use the analogy of a body:
-
 - HTML is the skeleton. It provides structure and organization, but typically remains unseen.
 
 - CSS is skin, hair, even clothes. It determines how the body looks, but can't change the underlying organization or functionality.
 
-### HTML and CSS Can Build Awesome Stuff
+## SLIDES 56-57
+Review
 
-> **Say:** "Let's see what CSS can do."
+## SLIDE 58
+Review 
 
-Navigate to [awwwards](https://www.awwwards.com/websites/css3/) and share your screen with the class. This site aggregates some of the fanciest webpages out there; open a few to demonstrate that the sky is the limit when it comes to styling webpages.
+## SLIDES 59-62
+Review
 
-> :briefcase: **Employer Competitive Note:** Design-focused frontend developers often spend more time writing CSS than HTML. Whatever your focus is, understanding both is essential.
+## SLIDE 63
+Review
 
-### Anatomy of a CSS Rule
+## SLIDE 64
+Review
 
-> **Say:** "Now that we know how what CSS is, let's take a look at how to use it."
-
-Reference the following CSS rule and cover all of its parts (selector, definition start/end, and property).
-
-```css
-a { background-color: yellow; }
-```
-
+## SLIDE 65
 This CSS rule applies a yellow color to all anchor elements on the page.
 
 1. A CSS rule starts with a **selector** that determines which HTML elements are affected. The selector `a` selects all anchor elements, because that's the tag used to create anchor elements. Writing something other than `a` would change which elements turn yellow.
 
+## SLIDE 66
 1. After the selector is the **declaration block start**, which is always an open curly brace. Point out the matching closing curly brace at the end of the rule.
 
 	> :key: **Key Tech Note:** Curly braces are used to group a set of properties or statements in almost all programming languages. It's good practice to immediately type a closing brace after the opening brace—CodePen and VS Code will do this automatically!
 
+## SLIDE 67
 1. Inside the declaration block (between the curly braces) are **properties**. Just like attributes in an HTML element, there can be any number of properties in one CSS rule.
 
 	There are even more CSS rules than HTML attributes, so a reliance on documentation is just as essential.
 
-Now that students know how to write correct CSS syntax, they can learn how to target specific HTML elements with CSS selectors—that's your next demo.
 
+## SLIDES 68-70
+Review
+
+## SLIDE 71
 ## 12. Instructor Do: CSS Selectors Demo (5 min)
-
-> :pushpin: **Important Point:** **Your goal is to** prepare students for applying CSS rules to HTML elements. Students should be able to select elements by their tags to change colors and sizes.
 
 1. Open [this pen](https://codepen.io/2u-uxuxi-bootcamp/pen/VwpmRJK), which is similar to what students should have after the Semantic Sandbox activity.
 
@@ -726,6 +759,7 @@ Now that students know how to write correct CSS syntax, they can learn how to ta
 >
 > - It's likely that students will ask about styling individual paragraphs instead of all three. Let them know that this can be done by using advanced selectors, which we'll talk about in 17.2.
 
+## SLIDES 72-73
 ## 13. Student Do: Add Some Color Activity (15 min)
 
 **TAs:** Slack out the activity file: [17.1-03-Add-Some-Color](https://docs.google.com/document/d/1K9gtTZhiwi5aOWa9qZ0LudCGbI4vAgMtQhTAIVL4aK4/edit?usp=sharing). 
@@ -750,6 +784,7 @@ Monitor students and offer to help those who are struggling. Consider doing a qu
 
 Students should submit a link to a pen with CSS rules that color paragraph elements and one other HTML element.
 
+## SLIDE 74
 ## 14. Instructor Do: Add Some Color Activity Review (5 min)
 
 > **Ask:** "What was different about writing your first CSS versus your first HTML? Was it harder or easier?"
@@ -768,23 +803,31 @@ Share some common misconceptions about working with CSS rules:
 
 > **Instructor Note:** If students have questions about the basic parts of a CSS rule, refer again to the "Anatomy of a CSS Rule" slide.
 
-## 15. Instructor Do: Customize a Webpage With CSS (10 min)
 
-> :pushpin: **Important Point:** **Your goal is to** introduce web fonts and CSS tags that help designers build webpages. By the end of this section, students should know how to write CSS correctly to alter the styles on their page. Students should also understand the basic CSS properties that are used to style the web. This section supports learning objective No. 4: select basic HTML tags in CSS and add color, typography styles, and background images.
+## SLIDE 75
+Review
 
-This is a continuation of your CSS lecture, with a focus on how to style additional properties on a webpage.
-
-Introduce the following topics to the class:
+## SLIDES 76-77
 
 1. How to manipulate fonts with CSS: have **TAs** Slack out the documentation: [https://www.w3schools.com/css/css_font.asp](https://www.w3schools.com/css/css_font.asp).
 
    - font-family: This property is used to control which fonts display on the web. There are three options that are passed to it. These serve as fallback fonts.
+
+
+## SLIDES 78-79
    - font-style: This controls if a font displays as normal (which is default), italic, or oblique.
+
+
+## SLIDE 80-81
    - font-size: This controls the pixel size of your fonts.
+
+
+## SLIDE 82-83
    - font-weight: This controls the weight of the font. Options are from 100 (light) to 900 (black). Only values in intervals of 100 can be specified.
 
    These are the basic methods of manipulating fonts but can be very powerful. Practicing your typography on the web will help you build nicer layouts.
 
+## SLIDE 84
 2. Height and width of elements: you can see elements that you are styling with the outline property!
 
 - Height: Controls the pixel height of an element.
@@ -792,8 +835,10 @@ Introduce the following topics to the class:
 - Outline: Outlines create the outside of the HTML element, similar to borders, except they don't affect the box model.
   - Outlines are particularly useful when you're building new layouts.
 
-Next, go deeper by showing students how to actually code fonts on the web with a demo. 
+## SLIDE 85
+Review
 
+## SLIDES 86-87
 ## 16. Instructor Do: Fonts on the Web Demo (5 min)
 
 Adding custom fonts on the web used to be a complicated process, but thanks to our friends at Google, the process is far more manageable.
@@ -820,6 +865,7 @@ During this demo, you'll show students how to add custom fonts to their web proj
 
 Doing is believing. Next, students will practice their knowledge of CSS with a hands-on activity. 
 
+## SLIDE 88
 ## 17. Student Do: Style Your Page Activity (15 min)
 
 **TAs:** Slack out the activity file: [17.1-04-Style-Your-Page](https://docs.google.com/document/d/1rxdCGDNJy6dapiaPNV-0l_dAjV59VI4oQHfE41EAkw0/edit?usp=sharing).
