@@ -101,8 +101,13 @@ Review today's learning objectives.
 >
 > Before you move on to the first lecture of the day, review a couple of concepts from last class and take questions to be sure that the fundamentals of HTML and CSS are sinking in for students.
 
-> **Ask:**
 
+
+## SLIDES 1-7
+Review
+
+
+## SLIDE 8
   **What does HTML stand for? How is it used?**
 
   _Answer:_ Hypertext Markup Language. It is used to create tags that provide the structure for the web.
@@ -115,9 +120,8 @@ Review today's learning objectives.
 
   _Answer:_ HTML provides the structure of the web. CSS makes it look and feel good by making it visually appealing as opposed to barebones HTML elements.
 
-**Front-End Development Resources**
-
-Tell students a bit about the value of development resources. Development resources are a big part of how beginners learn web development. Reading tutorials and documentation is key to becoming a strong developer. During front-end development projects (or any coding project), your students will inevitably encounter problems. Researching and learning from problems will make your students great front-end developers.
+## SLIDE 9
+Review
 
 **TAs,** share the following resources with students via Slack:
 - [W3Schools - CSS Box Model Tutorial](https://www.youtube.com/watch?v=lPm8lK4C7nc)
@@ -127,11 +131,8 @@ Tell students a bit about the value of development resources. Development resour
 
 Take any questions students may have about HTML and CSS basics, then move on to the first lecture.
 
+## SLIDE 10
 ## 2. Instructor Do: VS Code Demo (10 min)
-
-> :pushpin: **Important Point:** **Your goal is to** compare and contrast programming in CodePen versus VS Code. Students should be prepared to write code primarily in VS Code from now on.
-
-Students are going to work in Visual Studio Code for the rest of the bootcamp. Show them how by copying code from an activity they did last week.
 
 1. Open the [Semantic Sandbox solution pen](https://codepen.io/2u-uxuxi-bootcamp/pen/gOmLENx) in Chrome.
 
@@ -179,90 +180,84 @@ Students are going to work in Visual Studio Code for the rest of the bootcamp. S
 
 	1. Refresh Chrome again to show that the CSS is now linked.
 
-## 3. Instructor Do: Targeting With Classes and IDs (5 min)
 
-> :pushpin: **Important Point:** The goal of this section is to introduce students to classes and IDs in CSS. Students will learn the differences between the two and how they are targeted. This section supports learning objective No. 1: apply CSS to target HTML tags with IDs and classes.
+## SLIDE 11
+Review
 
+## SLIDE 12
+Review
+
+## SLIDE 13
 To style containers that we create in our HTML, we use two different CSS attributes, the class and ID attributes. Attributes are used to target unique HTML elements, while classes make our CSS reusable and target multiple HTML elements that need the same style.
 
 ### CSS Classes
 
 **Class attribute:** A class is an HTML attribute that is used to target multiple elements across the same page using CSS. You specify a class on an HTML element by typing "class" followed by the equals sign with the name of your class between the quotation marks.
 
-![HTML class attribute](Images/classAttribute.png)
 
+## SLIDE 14
 Classes are targeted using a dot (.) in a CSS file. After the dot, type out the name of your class to style an HTML element.
 
 :key: **Key tech point:** In the examples above and below, you might have noticed the caps at the start of each word. This is known as camel casing, which makes code more legible. It is a common naming convention in web development.
 
-![Targeting a class](Images/classHTMLtoCSS.png)
-
-Think of classes like components in Adobe XD. You create a component once and then reuse it throughout the design. The same concept applies to CSS with UI elements.
+Think of classes like components in Figma. You create a component once and then reuse it throughout the design. The same concept applies to CSS with UI elements.
 
 For example, consider the button component in the screenshot (Slide 14).
 
+## SLIDES 15-16
 **Question:** How many times is it reused on the page (also Slide 14)?
-
-![Components](Images/Class_ids_button_example.jpg)
-
 _Answer:_ This component was used four separate times on the page.
 
 Imagine you are coding this page. Would you code each button individually or just once by using a class?
 
-![Components example](Images/class_ids_example.jpg)
 
+## SLIDE 17
 Classes are used to target multiple elements across the same page.
 
 This means that you can reuse a class to apply the same style to all particular elements of a page.
 
-![Classes styling multiple elements](Images/classes_code_and_example.png)
-
 In the picture above, we have the CSS selector of .cities styling two HTML elements with a background-color, font-size, and spacing with margin and padding.
 
+## SLIDE 18
+Review
+
+## SLIDE 19
 HTML elements can have multiple classes. You can add two classes to an HTML element by simply adding another name for your class after your first.
 
-![Using two classes](Images/twoClasses.png)
 
+## SLIDE 20
 **Key takeaways for classes:**
 - Classes are not unique. Classes are designed to be reused just like components in Figma/Adobe XD.
 - You can use the same class on multiple elements.
 - You can use multiple classes on the same element.
 
-### CSS IDs
+## SLIDE 21
+Review
 
+## SLIDE 22
 **ID attribute:** ID stands for an identifier. An ID is an HTML attribute used to create unique instances of a CSS selector. IDs are *unique* to a page, so you can only have one ID per page.
 
 You should not have two IDs that are named the same. Identifiers are very useful when writing jQuery code. IDs will be the primary way that we target HTML elements in jQuery.
 
+## SLIDE 23
 IDs are HTML attributes that can be added to any HTML element by typing "id" followed by the equals sign and quotations containing the name of your ID.
 
-![ID html attributes](Images/id_html_attribute.png)
-
+## SLIDE 24
 With CSS, you target IDs with a hash (#) before the name of the selector.
 
-![Targeting an ID with CSS](Images/cssTargetingID.png)
-
+## SLIDE 25
 **Key takeaways for IDs:**
 - An ID is a unique instance of an HTML element.
 - Each element can have only one ID.
 - Each page can have only one element with that ID.
 
-> :gem: **Designer Insight:** Help students appreciate the relevance of knowing these tags by relating them to work you have done with front-end developers.
->
+## SLIDE 26
+Review
 
-Take questions to be sure these concepts are clear, then move onto the next tags.
+## SLIDE 27
+Review
 
-## 4. Instructor Do: HTML Div and Section Tags (5 min)
-
-> :pushpin: **Important Point:** The goal of this section is to introduce students to two new tags: the div and section tags. These are the basic building blocks for all layouts, so be sure to introduce the differences between the two. This section supports learning objective 3: code the CSS box model by manipulating the height, width, margin, and padding to create containers for a style guide.
-
-For students to be able to build beautiful interfaces, they first need to understand how to create the underlying structure. This will be helpful knowledge when working as a professional designer.
-
-Students need to understand how to build the structure for their HTML. The section and div tags form this structure.
-
-> :gem: **Designer Insight:** Ask students to share their own previous knowledge or experience with div and section tags.
->
-
+## SLIDE 28
 - The section tag needs no explanation, as the name says it all. This tag is used to build specific sections of a webpage.
   - Generally, these containers define the boundaries of your website, and divs are positioned inside them to create content that users interact with.
   - Section tags can be used to define sections in a document, such as footers, hero images, or sections that showcase features or products specifically.
@@ -272,12 +267,11 @@ Students need to understand how to build the structure for their HTML. The secti
 
 This makes your code easier to understand for yourself and your fellow developers by labeling HTML elements with tags that fit what they are.
 
-- For example, an aside element is a sidebar.   
+- For example, an aside element is a sidebar.  
 
-Before moving on, take questions to ensure that all students are clear on div and section tags.
+## SLIDES 29-35
 
-You are now going to move on to a demo of Chrome's Web Inspector. This is a natural next step in the lesson because it will show students how to apply box model properties, which will set them up for success by showing students how to visually test out CSS properties.
-
+## SLIDE 36
 ## 5. Instructor Do: Demo - Chrome's Web Inspector (5 min)
 
 > :pushpin: **Important Point:** Your goal for this demo is to help students feel empowered to tackle building containers and structure for their USPS style guides. This demo supports learning objective 2: employ Chrome's Web Inspector to experiment with CSS in the browser.
@@ -376,6 +370,11 @@ Once you have the Inspector open, you will see the following interface:
 
 Now that students have seen how they can use the Web Inspector to build front-end webpages, it's time for them to test their skills by building HTML content for their USPS style guide.
 
+
+## SLIDE 37
+Review
+
+## SLIDE 38
 ## 6. Student Do: Containers and Structure Activity (40 min)
 
 **TAs,** share a copy of the activity with the class: [17-Week/02-Activities/17.2/17.2-01 Containers and Structure](https://docs.google.com/document/d/1APsBg734B73WG3vo7kMRT6hHRqOFBfCGYj427TnNxSk/).
@@ -400,6 +399,7 @@ Monitor students and offer help where needed, but also encourage them to look up
 
 When all tags in the activity file have been added, students’ work is done.
 
+## SLIDE 39
 ## 7. Instructor Do: Containers and Structure Activity Review (5 min)
 
 Call attention back to your screen and lead a review of the container and structure activity.
@@ -428,29 +428,12 @@ To test the students for competency, ask them the following questions about div 
 
 Students now understand how div and section tags are used to bring structure to the content on a webpage. They're ready to add an additional structural element to their work with containers—that's next, after the break.
 
+## SLIDE 40
 ## 8. Break (15 min)
 
-Break time!
 
-Let students know that when they're back from break, you'll talk about the box model, a way to bring structure to a webpage.
-
-## 9. Instructor Do: Intro to the CSS Box Model (5 min)
-
-📌 The goal of this section is to help students become familiar with the box model and how it affects the structure of our content. This section supports learning objective 3: use height, width, margin, and padding to create containers for the USPS style guide. This section also supports learning objective 4: build a style guide for USPS.
-
-The box model in HTML is used to construct the containers that we have practiced building earlier in the lesson. Students have already been applying the box model when they constructed the HTML for their USPS style guide. They just didn't know it yet.
-
-Students need the box model to be defined so they understand how and why their HTML reacts when experimenting with CSS properties. Understanding how the box model affects our HTML elements is essential for students new to front-end development. It is a fundamental concept when learning how to construct layouts.
-
-Before we define the properties that affect the box model, you or your TAs should share your experience constructing HTML elements.
-
-:gem: **Designer Insight:** Ask a TA to share their experience constructing HTML elements using the CSS box model. Alternatively, speak to the on-the-job relevance of how understanding the basics of the box model helped you build and design HTML elements.
-
-As stated earlier, there are five properties that students need to understand that affect the CSS box model. The properties are height and width, margin, padding, and border. When a web developer builds out content, the first step is understanding what properties they can use to build out the basic look and feel of a layout.
-
-Below, you will walk through each property so that students can understand how these properties affect HTML content.
-
-🔑 **Key tech point:** Memorizing what properties affect the box model will improve your skills as a web developer.
+## SLIDE 41
+Review
 
 TAs, share the following resources with your class:
 - [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
@@ -460,8 +443,12 @@ TAs, share the following resources with your class:
 
 The web is made up of boxes. We saw this concept earlier during the Web Inspector tutorial.
 
-**Introduce the Box Model**
+## SLIDE 42
+CSS Box Model: Each HTML element you create in your HTML file is represented as a rectangular box, with the box’s content, padding, border, and margin built up around one another like the layers of an onion. 
 
+CSS calculates all the boxes on the page to display the content.
+
+## SLIDE 43
 Each HTML element you create in your HTML file is represented as a rectangular box. The box's content, padding, border, and margin are built up around one another like the layers of an onion. All the box's CSS calculates on the page to display the way content lays out on a page.
 
 - Go to any webpage and use the Chrome Inspect tool.
@@ -474,6 +461,12 @@ Each HTML element you create in your HTML file is represented as a rectangular b
 
     - Understanding this idea will help you become a much better CSS developer and a better UI designer.
 
+
+## SLIDES 44-45
+Review
+
+
+## SLIDE 46
 Let's walk through the properties that affect the box model:
 
 1. **Content inside your containers:** Text and images will both cause your box to expand to contain the content inside. The height and width can also be explicitly defined by setting a height and width for a container.
@@ -483,10 +476,11 @@ Let's walk through the properties that affect the box model:
 
 - The box model is the building block of CSS. Everything you see on the web is a rectangle.
 
-> **Instructor Note:** Pause for questions to be sure that students are grasping the CSS box model concept.
 
-Next, move on to the activity—students will get hands-on with the CSS box model.
+## SLIDE 47
+Review
 
+## SLIDE 48
 ## 10. Student Do: Apply the CSS Box Model Activity (25 min)
 
 **TAs,** share a copy of the activity with the class: [17-Week/02-Activities/17.2/17.2-02 Apply the Box Model Google Doc](https://docs.google.com/document/d/10oOl6ISjokvHhXa52HcVqdT4YvYXDx2vnE5wk_yx0Pg/).
@@ -511,6 +505,7 @@ With TAs, keep an eye on students as they work through the activity. Point them 
 
 Once students have added all the elements listed in the activity document, they’re done.
 
+## SLIDE 49
 ## 11. Instructor Do: Apply the CSS Box Model Activity Review (5 min)
 
 Call attention back to your screen and lead a review of the box model activity.
@@ -530,6 +525,7 @@ Provide actionable feedback that students can use, for example:
 
 > **Instructor Note:** Take questions: Be sure that all students have had an opportunity to ask questions before moving on to the next activity.
 
+## SLIDES 50-51
 ## 12. Student Do: Style Our Style Guide Activity (10 min)
 
 **TAs,** Slack out the following instructions to students: [17-Week/02-Activities/17.2/17.2-03-Style Our Styleguide Google Doc](https://docs.google.com/document/u/1/d/10ZDF6o2hg9Mwhl7uvmahfgPTPLDeycRUmKma_IKhp-E/).
@@ -556,6 +552,7 @@ Students will share a screenshot of their work via Slack.
 
 Before we move onto the next topic, let's take a moment to review what we just learned.
 
+## SLIDE 52
 ## 13. Instructor Do: Style Our Style Guide Activity Review (5 min)
 
 Call attention back to your screen and lead a review of the style guide activity.
@@ -582,24 +579,23 @@ Invite the TAs to comment as well.
 
 Next, you're going to move on to adding font families with Google Fonts to our webpage.
 
-## 14. Instructor Do: Google Fonts and Adding Font Families (5 min)
 
-> :pushpin: **Important Point:** The goal of this section is for students to learn that they can add fonts to their webpage. Font families can be both inherited in your browser and hosted on the web. This section supports learning objective No. 5: demonstrate competency with Google Fonts by adding it to our USPS style guide.
+## SLIDE 53
+Review
 
+## SLIDE 54
 Fonts have a powerful effect on users. An effective font can completely alter the "personality" of a design or webpage and even be what subconsciously keeps a user on a site for a longer period of time.
 
 Websites look better with custom typography—think of a design file. Designs are always better when designed with custom typefaces and color. Imagine trying to create beautiful UI work if your only choices are Arial and Helvetica, 16-point font, and black as your only color.
 
 Arial and Helvetica are the default fonts on the web. In the past, you were forced into choosing between 15 "web-safe" fonts depending on your browser. Web-safe fonts are fonts that come installed into the browser by default.
 
-> :gem: **Designer Insight:** What experience do students have with fonts? What are their frustrations or their favorite fonts? Where have they sourced some interesting fonts?
-
 Google realized this and created [Google fonts](https://fonts.google.com/).
 
 Google Fonts allows you to host any font that is hosted on their servers on your webpage. They also have literally a thousand fonts for you to pick from that allow you to customize your webpage.
 
-Students will have an opportunity to do this hands-on in the next activity, following your demo.
 
+## SLIDE 55
 ## 15. Instructor Do: Demo - Adding Google Fonts to Your Webpage (5 min)
 
 Give students a quick demo of how easy it is to add Google Fonts to a webpage.
@@ -642,6 +638,11 @@ Easy, right?
 
 Google Fonts allow you to host any font that is hosted on their servers on your webpage. There are nearly a thousand fonts for you to pick from, allowing you to customize your webpage like a pro!
 
+## SLIDE 56
+Review
+
+## SLIDE 57
+
 ## 16. Student Do: Custom Fonts on Your Webpage Activity (15 min)
 
 **TAs,** Slack out the following instructions to students: [17-Week/02-Activities/17.2/17.2-04-Custom Fonts On Your Webpage](https://docs.google.com/document/d/1USDlv3FePscFqtPjs2-bL2BfBCDB-DzfVVUbisOI1do/).
@@ -666,6 +667,7 @@ Students will have added a font to their webpage (no need to share anything in S
 
 With TAs, monitor students' progress and pause to help students who seem to get stuck. Remind them to use Google or a classmate as resources, too.
 
+## SLIDE 58
 ## 17. Instructor Do: Custom Fonts on Your Webpage Activity Review (5 min)
 
 Call everyone's attention back to your screen and lead a discussion of the custom fonts activity.
