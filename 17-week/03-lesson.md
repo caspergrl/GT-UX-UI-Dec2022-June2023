@@ -156,10 +156,20 @@ Once you've given the class a broad view of what they'll be learning and accompl
 
 With this first lecture, you'll be explaining two methods that designers use to control the order and style of content on a page (i.e., how a page looks).
 
+
+
+## SLIDES 1-5
+Review
+
+## SLIDE 6
+Review
+
+## SLIDE 7
 **CSS Float Property**
 
 - The CSS float property places an element on the left or right side of its container, allowing text and inline elements to wrap around it. The element is removed from the normal flow of the page, which means that it will no longer affect the box model of other divs around it.
 
+## SLIDE 8
 - CSS float can also be used to float two items next to each other.
 
 - Using CSS float to build parent containers is not recommended—there are definite drawbacks to using such an approach because a floated element’s height and width will no longer affect its siblings. This can cause an overlap of divs and create a strange effect.
@@ -170,25 +180,20 @@ When an element is applied with either float: left or float: right, its height a
 
 - Because of these issues, we do not recommend using float for layouts. Use floats for their intended purpose, which is *floating text around an image.*
 
-> :gem: **Designer Insight**: Share how you have used the CSS float property in your own work.
->
-> - Alternatively, invite a TA to share.
+## SLIDE 9
+Review
 
-Share the "Floats in CSS" video.
+## SLIDE 10
+Review
 
+## SLIDE 11
 **CSS Display Property**
 
 The display property specifies if and how an element is displayed.
 
 - Display is fundamentally the most important CSS property for controlling layouts.
 
-> **Instructor Note:** If students do not have a solid understanding of how these properties work, building beautiful layouts will be difficult.  Mastering CSS is about controlling a webpage's layout and visual representation.
-
 Every HTML element has a default display value depending on what type of element it is and how it is defined in the browser's inherit stylesheet. The default display value for most elements is block or inline.
-
-> :gem: **Designer Insight**: Share how you have used the CSS display property in your own work. (Alternatively, invite a TA to share.)
->
-> - Ask a couple of students who have some experience working with the CSS display property or CSS float to share their thoughts.
 
 There are three CSS display properties that students should know:
 
@@ -198,23 +203,14 @@ There are three CSS display properties that students should know:
 
 These three display values are the basics. Each HTML element by default will be either inline, block, or inline-block. Having an understanding of these three values will allow students to build UI elements quickly and correctly.
 
-> **Instructor Note:** Take a moment and ask the class if they have any questions about floats or the display property.
 
-Next, you'll discuss how inline, block, and inline-block elements are used to position chunks of content called "blocks."
+## SLIDE 12
+Review
 
-## 3. Instructor Do: Positioning HTML Elements With CSS (15 min)
-
-> :pushpin: **Important Point:** Your goal is to introduce students to positioning inline, inline-block, and block-level elements. This section supports learning objectives Nos. 1 and 2: position elements using floats and margin auto, as well as use inline, block, and inline-block elements to build webpages.
-
-Here, you will shift gears to show students how to position differently sized and shaped content on a webpage. You'll cover: block-level, inline, and inline-block HTML elements.
-
->:gem: **Designer Insight:** Say something about how you remember the difference between the various HTML elements. Alternatively, ask a TA to share their experiences.
-
+## SLIDES 13-14
 **Positioning Block-Level HTML Elements**
 
 Let's define what properties a block element has.
-
-> :globe_with_meridians: Online Recommendation: If you are comfortable switching back and forth from you slide show to VScode feel free to live code samples. 
 
 - A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
 
@@ -222,6 +218,10 @@ Let's define what properties a block element has.
 
 This means that block elements are normally used as containers for inline elements (we'll define those next). Containers are often used to build elements like forms and then position them appropriately in containers.
 
+## SLIDE 15
+Review
+
+## SLIDE 16
 **Positioning Inline HTML Elements**
 
 First, let's define what properties an inline element has. An inline HTML element does not start on a new line and only takes up as much width as necessary.
@@ -232,10 +232,16 @@ First, let's define what properties an inline element has. An inline HTML elemen
 
 This can also be accomplished by setting the display property of an element to inline and then manipulating it by setting text-align on its parent.
 
-**Positioning Inline-Block HTML Elements**
+## SLIDE 17
+Review
 
+## SLIDE 18
+Review
+
+## SLIDE 19
 Display: inline-block; sets an HTML element to display as an inline-block container through a CSS class or ID. The element itself is formatted as an inline element, but you can apply height and width values.
 
+## SLIDES 20-21
 Inline-block HTML elements:
 
 - Allow other elements to sit to their left and right.
@@ -248,6 +254,16 @@ A good example of an inline-block element is the image tag because they will ali
 
 - That is because inline-block elements still display as inline, causing spaces to be recognized around them. This prevents you from creating perfectly responsive layouts using inline-block, but you can get close—and for some layouts, this approach works quite well.
 
+## SLIDE 22
+Review
+
+## SLIDE 23
+Review
+
+## SLIDE 24
+Review
+
+## SLIDE 25
 **CSS - Width-Based Percentages**
 
 Setting pixel widths and heights are fine for a warm-up in creating elements. However, the webpages of today are often responsive—they change their structure based on the width of the browser window.
@@ -260,20 +276,25 @@ Setting pixel widths and heights are fine for a warm-up in creating elements. Ho
 
 Margins and paddings can also be given percentage-based widths, and they work in the same way as any other percentage-based layout.
 
-**Display Review**
+## SLIDES 26-28
+Review
 
-Take a moment to review what you've just covered.
+## SLIDE 29
 
-*Share the use cases for the three different display properties that have been discussed*:
+**What is an inline HTML element, and how does it display?**
 
-1. Inline elements are used to build content contained inside block elements.
-2. Block elements are used to build UI elements and containers.
-3. Inline-block elements are used to build containers that line up next to each other, but you can control the height and width.
+_Answer:_ Inline HTML elements are tags that only take up as much space as necessary and will line up next to other inline-elements.
 
-> **Instructor Note:** This is a great moment to take questions from the class.
+**What is an inline-block HTML element, and how does it display?**
 
-Now that students have a sense of how to use CSS and HTML to control the position of elements on a webpage, give students a chance to try it out for themselves. That's next.
+_Answer:_ An inline-block HTML element will display inline (line up next to inline and other inline block-level elements), but its height/width can be manipulated.
 
+**What is an HTML block-level element, and how does it display?**
+
+_Answer:_ A block-level HTML element always takes up 100% of its parent container and causes other content to start at a new line.
+
+
+## SLIDE 30
 ## 4. Student Do: Practice With CSS Positioning Activity (20 min)
 
 **TAs,** Slack out the following instructions to students: [17-Week/02-Activities/17.3/17.3-01-Practive-With-CSS-Positioning](https://docs.google.com/document/u/1/d/1crjj3CrJU-2g0xcbHXPM7K8kDQWgcPIelvp_6L_W9Uw/).
@@ -300,6 +321,7 @@ Students will take a screenshot of their work and share it on the Slack channel.
 
 Walk the room and help students who lose their place or become stuck with coding. Feel free to encourage them to get help from classmates as well.
 
+## SLIDE 31
 ## 5. Instructor Do: Practice With CSS Positioning Activity Review (5 min)
 
 Call attention back to the front of the class and lead a review of the positioning activity.
@@ -312,32 +334,15 @@ Begin the review by taking a look at some of the work that was shared on Slack a
 
 - Many of the tricks you just used in this activity you can apply to all web projects when building a user interface.
 
-Ask the class the following questions:
 
-**What is an inline HTML element, and how does it display?**
+## SLIDE 32
+Review
 
-_Answer:_ Inline HTML elements are tags that only take up as much space as necessary and will line up next to other inline-elements.
-
-**What is an inline-block HTML element, and how does it display?**
-
-_Answer:_ An inline-block HTML element will display inline (line up next to inline and other inline block-level elements), but its height/width can be manipulated.
-
-**What is an HTML block-level element, and how does it display?**
-
-_Answer:_ A block-level HTML element always takes up 100% of its parent container and causes other content to start at a new line.
-
-## 6. Instructor Do: CSS Position - Five Properties (15 min)
-
-> :pushpin: **Important Point:** Your goal in this section is to help students understand how and when to use a particular positioning element: static, relative, fixed, absolute, and sticky positioning. This ties into learning objective No. 3: create divs that overlap by positioning elements absolutely.
-
-> :globe_with_meridians: Online Recommendation: If you are comfortable live coding these position properties open VScode and switch inbetween the slide and your coding environment. If not talk through slides. 
-
-Here, you will walk through five positioning properties, orienting students to their differences and special use cases. The big idea is that these five properties are what designers use to create complex webpage layouts that look great.
-
-**The Five CSS Positioning Properties**
-
+## SLIDE 33
 In CSS, the position property is used to create complex layouts. For example, the position property enables designers to move page elements to specific positions on a webpage.
 
+
+## SLIDE 34
 There are five properties that you should know:
 
 1. **Static**: We position the element according to the normal flow of the document. Top, right, bottom, left, and z-index does not affect elements that we have not positioned.
@@ -349,6 +354,7 @@ There are five properties that you should know:
 }
 ```
 
+## SLIDE 35
 2. **Relative**: We position the element as we would normally to the flow of the document, and then it is offset relative to itself based on the values of top, right, bottom, and left. Relative positioning is mainly used to position elements absolutely inside of them.
   - An example of a relative element is the container for any profile picture that overlaps other HTML elements. Think of the container for the profile picture for LinkedIn.
 ![Relative image example](Images/relative_example.png)
@@ -360,6 +366,7 @@ There are five properties that you should know:
 }
 ```
 
+## SLIDE 36
 3. **Fixed**: The element is removed from the normal document flow. It is positioned to the viewport of the browser and will always stay where you put it even if the user scrolls down the page.
 - An example of a fixed element is a Contact Us button that follows you as you scroll.
 
@@ -369,6 +376,7 @@ There are five properties that you should know:
 }
 ```
 
+## SLIDE 37
 4. **Sticky**: This is the newest position property. The element is positioned according to the normal flow of the document, and then offset relative to its nearest scrolling ancestor and containing block.
 - An example of a sticky element is a navbar that scrolls with you when you hit a certain height.
 
@@ -378,6 +386,7 @@ There are five properties that you should know:
 }
 ```
 
+## SLIDE 38
 5. **Absolute**: This is the hardest position property to master. Absolute elements are removed from the document flow and are in position relative to their nearest-positioned ancestor. If a parent container has any position property applied to it (except static), the absolute will be positioned inside of it. If no element has a stated position, then it will be positioned to the browser viewport or window.
   - An example of an absolutely positioned element is one that breaks out of its bounding box without affecting content around it. *Think of a profile picture for LinkedIn or Facebook.*
 ![Absolute example](Images/absolute_example.jpg)
@@ -395,6 +404,8 @@ The best way to learn about the different positioning properties is to practice 
 
 > **Instructor Note:** Pause and check-in for any questions before moving into an activity to practice.
 
+
+## SLIDE 39
 ## 7. Student Do: CSS Positioning With Relative, Absolute, and Fixed Positioning Activity (20 min)
 
 **TAs,** share the following activity instructions with students via Slack: [17-Week/02-Activities/17.3/17.3-02-CSS-Positioning-With-Relative-Absolute-and-Fixed-Positioning](https://docs.google.com/document/d/1J4RYoqbnHaqVHPFDhX9TenI3RULa1YYzmzzsPeJUDiI/).
@@ -417,6 +428,7 @@ Students will start with the index.html and index.css files. Following the instr
 
 When students reload their page, they will see the elements they built displayed on the webpage.
 
+## SLIDE 40
 ## 8. Instructor Do: CSS Positioning With Relative, Absolute, and Fixed Positioning Activity Review (5 min)
 
 Call attention back to the front of the classroom. Discuss with students how to position elements in their design.
@@ -438,14 +450,11 @@ Give students some practical, actionable feedback they can apply to their work, 
 
 2. The hardest to understand position property is absolute positioning. If you're going to use absolute positioning, make sure you study and understand what your HTML element will do when you apply position: absolute to it. Make sure it is contained inside of a positioned container (using relative most commonly).
 
+## SLIDE 41
 ## 9. Break (10 min)
 
-Break time!
 
-> :globe_with_meridians: Online Recommendation: Put up a timer and use Slack @here to get everyone back to class after the break. Encourage standing up and stretching. 
-
-Let students know that after the break students will work on a longer activity where they get to build their first website!
-
+## SLIDE 42
 ## 10. Student Do: Build a One-Page Website Challenge (50 min)
 
 
@@ -481,6 +490,7 @@ Students will take a screenshot of their work and share it on the Slack channel.
 
 Walk the room with your TAs and offer support where needed as students work through the activity.
 
+## SLIDE 43
 ## 11. Instructor Do: Build a One-Page Website Challenge Review (5 min)
 
 **Demo** the solution using gray scale colors to represent a wireframe.
@@ -491,19 +501,17 @@ Walk the room with your TAs and offer support where needed as students work thro
 
 Give students some practical, actionable feedback they can apply to their work, for example:
 1. All the CSS properties taught today are used interchangeably depending on the layout. Think of the different web skills as tools in your tool belt.
-2. Students need to practice; building a single layout is not enough. Encourage students to go home and practice building this layout again or building a different layout.
+2. Students need to practice; building a single layout is not enough. Encourage students to go home and practice building this layout again or building a different layout
 
-## 12. Instructor Do: What Is Git/GitHub? (10 min)
+## SLIDE 44
+Review
 
-> :pushpin: **Important Point:** The main takeaway from this section is for students to understand what version control is. It is equally important that students learn their first Git workflow—publishing their code to the cloud. This lecture, along with the demo and activity that follow, fulfills learning objective No. 4: code a webpage and then host it using GitHub Pages.
-
-Here you'll introduce GitHub, the tool students will be using to publish their webpages and sites. More and more professional designers are using Git in their work.
-
-Before we continue, take a minute to clarify the difference between a website and a webpage.
-
+## SLIDES 45-47
 **Webpage Vs. Website**
 
 A *webpage* is a domain that is connected to the internet that displays a single HTML document that can be viewed in a web browser. These are often called just "pages." It’s common for portfolio sites to be a webpage.
+
+A *website* is a domain connected to the internet that maintains one or more pages on the World Wide Web. Amazon's website, for example, has thousands of pages. 
 
 > **Instructor Note:** Open up brunoarizio's portfolio page in you browswer and click through a couple webpage. Point out the clean URL structure.
 
@@ -515,21 +523,22 @@ A *webpage* is a domain that is connected to the internet that displays a single
 
     - [https://brunoarizio.com/essays](https://brunoarizio.com/essays) > essays page (essays.html)
 
-> **Instructor Note:** Open Amazon in your browser to preview the website structure or their massive catalog.
-
-A *website* is a domain connected to the internet that maintains one or more pages on the World Wide Web. Amazon's website, for example, has thousands of pages. 
 
 > 💎**Designer Insight**: The **difference between a website and a webpage** is that a **website** is a collection of **webpages** with information on a subject. A **webpage** indicates that this site only has one page that a user interacts with.
 
+
+## SLIDE 48
+Review
+
+## SLIDE 49
+Review
+
+## SLIDE 50
 **Justifying GitHub**
 
 The goal of this section is to justify the use of Git to designers who, up to this point, might not see much value in using developer tools. Git is not easy and will take lots of practice. You will be helping students with Git for the rest of the boot camp. If you're not familiar with Git, it will be key to practice yourself, as you and the TAs will be helping troubleshoot.
 
 - GitHub is software that is used for version control. It is free and open-source.
-
-> :globe_with_meridians:Online Recommendation: Open [https://github.com/](https://github.com/) and switch back and forth between the slide and your browswer. You may need to log out to get to the marketing pages of github.
-
-> **Instructor Note:** Login to your own github profile and share it in Slack. Encourage TAs to do the same.
 
 > 💎**Designer Insight**: The ability to use GitHub will allow you stand out from your UX/UI competition. Although primarily a developer centric platform your ability to navigate these systems will make you more employable on a software team.
 
@@ -549,6 +558,7 @@ The goal of this section is to justify the use of Git to designers who, up to th
 
   - [https://git-scm.com/book/en/v2/Git-Internals-Git-References](https://git-scm.com/book/en/v2/Git-Internals-Git-References)
 
+## SLIDES 51-58
 - Now, let’s understand what version control is.
 
   - Version control is the management of changes to documents, computer programs, large websites, and other collections of information.
@@ -567,6 +577,10 @@ The goal of this section is to justify the use of Git to designers who, up to th
 
 GitHub is also a valuable skill to have as a UX/UI designer and can be the difference between candidates for open roles. It is common for UX/UI designers to be embedded in dev teams and work on front-end code. Having a base understanding of Git will help you stand out for these roles.
 
+## SLIDE 59
+Review
+
+## SLIDES 60-63
 **GitHub Desktop Functions**
 
 Using Git, there are four major functions that you will need to be familiar with that will be completed with GitHub Desktop.
@@ -606,6 +620,10 @@ After all the conflicting files have been fixed, we can merge our code and push 
 **Instructors:** Please share the following resources with your class for a Git extension for Visual Studio Code.
 [Visual Studio Code Git Package](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
 
+## SLIDE 64
+Review
+
+## SLIDES 65-73
 **Common GitHub Desktop Workflows**
 
 1. You take a pull from the remote repository to update your code before you start your workday.
@@ -622,6 +640,7 @@ We have spent all this time creating nice layouts. It would be a shame if we did
 
 Now that students know what GitHub is, it's time to show them what it looks like in action with a demo.
 
+## SLIDE 74
 ## 13. Instructor Do: Demo - GitHub Pages (5 min)
 
 > :pushpin: **Important Point:** Your goal for this demo is to instill confidence in students who might be creating their first GitHub repositories and commits.
@@ -667,6 +686,7 @@ Don't worry about giving the class a comprehensive GitHub tutorial. For now, jus
 
 Now it's time for students to test this skill out for themselves—that's next!
 
+## SLIDE 75
 ## 14. Student Do: Upload Your First Webpage to the GitHub Cloud! Challenge (20 min)
 
 **TAs,** Slack out to students the [17-Week/02-Activities/17.3/17.3-04-Upload-Your-First-Webpage-to-the-GitHub-Cloud Instructions](https://docs.google.com/document/d/1nI1a-uNkZiKTtnLZfNpyeTXQx5N-oyG7RHJWbesK20Y/).
@@ -691,6 +711,7 @@ Be on hand while students work with GitHub and be willing to demo how to create/
 
 Now that students are done uploading their newly created website to github.com, let's review some key concepts.
 
+## SLIDE 76
 ## 15. Instructor Do: Upload Your First Webpage to the GitHub Cloud! Challenge Review (5 min)
 
 Now that students have gotten their first taste of version control, dig into their work and see where they can reflect and learn.
