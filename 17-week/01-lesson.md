@@ -342,7 +342,7 @@ be readable by screen readers, and be able to be targeted by CSS and JavaScript.
 The basic page structure we outlined before is valid HTML because each element's open tag has a closing tag and fully contains any other elements within it.
 
 ## SLIDES 28-29
-Review anatomy of a webpage slides
+Review anatomy of a webpage slides - Pull up devtools? Devtools is a bit like popping the hood of a car to see what's making it run.
 
 ## SLIDE 30
 Review HTML document structure
