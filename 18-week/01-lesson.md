@@ -121,6 +121,114 @@ Share today's objectives:
 
 > :pushpin: **Important Point:** Your goal in this lecture is to introduce students to key concepts of the Flexbox model, specifically `display: flex;`. Students should understand how Flexbox helps designers create strong layouts.
 
+## SLIDES 1-3
+Review
+
+## SLIDE 4
+Review
+
+## SLIDE 5
+Git/GitHub is a distributed version control system for tracking changes in source code during software development. 
+
+It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+
+## SLIDE 6
+
+- Why Git?
+
+  - It is a version control system that allows team members (developers, UX, UI) to collaborate without overriding each other’s work.
+
+- Git is not easy and has a lot of developer jargon, but we will spend some time getting used to it!
+
+- **TAs,** Slack out resources:
+
+  - [https://www.atlassian.com/git/tutorials/why-git](https://www.atlassian.com/git/tutorials/why-git)
+
+  - [https://medium.com/shyp-design/managing-style-guides-at-shyp-c217116c8126](https://medium.com/shyp-design/managing-style-guides-at-shyp-c217116c8126)
+
+  - [https://www.c-sharpcorner.com/article/what-is-version-control-git-vs-tfs/](https://www.c-sharpcorner.com/article/what-is-version-control-git-vs-tfs/)
+
+  - [https://git-scm.com/book/en/v2/Git-Internals-Git-References](https://git-scm.com/book/en/v2/Git-Internals-Git-References)
+
+## SLIDE 7
+  - Version control is the management of changes to documents, computer programs, large websites, and other collections of information.
+
+## SLIDE 8
+  - Version control saves all the previous changes you make to a file in "commits." Each commit has a unique number that you can use to see how your project has changed over time.
+
+  - This means that projects that are tracked by Git can roll back to previous versions. Having a backup is especially useful if you post incorrect code up to your production server and need to roll it back.
+
+- Different versions are stored locally on your computer in a hidden folder named .git. You won't be able to see this folder unless you have specific permissions set on your computer. We don't recommend you change those settings unless you know what you're doing.
+
+
+## SLIDE 9
+  - So, if the changes are stored locally, how do teams use this tool to collaborate?
+
+  - Enter cloud repositories like GitHub. GitHub is a service that provides a space for developers (and other professionals) to store their projects.
+
+- Using Git, we can push our code up to GitHub's servers, where other people can pull your code to their local machine and work with it.
+
+GitHub is also a valuable skill to have as a UX/UI designer and can be the difference between candidates for open roles. It is common for UX/UI designers to be embedded in dev teams and work on front-end code. Having a base understanding of Git will help you stand out for these roles.
+
+## SLIDE 10
+Review
+
+## SLIDE 11
+Review
+
+## SLIDE 12
+Review
+
+## SLIDE 13
+**GitHub Desktop Functions**
+
+_Pull:_ This will update your local repository with any changes that have been pushed to the remote repository while you were away. This keeps your project synced with your team's work.
+
+## SLIDE 14
+Review branches
+
+## SLIDE 15
+_Push:_ Git push is used to push files that you have committed to a cloud repository.
+
+_Commit:_ Git commits are used to save the work you have done on your local computer.
+
+**Note:** You should always take a pull before you begin work on a shared repository.
+
+_Merge:_ Merges happen when you have unsaved changes in your local repository and you take a pull. This results in merge conflicts. Merge conflicts occur when your local work and the work in the repository are not the same.
+
+
+## SLIDE 16
+Review
+
+## SLIDES 17-25
+
+The first thing that happens if you encounter a merge conflict is that GitHub Desktop will kick up an error like so:
+The next step is to open the conflicting file in Visual Studio Code.
+
+- When a merge conflict happens, Git will automatically mark places in your code that are different from the remote repository.
+
+
+Using Visual Studio Code, we can use extensions to help us select which version is the correct and current version. Merge conflicts can be resolved by resolving all these conflicts in our file, then committing the changes and pushing them up to the remote.
+
+
+After all the conflicting files have been fixed, we can merge our code and push it back to the repo, all in GitHub Desktop.
+
+
+**Merge conflicts are the hardest part of learning to use Git. Don't be frustrated if it happens and it takes some time to resolve.**
+
+**Instructors:** Please share the following resources with your class for a Git extension for Visual Studio Code.
+[Visual Studio Code Git Package](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
+
+**Common GitHub Desktop Workflows**
+
+1. You take a pull from the remote repository to update your code before you start your workday.
+2. You make changes to a document and then add it as a commit. You then push the commit up to a repository to update it.
+3. You take a pull from a remote repository and encounter a merge conflict. You select the correct version and push the merge to the local repository.
+
+## SLIDE 27
+Review
+
+## SLIDE 28
 ### What Is CSS Flexbox?
 
 **Ask:** "What are some methods we know for creating layouts?"
@@ -131,30 +239,41 @@ Share today's objectives:
 
 - _`inline-block` elements are a mix of the other two; they have specified dimensions, but also share their lines with other elements._
 
+## SLIDE 29
 **CSS Flexbox** is a separate layout model for creating responsive rows or columns.
 
 **Flexbox elements are flexible**; they automatically grow, shrink, squish together, or spread out to fill the available space.
 
+
+## SLIDE 30
 ### Why Learn CSS Flexbox?
 
 **Ask:** "If we already know one layout model, why should we learn another?"
 
 Each layout model is best in a different circumstance. Flexbox excels in responsiveness; that is, it allows us to easily create layouts that reposition and scale to fit any display.
 
-> :briefcase: **Employer Competitive Note:** In most circumstances, one layout model is not the best solution for all parts of page. Knowing which tool is most suited for each job will save time and make for cleaner CSS.
+In most circumstances, one layout model is not the best solution for all parts of page. Knowing which tool is most suited for each job will save time and make for cleaner CSS.
 
+
+## SLIDE 31
 The following simple layout requirements are challenging to achieve with only the CSS we covered in Unit 17:
 
 - Vertically centering elements. (`margin: auto` only works for horizontal centering.)
 
+## SLIDE 32
 - Spacing and sizing elements equally according to the available space (especially in responsive layouts).
 
+## SLIDE 33
 - Maintaining consistent container sizes with inconsistent content sizes.
 
 > :gem: **Designer Insight:** Share an experience you had with one of these challenging layouts or a time you simplified CSS code by switching to Flexbox.
 
 > :key: **Key Tech Note:** The difficult layouts shown in this section are technically possible without Flexbox, but those solutions are so unintuitive that they are often considered hacks, workarounds, or exploits.
 
+## SLIDE 34
+Review
+
+## SLIDE 35
 ### How Can We Use CSS Flexbox?
 
 To start using Flexbox, we can use the rule `display: flex` to transform any element into a flex container.
