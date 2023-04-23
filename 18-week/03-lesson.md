@@ -128,10 +128,17 @@ Students will learn how to add animation to their web development work, which wi
 
 > **Instructor Note:** It is important to repeatedly tell the students that all three of the CSS animation properties we discuss today are used hand-in-hand to create complex animations. By practicing, students can master creating CSS animations that create a delightful user experience.
 
-**Say:** "Today, our focus is animation basics for the web."
 
-Address the following hypothetical questions:
+## SLIDES 1-3
+Review
 
+## SLIDES 4-5
+Review
+
+## SLIDE 6
+Review
+
+## SLIDE 7
 - "Is there a difference between web animations and CSS animations?"
 
 	_Web animation and CSS animations are two terms that describe the same thing. Animations on the web are powered by CSS3 animation techniques._
@@ -148,42 +155,46 @@ Address the following hypothetical questions:
 
 	_Animations can also be created using JavaScript, but even JavaScript animations simply leverage CSS3 transforms, transitions, and keyframe animations in the background._
 
-> :gem: **Designer Insight:** Ask a TA to share how knowing a bit about web animations has helped them in their design work (or in communicating with web developers).
->
-> - Ask students who already have some experience with web animation to share their experience and how it has helped their design work.
 
-The very beginning of animating on the web is understanding the CSS transform property.
-
+## SLIDE 8
 ### CSS `transform` Property
 
 Simply put, the CSS transform property allows you to visually manipulate an element by skewing, rotating, translating, or scaling through CSS.
 
 There are two types of CSS transforms: 2D and 3D.
 
+## SLIDE 9
 ### 2D Transforms
 
 2D transforms are exactly as they sound—2D transforms modify an element by its shape, size, and position. It changes the element along the x-axis and y-axis.
 
 2D transforms have many properties that you can leverage. We'll introduce these CSS properties to students now.
 
-> :key: **Key Tech Note:** CSS transforms specify HOW an element is animated. CSS transitions will be introduced in Section 5. Transitions make animations smooth and visually pleasing.
+## SLIDE 10
+CSS transforms specify HOW an element is animated. CSS transitions will be introduced in Section 5. Transitions make animations smooth and visually pleasing.
 
+## SLIDE 11
+Review
+
+## SLIDE 12
 - `rotate` rotates the element in a circular motion. The attributes are specified in degrees (clockwise) or negative degrees (counter-clockwise) depending on which way you want the element to rotate.
 
+## SLIDE 13
 - `scale` increases or decreases the size of an element (according to the parameters given for the width and height). Width is specified first and height is specified second.
 
+## SLIDE 14
 - `translate` moves the element along the x- and y-axis according to the properties you enter.
 
-Now that you've defined each of the three types of web animations, explain how they work together.
+## SLIDE 15
+Review examples
 
-### CSS Transitions and User Experience
+## SLIDE 16
 
 CSS transforms specify how an HTML element animates and works hand-in-hand with transitions to make that animation smooth. The two properties are used together to create simple animations. These animations can also be designed and developed with JavaScript. Keyframe animations combine these two techniques, but they also allow you to specify multiple CSS properties for creating a complex animation. Transforms, transitions, and keyframes are all tools in a toolkit for creating UI interaction on websites.
 
-Next, students will try out the CSS transform operator for themselves with a hands-on activity.
+_Review list_
 
-> **Instructor Note:** Pause for questions.
-
+## SLIDE 17
 ## 3. Student Do: CSS Transform: Rotations and Scaling Activity (20 min)
 
 **TAs:** Slack out the activity file: [18-Week/02-Activities/18.3/18.3_01_Rotations And Scaling](https://docs.google.com/document/d/1Lkgl3jrtwmVHwBRMJpusCO3WyCTSmPgV5aNUVp7paoo/).
@@ -233,7 +244,7 @@ transform: scale();
 ```css
 transform: translate();
 ```
-
+## SLIDE 18
 ## 4. Instructor Do: CSS Transform: Rotations and Scaling Activity Review (5 min)
 
 Call the class back to attention and lead a review of the rotations and scaling activity.
@@ -251,60 +262,27 @@ Students will need actionable feedback that they can apply to their work. Make s
 
 Invite TAs to share their observations as part of the activity review.
 
-> 💎 **Designer Insight:** Take a moment to share your own perspective on working with UI buttons.
-
-**Review the concepts.**
-
-> :globe_with_meridians: **Online Recommendation:** Have students engage by raising their hands to speak or addressing the following questions via Slack to test students' retention.
-
-Now, transition into a brief review of the CSS concepts students just practiced.
-
-**Ask:**
-
-- "What is a transform?"
-
-	_Transforms are CSS properties that allow you to rotate, scale, or translate your element's position._
-
-- "What does `rotate` do?"
-
-	_Rotates your element 20deg clockwise._
-
-- "What does `scale` do?"
-
-	_Scales your element larger or smaller._
-
-- "What does `translate` do?"
-
-	_Translates the position of an element._
-
-> **Instructor Note:** Pause for questions.
+## SLIDE 19
+Review
 
 **TAs:** Slack out the following resources to your class: [W3Schools 2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp).
 
-## 5. Instructor Do: CSS Transitions (10 min)
 
-> :pushpin: **Important Point:** Your goal in this section is to introduce CSS transitions and explain how they help with animation. This supports the second learning objective of the day, which is for students to create a CSS transition using pseudo-classes to make their buttons interactive.
-
+## SLIDE 20
 CSS transitions allow a user experience to have behaviors and can reinforce navigation and interaction models.
 
+## SLIDE 21
 CSS transitions revolutionized the world of web development by adding the ability to animate the CSS attributes of elements.
 
+## SLIDE 22
 Transitions allow you to define the transition between two states of an element while controlling the animation speed when changing CSS properties.
 
 Before transitions were introduced on the web, creating animations on the web was limited to using Gifs. Gifs can't be controlled and the only option you have is whether they loop or not. Transitions allow developers and designers to create basic ways to let a user know when they can interact with an HTML element.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI designer, when you design UI elements that react when a user interacts with them, you are really designing UI elements with transitions. Having a working knowledge of how CSS transitions function allows you to design interactions that can be coded easily.
+## SLIDES 23-24
+Review
 
-CSS transitions allow you to create simple CSS animations that create an effect depending on which CSS properties you transition. Transitions allow you to add easing and timing to a hover effect or smooth out an animation that you build. CSS transitions assume states between frames and will display the before and after and "assume" the frames in between. Best of all, you don't need to know JavaScript to build interesting animations.
-
-You have already seen transitions occur—think of the hover state of a button that changes color. This is probably the most common CSS transition that you will encounter. 
-
-**Which CSS properties can be transitioned?**
-
-You can animate most CSS properties using CSS transitions:
-
-- **TAs,** Slack out the [List of all animatable css properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties).
-
+## SLIDE 25
 CSS transitions measure the two intermediate states between the transition you program and the beginning state of the element, assuming the animation you want is similar to Figma or Adobe XD's auto-animate function.
 
 > :key: **Key Tech Note:** It is important to note that you can create animations using any of the animatable CSS properties listed in the above article.
@@ -324,18 +302,19 @@ transition: all 0.5s ease-out;
 
 - **timing:** specifies what kind of effect the transition will have. Is it ease? Easy-out? There are many options.
 
-### Pseudo-Classes
 
+- **TAs,** Slack out the [List of all animatable css properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties).
+
+
+## SLIDE 26
 A pseudo-class is a keyword that is added to any CSS selector that defines a special state of the element.
 
-> :key: **Key Tech Note:** A pseudo-class is so named because this HTML selector extends a class function, but isn't quite a real class. It's pseudo because you didn't make it; the browser "created" it and allows you to set it to change the look of the link when it's in that state.
+A pseudo-class is so named because this HTML selector extends a class function, but isn't quite a real class. It's pseudo because you didn't make it; the browser "created" it and allows you to set it to change the look of the link when it's in that state.
 
-> :gem: **Designer Insight:** Do you use pseudo-classes when animating elements? Give students a sense of the usefulness of this concept from your own professional perspective.  
->
-> - Feel free to have a TA share their experience.
 
 For an example of a pseudo-class, note the ```:hover``` pseudo-class. It specifies what happens when you hover over a certain div.
 
+## SLIDE 27
 As we mentioned earlier, pseudo-classes are added to prewritten CSS selectors. Pseudo-classes extend the functionality of any HTML element by allowing us to program different "states" our HTML element is in. For example, the pseudo-class hover allows us to add a hover state to an element and apply an animation to the HTML element when a user's mouse hovers over the element.
 
 > :key: **Key Tech Note:** There are many different types of pseudo-classes but `:hover` is most often used in web animation. For a list of all pseudo-classes, please view the following link: [All pseudo classes W3Schools](https://www.w3schools.com/css/css_pseudo_classes.asp).
@@ -355,26 +334,14 @@ As we mentioned earlier, pseudo-classes are added to prewritten CSS selectors. P
 }
 ```
 
+## SLIDE 28
 All pseudo-classes are added onto the end of CSS selectors with a colon (`:hover`, for example).
 
 The example below will cause our `background-color` to change blue when we hover over it with our cursor.
 
 Notice how this hover effect also has a transition, which will cause our `background-color` to transition over .5s.
 
-Let's see what this code will look like:
-
-![Hover example](Images/hover_example_.gif).
-
-Now it's time to demo this for students so that they feel confident about the hands-on activity that follows.
-
-## 6. Instructor Do: A Quick Transition Demo (5 min)
-
-Before turning students loose with this tool, demo it first.
-
-> :globe_with_meridians: **Online Recommendation:** Ask a TA to set a timer for 10 minutes to track your time. They can give you a 2-minute warning if you like. 
-
-**Say:** "Want to see a CSS transition in action?"
-
+## SLIDE 29
 1. Open and share the [CSS hover CodePen](https://codepen.io/2u-uxuxi-bootcamp/pen/abJBXzy) with your class.
 
 1. Hover your mouse over the button to show students our hover state animation. Tell the class that this transition is changing the `background-color` of our element.
@@ -413,6 +380,7 @@ There are many pseudo-classes. Slack out to students the following link: [All Ps
 
 Now it's time to move onto the CSS transition basics activity.
 
+## SLIDE 30
 ## 7. Student Do: CSS Transition Basics Activity (35 min)
 
 **TAs:** Slack out the activity file: [18-Week/02-Activities/18.3/18.3-02-CSS Transition Basics](https://docs.google.com/document/u/1/d/1eSJTlLmU5cjEwIemgpmlwdxnf1JDPJaor2xhEkWl9jU/).
@@ -441,6 +409,7 @@ During this activity, students will add a transition to a button and a hover sta
 
 Upon completion of this activity, students will have practiced creating a working transition on a button, complete with a hover that creates an effect.
 
+## SLIDE 31
 ## 8. Instructor Do: CSS Transition Basics Activity Review (5 min)
 
 Call the class back to attention and lead a review of the transition basics activity.
@@ -483,55 +452,49 @@ Before the break, talk about common misconceptions, errors or FAQs about web ani
 
 - When creating a CSS transition, you must specify the same CSS property between element states in a pseudo class. If you do not, your transition will not animate.
 
+## SLIDE 32
 ## 9. Break (15 min) 
 
-It's time for a break. Brain breaks are an important part of the learning process, so take a break! Get up from your screen and relax, have a bite to eat, and drink some water.
+## SLIDE 33
+Review
 
-> globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen! Put up a Google or YouTube timer video. A visual timer will help get students back into the main Zoom room on time.
-
-When students return, you'll talk about using CSS keyframe animations to control the different states of their animations.
-
-## 10. Instructor Do: CSS Keyframe Animations (15 min)
-
-> :pushpin: **Important Point:** Your goal in this section is to share how CSS keyframes can give students control over their animations. This supports the third learning objective of the day, which is for students to construct a custom CSS keyframe animation that has multiple steps.
-
-Now that students have some experience with animating elements, take it a step further and teach them how to use CSS keyframes.
-
+## SLIDE 34
 ### Keyframes are the Root of Animation
 
-**Say:** "Transitions are great for making simple animations, but what if we need to create a complex animation where we need to control each step of the animation?"
+"Transitions are great for making simple animations, but what if we need to create a complex animation where we need to control each step of the animation?"
 
 Transforms and transitions allow you to create basic animations between only two states, but some animations require more than two. Complex animations require multiple states that your element goes through before the animation is complete. Think of logo animation—generally, these types of interactions have more than two states that the HTML is in.
 
+
+## SLIDE 35
+Review
+
+## SLIDE 36
 ### Simple vs. Complex CSS Animations
 
 - The characteristics of simple animations are short, simple, and used to showcase the interactivity of a website.
   - Example: A micro-interaction on Facebook's like icon. When you click the icon, it grows in size, turns, and stays red until you unlike it.
+
+
+## SLIDE 37
 - Complex animations modify multiple CSS properties, are used to draw attention to HTML elements, and sometimes loop depending on the use case.
   - Example: An animation on a logo or image (e.g., Google Doodles).
 
-### Keyframe Animations
-
+## SLIDE 38
 Enter the CSS keyframe animation. CSS keyframe animations control the CSS animation sequence by defining how the animation looks in keyframes in the animation sequence.
 
-> **Ask:** "Can anyone offer a definition of what a keyframe animation is?"
-
+## SLIDE 39
 In animation and filmmaking, a *keyframe* is a drawing that defines the start and end points of any smooth transition. The drawings are called "frames" because their position in time is measured in frames on a strip of film. The keyframe keyword allows you to define when each specific part of our CSS animation happens.
 
-> :gem: **Designer Insight:** Ask students who have familiarity with CSS keyframe animation to define it in their own words for the class.
->
-> - Alternatively, ask a TA to share their experience with CSS keyframe animation.
+## SLIDES 40-41
+Review
 
 **TAs:** Slack out the following resource for students to get some inspiration for their animations: [Animation Inspiration](https://uimovement.com/).
 
 > Instructor Note: Pause for questions. Use the 30-second trick by pausing and letting silence fill the room until a question is asked.
 
-Now, show the class how CSS keyframes work with a live demo.
 
-## 11. Instructor Do: CSS Keyframe Animation Demo (5 min)
-
-**Ask:** "Anyone want to see CSS keyframes in action?"
-
+## SLIDE 42
 Open and have TAs Slack out the [Keyframe Animation CodePen Sample](https://codepen.io/2u-uxuxi-bootcamp/pen/qBYpBMY) to the class.
 
 > globe_with_meridians: **Online Recommendation:** Ask a TA to set a timer for 10 minutes to track your time. They can give you a 2-minute warning.
@@ -600,8 +563,9 @@ The CSS keyframe animation below will slide the box across the screen on the x-a
 - [Webdesign Tuts - 15 CSS animations](https://webdesign.tutsplus.com/articles/15-inspiring-examples-of-css-animation-on-codepen--cms-23937)
 - [W3School CSS animations](https://www.w3schools.com/css/css3_animations.asp)
 
-Students should now feel ready to try out CSS Keyframes themselves in the following activity.
 
+
+## SLIDE 43
 ## 12. Student Do: Creating CSS Keyframe Animations Activity (35 min)
 
 **TAs:** Slack out the activity file: [18-Week/02-Activities/18.3/18.3-03-Creating CSS Keyframe Animations](https://docs.google.com/document/u/1/d/1jikiGrclkKZVoLG7V3hGdD4c9QPOSg8HiT8BdENWWPc/).
@@ -640,6 +604,7 @@ The deliverables for this activity are as follows:
 - A working loading bar
 - A box that animates across the screen
 
+## SLIDE 44
 ## 13. Instructor Do: Creating CSS Keyframe Animations Activity Review (5 min)
 
 Call the class back to attention and lead a review of the CSS keyframe animations activity.
