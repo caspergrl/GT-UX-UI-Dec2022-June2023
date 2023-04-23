@@ -108,25 +108,27 @@ Introduce students to the layout we will build today: a landing page for **Furni
 
 Here you will introduce students to the concepts of CSS Grids, helping students to grasp the difference between one- and two-dimensional layouts.
 
-> 💼 **Employer Competitive Note:** CSS Grids are used to create layouts that can contain both columns and rows. As a designer, this expands the possibilities of what you can design in your day-to-day work. Having working knowledge of how CSS Grids function allows you to design accurate two-dimensional layouts for your content.
 
+## SLIDES 1-6
+Review
+
+## SLIDE 7
 ### Grid Layouts
 
 CSS Grids are used to create two-dimensional layouts. Two-dimensional layouts are layouts that can span multiple columns or rows. Grids allow you to define the layout section by section, allowing you to create children that span rows or columns and line up next to each other.
 
+## SLIDE 8
 ### Before Flex and CSS Grids
 
 Before flex and grids, building layouts was a frustrating and challenging experience. To build interesting layouts, many CSS hacks were introduced. However, the ability to create flexible complex layouts was difficult, and getting them supported by all browsers was also basically impossible.
 
+## SLIDE 9
 In 2013, Microsoft's Edge browser shipped its implementation of the CSS Grid. It was quickly adopted by the W3 Consortium and soon standardized and supported by all browsers.
 
+## SLIDE 10
 ### Flexbox vs. CSS Grid
 
 CSS Grids are used to build two-dimensional layouts, meaning you can create full, complex designs as opposed to one-dimensional layouts, which are only left to right or top to bottom.
-
-![Two Dimensional vs. One Dimensional](Images/two_Dimension_Vs_one.jpg)
-
-Now that students have a basic appreciation for CSS Grids, take them deeper into grid layouts.
 
 **TAs:** share in Slack the following CSS Grid resources with the class. Tell students to review these after class tonight:
 
@@ -134,8 +136,8 @@ Now that students have a basic appreciation for CSS Grids, take them deeper into
    - [Mozilla Developer Network - CSS Grid Introduction](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
    - [CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-**Say:** "We are going to break apart the different sections of the grid that we are going to be using to build custom grids."
 
+## SLIDE 11
 ### CSS Grid Containers
 
 Very similar to flex, converting an HTML element into a grid container is easy.
@@ -144,8 +146,15 @@ Very similar to flex, converting an HTML element into a grid container is easy.
 
 - This is an important concept when we start nesting grids inside of each other later in this lesson.
 
-> :key: **Key Tech Note:** Grid containers are any HTML element to which you apply `display: grid;`. Some CSS properties are used only on the grid container, such as `align-items` and `justify-content`.
+Grid containers are any HTML element to which you apply `display: grid;`. Some CSS properties are used only on the grid container, such as `align-items` and `justify-content`.
 
+## SLIDE 12
+Grid containers contain rows and columns of grid items
+
+## SLIDE 13
+Review
+
+## SLIDE 14
 ### CSS Property: `grid-template-columns`
 
 The CSS property `grid-template-columns` is used to specify the number of columns based on the children you have in your container.
@@ -157,12 +166,12 @@ The example below is a grid that has four columns set to 25%.
   grid-template-columns: 25% 25% 25% 25%;
 }
 ```
-
+## SLIDE 15
 You can specify widths for different looks. Below is an example of a two-column grid:
 
 ```css
 .containerGrid {display: grid;
-  grid-template-columns: 75% 25%;
+  grid-template-columns: 25% 75%;
 }
 ```
 > :key: **Key Tech Note:** Columns can be specified with pixels, fractions, units, or percentages.
@@ -175,7 +184,7 @@ Below is an example of how to use `grid-template-columns` with a mix of pixels a
   grid-template-columns: 150px 75%;
 }
 ```
-
+## SLIDE 16
 ### CSS Property: `grid-template-rows`
 
 The CSS property `grid-template-rows` is used to specify the number of rows of content that will display in your container.
@@ -191,6 +200,7 @@ The CSS property `grid-template-rows` is used to specify the number of rows of c
 
 > :key: **Key Tech Mote:** CSS rows can be specified with pixels, fraction units, or percentages.
 
+## SLIDE 17
 ### Columns and Rows Create Grids
 
 `grid-template-rows` and `grid-template-columns` are used together to create full grid layouts.
@@ -205,6 +215,7 @@ In the example below, you can see this is a two-column layout with four rows tha
 }
 ```
 
+## SLIDE 18
 ### Sizing Grid Areas
 
 When specifying the width of your grid areas, there are several ways to do it.
@@ -213,10 +224,15 @@ You can specify the size of your columns and rows using hard pixel widths (200px
 
 A difficult concept for students to understand is that you can use pixels along with percentages and fraction units depending on the layout you are trying to achieve.
 
+## SLIDE 19
+There are many ways to specificy the width of a grid: pixels, percentages or fraction units
+
+## SLIDE 20
 ### Fraction Units
 
 Fraction units specify the space taken up by each row. Fraction units are calculated with how much space is left in your container and what fraction of the space the element should take up.
 
+## SLIDE 21
 Fraction units are specified using arbitrary numbers:
 
 1fr, for example, is the normal unit of measurement.
@@ -235,75 +251,17 @@ Sample fractional code:
 
 > :key: **Key Tech Note:** Fraction units will take up a "fraction" of whatever space is remaining in your container after content, margin, paddings, and the widths of your remaining elements.
 
+## SLIDE 22
 ### CSS Property: `grid-template-areas`
 
 All the properties we just talked about are used to create templates, which are specified by `grid-template-areas`. Templates are used to display how your content lays out on the page.
 
+## SLIDES 23-25
 `grid-template-areas` are easy to set up: all you need to do is create a class that targets any individual grid element.
 
 You can then specify a title for the grid area and use the CSS property `grid-template-areas` to determine where exactly in this layout these items are supposed to fall.
 
 > :key: **Key Tech Note:** This is an incredibly powerful CSS property, as you can specify precisely where each item lines up in a visual way. Encourage students to read the documentation on `grid-template-areas`: [W3Schools grid-template-areas documentation](https://www.w3schools.com/cssref/pr_grid-template-areas.asp).
-
-> **Instructor Note:** The following section pertains to the demo you will give in class to display the power of CSS grids with template areas.
-
-In the demo, we will specify a grid that is three columns wide and three rows tall.
-
-In this example, it is set up so that our title takes up three rows (because we specified three fr units for our row and columns).
-
-We have a sidebar that occupies one fraction and also content that takes up two frs next to it.
-
-Lastly, we have a footer that spans all three columns left to right.
-
-```html
-<div class="containerGrid">
-  <div class="titleBar">Title Content</div>
-  <div class="headerBar">Header Content</div>
-  <div class="leftSidebar">Left Sidebar content</div>
-  <div class="rightContent">Right content</div>
-  <div class="footerBar">footer Content</div>
-</div>
-```
-
-Notice how we also have three different rows specified in our `grid-template-rows`. We have this set up because according to what we told our CSS, this grid has three rows.
-
-We also have three grid columns specified with fraction units.
-
-This is mimicked in our CSS property `grid-template-rows`:
-
-```css
-.containerGrid {
-  display: grid;
-  height: 500px;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-template-areas:
-    "topBar topBar topBar"
-     "leftSidebar rightContent rightContent"
-    "footerBar footerBar footerBar"
-    ;
-}
-.topBar {
-  grid-area: topBar;
-}
-
-.leftSidebar {
-  grid-area: leftSidebar;
-}
-
-.leftSidebar {
-  grid-area: leftSidebar;
-}
-
-.rightContent {
-  grid-area: rightContent;
-}
-
-.footerBar {
-  grid-area: footerBar;
-}
-
-```
 
 A real advantage of using `grid-template-areas` is that you can alter your HTML content without modifying the actual HTML file. `grid-template-areas` allow developers (and designers) to rearrange content for different devices in any way they see fit.
 
@@ -311,10 +269,7 @@ Do you want to switch two sections of content? Using CSS Grid, you can move your
 
 Grids can create this type of layout, even though the HTML in the footer is positioned at the bottom.
 
-:gem: **Designer Insight:** Before moving on to your demo, talk about how you (or TAs) have had to practice a lot with CSS Grids to get good---convey the idea that with practice, CSS Grids will feel second nature to students.
-
-Now, move on to your demo of `grid-template-areas`. It will prepare students for the following activity.
-
+## SLIDE 26
 ## 3. Instructor Do: grid-template-areas Demo (5 min)
 
 Now it's time for a demo.
@@ -361,6 +316,7 @@ Notice how our sidebar now takes up the place of the footer, and the footer is n
 
 Now that students have been introduced to the basic grid concepts, it's time to hone their skills with our introduction to grids activity.
 
+## SLIDE 27
 ## 4. Student Do: Get Used to Grid Activity (30 min)
 
 It's time for students to test out creating grid-based layouts for themselves.
@@ -402,6 +358,7 @@ If the first half of your students' sites look like the following image, then st
 
 Let's review the key concepts of grids to test for student competency.
 
+## SLIDE 28
 ## 5. Instructor Do: Get Used to Grid Activity Review (5 min)
 
 Call attention back to your screen and lead a review of the Get Used to Grid activity. Be sure to ask students what surprised them, confused them, and what they learned.
@@ -439,19 +396,14 @@ Common misconceptions and FAQs about how CSS Grids work:
 
 By now, students should have a fundamental concept of how grids work. Let's introduce a topic that is a bit more complex—positioning children inside grid containers responsively!
 
-## 6. Instructor Do: Grid Positioning (5 min)
+## SLIDE 29
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to show students the power of commands like **`align-items`** and **`justify-content`** when working within grid containers. This lecture ties into the second learning objective, which is for students to learn to position elements inside grids to create a layout.
-
-Now, teach students two additional grid properties by looking at how things align horizontally and vertically in a grid using `align-items`, and `justify-content`.
-
+## SLIDES 30-31
 `align-items` centers items horizontally.
-
 `justify-content` aligns items vertically.
 
 These properties greatly simplify front-end developers' workflow by giving them more control over the positioning of their child elements.
-
-Positioning in CSS Grids is very straightforward and very similar to positioning with flex.
 
 > :key: **Key Tech Note:** Just like in CSS Flexbox, there are two properties with CSS Grids that you can use to align the content inside of your grid automatically. The properties are `align-items` and `justify-content`.
 
@@ -467,10 +419,11 @@ There are several properties used to align the contents of a grid container.
 - `space-between`: Lines are evenly distributed in the container.
 - `space-evenly`: Lines are evenly distributed and centered inside the container.
 
-Aligning child elements of grids is an important part of today's lecture. Understanding this concept will significantly help students create responsive layouts without hassle.
 
-Let's move onto the next core concept---how to nest grids inside each other.
+## SLIDE 32
+Review
 
+## SLIDE 33
 ## 7. Instructor Do: Nesting CSS Grids (10 min)
 
 > :pushpin: **Important Point:** This section shows students how easy it is to nest a grid inside of another grid. This ties into the third learning objective, which is for students to learn to create a complex layout using nesting inside a grid.
@@ -487,10 +440,7 @@ You do this by declaring a child element of a grid container that its display is
 
 This means we can use nested grids to build complex layouts inside our main grids, making it possible to create our primary grid to contain the layout and the secondary grids to hold our content and position it accordingly.
 
-## 8. Instructor Do: Nesting Grids Demo (5 min)
-
-Now it's time for a demo.
-
+## SLIDE 34
 **TAs:** Slack out this CodePen file: [Nested Grids](https://codepen.io/2u-uxuxi-bootcamp/pen/gOmLqYZ).
 
 1. Open the CodePen file: [Nested Grids](https://codepen.io/2u-uxuxi-bootcamp/pen/abJBXby).
@@ -501,6 +451,7 @@ Now it's time for a demo.
 
 Now that students know how and why you would nest a grid inside another, it's time for an activity to reinforce the concepts.
 
+## SLIDE 35
 ## 9. Student Do: Oops, You Grid It Again Activity (30 min)
 
 **TAs:** Slack out the activity instructions: [18-Week/02-Activities/18.2/18.2-02-Oops](https://docs.google.com/document/d/1B_tOdRZuKtZzTIGBFHt84M4cmx3gzyU0aPjkxbwDTM0/).
@@ -529,6 +480,7 @@ By the end of the activity, students' work should look like the following image:
 
 By now, students should have a solid understanding of how grids work conceptually. Let's review some of the key concepts next.
 
+## SLIDE 36
 ## 10. Instructor Do: Oops You Grid It Again Activity Review (5 min)
 
 Check in with the class to see what went well and what didn't.
@@ -561,6 +513,7 @@ Discuss student experiences with this activity to provide them with actionable f
 
 It's time to take a break!
 
+## SLIDE 37
 ## 11. Break (10 min) 
 
 Brain breaks are an important part of the learning process, so take a break! Get up from your screen and relax, have a bite to eat, and drink some water.
@@ -569,19 +522,8 @@ Brain breaks are an important part of the learning process, so take a break! Get
 
 When we return, we'll recap key concepts before playing a web game to reinforce those concepts.
 
-## 12. Instructor Do: Review Key Grid Concepts (5 min)
-
-Before we move onto the Grid Garden web game, we should refresh student memory on some key grid concepts that will help students succeed during the activity.
-
-> :gem: **Designer Insight:** Reinforce the value of knowing how to work with CSS Grids by sharing that having the ability to code two-dimensional layouts expands the designs you can create.
-
+## SLIDE 38
 Some of the concepts covered when playing Grid Garden: placing items inside grid containers, using `align-items` and `justify-content` to place grid children inside their containers, and building unique layouts.
-
-**Review concepts.**
-
-> :globe_with_meridians: **Online Recommendation:** Have students engage by raising their hands to speak or addressing the following questions via Slack as you ask questions that tap into students' prior knowledge.
-
-**Ask:**
 
 - "What happens to the children of a parent container when you set it to `display: grid;`?"
 
@@ -591,10 +533,12 @@ Some of the concepts covered when playing Grid Garden: placing items inside grid
 
 	_`align-items` aligns grid children left-right; `justify-content` aligns items top-bottom. Yes. They can be used together to position children of grid containers responsively._
 
-**Say:** "There are many ways to control grid items. We will see a few more ways to get specific to the placement of grid children in the next activity."
+"There are many ways to control grid items. We will see a few more ways to get specific to the placement of grid children in the next activity."
 
-**Say:** "The makers of Flex Froggy also created a game for grids called [Grid Garden](https://cssgridgarden.com/)."
+## SLIDE 39
+"The makers of Flex Froggy also created a game for grids called [Grid Garden](https://cssgridgarden.com/)."
 
+## SLIDE 40
 ## 13. Student Do: Play Grid Garden Activity (15 min)
 
 - **TAs:** Slack out to students the [grid garden](https://cssgridgarden.com/) HTML game.
@@ -605,6 +549,7 @@ Some of the concepts covered when playing Grid Garden: placing items inside grid
 
 - Let students "play," taking this opportunity to shift gears from the complex layout they just built.
 
+## SLIDE 41
 ## 14. Instructor Do: Play Grid Garden Activity Review (5 min)
 
 Call attention back to your screen and lead a review of the Grid Garden game. Be sure to ask students what surprised them, confused them, and what they learned.
@@ -639,21 +584,17 @@ Now, take it one step further and ask the following specific questions:
 
 Students should now have a fundamental understanding of how grids work. Now it's time to introduce RWD and media queries.
 
-## 15. Instructor Do: Responsive Web Design and Media Queries (10 min)
+## SLIDE 42
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to show students the power of `align-items` and `justify-content` to center items inside grid containers. This ties into the final learning objective, which is for students to be able to write media queries and create a mobile breakpoint on a page.
-
-Now that students know how to lay out a page, it's time to discuss media queries and their role in RWD.
-
+## SLIDE 43
 > 💼 **Employer Competitive Note:** Mobile-first design principles are an industry standard for both developers and designers. All websites (and apps to a degree) are responsive in today's world. Media queries are the driving force behind responsive design, and having a working knowledge of how a media query works will make students better designers.
 
 Think back to Unit 11, where we discussed RWD, breakpoints, and how content gets chunked.
 
 Do you remember that during Unit 11, we designed responsive websites and discussed the concept of media queries during our government agency project? Now we're going to work in the code and practice the technical aspects of prototyping across screen widths.
 
-- Remind students that RWD is about designing content that works fluidly across different screen states: mobile, tablet, or phone.
-
-But how exactly *does* it work?
+RWD is about designing content that works fluidly across different screen states: mobile, tablet, or phone. But how exactly *does* it work?
 
 ### Media Queries
 
@@ -661,26 +602,24 @@ Media queries "check" the viewport size of your browser and adjust your CSS acco
 
 **Media queries** define how CSS styles are applied in relation to the characteristics of the device **viewport**. In layman's terms, media queries overwrite previously written CSS properties to alter our code to display correctly for different sizes. This could be a smartphone, tablet, or even a projector. Websites need to respond correctly to all device sizes.
 
-Call back to Unit 11 when we discussed RWD and designed our UIs to display for phones, tablets, and computers. Now we make our designs actually work in code.
-
 **TAs:** Take a moment and share the following resources with the class—they should read these resources after class tonight or if they get stuck when writing their own media queries:
 
   - [W3Schools - RWD Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
   - [W3Schools - Media Query Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp).
   - [Mozilla Developer Network - Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries).
 
+## SLIDE 44
+Review
+
+## SLIDE 45
 ### Viewport
 
 The viewport is the window of whatever device you are visiting the website on. This could be a tablet, cell phone, or desktop computer.
 
-- There are many possible resolutions that your website could respond to. Here are some examples of a few different device sizes:
+## SLIDE 46
+- There are many possible resolutions that your website could respond to. Here are some examples of a few different device sizes
 
-![device sizes](Images/device_sizes.png)
-
-### Media Query Syntax
-
-Let's break down the syntax of a media query for the class:
-
+## SLIDE 47
 ```css
 @media only screen { }
 ```
@@ -743,12 +682,19 @@ This code is checking for a browser width between 1024px and 1280px.
 
 There are many ways to write media queries, and we've only scratched the surface on how to write them.
 
+
+
+## SLIDES 48-51
+Review
+
+
 **TAs:** Slack out the following resource so students can see how many different ways there are to write media queries: 
 
  - [CSS Tricks Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/).
 
 It's time for students to make their furniture landing page responsive by writing breakpoints with CSS.
 
+## SLIDE 52
 ## 16. Student Do: Writing Custom Breakpoints Activity (15 min)
 
 **TAs:** Slack out the activity file [18-Week/02-Activities/18.2/18.2_03-Writing Custom Breakpoints](https://docs.google.com/document/d/1LbhGffNGb_raWN-lbNdj2FskahZbuYK1U03WsY83vqI/).
