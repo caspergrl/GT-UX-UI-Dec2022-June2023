@@ -280,12 +280,10 @@ To start using Flexbox, we can use the rule `display: flex` to transform any ele
 
 Any elements inside of a flex container are considered **flex items**. These will automatically align themselves in a responsive row.
 
+## SLIDE 36
 If we want a column instead of a row, we can add the `flex-direction` property. Note that `row` is the default value, so this is only necessary for flex columns.
 
-## 3. Instructor Do: Flex Containers and Flex-Direction Demo (5 min)
-
-> :pushpin: Your goal is to demonstrate how to apply flex styling to a container and use the `flex-direction` property. This demo supports learning objective No. 1: create CSS Flexbox containers and set them to display as a row or a column.
-
+## SLIDE 37
 1. Open the [demo in CodePen](https://codepen.io/2u-uxuxi-bootcamp/pen/bGqBZPv).
 
 	**Say:** "In this example, we have three child `div`s in one parent `div`. Let's see what happens when we add Flexbox."
@@ -308,6 +306,7 @@ If we want a column instead of a row, we can add the `flex-direction` property. 
 
 	The flex items display in a column, because we set `flex-direction` to `column`. Extra space is divided in the same way as before, only vertically.
 
+## SLIDE 38
 ## 4. Student Do: Your First CSS Flexbox Layout Activity (15 min)
 
 **TAs:** Slack out the following Activity file and review it with the class: [18-Week/02-Activities/18.1/18.1_01-Your-First-Flex-Layout](https://docs.google.com/document/u/1/d/11rafjCljboDVLhrT7XrIiFzMjueDqAPX4HlGYZMAHPI/).
@@ -336,6 +335,8 @@ _If you are not a skilled front-end developer:_ If a student asks you for help a
 
 Students will create two layouts: one layout will display a column, and the other will display a row.
 
+
+## SLIDE 39
 ## 5. Instructor Do: Your First CSS Flexbox Layout Activity Review (5 min)
 
 Bring everyone's attention back to your screen and lead a review of the activity.
@@ -371,40 +372,54 @@ Next, ensure that the concepts are sinking in with a review:
 
 	_One-dimensional layouts are referring to a layout that is either a column or a row._
 
-## 6. Instructor Do: Alignment With CSS Flexbox (5 min)
+## SLIDE 40
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to instill confidence in students about their ability to align and justify elements using CSS Flexbox. This part of the lecture supports learning objective No. 2: position CSS Flexbox items inside containers to create clean and fluid layouts.
-
-> 💼 **Employer Competitive Note:** In the UX/UI world, being able to tell the developers exactly what CSS properties you intend them to use to align content in your design will make you valuable because your ideas can be developed faster.
-
+## SLIDE 41
 Being able to align content in flex is one of the most attractive features of flexbox. We’ll discuss the following two CSS properties:
 
 - `align-items`
 
 - `justify-content`
 
+## SLIDE 42
+Review
+
+## SLIDE 43
 ### The `align-items` Property
 
 The `align-items` property defines the default behavior of flex items as they fill the container and specifies their layout within that container along the cross axis (top-bottom). The property aligns items vertically.
 
+## SLIDE 44
+Review
+
+## SLIDE 45
 The following values can be used with `align-items`:
 
 - `flex-start` aligns items at the beginning of the container (or top).
 
+## SLIDE 46
 - `flex-end` aligns items at the end of the container (bottom).
 
+## SLIDE 47
 - `center` centers content vertically in its parent container.
 
+## SLIDE 48
 - `baseline` aligns items so that their baselines align.
 
+## SLIDE 49
 - `stretch` items stretch to fill the container top-bottom or left-right.
 
-![align-items](Images/Align_Items.png "image_tooltip")
 
+## SLIDE 50
+Review
+
+## SLIDE 51
 ### The `justify-content` Property
 
 The CSS property `justify-content:` is used to distribute content across the left- and right-side of containers, very similar to `margin-left: auto`, or `margin: 0 auto;`.
 
+## SLIDE 52
 The following values can be used with `justify-content`:
 
 - `flex-start` flex items align at the start line (this is the default).
@@ -419,10 +434,11 @@ The following values can be used with `justify-content`:
 
 - `space-evenly` items are distributed so that the spacing between any two adjacent alignment subjects, before the first alignment subject, and after the last alignment subject, is the same.
 
-![justify-content](Images/Justify_Items.png "image_tooltip")
 
+## SLIDE 53
 > :key: **Key Tech Note:** You can use `align-items:` and `justify-content:` together to perfectly center items inside of flex containers. These two properties will automatically position items inside their parent container with no need to mess with media queries.
 
+## SLIDE 54
 ## 7. Student Do: Aligning CSS Flexbox Items Activity (15 min)
 
 **TAs,** Slack out the following file, and review the instructions with students: [18-Week/02-Activities/18.1/18.1_02-Aligning-Flex-Items](https://docs.google.com/document/d/1f3FKw-D7awDDZm93EuImavaOgX2axsskHsv1C1zQgGA/).
@@ -455,6 +471,7 @@ Monitor students' progress with your TAs and offer help where needed. Encourage 
 
 _If you aren't an experienced front-end developer:_ Feel free to lean on the solved activity file located in the Google Drive zip. Help students understand how their code is different from the solved file.
 
+## SLIDE 55
 ## 8. Instructor Do: Aligning CSS Flexbox Items Activity Review (5 min)
 
 Bring everyone's attention back to your screen and lead a review of the activity.
@@ -496,18 +513,8 @@ Complete the review by covering a few common misconceptions or FAQs about Flexbo
 
 > **Instructor Note:** Take questions.
 
-## 9. Instructor Do: Nesting CSS Flexbox Containers Demo (10 min)
 
-> :pushpin: **Important Point:** Your goal in this section is to explain the how and why of nesting flex containers inside one another. This part of the lecture supports learning objective No. 3: nest CSS Flexbox containers to control the elements contained inside them.
-
-Open the
-
-> **Instructor Note:** Flex nesting can be a bit confusing, because it combines a few concepts. Take some time to preface the demo with the following introduction. Reference the slides following the demo slide.
-
-Recall that **nesting** is the act of placing one element inside another. A nested element is the same as a child element. Nesting can is used to create more complex layouts.
-
-Nested flex containers are also flex items; this allow us to combine rows and column with different settings, opening up the possibility for two-dimensional layouts.
-
+## SLIDE 56
 1. Open the [demo in CodePen](https://codepen.io/2u-uxuxi-bootcamp/pen/QWpGoXB).
 
 	**Say:** "We are picking up from where we left off in the previous demo."
@@ -546,7 +553,13 @@ Nested flex containers are also flex items; this allow us to combine rows and co
 
 > :briefcase: **Employer Competitive Note:** Knowing how to "flex nest" allows you to create complex layouts more easily. Consider it another tool in your layout toolbox.
 
-> Instructor Note: Playing a game is a simple way to get students coding. During the following exercise, encourage students to have fun and research CSS properties they don't understand.
+## SLIDES 57-58
+Review
+
+## SLIDE 59
+Review
+
+## SLIDE 60
 
 ## 10. Student Do: Play CSS Flexbox Froggy Activity (15 min)
 
@@ -582,6 +595,7 @@ _If you are an experienced web developer:_ Keep an eye out for students who are 
 
 There are no deliverables for this assignment. Students should just work hard and have fun.
 
+## SLIDE 61
 ## 11. Instructor Do: Play CSS Flexbox Froggy Activity Review (5 min)
 
 Call attention back to your screen and lead a review of the concepts that students practiced while playing Flexbox Froggy.
@@ -604,16 +618,11 @@ Students will need actionable feedback that they can apply to their work. Make s
 1. When building nested CSS flex containers, try using `align-items` and `justify-content` to control the position of the nested flex containers.
 2. Students should annotate design files, planning which containers are going to be rows or columns. Pre-planning what HTML elements you'll build will save class time and frustration.
 
+## SLIDE 62
 ## 12. Break (15 min) 
 
-Brain breaks are an important part of the learning process, so take a break! Get up from your screen and relax, have a bite to eat, and drink some water.
 
-Don't stop sharing your screen. 
-
-Put up a Google or YouTube timer video. A visual timer will help get students back into the main Zoom room on time.
-
-When we come back, we'll build a basic CSS Flexbox layout.
-
+## SLIDE 63
 ## 13. Instructor Do: Introduce Jake's Eatery Activity (5 min)
 
 > :pushpin: **Important Point:** The goal of the following activity is to give students time to hone their skills and challenge themselves to create a real layout. Students must practice on their own without guidance when learning front-end development. Remember, it is not enough to just do one activity and think you have mastered the concept. This lecture supports learning objective No. 4: apply CSS Flexbox skills in a coding activity called Jake's Eatery.
