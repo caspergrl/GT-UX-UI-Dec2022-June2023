@@ -130,6 +130,9 @@ In 2013, Microsoft's Edge browser shipped its implementation of the CSS Grid. It
 
 CSS Grids are used to build two-dimensional layouts, meaning you can create full, complex designs as opposed to one-dimensional layouts, which are only left to right or top to bottom.
 
+Basically, Flexbox was designed for either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time - OUTSIDE of the HTML.
+
+
 **TAs:** share in Slack the following CSS Grid resources with the class. Tell students to review these after class tonight:
 
    - [W3Schools - Grid Documentation](https://www.w3schools.com/css/css_grid.asp)
@@ -149,7 +152,7 @@ Very similar to flex, converting an HTML element into a grid container is easy.
 Grid containers are any HTML element to which you apply `display: grid;`. Some CSS properties are used only on the grid container, such as `align-items` and `justify-content`.
 
 ## SLIDE 12
-Grid containers contain rows and columns of grid items
+Grid containers contain rows and columns of **grid items**
 
 ## SLIDE 13
 Review
@@ -176,14 +179,9 @@ You can specify widths for different looks. Below is an example of a two-column 
 ```
 > :key: **Key Tech Note:** Columns can be specified with pixels, fractions, units, or percentages.
 
-Below is an example of how to use `grid-template-columns` with a mix of pixels and percentages. We have a two-column grid that has a fixed column of 150px and a fluid column taking up 75% of its container.
+You can also mix pixels and percentages in `grid-template-columns`. This example could separately be a two-column grid that has a fixed column of 150px and a fluid column taking up 75% of its container.
 
-```css
-.containerGrid {
-  display: grid;
-  grid-template-columns: 150px 75%;
-}
-```
+
 ## SLIDE 16
 ### CSS Property: `grid-template-rows`
 
@@ -254,7 +252,7 @@ Sample fractional code:
 ## SLIDE 22
 ### CSS Property: `grid-template-areas`
 
-All the properties we just talked about are used to create templates, which are specified by `grid-template-areas`. Templates are used to display how your content lays out on the page.
+All of these properties are used to create templates, which are specified by `grid-template-areas`. Templates are used to display how your content lays out on the page.
 
 ## SLIDES 23-25
 `grid-template-areas` are easy to set up: all you need to do is create a class that targets any individual grid element.
