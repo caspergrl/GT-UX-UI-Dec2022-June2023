@@ -139,21 +139,11 @@ Review
 Review
 
 ## SLIDE 7
-- "Is there a difference between web animations and CSS animations?"
+Web animation and CSS animations are two terms that describe the same thing. Animations on the web are powered by CSS3 animation techniques.
 
-	_Web animation and CSS animations are two terms that describe the same thing. Animations on the web are powered by CSS3 animation techniques._
+CSS transforms, transitions, and keyframe animations offer a lightweight, easy way to create animations on websites.
 
-- "Why are CSS and web used interchangeably—are there subtle differences in meaning?"
-
-	_There is not a difference between the two terms. However, web animation is used to describe interactions and animations of websites when not speaking to developers._
-
-- "Why use CSS?"
-
-	_CSS transforms, transitions, and keyframe animations provide the only way to create animations on websites._
-
-- "Aren't there other ways to animate content on a webpage besides CSS?"
-
-	_Animations can also be created using JavaScript, but even JavaScript animations simply leverage CSS3 transforms, transitions, and keyframe animations in the background._
+Animations can also be created using JavaScript, but even JavaScript animations simply leverage CSS3 transforms, transitions, and keyframe animations in the background.
 
 
 ## SLIDE 8
@@ -171,7 +161,7 @@ There are two types of CSS transforms: 2D and 3D.
 2D transforms have many properties that you can leverage. We'll introduce these CSS properties to students now.
 
 ## SLIDE 10
-CSS transforms specify HOW an element is animated. CSS transitions will be introduced in Section 5. Transitions make animations smooth and visually pleasing.
+The CSS transform property specifies HOW an element is animated. CSS transitions (another CSS animation technique) makes animations smooth and visually pleasing.
 
 ## SLIDE 11
 Review
