@@ -125,10 +125,11 @@ Share today's objectives. By the end of class today, students will be able to:
 
 - Create JS Variables to store values and to be used in functions.
 
-## 2. Instructor Do: JavaScript Basics (10 min)
 
-> :pushpin: **Important Point:** Your goal for this section is to introduce students to JavaScript's absolute basics: the purpose of variables, functions, and JavaScript, itself.
+## SLIDES 1-7
+Review
 
+## SLIDE 8
 **JavaScript** is one of the three major programming languages of the modern web.
 
 JavaScript enables interactivity in webpages and is an essential part of web applications. The vast majority of websites use JavaScript in one way or another.
@@ -141,20 +142,31 @@ JavaScript enables interactivity in webpages and is an essential part of web app
 
 - JS is the nervous system. It receives signals, makes decisions, and tells the rest of the body how to move.
 
-> :key: **Key Tech Note:** JavaScript was created in 1995 to animate HTML elements. It is now used to power almost everything interactive on the web.
+JavaScript was created in 1995 to animate HTML elements. It is now used to power almost everything interactive on the web.
 
+
+## SLIDE 9
 JavaScript was written to manipulate the Document Object Model (DOM) dynamically on websites as users interact with content. Recall that the DOM represents an HTML document as a hierarchical list of nodes&mdash;JavaScript can target and modify these nodes. For our use case, the DOM is literally the HTML elements we create.
 
 In the simplest terms: JavaScript allows us to modify HTML elements.
 
-> :briefcase: **Employer Competitive Note:** As a UX/UI Designer, knowledge of the potential of JavaScript can have huge implications in building user experiences that have the behaviors you want. The expectation is not to be a JavaScript developer but rather understand what is and is not possible through your tech stack. A little knowledge goes a long way in communicating with developers.
+As a UX/UI Designer, knowledge of the potential of JavaScript can have huge implications in building user experiences that have the behaviors you want. The expectation is not to be a JavaScript developer but rather understand what is and is not possible through your tech stack. A little knowledge goes a long way in communicating with developers.
 
+## SLIDE 10
+The DOM is the representation of the objects making up the structure and content of a document on the web. In our case, the DOM is literally the HTML elements.
+
+
+## SLIDE 11
+Review
+
+## SLIDE 12
 ### JavaScript Variables
 
 The fundamental building block in JavaScript is a variable.
 
 JavaScript **variables** are containers for storing data values. These allow the code to "remember" information for later. Variables can store numbers, text, and even HTML elements. It can be useful to think of variables as the nouns of a programming language.
 
+## SLIDE 13
 Creating a variable follows a simple syntax with the same five parts every time:
 
 1. A **declaration** keyword. `var` (short for "variable") is the simplest.
@@ -169,18 +181,28 @@ Creating a variable follows a simple syntax with the same five parts every time:
 
 > :key: **Key Tech Note:** JavaScript is a "weakly typed" language, which means that a variable is a variable, no matter what kind of data it contains. In a "strongly typed" language, we would have to specify what kind of data is contained in each variable.
 
+
+## SLIDE 14
 Although a JavaScript variable can contain any kind of data, it is useful to categorize the three most common types of data:
 
 - **Strings** store text as a series of characters. String values must be surrounded by quotes.
 
+## SLIDE 15
 - **Numbers** store numerical data. We call whole numbers **integers**, and decimal numbers **floats**.
 
+
+## SLIDE 16
 - **Booleans** store a state: either `true` or `false`. These are useful for controlling UI states.
 
+## SLIDE 17
+Review
+
+## SLIDE 18
 ### JavaScript Statements
+JavaScript statements are the individual instructions that make up a script. These instructions are executed in order from top to bottom to accomplish a task.
 
-**Ask:** Now we know how to store data, but what can we do with it?
 
+## SLIDE 19
 JavaScript **statements** are the individual instructions that make up a script. These instructions are executed in order from top to bottom to accomplish a task.
 
 Statements are used to do everything in a program. They use an **operator** to relate two or more **values**. They can:
@@ -197,16 +219,24 @@ Statements are used to do everything in a program. They use an **operator** to r
 
 - modify the value of a variable
 
+## SLIDE 20
+Review
+
+## SLIDE 21
 ### JavaScript Functions
 
 A **function** is a bundle of statements designed to perform a particular task. Breaking scripts into functions allows us to organize and reuse our code.
 
+## SLIDE 22
 The code in a function runs when its name is called, followed by `();`.
 
 `console.log` is a commonly used function that shows a value in the developer console, which can be very useful while debugging! To provide a value, we can add text inside the parentheses.
 
+## SLIDE 23
 We can also write our own functions by using a function declaration. The `function` keyword is like the `var` keyword. Inside the parentheses, we can ask for arguments (like the text that `console.log` needs). Inside the curly braces, we can add as many statements as we need.
 
+
+## SLIDE 24
 ## 3. Student Do: Hello, World...Again! Activity (15 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.1/19.1-01-Hello World ... Again!](https://docs.google.com/document/d/1Z9g2hkH45KCBI_r5KAaeI4g7eb07Nsw09qy-vthr3OE/)
@@ -241,6 +271,7 @@ _Some common problems students may have:_
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 25
 ## 4. Instructor Do: Hello, World...Again! Activity Review (5 min)
 
 > :globe_with_meridians: **Online Recommendation:**
@@ -293,11 +324,9 @@ Take a moment to give students a sense of some common misconceptions or FAQs abo
 
 Now that students are up to speed on JavaScript basics, it's time to learn more about variables and how to use them with functions.
 
+
+## SLIDE 26
 ## 5. Instructor Do: JavaScript Variables in Practice Demo (10 min)
-
-Now that you've told students in words that variables can be combined into a superpower, it's time to _show_ them with a demo.
-
-**Say:** Let me demonstrate a few different ways that variables can be used.
 
 **Give a demo of a variety of variables.**
 
@@ -374,6 +403,8 @@ console.log(madlib);
 
 Next, it's time for students to test out what variables can do for them in the upcoming activity.
 
+
+## SLIDE 27
 ## 6. Student Do: Understanding JavaScript Variables Activity (10 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.1/19.1-02-Understanding Variables](https://docs.google.com/document/d/1EssG8IrPRJSM7MljRIMWBDc4EUMrc7qCDQoAUynLZrw/).
@@ -398,6 +429,7 @@ As your students work on this activity, monitor their work with the TAs. Be on t
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 28
 ## 7. Instructor Do: Understanding JavaScript Variables Activity Review (5 min)
 
 Review how the activity went.
@@ -436,18 +468,17 @@ Take a moment to give students a sense of some common misconceptions or FAQs abo
 
 This wraps up the JavaScript refresher portion of today's class. It's now time for a break.
 
+## SLIDE 29
 ## 8. Break (10 min)
 
-Take a break. What students are learning is hard. Recommend that students get up from their computers, walk around their homes, and reenergize themselves for the second half of class.
 
-Let the class know that you'll introduce event listeners after the break and summarize how jQuery is used.
+## SLIDE 30
+Review
 
-> globe_with_meridians: **Online Recommendation:**: Don't stop sharing your screen! Put up a Google or YouTube timer video. A visual timer will help get students back into the main Zoom room on time.
+## SLIDE 31
+Review
 
-## 9. Instructor Do: jQuery Basics (5 min)
-
-> :pushpin: **Important Point:** Your goal for this section is to give students a basic understanding of how jQuery programs are written and how they are used to manipulate the DOM. This lecture prepares students for today's second learning objective, to run prebuilt jQuery functions on HTML elements.
-
+## SLIDE 32
 ### What is jQuery?
 
 **jQuery is simplified JavaScript.**
@@ -456,14 +487,20 @@ Recall how JavaScript functions automate specific tasks by bundling statements.
 
 jQuery is a whole library of functions designed specifically to simplify common front-end development tasks.
 
+## SLIDE 33
 **Ask:** Why did we learn about JavaScript is jQuery is easier?
 
 _We learned about JavaScript first because the fundamentals (**variables**, **statements**, and **functions**) are still in play._
 
 **jQuery** is a JavaScript **library** (bundle of functions) that makes front end development easier by providing solutions for common problems.
 
+## SLIDE 34
 In short, jQuery is a **"write less, do more"** JavaScript library.
 
+## SLIDE 35
+Review
+
+## SLIDE 36
 ### Using jQuery
 
 To start using jQuery, we must import it from the jQuery website in a `script` tag.
@@ -474,11 +511,13 @@ To start using jQuery, we must import it from the jQuery website in a `script` t
 
 > :key: **Key Tech Note:** This type of import uses a Content Delivery Network (CDN). Another option is to download the library and import it like any other JavaScript. Using a CDN comes with several benefits, including lower latency and simpler updates. However, using a CDN also means relying on the jQuery servers&mdash;if they go down, your site stops working.
 
+## SLIDE 37
 Most tasks in jQuery follow three steps:
 
 1. First, the `$` function is used to find an HTML element. This function is the "query" is jQuery&mdash;it scans the DOM for an element that matches that CSS selector.
 
-1. Next, an the `on` function is used to specify when the rest of the code should execute. This is called an **event listener**, because it listens for an event.
+## SLIDE 38
+2. Next, an the `on` function is used to specify when the rest of the code should execute. This is called an **event listener**, because it listens for an event.
 
 	The `on` function takes two arguments. The first is the name of an event, and the second is a JavaScript function that will run when the event occurs.
 
@@ -490,17 +529,21 @@ Most tasks in jQuery follow three steps:
 	
 	**Say:** The function executes when a user clicks on the button.
 
-1. Finally, any number of jQuery functions can be used inside the function to make things happen. In this example, we use the `toggle` function, which toggles the visibility of an element.
+## SLIDE 39
+3. Finally, any number of jQuery functions can be used inside the function to make things happen. In this example, we use the `toggle` function, which toggles the visibility of an element.
 
 	**Ask:** What happens when a user clicks on the button?
 
 	_`#light` has its visibility toggled._
 
 	Recall that any number of statements can be used inside of a function. They can be either plain JavaScript or jQuery.
+	
+## SLIDE 40
+Review
 
+
+## SLIDE 41
 ## 10. Instructor Do: jQuery Toggle Demo (10 min)
-
-> :pushpin: **Important Point:** Your goal is to 
 
 ### Part 1: jQuery Toggle
 
@@ -549,6 +592,7 @@ Most tasks in jQuery follow three steps:
 >
 > - Ask the class to use the Zoom meeting reactions found in the Meeting Controls panel at the bottom of the Zoom window to use the thumbs up 👍 or clap 👏 emojis if they're feeling comfortable and confident with the material you've covered so far.
 
+## SLIDE 42
 ## 11. Student Do: Using jQuery Activity (15 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.1/19.1-03-Using jQuery](https://docs.google.com/document/u/1/d/15h3ADntTm6dfxj2KBrNT2sZFvdTKT0qVCHSK16cVlRw/).
@@ -581,6 +625,7 @@ Monitor students with your TAs and offer help where needed. Encourage students t
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 43
 ## 12. Instructor Do: Using jQuery Activity Review (5 min)
 
 Call students' attention back to your screen to engage them in a discussion of the concepts they just put into practice.
@@ -618,52 +663,33 @@ Take a moment to give students a sense of some common misconceptions or FAQs abo
 
 Now that you have reviewed the fundamentals of jQuery, move on to introduce event listeners to the class.
 
-## 13. Instructor Do: jQuery Event Listeners (10 min)
 
-> :pushpin: **Important Point:** **Important Point:** Your goal for this section is for students to understand what an event listener does, when it's used, and its value to a web developer's toolkit. This lecture ties into the third learning objective of the day, which is for students to code an event listener that animates when triggered.
+## SLIDE 44
+Review
 
-Here you will explain what event listeners are, their role, and why they're important.
+## SLIDE 45
+Review
 
-> :briefcase: **Employer Competitive Note:** What better way for students to know what kind of interactions they can design than by working with the technology behind creating interaction on UIs? Having a working knowledge of event listeners outlines the boundaries for designing any kind of interaction on a website or app.
-
-### jQuery Event Listeners
-
-**Ask:** "What is an event listener?"
-
+## SLIDE 46
 An event listener is a function. It is a block of code that performs tasks that it was programmed to perform. Its job is to wait, then react.
 
 What makes this type of function special is that it waits for specific user events to occur before it runs the code. It "listens" for its moment of action. For example, say a user clicks a button—you would use an event listener to listen for a “click” event on a specific button.
 
-Use an analogy: Ask students if they've ever seen a coin-operated machine, like a kiddie ride at a fair, a player piano, or even a car wash. Those are much like event listeners, ready to do their thing—follow specific instructions they're programmed to follow—but just waiting to be triggered to do so.
+Ever seen a coin-operated machine, like a kiddie ride at a fair, a player piano, or even a car wash? Those are much like event listeners, ready to do their thing—follow specific instructions they're programmed to follow—but just waiting to be triggered to do so.
 
-> **Ask:** "Who can come up with a few additional examples of things in the physical world that behave like event listeners?"
-
-> :globe_with_meridians: **Online Recommendation:** Instead of switching to Zoom gallery view, have students share their answers in the Zoom chat or Slack so they can refer to your shared screen to answer these questions.
-
+## SLIDE 47
 You are using JavaScript building blocks to understand the basics of creating event listeners that run jQuery functions on elements that you specify. Why? You need to use variables inside of our event listener to build interaction. Event listeners are also a type of function. Understanding how functions work helps you to understand what happens when you trigger an event listener.
 
-> :gem: **Designer Insight:** Share your experience with event listeners and their role in a designer's toolkit.
->
-> - Alternatively, invite a TA to share. 
-
-**Event listeners must be triggered.**
-
-Many UI animations and interactions trigger off of something else when a specific action is taken.
-
-> :key: **Key Tech Note:** Examples of event listener triggers: the user clicks a button, scrolls to a certain point on the page, or progresses to the next part of a form.
-
-> **Ask:** "Are you wondering what I'm wondering? How do you program specifically for these use cases?"
-
-### Event Listener Syntax
+Event listeners must be triggered. Examples of event listener triggers: the user clicks a button, scrolls to a certain point on the page, or progresses to the next part of a form.
 
 Let's take a look at modern syntax for a jQuery event listener.
 
 ```html
 <div class="button">Click me!</div>
 ```
-
 This div has the class of button. This comes into play when writing event listeners.
 
+## SLIDE 48
 And now for the JavaScript portion.
 
 This is the first jQuery code that we'll encounter.
@@ -676,42 +702,44 @@ $( ".button" ).on( "click", function() {
 });
 ```
 
+## SLIDE 49
 Let's break this down, piece by piece.
 
-1. `$`
+`$`
 
 	- (the dollar sign) is an alias or shorthand for the jQuery function. Without one of the two before your statement, you can't use jQuery functions in your code.
 
+## SLIDE 50
 	- You could also write out "jQuery" in place of the `$`, and it will work the same.
 
-1. `( ".button" )
+## SLIDE 51
+`( ".button" )
 
 	- is jQuery's way of selecting which element you are targeting. Notice anything familiar about the syntax? Any way you target elements in CSS, you can target in jQuery with the same syntax. For example, if this element had an ID of button, we could target it with `(".button")`.
 
-1. `.on( "click", function() {}`
+## SLIDE 52
+`.on( "click", function() {}`
 
 	- This piece of code is saying that when you click an element with the class of button (we specified this earlier), then run the code between the two curly braces {}.
 
 > **Instructor Note:** There are many different types of event listeners: _Ask your TAs to Slack out this link for students to use as a reference for the different types of event listeners that students can program_: [Event Listeners List](https://api.jquery.com/category/events/).
 
-1. `console.log("Hey a click occurred!")`
+## SLIDE 53
+`console.log("Hey a click occurred!")`
 
 
 	- This is the code that is executed when we click something with the name of `.button`.
 
-1. `});`
+## SLIDE 54
+
+`});`
 
 	- These are the closing brackets from the function we wrote earlier. In our text editor, if you click behind the } or ), the opening tag will be underlined.
 
-There are many different types of event listeners.
-
-
 **TAs:** Slack out this link for students to use as a reference for the different types of event listeners that students can use: [Event Listeners List](https://api.jquery.com/category/events/).
 
-Now it's time for students to put the event listener concept into practice on their own with an activity.
 
-> **Say:** "Now you get to create an event listener—it's called the `.click `method."
-
+## SLIDE 55
 ## 14. Student Do: .on Function Activity (20 min)
 
 > :globe_with_meridians: **Online Recommendation:**
@@ -748,6 +776,7 @@ Monitor students with your TAs and offer help where needed.
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 56
 ## 15. Instructor Do: .on Function Activity Review (5 min)
 
 Call students' attention back to your screen to engage them in a discussion of the concepts they just put into practice.
@@ -787,27 +816,22 @@ Take a moment to give students a sense of some common misconceptions or FAQs abo
 
 Now that students have had some time to review event listeners, move on to a lecture about jQuery's prebuilt functions, and how to use them.
 
-## 16. Instructor Do: Prebuilt jQuery Functions (5 min)
 
-> :pushpin: **Important Point:** **Important Point:** Your goal is for students to grasp the power of jQuery prebuilt functions, understand their utility, and continue to appreciate how much time jQuery saves designers from writing JavaScript. 
+## SLIDE 57
+Review
 
-Here you will get students excited about the time-saving helpers that are prebuilt functions for jQuery. 
-
+## SLIDE 58
 Prebuilt functions have value to front-end web developers on the job because they're reliable, robust, and quick to implement.
 
 - Reliable because they have been thoroughly tested and documented, with examples of how they work online.
 - Robust because they are flexible. Some functions have multiple use cases depending on how you use them.
 - Quick to implement because all you have to do is apply them to an HTML element, and the effect will run when you load your page.
 
-> :briefcase: **Employer Competitive Note:** Web developers appreciate jQuery because it reduces their coding time and debugging time, too.
+
+## SLIDE 59
+Web developers appreciate jQuery because it reduces their coding time and debugging time, too.
 
 Prebuilt functions in jQuery solve common problems on the web (drop-downs, hiding, and unhiding elements, for example). In the past, you would have to build these interactions yourself, and they often required in-depth knowledge of JavaScript to pull off. However, with jQuery, they are as easy to implement as adding a prebuilt function to the end of a jQuery selector.
-
-Remind students that they are joining a group of millions of developers using these tools—they are part of a big community.
-
->:gem: **Designer Insight:** Weave in your own professional opinion about how much time you've saved on client work thanks to jQuery.
->
->- Alternatively, ask a TA to share.
 
 jQuery comes with many prebuilt functions, some of which you just tested out. jQuery solves common JavaScript uses with their functions. The most popular functions solve problems that many developers have already faced, such as toggling classes, creating HTML elements, or updating the content of an HTML element.
 
@@ -846,10 +870,9 @@ jQuery functions:
 
 One of the most useful functions of jQuery is that it takes things that are difficult to create in pure JavaScript and makes it as easy as targeting specific selectors and running the function.
 
-> **Say:** "The only way to experience the usefulness of functions is to explore them yourself—which is what we will be doing next."
 
-Now give students a chance to integrate what they've learned by trying it for themselves in the following toggle building activity.
 
+## SLIDE 60
 ## 17. Student Do: Build a Toggle Activity (35 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.1/19.01-05-Build a Toggle](https://docs.google.com/document/u/1/d/1QjIHPGCxu1BNk-5gKVSHE_mgefJqsZgBlyzyb9WbRWg/).
@@ -880,6 +903,7 @@ Monitor students with your TAs and offer help where needed. Encourage students t
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 61
 ## 18. Instructor Do: Build a Toggle Activity Review (5 min)
 
 > :globe_with_meridians: **Online Recommendation:**
