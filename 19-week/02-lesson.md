@@ -121,31 +121,32 @@ Connect today's lesson to students' previous UX/UI learning. As users interact w
 
 > :pushpin: **Important Point:** The goals of this section are for students to understand the definition of `if else` statements, be able to recognize them, and get how they work. This ties into the first learning objective of the day, which is for students to write conditional JavaScript statements.
 
+
+## SLIDES 1-5
+Review
+
+## SLIDE 6
 **Conditional logic** determines an output based on one or more inputs. That is, it does something different for each possible condition.
 
+
+## SLIDE 7
 A condition is always either `true` or `false`. This kind of value is known as a **boolean**. It can be helpful to think of booleans in terms of a true/false quiz. The answer is always one or the other, and never anything in-between.
 
 > :key: **Key Tech Note:** Booleans are named for the scientist who invented Boolean Logic. This kind of logic predates computers by a century!
 
 Booleans allow for more complex scripts than those that rely on event listeners alone. Recall that event listeners wait for one specific trigger&mdash;with booleans, entirely different sets of statements and functions can be run based on whether boolean values are `true` or `false`.
 
-> :gem: **Designer Insight:** Briefly describe the logic of a UI or other program you have worked on&mdash;what were the conditions you have to keep track of?
-
 > :briefcase: **Employer Competitive Note:** Boolean logic is present in every programming language, so learning to think in terms of `true` and `false` is essential for all careers involving software.
 
+
+## SLIDE 8
 ### `if else` Conditional Statements
 
+
+## SLIDE 9
 `if else` statements help your program "choose" which code to run.
 
 For example, consider Google Maps. First, the software calculates the best route and displays it. It continuously checks to ensure that the best route is being used.
-
-**Ask:**
-
-- "What happens if you stay on the best route?"
-
-- "What happens otherwise?"
-
-> **Instructor Note:** As you proceed through the `if else` Syntax section, pause at every example to ask the class what will be logged to the console. If students get an answer wrong, spend some time clarifying the result before moving on.
 
 An `if` block is made of three parts:
 
@@ -155,16 +156,24 @@ An `if` block is made of three parts:
 
 - statements inside of curly braces
 
+## SLIDE 10
 The statements inside an `if` block run if the condition is `true`.
 
+## SLIDE 11
 The statement inside an `else` block run if the condition from the previous `if` block is `false`. In an `if else` chain, only one of the two blocks will be allowed to run; they are mutually exclusive.
 
 It is rarely useful to actually type `true` or `false` as the condition of an `if` block. Checking a variable is better, because the "truthiness" of the variable can change.
 
 > :key: **Key Tech Note:** In JavaScript, "truthiness" refers to whether a value is considered `true` or `false`. More advanced developers can take advantage of the fact that positive numbers and full strings are "truthy," which zero and empty strings are "not truthy."
 
-### Conditional Operators
+## SLIDE 12
+Review
 
+## SLIDE 13
+Review
+
+
+## SLIDE 14
 **Comparison operators** are used to get boolean values by comparing two values.
 
 For example, 100 is greater than 10, so the comparison `100 > 10` becomes the boolean value `true`.
@@ -183,18 +192,20 @@ The following 5 comparisons are the most common:
 
 > **Instructor Note:** Continue to pause at every example to ask the class what will be logged to the console. If students get an answer wrong, spend some time clarifying the result before moving on.
 
+## SLIDE 15
 Instead of using a boolean value, it is possible to substitute a comparison. `myNumber > 10` will resolve to `true` if `myNumber` is greater than 10.
 
+
+## SLIDE 16
 Because comparison operators open up more complex logic, `if else` chains can be more than two blocks long. `else if` blocks can be used between the first `if` block and the final `else` block.
 
+## SLIDE 17
 Lastly, it is often more useful to compare two variables, as opposed to one variable and one value.
 
-> :key: **Key Tech Note:** Comparing a variable directly to a value is known as "hard-coding" the value, because the threshold is written directly into the logic statement. "Hard-coding" is generally considered a bad practice, because it is easier to change variables at the top of a script than to find and replace every instance of a number or string.
+Comparing a variable directly to a value is known as "hard-coding" the value, because the threshold is written directly into the logic statement. "Hard-coding" is generally considered a bad practice, because it is easier to change variables at the top of a script than to find and replace every instance of a number or string.
 
+## SLIDE 18
 ## 3. Instructor Do: Conditionals and `this` Demo (5 min)
-
-> :pushpin: **Important Point:** Your goal is to demonstrate the use case for conditionals, as well as show how to use the keyword `this` effectively.
-
 1. Open the [CodePen demo](https://codepen.io/2u-uxuxi-bootcamp/pen/MWpbxML).
 
 	> **Instructor Note:** Only the JavaScript panel will be necessary in this demo. Minimize the HTML and CSS panels to make the code easier to read.
@@ -290,6 +301,7 @@ Lastly, it is often more useful to compare two variables, as opposed to one vari
 
 > **Instructor Note:** Take questions. This is a challenging moment for many students, so encourage the class by reminding them that mastering conditionals opens up infinite possibilities&mdash;most intermediate programs can be written using only `if else` blocks!
 
+## SLIDE 19
 ## 4. Student Do: Writing jQuery Conditionals Activity (25 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.2/19.2_1 - Writing jQuery Conditionals](https://docs.google.com/document/d/1AoEkz0rb6nsO-_PEIhFFpIxzNhK0nN9Pvq3hUSqWNzY/).
@@ -336,6 +348,7 @@ Some common problems students may have:
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 20
 ## 5. Instructor Do: Writing jQuery Conditionals Activity Review (5 min)
 
 > :globe_with_meridians: **Online Recommendation:** Since students can’t physically come to the front of the class to demonstrate, ask students to share their screen instead. ***Remind the student sharing their screen to mute notifications and close any screens that may contain private information before sharing.***
@@ -373,6 +386,7 @@ Wrap up the conversation by pointing out a couple of your observations about `if
 
 Next, switch gears and move on to a demo of debugging with Chrome's Web Inspector tool.
 
+## SLIDE 21
 ## 6. Instructor Do: Debugging With Chrome's Web Inspector Demo (10 min)
 
 > :pushpin: **Important Point:** **Important Point:** The goal of this debugging demo is for students to get accustomed to seeing errors, or bugs, and understand that debugging is a part of coding. This ties into the learning objective on using Chrome's Web Inspector for debugging.
@@ -391,19 +405,6 @@ Before you do the demo, give students a 101 on debugging with Chrome's Web Inspe
 Knowing how to use Chrome's Web Inspector tool and debug code puts students at a career advantage. Take a moment to connect this skill to working with design teams in the professional world.
 
 > :briefcase: **Employer Competitive Note:** Debugging with Chrome's Web Inspector will help UI designers communicate with developers. It's much more convincing in giving the developer an idea of what went wrong when you can point out the line the error occurred in the UI you have designed. Students will also be able to double-check the product they designed to make sure everything is working appropriately.
-
-Debugging is an essential skill for UX developers. Why? It means that when they find something that isn’t working with their code, they can look under the hood to see why. If you can’t debug your code, you’re not coding.
-
-For example: Would you submit a book you wrote to be published without sending it first to an editor? The same concept applies---you wouldn't push any code live without first debugging it.
-
-There are six stages to debugging for new front-end developers:
-
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does this happen?
-5. Oh, I see.
-6. How did that ever work?
 
 **"Part of learning how to be an effective developer is learning how to debug your own code."**
 
@@ -459,22 +460,33 @@ We will experience this by debugging a file to make it work correctly.
 -	Stop sharing your screen for a moment and switch to gallery view in Zoom to see your class on one screen. 
 -	Ask the class to use the Zoom meeting reactions found in the Meeting Controls panel at the bottom of the Zoom window to use the thumbs up 👍 or clap 👏 emojis if they're feeling comfortable and confident with the material you've covered so far.
 
-Now it's time for students (and you) to take a brief break.
 
+
+
+## SLIDE 22
+Debugging is an essential skill for UX developers. Why? It means that when they find something that isn’t working with their code, they can look under the hood to see why. If you can’t debug your code, you’re not coding.
+
+For example: Would you submit a book you wrote to be published without sending it first to an editor? The same concept applies---you wouldn't push any code live without first debugging it.
+
+There are six stages to debugging for new front-end developers:
+
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does this happen?
+5. Oh, I see.
+6. How did that ever work?
+
+## SLIDE 23
 ## 7. Break (10 min)
 
-Take a break. Brain breaks are an important part of the learning process, so take a break! Get up from your screen and relax, have a bite to eat, and drink some water.
+## SLIDE 24
+Review
 
-> globe_with_meridians: **Online Recommendation:**: Don't stop sharing your screen! Put up a Google or YouTube timer video. A visual timer will help get students back into the main Zoom room on time.
-
-Let students know that after the break, they'll learn about use cases for conditional statements to get an idea of what to use when.
-
-## 8. Instructor Do: Practical Conditionals (10 min)
-
-> :pushpin: **Important Point:** The goal of this section is to discuss how logical operators can be used in combination with conditional operators to create complex conditional statements
-
+## SLIDE 25
 Recall that comparison operators are used to get `true` or `false` by comparing two values.
 
+## SLIDE 26
 Similarly, **logical operators** are used to get `true` or `false` by combining two booleans.
 
 The following 3 combinations are the most common:
@@ -485,22 +497,23 @@ The following 3 combinations are the most common:
 | `A || B` | A is `true` or B is `true` |
 | `!A` | A is `false` |
 
-> :key: **Key Tech Note:** The keywords `and`, `or`, and `not` are also valid JavaScript. It is rare to see these in the real world, as most experienced developers are used to reading the symbolic operators. However, there is an argument to be made that using these words makes code easier to read. Ultimately, it is best just to be consistent.
+The keywords `and`, `or`, and `not` are also valid JavaScript. It is rare to see these in the real world, as most experienced developers are used to reading the symbolic operators. However, there is an argument to be made that using these words makes code easier to read. Ultimately, it is best just to be consistent.
 
-> **Instructor Note:** Continue to pause at every example to ask the class what will be logged to the console. If students get an answer wrong, spend some time clarifying the result before moving on.
-
+## SLIDE 27
 Logical operators can be used to check multiple conditions in one statement. Using `&&` is an alternative to using two separate, nested `if` statements.
 
+## SLIDE 28
 Logical operators can be used alongside comparison operators.
 
+## SLIDE 29
 Logic can be combined and grouped, much like mathematical equations. This should be used somewhat sparingly, as logical expressions can quickly become entangled and difficult to read.
 
-> :key: **Key Tech Note:** As a rule of thumb, many developers recommend cutting a statement into multiple lines if it is longer than 72 characters. This helps to keep logic succinct and prevents readers from having to scroll horizontally.
+As a rule of thumb, many developers recommend cutting a statement into multiple lines if it is longer than 72 characters. This helps to keep logic succinct and prevents readers from having to scroll horizontally.
 
-> :briefcase: **Employer Competitive Note:** When writing conditionals, UX designers will find options for almost any kind of interaction a user can have when working with a website or app. Knowing the limitations of conditional statements allows for students to be code conversational and map out in their flowcharts and wireframes how the developer team should build out the UI the student designs.
+When writing conditionals, UX designers will find options for almost any kind of interaction a user can have when working with a website or app. Knowing the limitations of conditional statements allows for students to be code conversational and map out in their flowcharts and wireframes how the developer team should build out the UI the student designs.
 
-> :gem: **Designer Insight:** Share an example of a complex user flow that would require many logical operators.
 
+## SLIDE 30
 ## 9. Student Do: Conditional Clicks Activity (25 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.2/19.2-0X-Conditional Clicks](https://docs.google.com/document/u/1/d/1-fVmWt1Sw9CBn7wzsNpbs8GY5gRTD6XAjxLjyBU7vCQ/).
@@ -537,6 +550,7 @@ Some common problems students may have:
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 31
 ## 10. Instructor Do: Conditional Clicks Activity Review (5 min)
 
 Call attention back to the class and engage students in a discussion of the conditionals activity they just completed.
@@ -577,35 +591,14 @@ Take a moment to give students a sense of some common misconceptions or FAQs abo
 
 There's one more activity in today's lesson and you're going to introduce that next.
 
-## 11. Instructor Do: Introduce the To-do App Activity (5 min)
 
-> :pushpin: **Important Point:** **Important Point:** Your goal is to introduce the final activity for the day: building a To-do App using jQuery event listeners and conditional statements. This final activity supports the final learning objective, which is for students to create a working To-do App using the conditional logic principles they've learned today.
+## SLIDE 32
+Review
 
-Your purpose here is to reassure students that creating UI elements that users interact with is the only way to really understand how jQuery and conditionals work. You must apply the skills by building UI elements, as each UI element will be built differently.
+## SLIDES 33-36
+Review
 
-> :gem: **Designer Insight:** Share with the class how gratifying it is to build simple UI elements from the inside-out for users.
->
-> - Alternatively, ask a TA who uses JavaScript and jQuery to share their experience with creating simple apps.
-
-Take a moment to make this relevant and connect the value of knowing how to build a To-do App with job competitiveness and careers in UX/UI design.
-
-> :briefcase: **Employer Competitive Note:** Building fully functional features is essential for students to become code conversational. Having the ability to code complete UI elements will increase the student's knowledge of designing realistic UI systems.
-
-**Say:** "The next activity is meant to reinforce all the concepts you learned in class today and from Lesson 19.1. Remember, practice makes perfect!"
-
-Students will be creating a UI element—their very own **To-do App** using the jQuery skills they learned in lessons 19.1 and 19.2.
-
-The To-do App will have three features:
-
-1. The ability to create tasks that need to be done.
-    *Students will use an event listener to append tasks to HTML elements when creating tasks.*
-2. The ability to check tasks off as done.
-    *Students will create an event listener that listens to the document body and removes the element clicked using "this."*
-3. The ability to delete tasks.
-    *Lastly, students will create an `if else` statement that adds and removes classes based on how a user interacts with their app.*
-
-**Say:** "If you don't fully understand how jQuery works, that's OK! It takes time to master any front-end development language."
-
+## SLIDE 37
 ## 12. Student Do: Build a To-do App Activity (40 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.2_03 - To Do App](https://docs.google.com/document/d/1BrS7PalsVtJtrQptU4NC5iu7n8aXlq7PAZ_lPmDmBn0/).
@@ -640,6 +633,7 @@ Some common problems students might have:
 
 Students should submit a project with an `index.html` file and an `index.js` file.
 
+## SLIDE 38
 ## 13. Instructor Do: Build a To-do App Activity Review and Recap (15 min)
 
 Call the class back to attention and initiate a review conversation.
