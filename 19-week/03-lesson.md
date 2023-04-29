@@ -157,50 +157,43 @@ In each of the three activities, students will add interactivity to a a prebuilt
 
 After these activities, there will be extra time to work on homework or continue adding animations.
 
-## 2. Instructor Do: jQuery Accordion (5 min)
 
-> :pushpin: **Important Point:** Your goal in this section is to explain the value of animated accordion elements on a website for generating interactivity and engagement among users. This lecture supports the first learning objective of the day, to code an accordion element that toggles classes on sibling elements using jQuery functions.
 
-> :briefcase: **Employer Competitive Note:** Accordions are common UI elements that students will design for clients or bosses. Having created one will help students understand the technology that powers these UI elements and help them design accordingly.
+## SLIDE 1-3
+Review
 
->:gem: **Designer Insight**: Ask a TA to share how they utilize accordion elements in their design work. This will help students appreciate the utility of accordion elements!
+## SLIDES 4-6
+Review
 
-Accordion elements are animated components that boost interactivity for the user, help to connect UX/UI ideas to front-end development work, and make coding a bit more exciting for students.
+## SLIDE 7
+Review
 
-> **Say:*** "We use accordions to chunk content and make it easier for users to find the content they're looking for. *What other uses might an accordion have?*"
-
-> **Instructor Note:** The question should stimulate conversation. Students might reply with the following: 
->
-> "You could find an accordion in navigation menus in the form of drop-downs, complex forms for selecting options, or simply in a UI to showcase related features of a product."
-
-Today, you'll share several scenarios to engage your students and build their excitement for revamping the UX and creating a real UI interaction. The first scenario follows.
-
-### jQuery Accordion
-
-The website already has an accordion built in, but there are many items inside of it, making data hard to find when all the tabs are open.
-
-An **accordion** is a design pattern that hides content, often with a header. When the header is clicked, the content that is hidden inside it expands to show the related content.
-
+## SLIDE 8
 Accordions are common UI elements that are used to chunk content. Accordions feel more reactive to our users and create a better UX by showing them the contents of only the tab they clicked. Users will no longer have to scroll through tons of content if they opened each tab.
+
+"We use accordions to chunk content and make it easier for users to find the content they're looking for. *What other uses might an accordion have?*"
 
 To trigger complex animations in JavaScript, you'll need to know how to target other HTML elements that are part of the same organism.
 
-### Accordion Examples
+## SLIDE 9
+Review
 
+## SLIDE 10
+Review
+
+## SLIDE 11
 Accordions can have several use cases. Depending on the UI element we are creating the accordion on, the look and feel of the accordion can vary. Let's show a few examples to the class.
 
 **Navbars:** Accordions are sometimes seen in navigation to condense complex navigation to be more digestible. This technique can also be applied to group elements in a drop-down menu or sidebar with content that relates to each other.
 
 ![Accordion Example 1](Images/accordion_example1.gif)
 
+
+## SLIDE 12
 **Search forms:** For complex search forms with multiple parameters, an accordion could be implemented to condense our form and allow our users to add specifics based on types. Take a look at the following example of a search form used for finding different styles of clothes.
 
-![Accordion Example 2](Images/accordion_example2.gif)
 
-> **Instructor Note:** Pause and ask students if there are any questions.
-
-Next, you'll give students an opportunity to try their hand at creating accordion elements with an activity.
-
+## SLIDE 13
 ## 3. Student Do: jQuery Smart Accordion Activity (30 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.3/19.3-01-jQuery-smart-accordion](https://docs.google.com/document/d/1Vt0SYu9AVgbPfLrT6aIEzq5Pp8sRYm2-KK484EyJ2uM/).
@@ -243,6 +236,7 @@ When students are finished, they should have a working accordion on their site.
 
 Before we move on, let's take a moment and discuss the smart accordion activity that we just completed.
 
+## SLIDE 14
 ## 4. Instructor Do: jQuery Smart Accordion Activity Review (5 min)
 
 Call attention back to your screen and lead a review of the activity.
@@ -263,36 +257,11 @@ Share some common misconceptions or FAQs about building accordions. For example:
 
 Next, move on to introducing animated drop-downs menus in your next lecture.
 
-## 5. Instructor Do: Animated jQuery Drop-Down Menu (5 min)
 
-> :pushpin: **Important Point:** Your goal in this section is to get students excited about drop-down menus in preparation for creating their own. This lecture prepares students to execute on the second learning objective for today, to create an animated drop-down search field element.
+## SLIDE 15
+Review
 
-Start by getting students to think about the possible uses for drop-down menus and what makes them engaging for users. 
-
-**Ask:** "Can you think of a recent interaction you've had with a drop-down menu in real life?"
-
-They likely interacted with one in the last 24 hours! 
-
-> globe_with_meridians: **Online Recommendation:**: Have students engage by raising their hands to speak or addressing the above question via Slack.
-
-A **drop-down menu** is a graphical control element, similar to a list box, that allows the user to choose one value from a list.
-
-> :key: **Key Tech Note:** A drop-down menu is also called a drop-down, drop-down list, drop menu, pull-down list, or picklist.
-
-> **Instructor Note:** Be sure to wait 15 to 30 seconds for students to respond.
-
-> **Ask:**
->
-> - "How might an animated drop-down simplify navigation?"
-
-	_Navigation elements can be long, depending on how many pages and subpages you have. An animated drop-down menu can hide a large navigation element that uses the whole screen when toggled._
-
-- "Could we make our interface more icon-based with animated menus? How?"
-
-	_Think Instagram or Facebook. For example, their navigation is almost entirely icon-based. (This question is meant to stimulate conversation in the class and you can use these examples to get students' minds working if your class is shy.)_
-
-> :briefcase: **Employer Competitive Note:** Drop-down menus are UI elements that use both jQuery and event listeners to build a UI element. Actually, building a drop-down menu will help designers to understand the limitations of code and design work.
-
+## SLIDE 16
 ### Complex Animations Scenario
 
 Our users stated that our navigation bar was too cluttered. In response to this feedback, we trimmed down our navigation by condensing our search bar.
@@ -301,43 +270,19 @@ But users still need to use it!
 
 The solution is to create an animation from our navbar that displays our search form.
 
-### Drop-Down Menu Examples
 
-Navigation bars that animate are extremely common in the UX world because they add a real level of excitement to our UIs. They also allow companies to have a large complex website but still have users able to navigate it. They're often created to condense our UI to make navigation elements more obvious. For example, take a look at a major website like [amazon.com](https://www.amazon.com).
+## SLIDE 17
+Navigation menus that animate are extremely common in the UX world because they add a real level of excitement to our UIs. They also allow companies to have a large complex website but still have users able to navigate it. They're often created to condense our UI to make navigation elements more obvious. For example, take a look at a major website like [amazon.com](https://www.amazon.com).
 
 - Animated navigation bars allow designers to create more specific or complex navigation menus that have the bonus of feeling interactive.
 
 - Elements that users interact with are becoming the norm because websites are being designed and developed to be more fluid and interactive, like phone apps. Take a look at [pandora.com](https://www.pandora.com) as an example of a modern web app.
 
-As UX designers, this provides us the opportunity to chunk content more intentionally.
 
-- Think back to atomic design in Unit 10.2 and creating interactive components that are _fun_ to use.
+## SLIDES 18-20
+Review
 
-- **Atomic design:** Remember from the UI units: Atomic design encompasses atoms, molecules, organisms, templates, and pages concurrently working together to create effective interface design systems. Atomic design is not a linear process, but rather a mental model to help us think of our user interfaces as both a cohesive whole and a collection of parts at the same time. Atomic design started as a way to maintain code systems.
-
-- There are many examples of animated search bars on the web that reveal content. For example:
-
-
-  - Share this resource with the class and show off a couple of examples to help get the creative juices flowing.
-
-Let’s take a look at Eleven Mirrors. Notice how much content is displayed in the navigation?
-
-![Eleven Mirrors Example](Images/eleven_mirrors.gif)
-
-Maybe your navigation creates an experience?
-
-- Take a look at this example from the MTS Agency.
-
-![MTS_agency.gif](Images/MTS_agency.gif)
-
-- These designs are built by experienced designers. We want students to see how they could design a drop-down menu to create a great UX.
-
-> **Instructor Note:** Field questions.
-
-> :globe_with_meridians: **Online Recommendation:** Address any questions that were posted to Slack. You can also ask TAs to field questions on Slack. 
-
-Now it's time for students to create drop-down menus on their own in the following activity.
-
+## SLIDE 21
 ## 6. Student Do: Create a jQuery Drop-Down Menu Activity (30 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.3/19.3-02-jQuery-Drop-Down-Search](https://docs.google.com/document/u/1/d/1ulsMzr76XwPvmdbEcNeeT0b0odz8SRnsU8klutxa4Gw/).
@@ -377,6 +322,7 @@ The deliverable is a working drop-down menu that toggles from the search button.
 
 Creating a drop-down menu is easier than it looks. Let's discuss as a class their experience building a drop-down menu.
 
+## SLIDE 22
 ## 7. Instructor Do: Create a jQuery Drop-Down Menu Activity Review (5 min)
 
 Call the class back to attention and lead a review of the activity.
@@ -403,91 +349,38 @@ Share some common misconceptions or FAQs about drop-downs. For example:
 
 Next, it's time for everyone to take a break. 
 
+## SLIDE 23
 ## 8. Break (15 min)
 
-Invite the class to take a mental break for a moment—breaks are an important part of learning!
+## SLIDE 24
+Review
 
-> :globe_with_meridians: **Online Recommendation:** Don't stop sharing your screen! Put up a Google or YouTube timer video. A visual timer will help get students back into the main Zoom room on time.
-
-Let students know that when they return, they'll learn how to animate preloaders.
-
-Enjoy the break!
-
-## 9. Instructor Do: jQuery Preloader (5 min)
-
-> :pushpin: **Important Point:** Your goal in this section is to prepare students for creating their own preloaders. Generate a lot of enthusiasm about their usefulness. This lecture supports the third and fourth learning objectives, to create a preloader and to trigger animations with a `setTimeout()` function.
+## SLIDE 25
 
 Understanding jQuery tools like preloaders are part of the students' conversation skills. Take a moment to connect this skill to working with design teams in the professional world:
 
 A preloader is a simple UI element that has multiple use cases. When students build their own preloaders, they'll understand how and why they would use one in their design work.
 
-> :briefcase: **Employer Competitive Note:**  As a UX/UI designer, you can include code experiments like preloaders as ways to improve a user experience to moments in your portfolios.
+As a UX/UI designer, you can include code experiments like preloaders as ways to improve a user experience to moments in your portfolios.
 
-Now, jump into the heart of the lecture by giving students a user-focused explanation of preloaders.
+## SLIDE 26
+Review
 
+## SLIDE 27
 **Preloaders** are UI elements that serve as a visual to hide slow-loading content or that let the users know there is data transfer happening before displaying the result.
 
-> :gem: **Designer Insight**: As a UX designer, you have probably seen preloaders before. Where did you see them and what did they do? Did you see them on a mobile app or a well-known website?
 
 - **TAs:** Slack out this link of complex sites that need preloaders: [Loading Page Animations](https://www.awwwards.com/awwwards/collections/loading-page/).
   - *Ask students to* bookmark or check out some of the different loading pages.
 
-### Complex Animations Scenario 
 
-Our site is loading slowly due to uncompressed images and high-volume content displaying on our website.
+## SLIDE 28
+Review
 
-Perhaps our site is a parallax site that loads slowly due to all of the animated elements. Parallax scrolling is notorious for this, as it forces our browser to "repaint" our HTML with our CSS whenever you scroll.
+## SLIDES 29-30
+Review
 
-You discuss this with your bosses and they simply CANNOT cut any of the content because they say "it's all relevant" and believe it's absolutely needed on the site (a common work scenario).
-
-The solution? Hide our slow-loading content behind a preloader.
-
-> **Instructor Note:** Ask students if they have questions about the scenario, conflict, or solution.
->
-> - Students might ask about the following:
-
-The preloader's different use cases:
-
-- Loading animations.
-- Waiting for a response from a server (think loading search results).
-- Refreshing content on a page (like Reddit).
-
-What might be slowing down a user's site to the point of needing a preloader:
-
-- Uncompressed images.
-- Complex animations meant to serve as an experience.
-- The use of videos with large file sizes.
-
-### Preloader Examples
-
-Open the awwwards link showcasing different preloaders on loading pages: [Awwwards loading pages](https://www.awwwards.com/awwwards/collections/loading-page/).
-
-Preloaders are also used to show progress on buttons.
-
-- For example, how do you know the system is processing your action in the back end?
-
-  ![preloader](Images/button_preloader.gif)
-
-Below is a real example from Reddit’s mobile app.
-
-![Reddit preloader](Images/reddit_gif.gif)
-
-Preloaders are a simple UI animation that can be easily applied to other UI elements.
-
-### How to Build a Preloader
-
-Follow these steps to build this activity's preloader:
-
-1. Start with an image.
-2. Rotate it using keyframe animations.
-3. Use the jQuery function `fadeOut()` combined with `setTimeout()` to make the preloader go away.
-
-The best way to understand this concept? Try it yourself!
-
-> **Instructor Note:** Take questions. 
-
-Now it's time for the final activity of the day, which also completes the mini-project. Students will add an animated preloader element to their site.
-
+## SLIDE 31
 ## 10. Student Do: jQuery Preloader Activity (30 min)
 
 **TAs:** Slack out the activity file: [19-Week/02-Activities/19.3/19.3-03-jQuery-Preloader](https://docs.google.com/document/d/1_OXWpZ28rOEmEmFUExtx0DPPhf5tkckzH-yrZamGJ9E/).
@@ -524,6 +417,7 @@ Some common problems students might have:
 
 ![preloader gif](Images/preloader_gif.gif)
 
+## SLIDE 32
 ## 11. Instructor Do: jQuery Preloader Activity Review (5 min)
 
 Call the class back to attention and lead a discussion and review of the preloader activity.
@@ -551,6 +445,7 @@ Share some common misconceptions or FAQs about preloaders. For example:
 
 Next, you'll give students time to work on their challenge assignment. 
 
+## SLIDE 33
 ## 12. Student Do: Working Session (35 min)
 
 > **Instructor Note:** The rest of class is a working session for students to make progress on their challenge or redo the in-class activities for practice.
