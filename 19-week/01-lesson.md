@@ -186,14 +186,16 @@ Creating a variable follows a simple syntax with the same five parts every time:
 Although a JavaScript variable can contain any kind of data, it is useful to categorize the three most common types of data:
 
 - **Strings** store text as a series of characters. String values must be surrounded by quotes.
+- Ex: When you enter your name into a form, that's a string.
 
 ## SLIDE 15
 - **Numbers** store numerical data. We call whole numbers **integers**, and decimal numbers **floats**.
-
+- Ex: When you enter your phone # into a form, that's a number.
 
 ## SLIDE 16
 - **Booleans** store a state: either `true` or `false`. These are useful for controlling UI states.
-
+- - Ex: Password correct or no?
+- 
 ## SLIDE 17
 Review
 
