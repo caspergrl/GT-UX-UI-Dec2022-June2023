@@ -128,11 +128,13 @@ Review
 ## SLIDE 6
 **Conditional logic** determines an output based on one or more inputs. That is, it does something different for each possible condition.
 
+Another way of stating this is that conditional statements control behavior in JavaScript and determine whether or not pieces of code can run.
+
 
 ## SLIDE 7
 A condition is always either `true` or `false`. This kind of value is known as a **boolean**. It can be helpful to think of booleans in terms of a true/false quiz. The answer is always one or the other, and never anything in-between.
 
-> :key: **Key Tech Note:** Booleans are named for the scientist who invented Boolean Logic. This kind of logic predates computers by a century!
+Booleans are named for the scientist who invented Boolean Logic. This kind of logic predates computers by a century!
 
 Booleans allow for more complex scripts than those that rely on event listeners alone. Recall that event listeners wait for one specific trigger&mdash;with booleans, entirely different sets of statements and functions can be run based on whether boolean values are `true` or `false`.
 
@@ -148,6 +150,7 @@ Booleans allow for more complex scripts than those that rely on event listeners 
 
 For example, consider Google Maps. First, the software calculates the best route and displays it. It continuously checks to ensure that the best route is being used.
 
+## SLIDE 10
 An `if` block is made of three parts:
 
 - the `if` keyword
@@ -156,15 +159,25 @@ An `if` block is made of three parts:
 
 - statements inside of curly braces
 
-## SLIDE 10
+- “If” statements: if a condition is true it is used to initiate a block of code.
+
+- “Else” statements: where if the same condition is false then it runs the code.
+
+- “Else if” statements: specifies a new test if the first condition is false.
+
 The statements inside an `if` block run if the condition is `true`.
+
+As the most common type of conditional, the **if** statement only runs if the condition enclosed in parentheses () is truthy.
+
+In JavaScript, a truthy value is a value that is considered true when encountered in a Boolean context. All values are truthy unless they are defined as falsy. That is, all values are truthy except false, 0, -0, 0n, "", null, undefined, and NaN.
+
 
 ## SLIDE 11
 The statement inside an `else` block run if the condition from the previous `if` block is `false`. In an `if else` chain, only one of the two blocks will be allowed to run; they are mutually exclusive.
 
 It is rarely useful to actually type `true` or `false` as the condition of an `if` block. Checking a variable is better, because the "truthiness" of the variable can change.
 
-> :key: **Key Tech Note:** In JavaScript, "truthiness" refers to whether a value is considered `true` or `false`. More advanced developers can take advantage of the fact that positive numbers and full strings are "truthy," which zero and empty strings are "not truthy."
+Just a reminder, in JS "truthiness" refers to whether a value is considered `true` or `false`. More advanced developers can take advantage of the fact that positive numbers and full strings are "truthy," which zero and empty strings are "not truthy."
 
 ## SLIDE 12
 Review
@@ -190,7 +203,6 @@ The following 5 comparisons are the most common:
 | `A >= B` | A is greater than or equal to B |
 | `A <= B` | A is less than or equal to B |
 
-> **Instructor Note:** Continue to pause at every example to ask the class what will be logged to the console. If students get an answer wrong, spend some time clarifying the result before moving on.
 
 ## SLIDE 15
 Instead of using a boolean value, it is possible to substitute a comparison. `myNumber > 10` will resolve to `true` if `myNumber` is greater than 10.
