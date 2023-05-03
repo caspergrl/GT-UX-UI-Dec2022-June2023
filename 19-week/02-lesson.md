@@ -161,9 +161,10 @@ An `if` block is made of three parts:
 
 - “If” statements: if a condition is true it is used to initiate a block of code.
 
-- “Else” statements: where if the same condition is false then it runs the code.
+- “Else” statements: run where if the first and any following conditions are false.
 
-- “Else if” statements: specifies a new test if the first condition is false.
+- “Else if” statements: specifies a new test if the first condition is false. (We don't really get into this level in this class)
+
 
 The statements inside an `if` block run if the condition is `true`.
 
