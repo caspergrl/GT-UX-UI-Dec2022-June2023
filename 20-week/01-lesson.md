@@ -149,7 +149,9 @@ Get started by introducing the class to Bootstrap 4.
 
 > 📌 The goal of this section is to introduce students to the concept of CDNs and Bootstrap 4 in particular. This lecture and the demo that follows will prepare students to tackle today's first and second learning objectives, linking Bootstrap 4 to an HTML page through a CDN and being able to explain how the Bootstrap 4 CDN saves developers time during the web development process.
 
-> :briefcase: **Employer Competitive Note:** Bootstrap 4 is used to create front-end prototypes rapidly. Bootstrap is a common framework in the professional world of web development. This framework enables students to create designs that use both Bootstrap 4 components and the responsive col class system.
+
+
+Bootstrap 4 is used to create front-end prototypes rapidly. Bootstrap is a common framework in the professional world of web development. This framework enables students to create designs that use both Bootstrap 4 components and the responsive col class system.
 
 Tie what students have learned about UX/UI in this boot camp to what they're learning today. For example:
 
@@ -157,18 +159,28 @@ Tie what students have learned about UX/UI in this boot camp to what they're lea
 
 - In Unit 10.3, students learned about components and multistate elements, both of which are used in Bootstrap, further speeding the development of front-end prototypes.
 
-**Bootstrap** is an open-source front-end UI framework for developing front-end websites with HTML, CSS, and JavaScript. With Bootstrap, developers can prototype ideas quickly or build entire apps with Bootstrap’s responsive grid system, prebuilt components, and plugins built on jQuery, creating fully responsive templates.
+## SLIDES 1-11
+Review
 
+## SLIDE 12
+**Bootstrap** is an open-source front-end UI framework for developing front-end websites with HTML, CSS, and JavaScript. 
+
+## SLIDE 13
+With Bootstrap, developers can prototype ideas quickly or build entire apps with Bootstrap’s responsive grid system, prebuilt components, and plugins built on jQuery, creating fully responsive templates.
+
+## SLIDE 14
 ### What's a Framework?
 
+## SLIDE 15
 A **framework** is a codebase written to simplify common problems in a programming language.
 
-Compare a framework to a collection of tools. If you were a carpenter, you would have a set of specialized tools used to speed your carpentry work. A framework is the same—tools designed to solve a specific problem. For example, with Bootstrap 4, developers can create responsive websites with literally zero CSS (it has already been written; the developer just has to leverage it). The developer's tools would be the components and responsive column system speeding the workflow.
+We can compare a framework to a collection of tools. If you were a carpenter, you would have a set of specialized tools used to speed your carpentry work. A framework is the same—tools designed to solve a specific problem. For example, with Bootstrap 4, developers can create responsive websites with literally zero CSS (it has already been written; the developer just has to leverage it). The developer's tools would be the components and responsive column system speeding the workflow.
 
 Software frameworks are written so developers can focus on meeting deadlines rather than re-creating common system processes. Why reinvent the wheel when the problem has already been solved multiple times by other devs?
 
 Frameworks are hosted on CDNs, which we'll define in a moment. First, let's discuss the pros and cons of a framework.
 
+## SLIDE 16
 ### Using Frameworks: Pros and Cons
 
 Pros:
@@ -181,6 +193,7 @@ Cons:
 - Lock development teams into a codebase
 - Harder to customize and refactor code
 
+## SLIDE 17
 ### Front-End Frameworks
 
 There are many types of front-end frameworks. Bootstrap is the most popular, which is why we teach it in this class.
@@ -194,40 +207,26 @@ There are many types of front-end frameworks. Bootstrap is the most popular, whi
 - [ZURB Foundation](https://foundation.zurb.com/)
 - [Pure CSS](https://purecss.io/)
 
-> :gem: **Designer Insight:** Take a moment to share an anecdote about how you began using Bootstrap in your own work.
->
-> - Alternatively, invite a TA to share.
-
-### Why Use Bootstrap 4?
-
-**Say:** "Many companies look for Bootstrap as a skill in front-end development positions."
-
-> Instructor Note: Demonstrate the demand for this skill by searching for "Bootstrap" in any job engine (e.g., indeed.com, upwork.com, simplyhired.com, or linkedin.com/jobs).
-
+## SLIDE 18
 **Reason 1:** Bootstrap 4 has been the most popular CSS framework on the web since its inception in 2011. According to builtwith.com, Bootstrap 4 runs on about 20+ million websites. Students can see for themselves (and share with the class): [Twitter Bootstrap 4 Usage Statistics](https://trends.builtwith.com/docinfo/Twitter-Bootstrap). Once Bootstrap 4 is active, you can simply copy snippets from the documentation to save yourself the time it takes to create elements from scratch!
 
+## SLIDE 19
 **Reason 2:** Bootstrap 4 is mobile-responsive by default with its custom columns system. This means that your website will automatically look great when viewed on screens ranging from monitors to tablets to phones.
 
+## SLIDE 20
 **Reason 3:** Bootstrap 4 has many features and is easy to use. Familiarize yourself with the UI features Bootstrap offers by reading the [Bootstrap 4 documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/). Also, once Bootstrap is active, you can simply copy snippets from the documentation to save yourself the time it takes to create elements from scratch!
 
 **TAs:** Slack out Bootstrap 4's documentation with the class: [Bootstrap 4 documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/).
 
-### Bootstrap 4 Knowledge Makes You More Employable.
+## SLIDE 21
+Review
 
-> :briefcase: **Employer Competitive Note:** Tell students that many companies look for Bootstrap 4 as a skill in front-end development positions, as many website are built using this framework.
-
-If you Google search front-end development jobs, you’ll see Bootstrap 4 listed in the more competitive fields, which is why it is such a desirable skill.
-
-> Instructor Note: Illustrate this point by searching for Bootstrap 4 in any job engine.
-
-Bootstrap 4 dramatically reduces the time it takes for developers to create front-end interfaces. Companies often request Bootstrap 4 for front-end development and UX positions.
-
-> :key: **Key Tech Point:** Bootstrap was developed in 2011 by Twitter developers Mark Otto and Jacob Thornton.
-
+## SLIDE 22
 ### What is a CDN?
 
 Bootstrap 4 (and frameworks in general) are hosted on a CDN (a.k.a. framework or library). Many of today’s most popular and powerful web technologies are frameworks built for developers by developers to speed their workflows.
 
+## SLIDE 23
 CDNs are servers (or data centers) that publicly host files that contain code.
 
 To conceptually understand what a CDN is, use an analogy:
@@ -240,50 +239,16 @@ Why that's helpful to us: As long as your site is connected to the internet, you
 
 - **TAs:** share this link by Cloudflare: [What is a CDN?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 
-> Instructor Note: Students can open the link or follow along with you on the big screen.
-
 > :key: **Key Tech Note:** Bootstrap 4's website is a CDN. CDN stylesheets are publicly accessible over the internet and free to use! Take, for example, node.js, Bootstrap 4, or react.js—all are frameworks that save developers time by adding functions that solve common problems on the web.
 
 **Instructors:** Open up the following link in front of the class showcasing a Bootstrap 4 CSS file hosted on Bootstrap 4's CDN: [Bootstrap 4 CDN](https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.css).
 
-> Instructor Note: This is the same CSS file we import into our HTML files that allow us to use Bootstrap 4 on our own sites.
 
-Scroll down the page so students get the picture of how much work went into this file.
+## SLIDE 24
+Review
 
-**Say:** "CDNs give us access to this entire CSS file, saving us a lot of time and hard work. Would you want to write all of that by yourself? I wouldn't."
-
-Now that we know what a CDN is, show students how one works in the following demo.
-
-> Instructor Note: Pause and check in with students for questions.
-
+## SLIDE 25
 ## 3. Instructor Do: Bootstrap 4 Components Demo (5 min)
-
-> 📌 Your goal for this demo is to quickly familiarize students with Bootstrap documentation and help students get started with prebuilt code.
-
-> :globe_with_meridians: **Online Recommendation**: Navigate away from the slideshow for this demonstration. If you shared your entire desktop, make sure to open your files on that shared desktop. If you shared a single window, be sure to re-share your screen to capture the appropriate window or desktop. Remember to narrate what you are doing during transitions and demonstrations. In this instance, you might say: “I’m now going to switch from the slideshow to another tab so I can demonstrate variables.”
-
-Demo the Bootstrap 4 components.
-
-Convey to students that Bootstrap is "easy" to work with. It's easy to copy a Bootstrap 4 component into your website, and, once you link to Bootstrap 4 using a link tag, you're free to copy and paste these elements into your project.
-
-> :globe_with_meridians: **Online Recommendation** Since you’ll be sharing your screen for this demonstration, ask students to use the raise hands feature on Zoom to ask questions. At a good breaking point, call on a specific student to unmute and ask their question. Alternatively, you can ask students to share their questions in the Zoom chat or Slack and have the TA provide answers.
-
-Bootstrap 4 components are pre-written pieces of HTML, CSS, and JavaScript that have been designed to be copied and pasted into your code and then customized. Components speed development time by giving you responsive UI elements that you are then free to customize.
-
-Let students know you'll show them Bootstrap 4 CDN's prebuilt components, which are publicly available on the internet. These prebuilt components are HTML, CSS, and JavaScript/jQuery code (for animated components) that have already been written for you.
-
-Assure students that accessing these components is just like linking to an external CSS file. Bootstrap 4 CDN works the same way and only the code files are hosted from the CDN network rather than your website's root folder.
-
-Students just need to copy the HTML that is needed to load these prebuilt components for them.
-
-Occasionally, students will need to use jQuery components. Three script tags must be included for these components to work properly.
-
-You can find them at [https://getbootstrap.com](https://getbootstrap.com/docs/4.4/getting-started/introduction/).
-
-![Script tags](Images/js_script_tags.png)
-
-Point out how, with Bootstrap 4 components, a front-end developer can build a responsive, well-structured template in less than an hour. With the extra time, a developer can customize their template and make it look professional.
-
 ### Demo Instructions
 
 1. Download and open the instructor demo file located at [20-Week/05-Instructor Resources/20.1_Demo_Files/1_Jumbotron](https://drive.google.com/drive/u/1/folders/1nkNMqu7nZvGSYuflnVK1Ix3Me__e7VX2).
@@ -316,6 +281,8 @@ Point out how, with Bootstrap 4 components, a front-end developer can build a re
 
 We’ve covered the concept of Bootstrap 4 components. Hopefully, students now appreciate how easy and effective this content management tool is. Next, they get to apply it themselves with a hands-on Bootstrap 4 activity.
 
+
+## SLIDE 26
 ## 4. Student Do: Getting Started With Bootstrap 4 Activity (5 min)
 
 > :globe_with_meridians: **Online Recommendation:** This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -348,6 +315,7 @@ Students might encounter the following common problems:
 
 A webpage with a basic jumbotron component will display on the screen.
 
+## SLIDE 27
 ## 5. Instructor Do: Getting Started With Bootstrap 4 Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: Since students can’t physically come to the front of the class to demonstrate, stop sharing your screen and ask a student to share their screen instead. Once they are finished, ask them to stop sharing so you can reshare your screen.
@@ -386,42 +354,35 @@ Take a moment to give students a sense of some common misconceptions or FAQs abo
 
 Let's move on, build on our knowledge, and add another Bootstrap component to a webpage: a navbar.
 
-## 6. Instructor Do: Bootstrap 4 Navigation Bars (5 min)
+## SLIDE 28
+Review
 
-> 📌 Your goal for this section is to explain Bootstrap's prebuilt navigation components. By the end of this section, students should feel like they're becoming more familiar with Bootstrap's website and catalog of components.
-
+## SLIDE 29
 A **prebuilt navigation component** is a navbar (the layout depends on the navbar you use) that comes with prebuilt functionality. Prebuilt navigation components will be responsive and have drop-down menus already coded. All you need to do is style your navbar to make it your own.
 
-Navbars are essential; they're literally on every webpage in some way, shape, or form. For example:
+Navbars are essential; they're literally on every webpage in some way, shape, or form. 
+
+## SLIDE 30
+For example:
 
 1. On a shopping website, the navbar may have two or three main menus and more depth, with sub-menus, such as those on Ikea's website. Ikea's site has two top-level navbars, one for general customer service topics and a second one for sale items and new offers.
+
+## SLIDE 31
 2. On a personal website, the navigation might be a horizontal bar across the top of the page, showing About, Shop, Blog, and Work With Me.
+
+## SLIDE 32
 3. On mobile, the navbar is a hamburger menu.
 
 Adding a navbar to a template is necessary for a site to be fully functioning. Without navigation, users will view your website as a landing page.
 
-> :gem: **Designer Insight**: Share about the ease with which you've used Bootstrap to craft a nav menu, whether for your own site or a client's.
+Building a custom navbar into your website is a time-consuming process. There are so many HTML elements to build and style, and that is not even counting making it responsive. With Bootstrap 4, all you need to do is remove elements you don't need.
 
-:key: **Key Tech Note:** Building a custom navbar into your website is a time-consuming process. There are so many HTML elements to build and style, and that is not even counting making it responsive. With Bootstrap 4, all you need to do is remove elements you don't need.
+## SLIDE 33
+Review
 
-How Bootstrap saves time:
-1. Bootstrap 4 is responsive. You no longer have to create your own breakpoints and styles for these breakpoints—they have already been created. You can control the responsive layout with Bootstrap 4's col class system.
-2. Bootstrap components all have prebuilt functionality. You don't have to code the interactions for each component. Simply tweak the design of your components and that's it!
-3. You can build a complete website using Bootstrap 4 components. The developers of Bootstrap have already coded all the components you could ever use and it's based on design trends. Do you need to add cards to your site? Bootstrap has a component just for that purpose.
 
-> Instructor Note: Take any questions about using Bootstrap to create navigation menus before moving on.
-
-Seeing is believing—show students how to use Bootstrap to create navigation elements on a page in the following demo.
-
+## SLIDE 34
 ## 7. Instructor Do: Navigation Bars Demo (5 min)
-
-> 📌 Your goal for this demo is to quickly familiarize students with Bootstrap documentation and help students apply navigation bars.
-
-> :globe_with_meridians: **Online Recommendation**: Navigate away from the slideshow for this demonstration. If you shared your entire desktop, make sure to open your files on that shared desktop. If you shared a single window, be sure to re-share your screen to capture the appropriate window or desktop.
-
-Remember to narrate what you are doing during transitions and demonstrations. In this instance, you might say:
-“I’m now going to switch from the slideshow to another tab so I can demonstrate jQuery and JavaScript toggles.”
-
 In this demo, show students how to add a navbar to a template.
 
 1. Download and Open the instructor demo file located at [20-Week/05-Instructor Resources/20.1_Demo_Files/2_Navigation](https://drive.google.com/drive/u/1/folders/1JTUuVwQ_V-63wXYfru_AWiVFg2J1SHIE).
@@ -445,6 +406,7 @@ Students will explore navbar components in the next activity.
 
 Now it is the students' turn to add a navbar to a template in the following activity.
 
+## SLIDES 35-36
 ## 8. Student Do: Add a Navigation Bar Activity (10 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -479,6 +441,7 @@ Students might encounter the following common problems:
 
 A webpage with a basic navigation component will display on the screen.
 
+## SLIDE 37
 ## 9. Instructor Do: Add a Navigation Bar Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: Since students can’t physically come to the front of the class to demonstrate, stop sharing your screen and ask a student to share their screen instead. Once they are finished, ask them to stop sharing so you can reshare your screen.
@@ -508,12 +471,14 @@ Share some common misconceptions or FAQs about working with Bootstrap components
 
 Next, we'll add responsive containers and rows to fill with content.
 
-## 10. Instructor Do: Grid Design With Bootstrap 4 (5 min)
 
-> 📌 The goal of this section is to introduce students to Bootstrap's responsive class system. By the end of this section, students should understand how to build the structure for our responsive Bootstrap 4 classes.
+## SLIDE 38
+Review
 
-Understanding how containers and rows work in Bootstrap 4 is an essential skill that students should learn from this class. Understanding how to work with the two different containers will help students build responsive classes with the proper HTML structure. Bootstrap 4 requires rows to be wrapped inside of our containers in order to make their content responsive.
+## SLIDES 39-40
+Review
 
+## SLIDE 41
 The **responsive column system** (`col` class system) is a series of classes that you can add to any HTML element to make it respond to different viewports based on the classes you write.
 
 The responsive column system has three parts:
@@ -521,19 +486,11 @@ The responsive column system has three parts:
 2. Rows that are used to separate rows of content within containers
 3. The Bootstrap 4 classes that are applied to HTML elements to define how our layout responds to different viewports (screen widths)
 
-Now, introduce the concept of two prewritten Bootstrap 4 classes: the container and the row. Prewritten classes are literally HTML classes that are already responsive. All you have to do is apply them to any HTML element wrapped inside of a row and a container.
-
-Up to this point in the lecture, we have constructed a Bootstrap 4 template using components in the activities, but to take our templates to the next level, we need to be able to add rows of our own content that are responsive.
 
 **TAs:** share the following Bootstrap Adobe XD template with students: [Bootstrap XD template](https://drive.google.com/drive/u/1/folders/19JqnJPwsDhnIbKXz1BABepHY2zyjKV5p).
 
-> Instructor Note: Bootstrap also has design templates for designing with Bootstrap's grid system and components.
-
-> :gem: **Designer Insight:** Ask a TA to put the responsive class system—containers and rows—into their own words for the class to help anchor the definition.
-
-**Say:** "We now have the basics of a nice and solid Bootstrap 4 template, but before we can move forward, we need to learn about the Bootstrap 4 grid system." 
-
-We will first introduce two classes, containers and container-fluids, and then we will introduce Bootstrap's col class system in order to make our site's contents responsive.
+## SLIDE 42
+Review
 
 > :key: **Key Tech Note:** Bootstrap classes are CSS, be mindful that all CSS is case-sensitive. 
 
