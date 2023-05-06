@@ -210,8 +210,11 @@ Take questions that students might have from last class as you review the follow
 
 > :globe_with_meridians: **Online Recommendation:** Instead of switching to Zoom gallery view, have students share their answers in the Zoom chat or Slack so they can refer to your shared screen to answer the questions.
 
-**Ask:**
 
+## SLIDES 1-6
+Review
+
+## SLIDE 7
 - "What is a Bootstrap 4 component?"
 
 	_A Bootstrap 4 component is a pre-written piece of HTML code that can be pasted into your file._
@@ -224,16 +227,13 @@ Take questions that students might have from last class as you review the follow
 
 	_Bootstrap’s grid system works off its col classes. A col-number of 12 makes a responsive row._
 
-Take any final questions, then transition into today's first lecture: How to overwrite Bootstrap 4 styles.
+## SLIDE 8
+Review
 
-## 3. Instructor Do: Overwriting Bootstrap 4 (5 min)
+## SLIDE 9
+Review
 
-> :pushpin: **Important Point:** The goal of this section is to prepare students to be able to overwrite Bootstrap 4's CSS file with their own styles and load a custom stylesheet. You will also touch on how content delivery networks (CDNs) are loaded into HTML documents. This lecture supports today's first learning objective, which is for students to customize the Bootstrap 4 template's UI components, including buttons, navigation, and cards.
-
-In this section, you'll introduce how to begin customizing Bootstrap 4 components.
-
-> :briefcase: **Employer Competitive Note:** Overwriting Bootstrap 4 styles will improve students' design work when creating Bootstrap 4 design files. Professionally, Bootstrap 4 is used to prototype a UI quickly with components customized to fit your design file. Having a working knowledge of how to overwrite Bootstrap 4 styles will help students design better because they know the limitations of working with Bootstrap 4 components.
-
+## SLIDE 10
 "Overwriting Bootstrap" literally refers to overwriting Bootstrap 4's CSS file to customize components. When overwriting a Bootstrap 4 component, you'll need to have your own stylesheet linked below Bootstrap 4's link tag so that your file loads second and overwrites Bootstrap's.
 
 Bootstrap 4 on its own is useful, but being able to create fully responsive components simply by overriding default styles is Bootstrap 4's real power. Bootstrap was designed to create fully responsive, customized websites quickly—you can do this by overwriting Bootstrap's custom CSS styles to match your design. For example, by overriding styles, you can do the following:
@@ -241,35 +241,7 @@ Bootstrap 4 on its own is useful, but being able to create fully responsive comp
 - Change the background-color or image of a component
 - Modify any style to visually fit your design file
 
-> :gem: **Designer Insight:** Ask a TA to share about customizations made with Bootstrap and why they're useful.
->
-> - Alternatively, invite a student with Bootstrap experience to share.
-
 Bootstrap 4 classes are usually overwritten using your own custom classes that you then style to make components your own.
-
-> Instructor Note: Remind students that much of what we learned in units 16 and 17 still applies here and will be used to align and customize our existing template.
-
-Bootstrap 4 comes with all the CSS and HTML you’ll need to create a template efficiently. Its real power is in creating a responsive, clean template quickly—a real time-saver. We can then customize our template to look however we want. 
-
-- Consider the prior template's look. In Lesson 20.1, we developed a Bootstrap 4 template using components and the Bootstrap col system. You might have noticed that it doesn't look the best. Bootstrap components are meant to be overridden to create a full-color design.
-
-Below is what we developed during Lesson 20.1:
-
-![Bootstrap template](Images/bootstrap_template.png)
-
-Fairly "Bootstrap looking," right?
-
-Below is a peek at what it'll look like after today:
-
-![Rock Nation](Images/rock_nation.png)
-
-Much better! Transforming a template from just components to a full design is how Bootstrap's components are meant to be used.
-
-If you don't customize components, your design will still look and feel "Bootstrappy," and clients and business stakeholders will be able to tell. The whole goal for a UX designer is to create an experience!
-
-**How does overwriting happen?**
-
-First, students need to understand that internet browsers load files top-down, meaning that Line 1 loads first, followed by Line 2, and so on, until the entire page loads. So stylesheets that load second will overwrite those stylesheets that loaded first.
 
 Load stylesheets like so:
 
@@ -280,53 +252,45 @@ Load stylesheets like so:
 <link rel="stylesheet" href="css/index.css">
 ```
 
-> :key: **Key Tech Note:** Remember, the browser reads HTML top-down. By loading our custom stylesheet second, we overwrite Bootstrap 4 with our own custom styles.
-
 Any CSS file (or JavaScript) loaded second will overwrite CSS styles loaded previously. This is how to write a custom CSS on a Bootstrap 4 component. In your custom stylesheet, you can target the Bootstrap 4 elements and write your custom CSS to overwrite Bootstrap 4's component styles.
 
-> Instructor Note: Pause to take questions about the concept of overwriting Bootstrap and its benefits.
 
-Next, transition to a wider view about value propositions on the web. This will provide context for work that follows and will remind students to keep the user top-of-mind.
+## SLIDE 11
+Review
 
-## 4. Instructor Do: User Funnels and Value Propositions on the Web (10 min)
-
-> 📌 Your goal is to take a step back into a UX/UI mindset to analyze value propositions on the web. This lecture prepares students for today's second learning objective, which is for students to analyze user funnels on github.com to better understand how to design sections.
-
-> 💼 **Employer Competitive Note:** Professional designers make sure that each section of a webpage or website supports a single CTA. CTAs are the way that businesses make money. Creating designs that allow users to convert at multiple points in your UI will make your boss and business stakeholders happy because the business will make money.
-
+## SLIDE 12
 A **user funnel**, also known as a sales or marketing funnel, describes the process you create to attract potential buyers to your website and guide them to take some desired action. Websites are built with a section that advertises features and services the business provides. The order of the content always defines the most important features and services as well as the most important CTAs.
 
+
+## SLIDE 13
 A **CTA** is a statement designed to prompt an immediate action associated with interacting with a UI. An example of a CTA is a "Shop Now" button with text and images enticing the user to perform the desired action.
 
+## SLIDE 14
 A **value proposition** is essentially advertising a feature of your business. Value propositions are an innovation, service, or feature intended to make a company or product attractive to customers.
-
-### User Funnels on the Web
 
 Value propositions on the web are laid out purposefully in user funnels. This understanding will help students appreciate that designers indeed think about how they use content to engage users at every turn.
 
 Modern websites have a very defined "flow" to how their webpage is built—this is known as a user funnel. Sections are designed to advertise one important CTA. They're designed to catch users' attention as they scroll down through the page. Sections will be ordered from the most important CTA to the least important.
 
-> :gem: **Designer Insight**: Share a story about how user funnel priorities have influenced your work on clients' websites.
 
+**TAs:** Slack out the [GitHub homepage](https://www.github.com) so that students can follow along on their own if they wish.
+
+## SLIDE 15
 Businesses have many different types of users. It's important to tailor CTAs on your homepage to generate the most interest in your user base.
 
 Let's analyze [GitHub's homepage](https://www.github.com) as an example of how businesses build their sections to promote products.
-
-**TAs:** Slack out the [GitHub homepage](https://www.github.com) so that students can follow along on their own if they wish.
 
 Each section targets the type of users the website wants to capture. These sections follow a series of steps that essentially promote a product or service. 
 
 ### GitHub User Funnel Step 1: Signup
 
-![Step 1](Images/step1.png)
-
 The first section on most websites (besides news or ecommerce) encourages users to sign up or create a free account for more information on the product or service the site offers. 
 
 In GitHub's case, the initial CTA is to create a free account for the service. The account would be for GitHub's average user---your run-of-the-mill developer.
 
-### GitHub User Funnel Step 2: Introduce the Product and Service
 
-![Step 2](Images/step2.png)
+## SLIDE 16
+### GitHub User Funnel Step 2: Introduce the Product and Service
 
 The next few sections are value propositions on how or why you might use the product or service.
 
@@ -334,9 +298,8 @@ Here, GitHub advertises contacting the sales team and signing up for the enterpr
 
 This section grabs the attention of project managers or bosses of software teams.
 
+## SLIDE 17
 ### GitHub User Funnel Step 3: Play as a Team
-
-![Step 3](Images/step3.png)
 
 > Instructor Note: **Ask,** "What do we see here? Any CTAs?"
 
@@ -344,9 +307,8 @@ This specific section advertises how you can use GitHub's products or services t
 
 Notice the CTA: Sign up your team.
 
+## SLIDE 18
 ### GitHub User Funnel Step 4: New Feature/New Section
-
-![Step 4](Images/step4.png)
 
 This is an informative section, specifically for one of GitHub's products—GitHub Enterprise.
 
@@ -354,9 +316,8 @@ This is an informative section, specifically for one of GitHub's products—GitH
 
 Instead of signing up, however, this just wants the user to learn more about how GitHub Enterprise works, which will lead to a CTA to convert.
 
+## SLIDE 19
 ### GitHub User Funnel Step 5: More Features
-
-![Step 5](Images/step5.png)
 
 This section is another GitHub feature—GitHub Integrations.
 
@@ -364,9 +325,8 @@ This section is another GitHub feature—GitHub Integrations.
 
 It is merely advertising for you to learn about how Integrations work on GitHub, which will also lead to a CTA of some sort.
 
+## SLIDE 20
 ### GitHub User Funnel Step 6: Appeal to the Masses
-
-![Step 6](Images/step6.png)
 
 This section is specific to the community and aims to empathize with the people they want to sign up for their service—developers.
 
@@ -374,48 +334,32 @@ This section is specific to the community and aims to empathize with the people 
 
 A section like this one is meant to catch the interest of the average user base if they're exploring the website but have not yet converted.
 
+## SLIDE 21
 ### GitHub User Funnel Step 7: One Last Chance!
 
-![Step 7](Images/step7.png)
-
 We come to the bottom of our page.
-
-> Instructor Note: **Ask,** "What do we think GitHub wants the user to do here?"
 
 If a user made it this far down the page, GitHub tried one last time to get the user to sign up for the service.
 
 This CTA is the same as the first—sign up for GitHub. The reason: At this point, the user is probably looking for something or considering signing up for the product or service, so GitHub prompts them one more time.
 
+## SLIDE 22
 ### GitHub User Funnel Step 8: Maybe They Are Just Lost?
-
-![Step 8](Images/step8.png)
 
 Lastly, we have our classic footer, which serves as a directory to keep users engaged in the website. Maybe they're having trouble finding what they're looking for? Most websites follow this convention, and a well-designed footer converts users and keeps them engaged as an added bonus.
 
-**Ask:** "What do we think GitHub wants the user to do here?"
-
 Each section has a purpose. Help your class to keep this in mind when you move onto developing your templates.
 
-> Instructor Note: Pause for questions.
 
-Next, review what students just learned about clear and defined user funnels from the GitHub site:
+## SLIDE 23
+Just to review from the GitHub site:
 1. Businesses will attempt to convert users on each section of a website.
 2. Each section has a different feature they're highlighting, complete with a CTA.
 3. You'll see the same CTA in multiple locations in an attempt to catch a user if they reach a decision at any point when exploring the UI.
 4. Sections of websites will cater to different demographics. For example, one section might cater to the standard user while another is catering to people who run teams and are looking for different tech that they can leverage.
 
+## SLIDE 24
 ## 5. Instructor Do: Customize a Search Bar Demo (5 min)
-
-> :globe_with_meridians: **Online Recommendation:** Navigate away from the slideshow for this demonstration. If you shared your entire desktop, make sure to open your files on that shared desktop. If you shared a single window, be sure to re-share your screen to capture the appropriate window or desktop. Remember to narrate what you are doing during transitions and demonstrations. In this instance, you might say:
-
-“I’m now going to switch from the slideshow to another tab so I can demonstrate jQuery and JavaScript toggles.”
-
-This demo will cover:
-
-- Show the basic steps involved in redesigning a search bar into something more professional.
-- Help students understand that cutting some content out of Bootstrap 4 is OK, even expected.
-- How to use the `!important` tag to overwrite stubborn Bootstrap 4 styles.
-- Demo the automatic margins for aligning items/content inside a container.
 
 Begin by showing students how to customize the navbar's elements and add our own logo to our navigation component.
 
@@ -479,6 +423,7 @@ Begin by showing students how to customize the navbar's elements and add our own
 
 To help students remember what we just learned, it's time for students to customize their own navigation.
 
+## SLIDES 25-27
 ## 6. Student Do: Webpage Funnel Customization: Part 1 - Navbar Activity (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -520,6 +465,7 @@ Students will have customized navigation that looks like the following:
 
 Now that students have customized their navigation, let's do a quick peer review of each other's work.
 
+## SLIDE 28
 ## 7. Instructor Do: Webpage Funnel Customization: Part 1 - Navbar Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: If you’ve made one of the TAs a co-host of the webinar, they should create breakout rooms for the groups of students to review the activity. Follow [these instructions](https://docs.google.com/document/d/1LxiakaFMQ7FlnhcbgnZvW7bCqGBeDx1SJgZ8qMWVLAg/edit?usp=sharing) to pre-assign breakout rooms for this review. 
@@ -547,30 +493,20 @@ Share a common misconception or FAQ about customizing Bootstrap 4 components. Fo
 
 Next, you'll demo how to customize the jumbotron component.
 
-## 8. Instructor Do: UI Elements: Jumbotrons (5 min)
-
+## SLIDE 30
 A **jumbotron **indicates a big box for calling extra attention to some special content or information.
 
-Students will also learn how to responsively set heights of elements that calculate based on the height of the viewport window.
 
-As you give the demo, encourage students to think about how these components can be altered in a more professional-looking, user-centered fashion.
-
+## SLIDE 31
 Inside a jumbotron, you can put nearly any valid HTML—including other Bootstrap elements/classes.
 
-> :key: **Key Tech Note:** Jumbotrons are highly customizable and are used to focus users on a specific CTA (the most important one). Being able to use ANY markdown in a jumbotron makes customizing the message you send very open!
+They are highly customizable and are used to focus users on a specific CTA (the most important one). Being able to use ANY markdown in a jumbotron makes customizing the message you send very open!
 
-**Say:** Let's make our jumbotron more appealing and teach our students some more CSS tricks along the way.
+## SLIDES 32-34
+Review
 
+## SLIDE 35
 ## 9. Instructor Do:  Customize Our Jumbotron! Demo (10 min)
-
-> :globe_with_meridians: Online Recommendation: Navigate away from the slideshow for this demonstration. If you shared your entire desktop, make sure to open your files on that shared desktop. If you shared a single window, be sure to re-share your screen to capture the appropriate window or desktop.
-Remember to narrate what you are doing during transitions and demonstrations. In this instance, you might say:
-“I’m now going to switch from the slideshow to another tab so I can demonstrate jQuery and JavaScript toggles.”
-
-In this demo, you'll show how to customize a jumbotron component to look like a real hero section, complete with a CTA. The key takeaway is that students will be able to take a basic component and turn it into professional-looking work *fast*.
-
-> :globe_with_meridians: **Online Recommendation:** Since you’ll be sharing your screen for this demonstration, ask students to use the raise hands feature on Zoom to ask questions. At a good breaking point, call on a specific student to unmute and ask their question. Alternatively, you can ask students to share their questions in the Zoom chat and have the TA provide answers in the chat.
-
 1. Target the class "jumbotron" for our element with the class jumbotron.
 
 	The result should look like the following:
@@ -659,6 +595,7 @@ In this demo, you'll show how to customize a jumbotron component to look like a 
 
 Students have learned some interesting tricks and should start feeling capable of using CSS to overwrite templates. Next, they'll practice customizing a jumbotron on their own.
 
+## SLIDES 36-37
 ## 10. Student Do: Webpage Funnel Customization: Part 2 - Jumbotron Activity (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -698,6 +635,7 @@ Students will have customized hero images that resemble the following:
 
 Before we move onto the next section, let's review each other's work and talk as a group.
 
+## SLIDE 38
 ## 11. Instructor Do: Webpage Funnel Customization: Part 2 - Jumbotron Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: If you’ve made one of the TAs a co-host of the webinar, they should create breakout rooms for the groups of students to review the activity. Follow [these instructions](https://docs.google.com/document/d/1LxiakaFMQ7FlnhcbgnZvW7bCqGBeDx1SJgZ8qMWVLAg/edit?usp=sharing) to pre-assign breakout rooms for this review.
@@ -721,66 +659,37 @@ Share some common misconceptions or FAQs about customizing Bootstrap 4 component
 
 > Instructor Note: Pause and take any remaining questions.
 
-After the break, you'll give another demo.
-
+## SLIDE 39
 ## 12. Break (15 min)
 
-Break time! Encourage students to stretch, get some fresh air, and/or grab a snack.
 
-When they return, you'll giving a demo on customizing template cards.
+## SLIDE 40
+Review
 
-## 13. Instructor Do: UI Elements: Cards (5 min)
-
-> 📌 Your goal in this section is to introduce students to the UI card element and give students some best practices when it comes to designing cards for the web. This lecture and the demo that follows prepare students for the third (and last) learning objective of the day, which is to design and code a fully responsive, customized Bootstrap 4 template.
-
-> :briefcase: **Employer Competitive Note:** Cards are a common UI component on the web and can be designed in many different ways. As a UX designer, by customizing Bootstrap cards, you can create designs and prototypes that use cards in unique and eye-catching ways.
-
-Begin by introducing the problem that cards solve.
-
-**Ask:**
-
-1. "Can anyone think of a container that holds a few related things?" 
-
-	_All responses are welcome and don't have to be UX/UI-specific; e.g., jewelry box, a Ziplock bag, or a silverware drawer._
-
-2. "What about a container that holds related things *connecting* to a container with more related things?" 
-
-	_This one's harder. Responses might include a post office box, a window display at a department store, or a car sales lot.)_
+## SLIDE 41
+Cards are a common UI component on the web and can be designed in many different ways. As a UX designer, by customizing Bootstrap cards, you can create designs and prototypes that use cards in unique and eye-catching ways.
 
 **Cards** are UI elements used to separate similar content visually with a literal box. The purpose of cards is to make your content more digestible by grouping elements together that have related content.
 
-**Connect cards to UX/UI.**
 
-Cards are a design pattern we discussed during the UI section of the UX/UI Boot Camp. You'll see cards in both Google's material design toolkit and on popular websites like Facebook or Twitter.
+## SLIDE 42
+Review
 
-> :gem: **Designer Insight**: Take a moment to share how you've used cards in your design work.
-
-Students have seen cards if you use the internet. Websites like Facebook, Twitter, and Pinterest are places where cards as a design trend became popular.
-
-![Card example](Images/cards_annotated.png)
-
-Point out how each card contains only information that relates to everything else on the card? Cards take your content and break it into bitesize chunks for our users.
-
-### Card Design Best Practices
-
+## SLIDE 43
 1. **Keep it simple.** Cards are used to focus our users on specific information. Everything in the card should be relevant.
+
+## SLIDE 44
 2. **Direct your user to the desired action.** Users will automatically want to click on cards when they see them. Give them clear CTAs and ways to convert on your content.
+
+## SLIDE 45
 3. **Use images strategically.** Use eye-catching imagery that relates to the topic of the card. If the images and headline don’t match, there will be confusion.
+
+## SLIDE 46
 4. **Support micro-interactions.** Even simple interactions add life to your cards (like, share, favorite button, etc.).
 
-## 14. Instructor Do: Customize Bootstrap 4 Cards Demo (5 min)
+## SLIDE 47
 
-> :pushpin: Your goal is to reintroduce students to Bootstrap's grid system and show them how to add Bootstrap 4's col classes to the layout to make it respond correctly. Reinforce how Bootstrap's col system works by customizing how our cards respond to our template.
-
-> :globe_with_meridians: **Online Recommendation**: Navigate away from the slideshow for this demonstration. If you shared your entire desktop, make sure to open your files on that shared desktop. If you shared a single window, be sure to re-share your screen to capture the appropriate window or desktop.
-
-Remember to narrate what you are doing during transitions and demonstrations. In this instance, you might say:
-“I’m now going to switch from the slideshow to another tab so I can demonstrate jQuery and JavaScript toggles.”
-
-In this demo, you'll demonstrate how to alter card components using Bootstrap 4's col system to respond based on your layout's needs. First, we'll cover some basic information on cards.
-
-> :globe_with_meridians: **Online Recommendation:** Since you’ll be sharing your screen for this demonstration, ask students to use the raise hands feature on Zoom to ask questions. At a good breaking point, call on a specific student to unmute and ask their question. Alternatively, you can ask students to share their questions in the Zoom chat and have the TA provide answers in the chat.
-
+## SLIDE 48
 We need to update our containers to fit a three-column layout.
 
 In your cards, update the col classes to look like this:
@@ -805,6 +714,8 @@ In your cards, update the col classes to look like this:
 
 Next, students will customize the card elements in their template.
 
+
+## SLIDE 49
 ## 15. Student Do: Webpage Funnel Customization: Part 3 - Cards Activity (15 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -846,6 +757,7 @@ Students will have customized cards that resemble the following:
 
 Let's review each other's work before moving onto the next activity.
 
+## SLIDES 50-51
 ## 16. Instructor Do: Webpage Funnel Customization: Part 3 - Cards Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: If you’ve made one of the TAs a co-host of the webinar, they should create breakout rooms for the groups of students to review the activity. Follow [these instructions](https://docs.google.com/document/d/1LxiakaFMQ7FlnhcbgnZvW7bCqGBeDx1SJgZ8qMWVLAg/edit?usp=sharing) to pre-assign breakout rooms for this review.
@@ -871,6 +783,7 @@ Share some common misconceptions or FAQs about customizing Bootstrap 4 component
 
 Next, students are going to continue using CSS and HTML to customize their content by jumping right into the next activity.
 
+## SLIDES 52-54
 ## 17. Student Do: Webpage Funnel Customization: Part 4 - Content Activity (15 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -910,6 +823,7 @@ Students might encounter the following common problems:
 Students will have customized containers that look like the following:
 ![Finished Cards](Images/RN_rows.png)
 
+## SLIDE 55
 ## 18. Instructor Do: Webpage Funnel Customization: Part 4 - Content Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: If you’ve made one of the TAs a co-host of the webinar, they should create breakout rooms for the groups of students to review the prior activity. Follow [these instructions](https://docs.google.com/document/d/1LxiakaFMQ7FlnhcbgnZvW7bCqGBeDx1SJgZ8qMWVLAg/edit?usp=sharing) to pre-assign breakout rooms for this review.
@@ -930,6 +844,7 @@ Share a common misconception or FAQ about customizing Bootstrap 4 components. Fo
 
 - Bootstrap might not seem flexible at first, but with CSS Flex knowledge you can achieve any layout you can design.
 
+## SLIDES 56-57
 ## 19. Student Do: Webpage Funnel Customization: Part 5 - Footer Activity (15 min)
 
 > :globe_with_meridians: **Online Recommendation:** This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -965,6 +880,7 @@ Students might encounter the following common problem:
 Students will have customized containers that look like the following:
 ![Finished Cards](Images/RN_rows.png)
 
+## SLIDE 58
 ## 20. Instructor Do: Webpage Funnel Customization: Part 5 - Footer Review (3 min)
 
 Call attention back to the class and encourage students to get into groups to reflect on the activity.
@@ -986,6 +902,10 @@ Share some common misconceptions or FAQs about Bootstrap 4 footer components. Fo
 
 Next, students will dive into another activity aimed at customizing their webpage funnel.
 
+## SLIDE 59
+Review best practices
+
+## SLIDE 60
 ## 21. Student Do: Iterate Your Webpage Funnel Activity (40 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity begins individually, then switches to pair work. While the students are working solo, make sure the whole class is muted and switch to Zoom gallery view to monitor students. While this is taking place, have your TAs create breakout rooms for the upcoming pair work. Follow [these instructions](https://docs.google.com/document/d/1LxiakaFMQ7FlnhcbgnZvW7bCqGBeDx1SJgZ8qMWVLAg/edit?usp=sharing) to pre-assign breakout rooms for this and future activities. 
