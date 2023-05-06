@@ -502,6 +502,10 @@ The foundation of this system is made up of the Bootstrap 4 class container, con
 
 - `.row`: Rows serve as a way to separate content within containers. Rows can display either horizontally or vertically depending on the layout you are trying to achieve.
 
+## SLIDE 43
+Review
+
+## SLIDE 44
 ### Bootstrap 4 Responsive Screen Sizes
 
 Bootstrap’s grid system works from a series of classes that define breakpoints.
@@ -515,11 +519,13 @@ Bootstrap’s grid system works from a series of classes that define breakpoints
 | Extra Large | `col-xl-` | Desktop | >= 1200px |
 | Auto Responsive | `col-` | - | - |
 
+
+## SLIDE 45
 ### Bootstrap 4 Column Example
 
 Bootstrap's `col` system must have a `container` or a `container-fluid` and a row in order for our Bootstrap columns to respond correctly. Below is an example of what the proper structure looks like.
 
-> Instructor Note: In the example below, you can see we have a container-fluid as our outside wrapper, a row to separate content, and three divs. The divs are assigned different classes that control how our layout responds depending on the size of different viewports. Point out this basic structure (containers -> rows -> col classes) for students before we move onto defining how the col class system works in detail.
+Here we have a container-fluid as our outside wrapper, a row to separate content, and three divs. The divs are assigned different classes that control how our layout responds depending on the size of different viewports. Point out this basic structure (containers -> rows -> col classes) for students before we move onto defining how the col class system works in detail.
 
 ```html
 <div class="container-fluid"><!-- This could also just be a regular container -->
@@ -531,27 +537,11 @@ Bootstrap's `col` system must have a `container` or a `container-fluid` and a ro
 </div>
 ```
 
-> Instructor Note: Think back to the UI section of Unit 11, where we discussed responsive web design and designed mobile first. Mobile first is a design process that starts with the smallest screen and then expands to larger screens.
->
-> Remember: **Start with the col-sm first.**
+## SLIDE 46
+Review
 
-> Instructor Note: Take any questions students have about containers or rows before moving on.
-
-Now show students how containers and rows work with a live demo.
-
+## SLIDE 47
 ## 11. Instructor Do: Containers, Rows Demo (5 min)
-
-> 📌 The goal of this demo is to allow student to practice the 12 column system and practice using bootstrap responsive rules. The section covers creating a fluid layout with the bootstrap col system. 
-
-> :globe_with_meridians: **Online Recommendation**: Navigate away from the slideshow for this demonstration. If you shared your entire desktop, make sure to open your files on that shared desktop. If you shared a single window, be sure to re-share your screen to capture the appropriate window or desktop.
-
-Remember to narrate what you are doing during transitions and demonstrations. In this instance, you might say:
-“I’m now going to switch from the slideshow to another tab so I can demonstrate jQuery and JavaScript toggles.”
-
-In the following demo, you will walk through containers, rows.
-
-> Instructor Note: Be sure to work from the same demo file you used earlier, or you can start with a fresh template below:
->
 > - [20-Week/05-Instructor Resources/20.1_Demo_Files/3_Containers_Rows](https://drive.google.com/drive/u/1/folders/10WrL2-Sg77UG9JBNTUJAKa6qKPn6UEm_)
 
 When all the numbers on the classes equal 12, they will display responsively and evenly across your elements.
@@ -600,53 +590,31 @@ In the example above, the content at large and medium resolutions will display a
 
 Now you'll talk about the key concepts to understand Bootstrap's 12-Column layout.
 
-## 12. Instructor Do: Bootstrap 4 12-Column Key Concepts (5 min)
 
-> 📌 The goal of this section is to show students how to utilize Bootstrap's col classes in their HTML elements to make responsive layouts.
 
+## SLIDE 47
+Review
+
+## SLIDE 48
+Review
+
+## SLIDE 49
 Bootstrap 4's **12-column grid system** is a series of prewritten CSS classes that define breakpoints for our content.
 
 Bootstrap has developed CSS classes that are used to control the layout of HTML elements. Each class targets a specific width (e.g., `col-lg-4` targets large windows). When our website's width (of the browser windows) reaches each breakpoint, the contents will be rearranged to display differently.
 
-> Instructor Note: Think back to Unit 11, where we discussed designing grid systems. The rules learned during Unit 11 directly apply to real software systems—like Bootstrap 4—which are all grid systems.
-
-For a visual, let's take another look at the example where we point out containers and rows:
-
-```html
-<div class="container-fluid"><!-- This could also just be a regular container -->
-  <div class="row"><!-- Rows are used to separate our columns. If we need multiple rows, we can always add another. -->
-    <div class="col-sm-12 col-md-4 col-lg-4">sample column</div>
-    <div class="col-sm-12 col-md-4 col-lg-4">sample column</div>
-    <div class="col-sm-12 col-md-4 col-lg-4">sample column</div>
-  </div>
-</div>
-```
-
-In the example above, the classes `col-sm-12`, `col-md-4`, and `col-lg-4` define how this row will respond. These classes actually control your layout. The containers and rows are required for structure. Notice how we're using multiple Bootstrap 4 classes here. We do this to define our grid layout, which defines breakpoints for our content.
-
 Bootstrap's grid system works off a number system (12) that tells the CSS how to display content on your page in a responsive number. Each element is given a class with a number (1-12) that specifies how much space the element takes up on the screen.
-
-Benefits of using the `col` classes:
-1. Bootstrap 4 classes, columns, and rows can be used on layouts to create fluid layouts quickly without writing media queries ourselves.
-2. Bootstrap 4's column system allows you to visually see how you have designed breakpoints for specific elements.
 
 **When Bootstrap’s classes equal to 12 inside a container, the children will be fully responsive and span the full container.**
 
-Here are some key takeaways from an example that you can explain to the class:
-- Bootstrap 4 lets you organize content based on the number of columns out of 12 that a div spans.
-- ```<div class="col-xl-12"></div>``` (spans full-width desktop greater than 1200px).
-- In the code below, each div spans one-third of our container: 4 + 4 + 4 = 12.
+## SLIDES 50-55
+Review
 
-```html
-<div class="col-xl-4"></div>
-<div class="col-xl-4"></div>
-<div class="col-xl-4"></div>
-```
-
+## SLIDE 56
 ### Bootstrap Grid: `container`
 
 Notable items about the example below:
-1. This example uses a regular container. Regular containers have margins on the left and right sides so your content will always display at 1024px.
+1. This example uses a regular container. Regular containers have margins on the left and right sides.
 2. This example has multiple rows. You can have rows display content differently based on your preference and design. The row will respond based on the classes wrapped inside of it.
 3. The first row has two rows that will take up 50% of the width on large layouts; 6 + 6 = 12, so this row will be fully responsive.
 4. The second row has three divs with the class of `col-lg-4`. Each div will take up 33% of the space; 4 + 4 + 4 = 12, so this row will also be completely responsive.
@@ -668,6 +636,11 @@ Notable items about the example below:
 </div>
 ```
 
+## SLIDE 57
+Fluid containers have the same function as regular containers, but use the .container-fluid class and have a width of 100% across all viewports and device sizes, making the width of the container always fill either it's parent container or the page.
+
+## SLIDE 58
+
 ### Bootstrap 4 Grid: `container-fluid`
 
 Notable items about the example below:
@@ -687,26 +660,19 @@ Notable items about the example below:
     </div>
 </div>
 ```
+## SLIDE 59
+Rows are wrappers for columns. Each column has horizontal padding (called a gutter) for controlling the space between columns. This padding is then counteracted on the rows with negative margins. This way, all the content in your columns is visually aligned down the left side.
 
-> Instructor Note: Pause for questions students might have about the column system.
+## SLIDE 60
+Review
 
-In the next section, you'll introduce Bootstrap's column system to create truly responsive components with only HTML.
+## SLIDE 61
+Containers and container-fluid must have a row inside them for you to be able to use Bootstrap classes on your HTML elements.
 
+This step may seem minimal, but using Bootstrap’s columns and rows are fundamental to understanding how to build layouts with Bootstrap 4.
+
+## SLIDE 62
 ## 13. Instructor Do: Bootstrap's Col Class Demo (5 min)
-
-> :globe_with_meridians: **Online Recommendation**: Navigate away from the slideshow for this demonstration. If you shared your entire desktop, make sure to open your files on that shared desktop. If you shared a single window, be sure to re-share your screen to capture the appropriate window or desktop.
-
-Remember to narrate what you are doing during transitions and demonstrations. In this instance, you might say:
-“I’m now going to switch from the slideshow to another tab so I can demonstrate jQuery and JavaScript toggles.”
-
-In the following demo, you will walk through Bootstrap's `col` class.
-
-> Instructor Note: Be sure to work from the same demo file you used earlier:
->
-> - [20-Week/05-Instructor Resources/20.1_Demo_Files/03_Containers_Rows](https://drive.google.com/drive/u/1/folders/10WrL2-Sg77UG9JBNTUJAKa6qKPn6UEm_).
-
-> :globe_with_meridians: **Online Recommendation:** Since you’ll be sharing your screen for this demonstration, ask students to use the raise hands feature on Zoom to ask questions. At a good breaking point, call on a specific student to unmute and ask their question. Alternatively, you can ask students to share their questions in the Zoom chat or Slack  and have the TA provide answers.
-
 1. Add one div to your template between the rows on lines 64 and 66.
 
 2. Code that div the following classes: `cardContainer col-lg-3 col-md-3 col-sm-12`. Explain to the class that you are adding your own class, `cardContainer`, in front of Bootstrap's so you can customize it later without changing Bootstrap's col classes.
@@ -734,6 +700,10 @@ Bootstrap's responsive column is the most important thing students can learn fro
 
 To help students gain competency, let's have them add containers, rows, and columns to their templates. That's next.
 
+## SLIDE 63
+Review
+
+## SLIDES 64-65
 ## 14. Student Do: Add Containers, Rows, and Columns to Your Template Activity (15 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -766,6 +736,7 @@ Students might encounter the following common problems:
 
 Students' templates will now show a row that has four div children with responsive col classes medium-large.
 
+## SLIDE 66
 ## 15. Instructor Do: Add Containers, Rows, and Columns to Your Template Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: Since students can’t physically come to the front of the class to demonstrate, stop sharing your screen and ask a student to share their screen instead. Once they are finished, ask them to stop sharing so you can reshare your screen.
@@ -802,46 +773,26 @@ Share some common misconceptions or FAQs about working with Bootstrap components
 
 Great! Let's take a break.
 
-## 16. Break (10 min-Weekday) | (45 min-Saturday)
+## SLIDE 67
+## 16. Break 
 
-That was a lot of work. Let's take a break and relax---you’ve earned it!
 
-Let students know they'll learn about card components next.
+## SLIDE 68
+Review
 
-> :globe_with_meridians: **Online Recommendation**: Don't stop sharing your screen. Put up a Google timer or a YouTube timer video to help get students back into the Zoom room on time.
-
-## 17. Instructor Do: Bootstrap 4 Cards (5 min)
-
-> 📌 Your goal is to introduce students to the Bootstrap 4 **card** component and why using components with columns and rows can quickly make a responsive layout.
-
-Help students see that designers use components hand-in-hand with the responsive classes we just talked about.
 
 Containers, rows, and Bootstrap's col system can be used to create content right alongside structure quickly.
 
-**Say:** "You can use Bootstrap 4's col system first to create structure (containers and rows). You can then use components to add pre-styled content to your template (take cards for example) and make your cards responsive using Bootstrap's col system."
+"You can use Bootstrap 4's col system first to create structure (containers and rows). You can then use components to add pre-styled content to your template (take cards for example) and make your cards responsive using Bootstrap's col system."
 
-> :gem: **Designer Insight:** Invite a TA to share how they've used cards in their work.
->
-> - Alternatively, ask if any students have ever used cards.
-> - Or, share your own experience using cards.
-
-A **card** is a UI design pattern that groups related information in a flexible-size container visually resembling a playing card.
+A **card** is a UI design pattern that groups related information in a flexible-size container visually resembling a playing card. 
 
 Cards visually separate and group content that is related. The class has learned about this technique—content chunking—during the UI sections of this boot camp. Content chunking helps users find information that is relevant to their needs.
 
 Cards are rectangles full of inclusive images and text that serve as a teaser to more detailed information. This could be an article, a piece of art, or a project that is being shared.
 
-Students have most certainly seen cards before without realizing it (e.g., websites like Pinterest, LinkedIn, or Facebook). They all use cards to give you enough information to get you interested. Cards are an easy way to partition content, making your UI easier to visually digest.
-
-> Instructor Note: Pause and take student questions about cards.
-
-The best way to grasp cards is by seeing them in action. Transition into a demo of cards.
-
+## SLIDE 70
 ## 18. Instructor Do: Bootstrap 4 Cards Demo (5 min)
-
-> 📌 Your goal is to practice using Bootstrap 4 card component and why using components helps speed up your design process.
-
-Show the students how cards work by giving a demo of using cards with Bootstrap.
 
 1. Continue working from the same file as the previous demos: [20-Week/05-Instructor Resources/20.1_Demo_Files/4_Cards](https://drive.google.com/drive/u/1/folders/1LPUbXXMWTVo0fE3m3uNUQsPphzZzPsUo).
 
@@ -908,6 +859,7 @@ Cards are a very versatile feature of Bootstrap 4. It takes very little time and
 
 Students will add cards to their layout in the upcoming activity.
 
+## SLIDES 71-72
 ## 19. Student Do: Add Cards to Your Bootstrap 4 Template Activity (10 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -941,6 +893,7 @@ Students might encounter the following common problems:
 
 Students' pages will now show two rows with four cards, each displaying content.
 
+## SLIDE 73
 ## 20. Instructor Do: Add Cards to Your Bootstrap 4 Template Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: Since students can’t physically come to the front of the class to demonstrate, stop sharing your screen and ask a student to share their screen instead. Once they are finished, ask them to stop sharing so you can reshare your screen.
@@ -971,14 +924,14 @@ Share some common misconceptions or FAQs about working with Bootstrap components
 1. Bootstrap cards will line up next to each other by default. You can alter this behavior using CSS Flex.
 2. All of Bootstrap 4's CSS properties utilize CSS Flex and can be modified using CSS.
 
-## 21. Instructor Do: Bootstrap 4 Form and Modal Components (5 min)
 
-> 📌 The goal is to introduce students to two more UI elements that we will be adding to our page—the form and the modal element.
+## SLIDE 74
+Review
 
-First, you'll discuss forms, another simple-to-use Bootstrap component. Bootstrap forms do not require JavaScript to use on your page, but they do require knowledge of back-end scripting languages to function correctly.
+## SLIDE 75
+Review
 
-Second, you'll introduce the modal component, which requires a jQuery/JavaScript snippet to make it function.
-
+## SLIDE 76
 ### Bootstrap 4 Form Components
 
 A **from** on a webpage allows a user to enter data that is sent to a server for processing.
@@ -991,6 +944,8 @@ They can have a variety of functions:
 - Submitting payment information
 - Signing up for an email blast
 
+
+## SLIDE 77
 Forms in the past were notoriously difficult to style, requiring additional code called a polyfill to look the same across browsers, such as Chrome, Safari, Firefox, or MS Edge.
 
 This isn't a problem with Bootstrap 4's forms—they are already compatible across all browsers.
@@ -1006,18 +961,19 @@ Bootstrap 4 also has many custom form elements that can be added to your form to
 
 > Instructor Note: Students should bookmark these links to reference them during activities or to study them after class.
 
+## SLIDE 78
+Review
+
+## SLIDE 79
+
 ### Bootstrap 4 Modal Components
 
 A **modal**  is a graphical control element subordinate to an application's main window. It creates a mode that disables the main window but keeps it visible, with the modal window as a child window in front of it.
 
 - Bootstrap 4's modals are components that come prebuilt with animations and transitions that make a fully functional, pleasing UI component.
 
-Let's take a quick look at an example modal:
 
-![Sample Model](Images/sample_model.gif)
-
-See the window that pops up? That is a modal.
-
+## SLIDE 80
 Modals are built with HTML, CSS, and JavaScript.
 
 They’re positioned over everything else in the document and darken the backdrop so that your user is focused on your content.
@@ -1060,6 +1016,7 @@ The button has two attributes:
 
 Now that we have seen a few more Bootstrap 4 components, it's time for students to take these components for a test run by adding a form and modal components to their page.
 
+## SLIDE 81
 ## 22. Student Do: Forms and Modals Activity (10 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
@@ -1101,6 +1058,7 @@ Students' pages should now match with the solved activity file located in the so
 
 - Solved file location: [20-Week/02-Activities/20.1/20.1-Bootstrap 4 - 12 col Grid Template - Phone, Tablet, Desktop](https://drive.google.com/a/2tor.com/file/d/1w8nvB2Puvq-_3x_fGVzCB3naHQxuXzWG/view?usp=sharing)
 
+## SLIDE 82
 ## 23. Instructor Do: Forms and Modals Activity Review (3 min)
 
 > :globe_with_meridians: **Online Recommendation**: Since students can’t physically come to the front of the class to demonstrate, stop sharing your screen and ask a student to share their screen instead. Once they are finished, ask them to stop sharing so you can reshare your screen.
@@ -1135,6 +1093,7 @@ Share some common misconceptions or FAQs about working with Bootstrap components
 1. Bootstrap forms without back-end programming knowledge will not function. You can, however, still design the look and the feel of your form and have an engineer connect it to a database or script.
 2. Bootstrap modal animations can be customized. You can target the HTML elements with your own stylesheet or script tag.
 
+## SLIDE 84
 ## 24. Student Do: Bootstrap 4 Components Challenge (45 min)
 
 > :globe_with_meridians: **Online Recommendation**: This activity should be done individually, so you don’t need to create breakout rooms. Instead, make sure the whole class is muted and switch to Zoom gallery view so you can monitor students as they work. Tell them that if they have a question, they should share it on the #ClassActivities Slack channel and a member of the instructional staff will respond. If a student has a question that is relevant to the whole class, you or one of the TAs should unmute and share your answer with everyone.
