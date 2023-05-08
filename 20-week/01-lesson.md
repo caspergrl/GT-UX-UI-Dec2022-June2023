@@ -484,7 +484,9 @@ The **responsive column system** (`col` class system) is a series of classes tha
 The responsive column system has three parts:
 1. Containers and container-fluids that serve as the outside wrapper of our responsive content
 2. Rows that are used to separate rows of content within containers
-3. The Bootstrap 4 classes that are applied to HTML elements to define how our layout responds to different viewports (screen widths)
+3. Columns which are created by using the .col class and are defined within rows
+
+The Bootstrap 4 classes that are applied to our HTML elements define how our layout responds to different viewports (screen widths).
 
 
 **TAs:** share the following Bootstrap Adobe XD template with students: [Bootstrap XD template](https://drive.google.com/drive/u/1/folders/19JqnJPwsDhnIbKXz1BABepHY2zyjKV5p).
