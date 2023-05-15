@@ -174,29 +174,23 @@ By the end of class, students will be able to:
 
 ---
 
-### 1. Instructor Do: Welcome and Today’s Agenda (5 min)
+## SLIDES 1-3
+Review
 
-* **Go to Slide 3:** Welcome students to class.
+## SLIDE 4
+**Design**: thought and discussion goes into the product before coding.    * **Prototype**: experimentation and usability testing.
+**Development**: coding and testing iteratively until the product is done.
+**QA (Quality Assurance)**: making sure the product works as intended.
+**Launch**: publishing the site for end users.
 
-### 2. Instructor Do: How a Website “Goes Live” (5 min)
+## SLIDES 5-7
+Review
 
-* **Go to Slides 4-5:** Briefly describe the five steps of the development process:
-    * **Design**: thought and discussion goes into the product before coding.
-    * **Prototype**: experimentation and usability testing.
-    * **Development**: coding and testing iteratively until the product is done.
-    * **QA (Quality Assurance)**: making sure the product works as intended.
-    * **Launch**: publishing the site for end users.
-* **Go to Slides 6-7:** Review the role of UX in the QA process:
-    * QA is testing for bugs: “Does this break when I do this?”
-    * UX conducts a UX/UI Audit: “Does this look and interact like it should?”
-* **Go to Slide 8:** Review the general overview of how to conduct a UX/UI Audit.
+## SLIDE 8
+Review
 
-
-### 3. Instructor Do: Assessing Web Technologies (10 min)
-
-
-
-* **Go to Slides 9-10:** Review the varieties of site hosting options for a design portfolio. Review a few options for hosting a portfolio site and point out the variety of those options, from coding one’s site to using a simple PDF as a way to share a portfolio.
+## SLIDE 9
+Review the varieties of site hosting options for a design portfolio. Review a few options for hosting a portfolio site and point out the variety of those options, from coding one’s site to using a simple PDF as a way to share a portfolio.
     * Content Management Systems “CMS” (WordPress, Squarespace)
     * Low-Code Solutions (Wix, Webflow) (very similar to CMS, but with access to _some_ code)
     * No-Code Solutions (UXfolio - fully templatized, ‘drag-and-drop’)
@@ -207,27 +201,18 @@ By the end of class, students will be able to:
         * While some platforms offer low- or no-code options for simple sites, implementing more customization or advanced features will always require code. 
         * In many cases, adding functionality to a CMS or low- or no-code solution can be more difficult than just starting from scratch.
         * It is possible that a certain project would be impossible in one technology, while taking only minutes in another. As with all web technologies, research can save a lot of time.
-* Connect the research that students will do into hosting technologies to the need to become familiar with all the options available, so that they can guide future clients who are interested in a first-time site or considering alternatives for site hosting. 
+* Connect the research that students will do into hosting technologies to the need to become familiar with all the options available, so that they can guide future clients who are interested in a first-time site or considering alternatives for site hosting.
 
-* **Go to Slide 11:** Describe the differences between hosted vs. managed vs. self-hosted - this is primarily associated with Wordpress options, but can also be important to know for potential client work.
+## SLIDE 10 
+Hosted vs. managed vs. self-hosted - this is primarily associated with Wordpress options, but can also be important to know for potential client work.
     1. A **hosted** WordPress website at Wordpress.com where the blog owner does not have access to the code.
     2. A **managed WordPress** website is when you choose a web hosting provider like porkbun.com or bluehost and that hosting platform provides the framework and back-end management. You usually have access to most code files, but there are generally guardrails around truly destructive behavior.
     3. A **self-hosted WordPress** site is when you find a hosting platform like DigitalOcean that gives you direct access to the root directory where you install a copy of WordPress and have full freedom and control (for better or worse) to every possible line of code.
 
-    * **Note**: Students may question what is the “best” choice or most popular choice for hosting technology; it’s important that they answer this for themselves by doing research during the activity portion of the class. 
 
-    * **Conclusion/takeaways**: 
-        * There is no one “right” way to showcase one’s design portfolio. As emerging designers, students will need to weigh the pros and cons for each option and decide on a hosting technology that will be the right fit for their needs. 
-            * The purpose of the page influences what you see as a pro or con.
-        * Students should make notes about what is most important to them: flexibility of customization, ease of use, simplicity of process, etc. There is a worksheet in the next activity they can use for this.
-    * Let students know that they’re going to discover more details about hosting options in the first activity, where they will dig into the pros and cons of a variety of site hosting technologies and come to a decision about the one that’s right for their future portfolio. 
-
-
-
+## SLIDE 11
 ### 4. Student Do: Evaluating Hosting Technologies (30 min)
-
-
-* **Go to Slide 12:** Transition to the activity, where students will begin researching hosting options for their portfolio sites, assessing a variety of hosting technologies, while gaining an understanding of the overall site hosting landscape.    
+Transition to the activity, where students will begin researching hosting options for their portfolio sites, assessing a variety of hosting technologies, while gaining an understanding of the overall site hosting landscape.    
 
 * Ask the TA to Slack out the instructions for the [Hosting Technology Assessment Activity](https://docs.google.com/document/d/1Z33OAIpg_ES1u4p7sdqpdnCleqtWCA8-lodIhd_Y8zU/edit?usp=sharing). 
    
@@ -252,10 +237,7 @@ By the end of class, students will be able to:
         * Students can choose to assess more than one technology option during the activity in class. 
 
 
-### 5. Class Do: Present Hosting Technology Solutions (30 min)
-
-**Go to Slides 13-14:**  Stop sharing your screen and bring students back. 
-
+## SLIDE 12
 * Note: This review period should help students decide on their technology choices for their portfolio.
 * A volunteer from each group will have 3 minutes to talk through their hosting technology assessment worksheet. 
 * Students should have made a copy of the [21.1.2 Hosting Technologies Assessment Template](https://docs.google.com/document/d/1HZuNcnW5z9ioQSZpnXqTrSJdy8h7-8bYrGfB9ZV1vhs/edit?usp=sharing) for themselves and add their own notes for each technology. 
@@ -268,17 +250,20 @@ By the end of class, students will be able to:
 * **[Optional, if time]** Instructional staff can share what you use for your own portfolios.
 
 
-### 6. Student Do: Choose a Web Technology for Portfolio (10 min)
+## SLIDE 13
+Students present hosting research
 
-* **Go to Slides 15-16:** Students will have 10 minutes to:
+## SLIDE 14
+Review
+
+## SLIDE 15
     * Review the notes they’ve taken and decide on the hosting technology they plan to use for their portfolio.
     * Write a couple of sentences about why this technology is the best choice for their portfolio.
 
-
+## SLIDE 16
 ### 7. BREAK (10 min)
 
-**Go to Slide 17:** Breathe. Drink water.
-
+## SLIDE 17
 ### 8. Student Do: Start Your Portfolio Website (60 min)
 
 * **Go to Slide 18:** Students work in small groups of people who **chose the same hosting or type of technology.**
@@ -286,7 +271,10 @@ By the end of class, students will be able to:
 	* Getting started will be different for each technology choice, so directions for this activity are not provided. 
 	* Students should navigate to the portfolio hosting technology website and follow instructions for getting started together. In their breakout rooms, students can discuss the getting started steps together and troubleshoot any issues they run into. Remind students to request instructional support if needed.
 
+## SLIDE 18
+Review
 
+## SLIDES 19-22
 ### 9. Instructor Do: Prepare to Pitch Final Project Ideas (10 min)
 
 * **Go to Slide 19:** Give an overview of how the Final Project Idea Pitch Process works:
