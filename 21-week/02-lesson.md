@@ -218,50 +218,48 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
 ---
 
 
-## 1. Welcome and Today’s Agenda (5 min)
+## SLIDES 1-3
+Review
 
-* **Go to Slide 3:** Welcome students to class.
+## SLIDE 4
+We need to understand how useful and usable our products are which we can do through conducting usability tests, but we can always determine whether or not they're actually successful by setting goals and measuring how our designs perform.
 
-## 2. Instructor Do: What Makes a Website Successful (15 min)
+## SLIDE 5
+Review
 
-
-**Go to Slide 5:** What makes a website successful?
-
-* **Go to slide 6:** Measuring a website’s success.
-    * Explain that we have been working with best practices and usability guidelines to design applications and websites that are both usable and useful.
-    * To understand how useful a design is, we conduct user tests.
-    * To understand how usable a design is, we conduct usability tests.
-    * We can determine the success of a website by setting goals and measuring how they perform.
-
-**Go to Slide 7:** Goals, Objectives, and Strategies: What’s the difference between them?
-
-
-
-* **Go to Slide 8:** Goals are broad, long-term, achievable outcomes that usually align with the mission and vision of the organization.
+## SLIDE 6
+Goals are broad, long-term, achievable outcomes that usually align with the mission and vision of the organization.
     * Describe a few broad goals that a company could set:
         * Sell more products.
         * Reach a wider audience.
         * Improve customer satisfaction.
-* **Go to Slide 9:** Objectives are the measurable actions that can be taken to achieve a stated goal.
+
+## SLIDE 7
+Objectives are the measurable actions that can be taken to achieve a stated goal.
     * Describe the example objectives and show how they’re related to the long-term, broad goals:
         * Increase the total number of items in customer orders by 10%.
         * Drive product awareness in specific international markets.
         * Engage current customers with an enhanced product experience.
-* **Go to Slide 10:** Strategies are the plan of action, steps taken to achieve an objective.
+
+## SLIDE 8
+Strategies are the plan of action, steps taken to achieve an objective.
     * Describe the example strategies and explain how they relate to the objectives and goals set:
         * Increase the total number of items in customer orders by 10% _by suggesting related products in context_.
         * Drive product awareness in specific international markets _by creating localized social media posts_.
         * Engage current customers with an enhanced product experience _by creating a post-sale email support sequence_.
 
-**Go to Slide 11:** Success Metrics
+## SLIDE 9
+Review
 
-* **Go to Slide 12:** Explain how success metrics can be set at different levels of a company and that businesses usually call them indicators of success.
+## SLIDE 10
+Success metrics can be set at different levels of a company and businesses usually call them indicators of success.
     * Indicators are quantifiable evidence that a design solution is or is not working for the business.
     * Typically success metrics are defined two ways:
         * Objectives and key results (OKRs)
         * Key performance indicators (KPIs)
 
-* **Go to Slide 13:** Define Objectives and Key Results: Objectives define what a team is trying to achieve. Key results are the outcomes that will show they have been successful.
+## SLIDE 11
+Objectives define what a team is trying to achieve. Key results are the outcomes that will show they have been successful.
     * Example Objective:
         * Increase total number of items in customer orders by 10%.
     * Examples of Key Results:
@@ -270,7 +268,8 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
         * 1 in 3 customers purchased related items.
         * Total # of items in order increased by 15%.
 
-* **Go to Slide 14:** Define Key Performance Indicators: KPIs are the individual data points that a team chooses as the most important quantitative measurements for a product’s success.
+## SLIDE 12
+KPIs are the individual data points that a team chooses as the most important quantitative measurements for a product’s success.
     * Examples of KPIs:
         * Number of page views of related items.
         * Increase in time spent viewing related items.
@@ -278,47 +277,47 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
         * Increase in value of average order amount.
         * Number of items in order increased.
 
-## 3. Class Do: Identifying Website Success Metrics (10 min)
+## SLIDE 13
+Review
 
-* **Go to Slide 15:** Explain that you will run through a series of website examples. First, define the website type. 
-* **Go to Slide 16:** We’ll begin with the first category: **media/content** websites.
-    * These websites give the user more information about something—maybe information about the business, industry news, articles, videos, or blogs.
-    * **Ask:** How could we define success for media/content sites?
-        * Have students share or guess what they think success metrics would be for this type of website. 
-        * Prompt them to respond verbally using the “raise hands” feature in Zoom or the Slack channel. 
-        * Note: We can’t know the success metrics for sure, but we can make good guesses about the goals.
-* **Go to Slide 17:** Share examples of metrics we could use to determine success.  
-* **Go to Slide 18:** The second category is **ecommerce** sites.
+## SLIDES 14
+Review
+
+## SLIDE 15
+The second category is **ecommerce** sites.
     * These sites sell items for purchase online. More specifically, they’re portals that facilitate online transactions of goods and services, including the transfer of funds. 
     * **Ask**: How could we define success for ecommerce sites?
         * **Go to Slide 19:** Share the examples.  
-* **Go to Slide 20:** The third category is **lead-generation** websites. 
+
+## SLIDE 16
+The third category is **lead-generation** websites. 
     * These sites acquire business via name capture. A lead-generation website is similar to a digital brochure; it helps consumers get information about the business with the goal of a sale.
     * **Ask**: How could we define success for lead-generation websites?
         * **Go to Slide 21:** Share the examples. 
-* **Go to Slide 22:** The last category is **donation** websites. 
+
+## SLIDE 17
+The last category is **donation** websites. 
     * A donation website can be considered a one-page sales pitch that gives a user all the information they need to donate to the organization. These sites aim to collect donations. Their goals are similar to lead-generation websites.
     * **Ask**: How could we define success for donation websites?
         * **Go to Slide 23:** Share the examples.
-* **Go to Slide 24:** Note that some websites across categories may have similar characteristics. 
-    * For example, Costco.com is both a lead-gen and an ecommerce site. They want you to purchase membership _and _products. 
-    * Emphasize that it’s essential for designers to understand what type of website they’re working on in order to leverage their design skills to support the organization’s business goals. 
 
-## 4. Instructor Do: UX/UI Design Portfolio Users (10 min)
+## SLIDE 18
+Note that some websites across categories may have similar characteristics. 
+    * For example, Costco.com is both a lead-gen and an ecommerce site. They want you to It’s essential for designers to understand what type of website they’re working on in order to leverage their design skills to support the organization’s business goals. 
 
-* **Go to Slides 25-26:** Ask students: Who is the target audience for our design portfolio?
-    * Possible answers:
+## SLIDE 19
+Review
+
+## SLIDES 20-23
+Who is the target audience for our design portfolio?
         * Hiring managers 
         * Recruiters 
         * Potential clients
         * Potential future teammates
         * Junior designers aspiring to be like you
 
-* **Go to Slide 27-29:** Review quotes from hiring managers on the next three slides and call on students to share what they think hiring managers are looking for in portfolios, based on these quotes. 
-    * Below are some of the possible answers they might have, which you might need to help them determine through discussion:
-
-        “What are hiring managers looking for in portfolios?”
-
+## SLIDE 24
+“What are hiring managers looking for in portfolios?”
         * Understanding of a design process.
         * Ability to communicate ideas and explain outcomes.
         * Honesty about work contributions and results / trustworthiness.
@@ -328,13 +327,15 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
         * An area of focus or interest.
         * Core values.
 
-* **Go to Slide 30:** Review what the typical hiring manager is looking for on a junior designer’s portfolio website: 
+## SLIDE 25
+What the typical hiring manager is looking for on a junior designer’s portfolio website: 
     * Verify your qualifications.
     * Assess your skill level. 
     * Get a sense for who you are.
     * Determine how you might fit into the team’s overall skill set.
     * Answer the question: “Should I interview this person - yes or no?”
 
+## SLIDE 26
 ## 5. Class Do: Hiring Manager Proto-Persona (25 min)
 
 **Go to Slide 31: Note:** Identifying insights to build this proto-persona activity may be influenced by the students’ previous work experiences in a variety of industries, so be prepared to lead the conversation as you build this proto-persona together.
@@ -345,13 +346,17 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
 * Work together as a class to identify insights from these hiring manager quotes to build a proto-persona.
     * **Note:** The quotes will enable students to identify goals, needs, pain points, and potential solutions.
 
+## SLIDE 27
 ## 6. Break (10 min)
 
-* **Go to Slide 32:** Take a break.
+## SLIDE 28
+Review
 
-## 7. Instructor Do: Design Portfolio KPIs (5 min)
+## SLIDE 29
+Review
 
-* **Go to Slide 33-35:** Review the following questions with students to help them start thinking about which KPIs they plan to set for their portfolio’s performance: 
+## SLIDE 30
+Which KPIs could you plan to set for your portfolio’s performance: 
     * What is the purpose of my portfolio?
     * How will I know if my portfolio is serving its purpose?
     * What types of visitors do I want to see on my site?
@@ -359,8 +364,8 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
     * How much time do I hope visitors will spend on my site?
     * Which pages do I hope visitors will spend the most time on? 
     * Do I want visitors to take a particular action on my site? 
-* Answer any questions they may have and remind them that this process is similar to HMW brainstorming - we are making an educated guess or hypothesis and we will test and iterate!
 
+## SLIDE 31
 ## 8. Student Do: Determine Portfolio KPIs (20 min)
 
 * **Go to Slide 36:** In this activity, student groups will create two or three KPIs to measure their portfolios’ performance. They will identify what kinds of data to measure, how that data will indicate positive performance, as well as how they will measure the data. 
@@ -370,6 +375,8 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
 * Two minutes before the end of the activity, send out a reminder over Slack for students to wrap up their work. 
 * **Instructional staff:** Visit the breakout rooms and provide feedback on how to make KPIs measurable as well as concrete.
 
+
+## SLIDE 32
 ## 9. Instructor Review: Determine Portfolio KPIs (10 min)
 
 * **Go to Slide 37:** Bring the students’ attention back to class. Some students will have come up with clear, concrete, and measurable KPIs, while others might have only one. Invite students to stay after class to do more work on their KPIs. 
@@ -380,19 +387,19 @@ Encourage students to work on their portfolio during Office Hours. Be willing to
     * What is strongest about these KPIs?
     * Is there anything that could be improved about these KPIs (clarity, how they’re measured, etc.)?
 * Encourage students to share their KPIs for peer feedback during office hours or outside of class.
-* **Go to Slide 38:** Now that we’ve determined which KPIs will indicate our portfolios are successful, we need to start tracking the data. 
 
-## 10. Instructor Demo: Set Up Google Analytics (15 min)
 
-In this activity you will demonstrate how to set up a new Google Analytics account and locate the tracking tag to be installed on a website. 
+## SLIDE 33
+Review
 
-* **Go to Slide 39:** Tell students in order to track information about our website visitors, we need to install a small amount of code to our website.
-    * Note: some website hosting platforms will provide tracking information, but that is not always the case.
-    * If students ask why this is necessary, remind them that using tracking data will inform their work in the future and knowledge of Google Analytics is an added skill that can help them stand out to potential employers.
-    * We will not dive into a deep understanding of Google Analytics, but encourage students who are curious about it to read more. 
-* **Go to Slide 40:** Follow the [Set Up Google Analytics Activity](https://docs.google.com/document/d/1GmkYPEMbXzYGpehqdp5oJaRB0T5eHRCGdtAn9FD-Cjs/edit?usp=sharing).
-* After creating your Google Analytics account, answer any questions students have about the process before moving on to the next activity.
+## SLIDE 34
+Review using Google Analytics to track KPIs and measure success
 
+## SLIDE 35
+### Instructor Demo
+(https://docs.google.com/document/d/1GmkYPEMbXzYGpehqdp5oJaRB0T5eHRCGdtAn9FD-Cjs/edit?usp=sharing).
+
+## SLIDE 36
 ## 11. Student Do: Set Up Google Analytics on Portfolio Website (30 min)
 
 * **Go to Slide 41:** In this activity, student groups will create their own Google Analytics account and install the tracking code on their portfolio websites.
@@ -402,6 +409,14 @@ In this activity you will demonstrate how to set up a new Google Analytics accou
 * Two minutes before the end of the activity, send out a reminder over Slack for students to wrap up their work. 
 * **Instructional staff:** Visit the breakout rooms and provide assistance as needed.
     * Note: You are not expected to know how to install the code on each possible platform, just to help students find the answers they need.
+
+## SLIDE 37
+Review
+
+## SLIDE 38
+Review
+
+
 
 ## 12. Instructor Review: Setting Up GA on Portfolios (10 min)
 
