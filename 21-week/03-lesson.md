@@ -193,44 +193,46 @@ Encourage students to work on refining their project ideas during Office Hours. 
 
 ## 2. Instructor Do: Pitching Ideas to Get Buy-In (10 min)
 
+## SLIDES 1-3
+Review
 
+## SLIDE 4
+Review
 
-* **Go to Slides 5-6:** Review the pitch process:
-    * Students should give their project a working name (it doesn’t have to be the final name).
-    * Students will get in (virtual) line to pitch. 
-        * Have the TAs post a message to the slack channel asking students to **_reply with the name of their project idea._** 
-        * Students have already indicated their desire to pitch a project idea, this is for TAs to prepare the FigJam or Miro board for dot voting.
-    * Students will get 60 seconds to pitch their ideas.
-        * They should focus on the four statements on the right:
-            * My name is…
-            * The problem I want to solve is…
-            * Possible solutions might be…
-            * The team skills we will need are…
-* **Go to Slide 7:** Review the Frequently Asked Questions:
-    * **Can I pitch two ideas?** No, pick your favorite!
-    * **What if my idea only has a few votes?** That’s okay, a team can have a minimum of two people and a maximum of five people.
-    * **Can I use pitch props, slides, etc. when pitching?** Props and slides are fine, but remember it’s only 60 seconds!
+## SLIDE 5
+   **Can I pitch two ideas?** No, pick your favorite!
+   **What if my idea only has a few votes?** That’s okay, a team can have a minimum of two people and a maximum of five people.
+   **Can I use pitch props, slides, etc. when pitching?** Props and slides are fine, but remember it’s only 60 seconds!
 
-* **Go to Slide 8:** Review what makes a pitch compelling:
-    * **Enthusiasm!** Students should show excitement about their project idea because it makes other people get excited and want to join.
+## SLIDE 6
+What makes a pitch compelling?
+1. Enthusiam!
+2. An idea of potential users
+3. A reasonable understanding of the problem
+4. Possible outcomes and deliverables
+5. Description of the skills needed to successfully complete the project
 
-* **Go to Slide 9: Potential User Identified:** Students should also have a reasonably good idea of one type of user who has this problem that needs solving.
+## SLIDE 7
+Potential User Identified:
 	* Great example: “Surfers who live close to the ocean are already monitoring the weather, but some surfers want to be notified if they’re in a 30-minute proximity of good waves so they can grab their board and get on the water quickly.”
 	* Not great example: “Surfers want to know if there are big waves headed their way.”
-    
-* **Go to Slide 10: Includes the Problem Identified:** Students should have a reasonable understanding of the problem.  
+
+## SLIDE 8
+Includes the Problem Identified:
 	* Good example: “Animal shelters often need last-minute foster care for abandoned animals, and their current solution is an old-fashioned phone tree. Improving the technology will make this process faster.”
 	* Not great example: “Animal shelters need foster parents for animals that have been abandoned.”
     
-* **Go to Slides 11-12: Includes Potential Outcomes or Solutions:** Students should have an idea of the potential outcome, deliverables, or possible solutions.
+## SLIDE 9
+Includes Potential Outcomes or Solutions:
 	* Not great example: “Animal shelters should have an easy way to contact potential foster parents who can take in abandoned animals in a reasonable amount of time.” 
 		* This is an _okay_ example because it specifically targets the problem of animal shelters needing to contact potential foster parents. However, it could be improved with a more specific, measurable time goal (what is reasonable?), and a suggestion of the possible deliverables (is it an app? A notification service? A website redesign?).
 
+## SLIDE 10
 	* Great example: “I think a possible solution for solving the surfer’s problem could be a combination mobile and smartwatch app that tracks potential weather conditions and sends a notification if peak conditions for big waves are occurring within a 15-mile radius of the user.”
 		* This is great because it’s specific about the type of information it requires and the type of notification it will send. It speaks to the modalities that could be used to deliver the notification.
 
-
-* **Go to Slide 13: Includes Skills Needed:** Students should be able to describe a few of the skills and methods needed to successfully complete the project. 
+## SLIDE 11
+* **Go to Slide 13: Includes Skills Needed:** 
 	* Great example: “I think this project will need people who are interested in conducting user interviews and data synthesis, and people with strong UI and branding skills to create a design system and brand guidelines. We might also need someone who is really good at Bootstrap, or someone who is okay with building a website on Squarespace quickly.”
 
 		* This is great because it identifies specific skills and attributes of potential team members, allowing other students to visualize themselves working in those roles.
@@ -238,9 +240,10 @@ Encourage students to work on refining their project ideas during Office Hours. 
 
 		* This isn’t a good example because, well, that’s just about everyone in class. It doesn’t feel specific enough!
 
-* **Go to Slide 14:** Answer any questions students have before moving to the pitching activity 
+## SLIDE 12
+Questions??
 
-
+## SLIDE 13
 ## 3. Class Do: Pitch Projects! (30 min)
 
 * **Go to Slide 15:** Remind students that they only have **_1 minute_** to pitch their ideas. 
@@ -257,10 +260,10 @@ Encourage students to work on refining their project ideas during Office Hours. 
     * Depending on the size of your class, this may take less time, and it’s okay to end early and give students more time to ask questions.
     * If your class is large or many students want to pitch and the time goes over, it’s okay to reduce the amount of time the students have to present their preliminary project plans (or review them in Office Hours after class).
 
+## SLIDE 14
+Review
 
-## 4. Instructor Do: Final Project Goals (10 min)
-
-* **Go to Slides 16-17:** Review what is expected of the final project:
+## SLIDE 15
     * There should be evidence that all five stages of the Design Thinking process have been applied.
     * The final deliverable should include something that is “live online” such as:
         * A functional, high-fidelity prototype
@@ -271,7 +274,7 @@ Encourage students to work on refining their project ideas during Office Hours. 
         * A full case study slide deck (showing end to end deliverables).
 * Ask for student questions and ensure everyone is clear on these deliverables before moving on to the next activity.
 
-
+## SLIDE 16
 ## 5. Class Do: Project Group Formation (30 min)
 
 * **Go to Slide 18:** Project Group Formation.
@@ -284,8 +287,14 @@ Encourage students to work on refining their project ideas during Office Hours. 
             * What UX research methods might you use for this project?
             * What tasks or deliverables do you want someone else to do?
 
-
+## SLIDE 17
 ## 6. Break (10 min)
+
+## SLIDE 18
+Review
+
+## SLIDES 19-25
+Review
 
 
 ## 7. Instructor Do: Identify the Essentials (15 min)
